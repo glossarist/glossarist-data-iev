@@ -1,0 +1,162 @@
+---
+termid: 171-07-24
+term: equivocation
+ara:
+  id: 171-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: معدل الغموض
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Äquivokation
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Rückschlussentropie
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equivocation
+  - type: symbol
+    designation: stem:[H_( + ) ( X | Y )]
+    international: true
+  definition: "{{conditional entropy, IEV:171-07-23}} of a specific set of messages
+    stem:[X] at a message source given a specific set of messages stem:[Y] at a message
+    sink that is connected to the message source by a specific channel"
+  language_code: eng
+  notes:
+  - The equivocation is the mean additional {{information content, IEV:171-07-14}}
+    that shall be supplied per message at the message sink to correct the received
+    messages affected by a noisy channel.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-33
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+    original: IEC 80000-13:2008, 13-33, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ekvivokaatio
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: équivoque
+    gender: f
+    plurality: singular
+  definition: "{{entropie conditionnelle, IEV:171-07-23}} d'un ensemble déterminé
+    stem:[X] de messages émis par une source de messages lorsque l'on connaît un ensemble
+    déterminé stem:[Y] de messages reçus par un collecteur de messages relié à la
+    source par un canal déterminé"
+  language_code: fra
+  notes:
+  - L'équivoque est la moyenne par message de la {{quantité d'information, IEV:171-07-14}}
+    supplémentaire qui doit être fournie à la source de messages pour corriger les
+    messages reçus après leur altération par un canal affecté de bruit.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-33
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+    original: IEC 80000-13:2008, 13-33, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+  review_decision_event: published
+jpn:
+  id: 171-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 曖昧度
+  - type: expression
+    normative_status: preferred
+    designation: 曖昧量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+pol:
+  id: 171-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ekwiwokacja
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: dwuznaczność
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equívoco
+  - type: expression
+    designation: ambiguidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 含糊
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

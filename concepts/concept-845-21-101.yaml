@@ -1,0 +1,169 @@
+---
+termid: 845-21-101
+term: bispectral luminescent radiance factor
+ara:
+  id: 845-21-101
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: عامل شدة الإشعاع الضيائي الطيفى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-21-101
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bispektraler Lumineszenzstrahldichtefaktor
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-21-101
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bispectral luminescent radiance factor
+  - type: symbol
+    designation: stem:[β]~L,~stem:[λ](stem:[μ])
+    international: true
+  definition: quotient of the radiance per unit emission bandpass, dstem:[λ], at a
+    specified emission wavelength, stem:[λ], due to photoluminescence from the specimen
+    when irradiated at a specified excitation wavelength, stem:[μ], and the radiance
+    of the perfect reflecting diffuser identically irradiated and viewed
+  language_code: eng
+  notes:
+  - Spectral quantities with a subscript stem:[λ] in their designation indicate differential
+    spectral radiometric quantities.
+  - When integrated or summed over the spectral bandpass of the instrument, this quantity
+    becomes the bandpass-weighted bispectral luminescent radiance factor, stem:[β]~L,~stem:[λ](stem:[μ])Δstem:[λ].
+  - The complete tabular form of bispectral luminescent radiance factor and reflected
+    radiance factor data is the Donaldson matrix representation of bispectral radiance
+    factor, stem:[D](stem:[μ], stem:[λ]). The excitation wavelengths, stem:[μ], are
+    tabulated in the vertical direction, the emission wavelengths, stem:[λ], in the
+    horizontal direction, the reflected radiance factors, stem:[β]~R~(stem:[λ]), appear
+    on the diagonal where the excitation and emission (detection) wavelengths are
+    equal, and the array of bandpass-weighted bispectral luminescent radiance factor
+    data, stem:[β]~L~stem:[,λ](stem:[μ])Δstem:[λ], appear on the off-diagonals.
+  - The bispectral luminescent radiance factor is expressed in nanometre to the power
+    minus one (nm^−1^).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-21-101
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de luminance énergétique par luminescence bispectrale
+    gender: m
+    plurality: singular
+  definition: quotient de la radiance par bande passante d'émission unitaire, dstem:[λ],
+    à une longueur d'onde d'émission spécifiée, stem:[λ], due à la photoluminescence
+    de l'éprouvette irradiée à une longueur d'onde d'excitation spécifiée, stem:[μ],
+    par la radiance du diffuseur parfait par réflexion irradié et observé de manière
+    identique
+  language_code: fra
+  notes:
+  - Les grandeurs spectrales dont la désignation comporte un indice stem:[λ] indiquent
+    des grandeurs radiométriques spectrales différentes.
+  - Lorsqu'elle est intégrée ou additionnée sur la bande passante spectrale de l'instrument,
+    cette grandeur devient le facteur de luminance énergétique par luminescence bispectrale
+    pondéré par bande passante, stem:[β]~L,~stem:[λ](stem:[μ])Δstem:[λ].
+  - La forme complète (tableau) du facteur de luminance énergétique par luminescence
+    bispectrale et des données du facteur de luminance énergétique par réflexion est
+    la représentation matricielle de Donaldson du facteur de luminance énergétique
+    bispectrale, stem:[D](stem:[μ], stem:[λ]). Les longueurs d'onde d'excitation,
+    stem:[μ], sont présentées dans le tableau à la verticale, les longueurs d'onde
+    d'émission, stem:[λ], à l'horizontale, les facteurs de luminance énergétique réfléchie,
+    stem:[β]~R~(stem:[λ]), sont présentés sur la diagonale sur laquelle les longueurs
+    d'onde d'excitation et d'émission (détection) sont égales, et la matrice des données
+    du facteur de luminance énergétique par luminescence bispectrale pondéré par bande
+    passante, stem:[β]~L~stem:[,λ](stem:[μ])Δstem:[λ], apparaît sur les diagonales
+    extérieures.
+  - Le facteur de luminance énergétique par luminescence bispectrale est exprimé en
+    nanomètre à la puissance moins un (nm^−1^).
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 845-21-101
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fattore di radianza luminescente bispettrale
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-21-101
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 二分光蛍光放射輝度率
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-21-101
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 양분 발광 방사휘도율
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-21-101
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: współczynnik luminancji energetycznej luminescencji bispektralny
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-21-101
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fator de radiância por luminescência bispectral
+  - type: expression
+    designation: fator de luminância energética por luminescência bispectral
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-21-101
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 双谱发光辐射因数
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

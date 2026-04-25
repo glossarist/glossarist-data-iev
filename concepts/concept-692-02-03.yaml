@@ -1,0 +1,173 @@
+---
+termid: 692-02-03
+term: unstable state
+ara:
+  id: 692-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: لنظام كهربى
+    designation: حالة غير مستقرة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 692-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: eines Elektrizitätsversorgungssystems
+    designation: instabiler Zustand
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 692-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: of an electric power system
+    designation: unstable state
+  definition: |-
+    perturbed state wherein the system, even when not disturbed, will not remain in a {{steady state, IEV:692-02-01}}, or cannot spontaneously return to a {{steady state, IEV:692-02-01}} after being subjected to a {{disturbance, IEV:692-01-09}} of prescribed magnitude
+
+    image::/assets/images/parts/692/692-fig2-en.png[Figure 2 - Electric power system states
+
+    <simg></simg>
+  language_code: eng
+  notes:
+  - |-
+    The arrows indicate the most important state transitions caused by credible events. Recovery transitions, in opposite directions, are effected by operator intervention.
+
+    Figure 3 – Examples of transitions within electric power system states]
+  - In an unstable state, the {{electric power system, IEV:692-01-02}} is experiencing
+    {{cascade tripping, IEV:692-03-08}}, voltage instability or other instability
+    likely to result in {{system collapse, IEV:692-01-17}}.
+  - This entry was numbered 191-22-02 in IEC 60050-191:1990.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-12-01T00:00:00+00:00'
+  date_amended: '2017-12-01T00:00:00+00:00'
+  review_date: '2017-12-01T00:00:00+00:00'
+  review_decision_date: '2017-12-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 692-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de un sistema eléctrico de potencia
+    designation: estado inestable
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 692-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: d’un réseau d’énergie électrique
+    designation: état instable
+    gender: m
+    plurality: singular
+  definition: |-
+    état perturbé dans lequel le réseau, même s’il n’est soumis à aucune {{perturbation, IEV:692-01-09}}, ne reste pas en {{régime établi, IEV:692-02-01}} ou ne revient pas spontanément à un {{régime établi, IEV:692-02-01}} après avoir été soumis à une {{perturbation, IEV:692-01-09}} d’amplitude prescrite
+
+    image::/assets/images/parts/692/692-fig2-fr.png[Figure 2 - États d’un réseau d’énergie électrique
+
+    <simg></simg>
+  language_code: fra
+  notes:
+  - |-
+    Les flèches indiquent les transitions d’état les plus importantes induites par des événements plausibles. Les transitions de récupération, dans les directions opposées, résultent des interventions des opérateurs.
+
+    Figure 3 – Exemples de transitions internes aux états d’un réseau d’énergie électrique]
+  - En état instable, le réseau d'énergie électrique est le siège de {{déclenchements
+    en cascade, IEV:692-03-08}}, d'une instabilité de la tension, ou d'une autre forme
+    d'instabilité susceptible d’entraîner un {{écroulement de réseau, IEV:692-01-17}}.
+  - Cet article portait le numéro 191-22-02 dans l’IEC 60050-191:1990.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 692-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 電力系統の
+    designation: 不安定状態
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 692-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 전력 계통
+    designation: 불안정 상태
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+mon:
+  id: 692-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: цахилгаан эрчим хүчний системийн
+    designation: тогтворгүй төлөв байдал
+  language_code: mon
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 692-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: systemu elektroenergetycznego
+    designation: stan niestabilny
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 692-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de um sistema de energia elétrica
+    designation: estado instável
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 692-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 电力系统的
+    designation: 不稳定状态
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

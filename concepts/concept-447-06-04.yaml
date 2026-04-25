@@ -1,0 +1,161 @@
+---
+termid: 447-06-04
+term: nominal range of an influence quantity
+ara:
+  id: 447-06-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: مدى إسمى لكمية مؤثرة
+  - type: expression
+    designation: مدى موصف لكمية مؤثرة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 447-06-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Nennbereich einer Einflussgröße
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: festgelegter Bereich einer Einflussgröße
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 447-06-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nominal range of an influence quantity
+  - type: expression
+    designation: specified range of an influence quantity
+  definition: "{{interval, IEV:103-01-12}} of an {{influence quantity, IEV:447-06-01}}
+    within which, under specified conditions, a {{measuring relay, IEV:447-01-02}}
+    or {{protection equipment, IEV:447-01-49}} meets the specified requirements"
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-444:2002
+    clause: 444-06-04
+    link: https://webstore.iec.ch/publication/208
+    relationship:
+      :type: :modified
+      :modification: The second term "specified range of an influence quantity" has
+        been added and in the definition, "the relay" has been replaced by "a measuring
+        relay or protection equipment".
+    original: IEC 60050-444:2002, 444-06-04, modified – The second term "specified
+      range of an influence quantity" has been added and in the definition, "the relay"
+      has been replaced by "a measuring relay or protection equipment".
+  date_accepted: '2020-05-01T00:00:00+00:00'
+  date_amended: '2020-05-01T00:00:00+00:00'
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 447-06-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: domaine nominal d'une grandeur d'influence
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: domaine spécifié d'une grandeur d'influence
+    gender: m
+    plurality: singular
+  definition: "{{intervalle, IEV:103-01-12}} d'une {{grandeur d'influence, IEV:447-06-01}}
+    à l'intérieur duquel un {{relais de mesure, IEV:447-01-02}} ou un {{équipement
+    de protection, IEV:447-01-49}}, dans des conditions spécifiées, répond aux exigences
+    spécifiées"
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-444:2002
+    clause: 444-06-04
+    link: https://webstore.iec.ch/publication/208
+    relationship:
+      :type: :modified
+      :modification: Le second terme "domaine spécifié d'une grandeur d'influence"
+        a été ajouté; dans la définition, "le relais" a été remplacé par "un relais
+        de mesure ou un équipement de protection" et "prescriptions" a été remplacé
+        par "exigences".
+    original: IEC 60050-444:2002, 444-06-04, modifié – Le second terme "domaine spécifié
+      d'une grandeur d'influence" a été ajouté; dans la définition, "le relais" a
+      été remplacé par "un relais de mesure ou un équipement de protection" et "prescriptions"
+      a été remplacé par "exigences".
+  review_decision_event: published
+jpn:
+  id: 447-06-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 影響量の公称範囲
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 447-06-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 유도량 공칭 범위
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 447-06-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zakres nominalny wielkości wpływającej
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 447-06-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gama nominal de uma grandeza de influência
+  - type: expression
+    designation: domínio nominal de uma grandeza de influência
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 447-06-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 影响量标称范围
+  - type: expression
+    designation: 影响量规定范围
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

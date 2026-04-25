@@ -1,0 +1,158 @@
+---
+termid: 811-37-78
+term: node key
+ara:
+  id: 811-37-78
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: مفتاح نقطة الإتصال
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 811-37-78
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Knotenschlüssel
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 811-37-78
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: node key
+  definition: 16-bit identifier selected by the application to identify a node's type
+    and version
+  language_code: eng
+  notes:
+  - The master distributes the node key to all other nodes after each composition
+    change and before exchanging data.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 61375-2-1
+    clause: 3.1.117
+    relationship:
+      :type: :identical
+    original: IEC 61375-2-1, 3.1.117
+  date_accepted: '2017-11-01T00:00:00+00:00'
+  date_amended: '2017-11-01T00:00:00+00:00'
+  review_date: '2017-11-01T00:00:00+00:00'
+  review_decision_date: '2017-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 811-37-78
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: clave de nodo
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 811-37-78
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: clé de nœud
+    gender: f
+    plurality: singular
+  definition: indicatif de 16 bits fourni par l’application permettant d'identifier
+    le type et la version d'un nœud
+  language_code: fra
+  notes:
+  - Le maître distribue la clé de nœud à tous les autres nœuds après chaque changement
+    de la composition et avant d'échanger des données
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 61375-2-1
+    clause: 3.1.117
+    relationship:
+      :type: :identical
+    original: IEC 61375-2-1, 3.1.117
+  review_decision_event: published
+ita:
+  id: 811-37-78
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: identificativo del nodo
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 811-37-78
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ノードキー
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 811-37-78
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 노드 키
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 811-37-78
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: identyfikator węzła
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: klucz węzła
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 811-37-78
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chave de nó
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 811-37-78
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 节点密钥
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

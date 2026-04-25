@@ -1,0 +1,147 @@
+---
+termid: 171-06-07
+term: signal energy per binary digit
+ara:
+  id: 171-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: طاقة الإشارة لكل رقم ثنائي
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Signalenergie je Bit
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: signal energy per binary digit
+  - type: symbol
+    designation: |-
+      stem:[E]~b~
+      stem:[E]~bit~
+    international: true
+  definition: |-
+    product of the {{carrier power, IEV:713-09-20}} stem:[P]~c~ and the {{period of binary digits, IEV:171-06-06}} stem:[T]~b~
+
+    stem:[E]~b~ = stem:[P]~c~·stem:[T]~b~
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-19
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+    original: IEC 80000-13:2008, 13-19, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: signaalin energia bittiä kohti
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: énergie du signal par élément binaire
+    gender: f
+    plurality: singular
+  definition: |-
+    produit de la {{puissance en porteuse, IEV:713-09-20}} stem:[P]~c~ par la {{période d’éléments binaires, IEV:171-06-06}} stem:[T]~b~
+
+    stem:[E]~b~ = stem:[P]~c~·stem:[T]~b~
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-19
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+    original: IEC 80000-13:2008, 13-19, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+  review_decision_event: published
+jpn:
+  id: 171-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ビット毎の信号のエネルギー
+  - type: expression
+    designation: ビット毎の信号電力
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iloczyn mocy sygnału nośnego i przedziału czasu przesyłania bitów
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: energia de sinal por dígito binário
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 每二进制数字的信号能量
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

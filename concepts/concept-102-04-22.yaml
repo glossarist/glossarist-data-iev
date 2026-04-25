@@ -1,0 +1,200 @@
+---
+termid: 102-04-22
+term: abscissa
+deu:
+  id: 102-04-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Abszisse (entlang einer Kurve)
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 102-04-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: along a curve
+    designation: abscissa
+  definition: for a given point of an oriented curve with an origin point, real number,
+    the absolute value of which is the length of the curve between the origin and
+    the given point, and the sign is positive or negative depending on whether the
+    path from the origin to the given point is consistent or not with the orientation
+    of the curve
+  language_code: eng
+  notes:
+  - For a curve defined by the position vector stem:[r = f ( u )] as a function of
+    the parameter stem:[u], with an origin O corresponding to stem:[u = 0], the abscissa
+    of the point M corresponding to stem:[u] = stem:[u]~M~ is the line integral stem:[int_O^M
+    | d r | = int_0^((u_M)) | ((d f))/((d u)) | d u].
+  - In the usual geometrical space, the abscissa along a curve is a quantity of the
+    dimension length.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2008-08-01T00:00:00+00:00'
+  date_amended: '2008-08-01T00:00:00+00:00'
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 102-04-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: abscisa (a lo largo de una curva)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 102-04-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: le long d'une courbe
+    designation: abscisse
+    gender: f
+    plurality: singular
+  definition: pour un point donné d'une courbe orientée munie d'un point origine,
+    nombre réel dont la valeur absolue est la longueur de la courbe entre l'origine
+    et le point donné et dont le signe est positif ou négatif selon que le parcours
+    de l'origine au point donné est compatible ou non avec l'orientation de la courbe
+  language_code: fra
+  notes:
+  - Pour une courbe définie par le rayon vecteur stem:[r = f ( u )] en fonction du
+    paramètre stem:[u] et munie d'une origine O correspondant à stem:[u = 0] , l'abscisse
+    du point M correspondant à stem:[u] = stem:[u]~M~ est l'intégrale curviligne stem:[int_O^M
+    | d r | = int_0^((u_M)) | ((d f))/((d u)) | d u].
+  - Dans l'espace géométrique usuel, l'abscisse le long d'une courbe est une grandeur
+    ayant la dimension d'une longueur.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 102-04-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 曲線に沿った
+    designation: 横座標
+  - type: expression
+    normative_status: preferred
+    designation: 横軸
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 102-04-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 곡선
+    designation: 가로좌표
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nld:
+  id: 102-04-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: abscis
+    gender: m
+    plurality: singular
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 102-04-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: odcięta (wzdłuż krzywej)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 102-04-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: abcissa (ao longo de uma curva)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 102-04-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: дуж криве
+    designation: апсциса
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 102-04-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: abskissa
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 102-04-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 沿曲线的
+    designation: 坐标
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published

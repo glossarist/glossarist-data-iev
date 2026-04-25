@@ -1,0 +1,171 @@
+---
+termid: 131-12-34
+term: inductance matrix
+deu:
+  id: 131-12-34
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Induktivitätsmatrix
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2008-09-01T00:00:00+00:00'
+  date_amended: '2008-09-01T00:00:00+00:00'
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 131-12-34
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inductance matrix
+  - type: symbol
+    designation: stem:[L]
+    international: true
+  definition: |-
+    for a linear inductive stem:[m]-terminal-pair element, matrix stem:[m] × stem:[m] used to express the linked fluxes stem:[Ψ]~stem:[i]~ ({{131-12-17, IEV:131-12-17}}) between the terminals of each pair, as a function of the electric currents stem:[i]~stem:[j]~ at the first terminal of each pair:
+
+    stem:[( [[Psi_1],[Psi_2],[vdots],[Psi_i],[vdots],[Psi_m]] ) = ( [[L_((11)),L_((12)),cdots,L_((1 j)),cdots,L_((1 m))],[L_((21)),L_((22)),cdots,L_((2 j)),cdots,L_((2 m))],[vdots,vdots,ddots,vdots,ddots,vdots],[L_((i 1)),L_((i 2)),cdots,L_((i j)),cdots,L_((i m))],[vdots,vdots,ddots,vdots,ddots,vdots],[L_((m 1)),L_((m 2)),cdots,L_((m j)),cdots,L_((m m))]] ) * ( [[i_1],[i_2],[vdots],[i_j],[vdots],[i_m]] )]
+  language_code: eng
+  notes:
+  - An inductance matrix is always symmetric and positive definite.
+  - An inductance matrix can also be determined for a set of electric circuit elements
+    having inductive couplings between any pair of them.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2008-09-01T00:00:00+00:00'
+  date_amended: '2008-09-01T00:00:00+00:00'
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 131-12-34
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matriz de inductancias
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2008-09-01T00:00:00+00:00'
+  date_amended: '2008-09-01T00:00:00+00:00'
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 131-12-34
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matrice des inductances
+    gender: f
+    plurality: singular
+  definition: |-
+    pour un élément inductif linéaire à stem:[m] paires de bornes, matrice stem:[m] × stem:[m] servant à exprimer les flux totalisés stem:[Ψ]~stem:[i]~ ({{131-12-17, IEV:131-12-17}}) entre les bornes de chaque paire en fonction des courants électriques stem:[i]~stem:[j]~ à la première borne de chaque paire:
+
+    stem:[( [[Psi_1],[Psi_2],[vdots],[Psi_i],[vdots],[Psi_m]] ) = ( [[L_((11)),L_((12)),cdots,L_((1 j)),cdots,L_((1 m))],[L_((21)),L_((22)),cdots,L_((2 j)),cdots,L_((2 m))],[vdots,vdots,ddots,vdots,ddots,vdots],[L_((i 1)),L_((i 2)),cdots,L_((i j)),cdots,L_((i m))],[vdots,vdots,ddots,vdots,ddots,vdots],[L_((m 1)),L_((m 2)),cdots,L_((m j)),cdots,L_((m m))]] ) * ( [[i_1],[i_2],[vdots],[i_j],[vdots],[i_m]] )]
+  language_code: fra
+  notes:
+  - Une matrice des inductances est toujours symétrique et définie positive.
+  - Une matrice des inductances peut aussi être déterminée pour un ensemble des éléments
+    électriques comportant des couplages inductifs entre chaque paire d’éléments.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2008-09-01T00:00:00+00:00'
+  date_amended: '2008-09-01T00:00:00+00:00'
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 131-12-34
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: インダクタンス行列
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 131-12-34
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 인덕턴스 행렬
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nob:
+  id: 131-12-34
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: induktansmatrise
+  language_code: nob
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nno:
+  id: 131-12-34
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: induktansmatrise
+  language_code: nno
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 131-12-34
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: macierz indukcyjności
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2008-09-01T00:00:00+00:00'
+  date_amended: '2008-09-01T00:00:00+00:00'
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 131-12-34
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matriz de indutâncias
+  - type: expression
+    designation: matriz de indutividades
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 131-12-34
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 电感矩阵
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2008-09-01T00:00:00+00:00'
+  date_amended: '2008-09-01T00:00:00+00:00'
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published

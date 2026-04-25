@@ -1,0 +1,252 @@
+---
+termid: 351-45-32
+term: time constant
+ara:
+  id: 351-45-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ثابت زمن
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 351-45-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Zeitkonstante
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: Verzögerungszeit
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 351-45-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: time constant
+  - type: symbol
+    designation: stem:[τ]
+    international: true
+  definition: for a quantity growing or decaying exponentially towards a constant
+    value the duration of a time interval, at the end of which the absolute value
+    of the difference between that constant value and the value of the variable quantity
+    has decreased to e^–1^ times of the absolute value of the difference at the beginning
+    of the interval, where e is the base of natural logarithms
+  language_code: eng
+  notes:
+  - The time constant is the variable quantity stem:[τ] appearing in the function
+    stem:[F ( t ) = a + b * e^(- (t)/(tau))] describing a time-dependent variable
+    quantity.
+  - 'The time constant is the reciprocal of the damping coefficient stem:[δ] (IEC
+    60027-6, _Letter symbols to be used in electrical technology – Part 6: Control
+    technology_) of a damped oscillation, as well.'
+  - In control technology the time constant usually is derived from the step response
+    of a first-order lag element as the duration of the time interval, required to
+    reach 63,2 % [i.e. (1 – e^–1^)-times] of the steady-state value of the step response.
+  - The time constant is the variable quantity stem:[τ] appearing in the expression
+    stem:[F ( t ) = a + b * e^(- (t)/(tau)) * f ( t )] of an exponentially damped
+    oscillation, where stem:[f](stem:[t]) is a sinusoidal function.
+  - This entry was numbered 351-24-24 in IEC 60050-351:2006.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-111:1996
+    clause: 111-13-06
+    link: https://webstore.iec.ch/publication/12421
+    relationship:
+      :type: :modified
+      :modification: The wording of the definition is slightly different and several
+        notes to entry have been added to adapt to usage in control technology.
+    original: IEC 60050-111:1996,111-13-06, modified – The wording of the definition
+      is slightly different and several notes to entry have been added to adapt to
+      usage in control technology.
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 351-45-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: constante de tiempo
+    gender: f
+    plurality: singular
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 351-45-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aikavakio
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 351-45-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: constante de temps
+    gender: f
+    plurality: singular
+  definition: pour une grandeur croissante ou décroissante exponentiellement vers
+    une valeur constante, durée de l’intervalle de temps à la fin duquel la valeur
+    absolue de la différence entre la valeur constante et la valeur de la grandeur
+    variable a diminué de e^−1^ fois la valeur absolue de la différence au début de
+    l’intervalle, où e est la base des logarithmes népériens
+  language_code: fra
+  notes:
+  - La constante de temps est la grandeur variable stem:[τ] apparaissant dans la fonction
+    stem:[F ( t ) = a + b * e^(- (t)/(tau))] décrivant une grandeur variable en fonction
+    du temps.
+  - 'La constante de temps est également l’inverse du coefficient d’amortissement
+    stem:[δ] (CEI 60027-6, _Symboles littéraux à utiliser en électrotechnique – Partie
+    6: Technologie de commande et de régulation_) d’une oscillation amortie.'
+  - Dans les technologies de commande, la constante de temps est le plus souvent déduite
+    de la réponse à un échelon d’un élément de retard de premier ordre, comme étant
+    la durée de l’intervalle de temps nécessaire pour atteindre 63,2 % [c.-à-d. (1
+    – e^–1^) fois] de la valeur en régime établi de la réponse à un échelon.
+  - La constante est la grandeur variable stem:[τ] apparaissant dans l’expression
+    stem:[F ( t ) = a + b * e^(- (t)/(tau)) * f ( t )] d’une oscillation amortie exponentiellement,
+    où stem:[f](stem:[t]) est une fonction sinusoïdale.
+  - Cet article était numéroté 351-24-24 dans la CEI 60050-351:2006.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-111:1996
+    clause: 111-13-06
+    link: https://webstore.iec.ch/publication/12421
+    relationship:
+      :type: :modified
+      :modification: Le texte de la définition est légèrement différent et des notes
+        à l'article ont été ajoutées pour l'adapter à l'usage dans la technologie
+        de commande.
+    original: CEI 60050-111:1996,111-13-06, modifiée – Le texte de la définition est
+      légèrement différent et des notes à l'article ont été ajoutées pour l'adapter
+      à l'usage dans la technologie de commande.
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 351-45-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: costante di tempo
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 351-45-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 時定数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 351-45-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 시상수
+  - type: expression
+    designation: 시정수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 351-45-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stała czasowa
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 351-45-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: constante de tempo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 351-45-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 时间常数
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published

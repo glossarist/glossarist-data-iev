@@ -1,0 +1,228 @@
+---
+termid: 103-02-03
+term: RMS value
+ara:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: قيمة فعالة أو القيمة المؤثرة
+  - type: expression
+    designation: قيمة الجذر التربيعى لمتوسط المربعات(2)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Effektivwert
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: for a time-dependent quantity
+    designation: RMS value
+  - type: expression
+    usage_info: for a time-dependent quantity
+    designation: root-mean-square value
+  - type: expression
+    designation: effective value
+  definition: for a time-dependent quantity, positive square root of the mean value
+    of the square of the quantity taken over a given time interval
+  language_code: eng
+  notes:
+  - The root-mean-square value of a periodic quantity is usually taken over an integration
+    interval the range of which is the period multiplied by a natural number.
+  - For a sinusoidal quantity stem:[a ( t ) = hat A cos ( omega t + vartheta_0 )],
+    the root-mean-square value is stem:[A_((eff)) = hat A // sqrt(2)].
+  - The root-mean-square value of a quantity may be denoted by adding one of the subscripts
+    eff or rms to the symbol of the quantity.
+  - In electrical technology, the root-mean-square values of electric current stem:[i
+    ( t )] and voltage stem:[u ( t )] are usually denoted stem:[I] and stem:[U], respectively.
+  - The abbreviation RMS was formerly denoted as r.m.s. or rms, but these notations
+    are now deprecated.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 103-02-03:2009-12
+spa:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valor eficaz
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur efficace
+    gender: f
+    plurality: singular
+  definition: pour une grandeur fonction du temps, racine carrée positive de la valeur
+    moyenne du carré de la grandeur prise sur un intervalle de temps donné
+  language_code: fra
+  notes:
+  - La valeur efficace d'une grandeur périodique est généralement prise sur un intervalle
+    d'intégration dont l’étendue est le produit de la période par un entier naturel.
+  - Pour une grandeur sinusoïdale stem:[a ( t ) = hat A cos ( omega t + vartheta_0
+    )], la valeur efficace est stem:[A_((eff)) = hat A // sqrt(2)].
+  - La valeur efficace d'une grandeur peut être notée en ajoutant l'indice eff au
+    symbole de la grandeur.
+  - En électrotechnique, les valeurs efficaces d'un courant électrique stem:[i ( t
+    )] et d’une tension électrique stem:[u ( t )] sont généralement notées respectivement
+    stem:[I] et stem:[U].
+  - L’abréviation anglaise RMS était anciennement écrite r.m.s. ou rms, mais ces notations
+    sont maintenant déconseillées.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radice della media dei quadrati
+  - type: expression
+    designation: valore efficace
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 時間依存量について
+    designation: RMS値
+  - type: expression
+    usage_info: 時間依存量について
+    designation: 二乗平均平方根値
+  - type: expression
+    designation: 二乗平均平方根値
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 실효값
+  - type: expression
+    designation: "&lt;관련엔트리: 103-02-02&gt;"
+  - type: expression
+    designation: 유효값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wartość skuteczna
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: duma grandeza dependente do tempo
+    designation: valor médio quadrático
+  - type: expression
+    designation: média quadrática
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ефективна вредност
+  - type: expression
+    designation: rms вредност
+  - type: expression
+    designation: ефективна вредност
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: effektivvärde
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 103-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 相关条目：IEV 103-02-02
+    designation: 方均根值
+  - type: expression
+    designation: 有效值
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

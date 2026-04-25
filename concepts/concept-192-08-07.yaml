@@ -1,0 +1,174 @@
+---
+termid: 192-08-07
+term: steady state availability
+ara:
+  id: 192-08-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: إتاحية حالة الاستقرار
+  - type: expression
+    designation: اتاحية مقاربة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ces:
+  id: 192-08-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ustálená pohotovost
+  - type: expression
+    designation: asymptotická pohotovost
+  language_code: ces
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 192-08-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stationäre mittlere Verfügbarkeit
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: asymptotische Verfügbarkeit
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 192-08-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: steady state availability
+  - type: expression
+    designation: asymptotic availability
+  - type: symbol
+    designation: stem:[A]
+    international: true
+  definition: limit, if it exists, of the instantaneous availability when the time
+    tends to infinity
+  language_code: eng
+  notes:
+  - Under certain conditions the steady state availability may be expressed as the
+    quotient of the mean up time to the sum of the mean up time, to mean down time.
+    See IEC 61703, _Mathematical expressions for reliability, availability, maintainability
+    and maintenance support terms_.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 192-08-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disponibilidad en régimen permanente
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 192-08-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disponibilité en régime établi
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: disponibilité asymptotique
+    gender: f
+    plurality: singular
+  definition: limite, si elle existe, de la disponibilité instantanée lorsque le temps
+    tend vers l’infini
+  language_code: fra
+  notes:
+  - Dans certaines conditions, la disponibilité en régime établi peut être exprimée
+    comme le quotient du temps moyen de disponibilité par la somme des temps moyens
+    de disponibilité et d’indisponibilité. Voir l'IEC 61703, _Expressions mathématiques
+    pour les termes de fiabilité, de disponibilité, de maintenabilité et de logistique
+    de maintenance_.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 192-08-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 定常アベイラビリティ
+  - type: expression
+    designation: 漸近アベイラビリティ
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 192-08-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 정상상태 가용도
+  - type: expression
+    designation: 점근 가용도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 192-08-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gotowość stacjonarna
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: dyspozycyjność stacjonarna
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 192-08-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disponibilidade em estado estacionário
+  - type: expression
+    designation: disponibilidade assimtótica
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 192-08-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 稳态可用度
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

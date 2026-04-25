@@ -1,0 +1,206 @@
+---
+termid: 702-07-24
+term: complex reflection factor
+ara:
+  id: 702-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: عامل الإنعكاس (المركّب)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 702-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: komplexer Reflexionsfaktor
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: Reflexionsfaktor
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+eng:
+  id: 702-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complex reflection factor
+  - type: expression
+    normative_status: preferred
+    designation: complex reflection coefficient
+  - type: symbol
+    designation: "<u>stem:[r]</u>"
+    international: true
+  definition: the complex ratio of a sinusoidal field quantity, such as a reflected
+    current or reflected wave component, to the corresponding field quantity of the
+    incident current or incident wave at a point near the surface separating two propagation
+    media, near a port of an electrical network or near a discontinuity in a transmission
+    line
+  language_code: eng
+  notes:
+  - 1 – When the field quantity is a component of a plane electromagnetic wave, the
+    sign of the reflection factor is different for an electric field component and
+    the corresponding magnetic field component.
+  - 2 – When the field quantity refers to a port of an electrical network, or to a
+    discontinuity in a transmission line, a voltage reflection factor can be defined
+    with a sign opposite to that of the current reflection factor.
+  - |-
+    3 – When impedances can be defined, the complex current reflection factor stem:[r] equals:
+
+    stem:[underset(_)(r) = ((underset(_)(Z) - underset(_)(Z)^( ' )))/((underset(_)(Z) + underset(_)(Z)^( ' )))]
+
+    where stem:[Z] is the characteristic impedance of the transmission line ahead of the discontinuity or the impedance of the source and stem:[Z]′ is the impedance after the discontinuity or the load impedance seen from the junction between the source and the load.
+  - 4 – The reflection factor depends in the case of waveguides on the electromagnetic
+    mode considered.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 702-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coeficiente de reflexión
+  - type: expression
+    designation: factor de reflexión
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 702-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de réflexion complexe
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: deprecated
+    designation: coefficient de réflexion
+    gender: m
+    plurality: singular
+  definition: en régime sinusoïdal et en notation complexe, rapport d'une grandeur
+    de champ telle qu'un courant réfléchi ou une composante d'une onde réfléchie à
+    la grandeur de champ correspondante du courant incident ou de l'onde incidente
+    en un point proche d'une surface séparant deux milieux de propagation, ou proche
+    d'un accès d'un réseau électrique ou d'une discontinuité d'une ligne de transmission
+  language_code: fra
+  notes:
+  - 1 – Quand la grandeur du champ est une composante d'une onde électromagnétique
+    plane, le signe du facteur de réflexion est différent pour une composante du champ
+    électrique et la composante correspondante du champ magnétique.
+  - 2 – Quand la grandeur de champ se rapporte à un accès d'un réseau électrique,
+    ou à une discontinuité d'une ligne de transmission, on peut définir un facteur
+    de réflexion en tension dont le signe est opposé à celui du facteur de réflexion
+    du courant.
+  - |-
+    3 – Si on peut définir des impédances, le facteur de réflexion complexe <u>stem:[r]</u> du courant est égal à:
+
+    stem:[underset(_)(r) = ((underset(_)(Z) - underset(_)(Z)^( ' )))/((underset(_)(Z) + underset(_)(Z)^( ' )))]
+
+    où stem:[Z] est l'impédance caractéristique de la ligne avant la discontinuité ou l'impédance de la source, et stem:[Z]′ l'impédance après la discontinuité ou l'impédance de la charge vue de l'accès commun à la source et à la charge.
+  - 4 – Dans le cas d'un guide d'ondes le facteur de réflexion dépend du mode électromagnétique
+    considéré.
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 702-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fattore di riflessione (complexe)
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 702-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 複素反射率
+  - type: expression
+    normative_status: preferred
+    designation: 反射率
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+kor:
+  id: 702-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 복소 반사율
+  - type: expression
+    designation: 복소반사계수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 702-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: współczynnik odbicia (zespolony)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 702-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: factor de reflexão (complexo)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 702-07-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflektionsfaktor
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

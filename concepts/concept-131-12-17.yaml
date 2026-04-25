@@ -1,0 +1,164 @@
+---
+termid: 131-12-17
+term: linked flux
+ara:
+  id: 131-12-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: فيض متواصل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 131-12-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: in der Netzwerktheorie
+    designation: verketteter Fluss
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 131-12-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: circuit theory
+    designation: linked flux
+  - type: symbol
+    designation: stem:[Ψ]
+    international: true
+  definition: |-
+    time integral of the voltage stem:[u]~AB~ ({{131-11-56, IEV:131-11-56}}) between two terminals A and B of a two-terminal or stem:[n]-terminal element
+
+    stem:[Psi ( t ) = int_((t_0))^t u_((AB)) ( tau ) d tau]
+
+    where stem:[t]~0~ is any instant before the first supply of electric energy
+  language_code: eng
+  notes:
+  - The concept is only useful in the case of an inductive element.
+  - The definition of linked flux in circuit theory is consistent with the more general
+    definition {{121-11-24, IEV:121-11-24}} given in electromagnetism. The linked
+    flux in circuit theory is described by inverting the procedure for calculating
+    induced voltage ({{121-11-28, IEV:121-11-28}}).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-08-01T00:00:00+00:00'
+  date_amended: '2013-08-01T00:00:00+00:00'
+  review_date: '2013-08-01T00:00:00+00:00'
+  review_decision_date: '2013-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 131-12-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flujo concatenado
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 131-12-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: théorie des circuits
+    designation: flux totalisé
+    gender: m
+    plurality: singular
+  definition: |-
+    intégrale de la tension électrique stem:[u]~AB~ ({{131-11-56, IEV:131-11-56}}) entre deux bornes A et B d’un bipôle ou d’un multipôle
+
+    stem:[Psi ( t ) = int_((t_0))^t u_((AB)) ( tau ) d tau]
+
+    où stem:[t]~0~ est un instant quelconque avant la première alimentation en énergie électrique
+  language_code: fra
+  notes:
+  - Le concept n'est utile que dans le cas d'un élément inductif.
+  - La définition du flux totalisé en théorie des circuits est compatible avec la
+    définition plus générale {{121-11-24, IEV:121-11-24}} donnée en électromagnétisme.
+    Le flux totalisé en théorie des circuits est obtenu en inversant la procédure
+    de calcul de la tension induite ({{121-11-28, IEV:121-11-28}}).
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 131-12-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flusso concatenato
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 131-12-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 鎖交磁束
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 131-12-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 회로 이론
+    designation: 연쇄 자속
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 131-12-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: w teorii obwodów
+    designation: strumień skojarzony
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 131-12-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fluxo totalizado
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 131-12-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 磁通链
+  - type: expression
+    designation: 磁链
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

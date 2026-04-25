@@ -1,0 +1,140 @@
+---
+termid: 815-17-13
+term: AC magnetic susceptibility
+deu:
+  id: 815-17-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Wechselfeld-Suszeptibilität
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 815-17-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: AC magnetic susceptibility
+  definition: series of complex coefficients obtained by the expansion in Fourier
+    series of the AC magnetization stem:[M(t)]
+  language_code: eng
+  notes:
+  - |-
+    The AC magnetization, stem:[M(t),] under the magnetic field strength of stem:[h_0 cos omega t] is expanded as:
+
+    stem:[M ( t ) = h_0 sum_((n = 0))^(oo) kappa_n^' cos ( n omega t ) + kappa_n^″ sin ( n omega t )]
+
+    where stem:[kappa_n^'] and stem:[kappa_n^″] are the real and imaginary parts of the AC magnetic susceptibility for the order stem:[n].
+  - The fundamental components stem:[kappa_1^'] and stem:[kappa_1^″] are mostly observed
+    for measurements of superconducting transition.
+  - |-
+    The AC loss energy density stem:[W] is given as:
+
+    stem:[W = pi mu_0 h_0^2 kappa_1^″]
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-11-01T00:00:00+00:00'
+  date_amended: '2015-11-01T00:00:00+00:00'
+  review_date: '2015-11-01T00:00:00+00:00'
+  review_decision_date: '2015-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 815-17-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: susceptibilidad magnética en corriente alterna
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 815-17-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: susceptibilité magnétique alternative
+    gender: f
+    plurality: singular
+  definition: série de coefficients complexes obtenus par décomposition en série de
+    Fourier de l'aimantation en alternatif stem:[M(t)]
+  language_code: fra
+  notes:
+  - |-
+    L'aimantation en alternatif, stem:[M(t),] en présence d'un champ magnétique stem:[h_0 cos omega t] se développe comme suit:
+
+    stem:[M ( t ) = h_0 sum_((n = 0))^(oo) kappa_n^' cos ( n omega t ) + kappa_n^″ sin ( n omega t )]
+
+    où stem:[kappa_n^'] et stem:[kappa_n^″] sont les parties réelle et imaginaire de la susceptibilité magnétique alternative pour le rang stem:[n].
+  - Les composantes fondamentales stem:[kappa_1^'] et stem:[kappa_1^″] sont surtout
+    utilisées pour les mesures de transition supraconductrice.
+  - |-
+    La densité de puissance des pertes en courant alternatif stem:[W] est donnée par:
+
+    stem:[W = pi mu_0 h_0^2 kappa_1^″]
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 815-17-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 交流磁化率
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 815-17-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 교류 자화율
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 815-17-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: podatność magnetyczna  przemiennoprądowa
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 815-17-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: suscetibilidade magnética em corrente alternada
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 815-17-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 交流磁化率
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

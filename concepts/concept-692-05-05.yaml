@@ -1,0 +1,147 @@
+---
+termid: 692-05-05
+term: common-cause outage occurrence
+ara:
+  id: 692-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: حدث الخروج بسبب عناصر مترابطة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 692-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Übergang zur Nichtverfügbarkeit aufgrund einer gemeinsamen Ursache
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 692-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: common-cause outage occurrence
+  definition: |-
+    {{related multiple-outage occurrence, IEV:692-05-04}} with a single external initiating event where the outages involved are not consequences of each other
+
+    image::/assets/images/parts/692/692-fig5-en.png[Figure 5 - Outage occurrence relationships]
+  language_code: eng
+  notes:
+  - A common-cause outage occurrence can be caused by a lightning strike and back-flashover
+    to both circuits of a double-circuit line, resulting in the outage of both circuits.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-12-01T00:00:00+00:00'
+  date_amended: '2017-12-01T00:00:00+00:00'
+  review_date: '2017-12-01T00:00:00+00:00'
+  review_decision_date: '2017-12-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 692-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: paso a indisponibilidades con causa común
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 692-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: survenance d’indisponibilités multiples par cause commune
+    gender: f
+    plurality: singular
+  definition: |-
+    {{survenance d’indisponibilités multiples corrélées, IEV:692-05-04}} résultant d’un événement initiateur externe unique, où les indisponibilités induites ne sont pas conséquentes les unes des autres
+
+    image::/assets/images/parts/692/692-fig5-fr.png[Figure 5 - Relations entre survenances d’indisponibilité]
+  language_code: fra
+  notes:
+  - Une survenance d'indisponibilités multiples par cause commune peut être un coup
+    de foudre et l'amorçage en retour affectant les deux circuits d'une ligne double,
+    conduisant à l’indisponibilité des deux circuits.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 692-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 共通原因停止
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 692-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 공통 요인 정지 발생
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+mon:
+  id: 692-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: нийтлэг шалтгаантай тасралтын тохиолдол
+  language_code: mon
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 692-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wystąpienie wyłączeń wielokrotnych o jednej przyczynie
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 692-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ocorrência de indisponibilidades múltiplas por causa comum
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 692-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 共因停运事件
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

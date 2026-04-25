@@ -1,0 +1,186 @@
+---
+termid: 702-04-54
+term: amplitude
+ara:
+  id: 702-04-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: سعة (لاشارة)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 702-04-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: eines Signals
+    designation: Hüllkurve
+    gender: f
+    plurality: singular
+  - type: expression
+    usage_info: eines Signals
+    designation: Einhüllende
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 702-04-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: of a signal
+    designation: amplitude
+  - type: expression
+    normative_status: preferred
+    usage_info: of a signal
+    designation: envelope
+  definition: |-
+    modulus stem:[A](stem:[t]) of the {{analytic signal, IEV:702-04-52}} corresponding to the real signal stem:[f](stem:[t]), written in the form:
+
+    stem:[f] (stem:[t]) + j stem:[g] (stem:[t]) = stem:[A] (stem:[t]) e^jstem:[φ](stem:[t])^
+  language_code: eng
+  notes:
+  - When a modulated signal is represented by stem:[E](stem:[t])cos[2stem:[πft] +
+    stem:[θ](stem:[τ])] in which stem:[f] is substantially larger than the highest
+    frequency of any significant spectral component of the modulating signal, the
+    envelope is approximately represented by the curve stem:[y] = ± stem:[E](stem:[t]).
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 702-04-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: amplitud (de un señal)
+  - type: expression
+    designation: envolvente (de una señal)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 702-04-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: d'un signal
+    designation: amplitude
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    usage_info: d'un signal
+    designation: enveloppe
+    gender: f
+    plurality: singular
+  definition: |-
+    module stem:[A](stem:[t]) d'un {{signal analytique, IEV:702-04-52}} correspondant au signal réel stem:[f](stem:[t]), mis sous la forme:
+
+    stem:[f] (stem:[t]) + j stem:[g] (stem:[t]) = stem:[A] (stem:[t]) e^jstem:[φ](stem:[t])^
+  language_code: fra
+  notes:
+  - Pour un modulat représenté par stem:[E](stem:[t])cos[2stem:[πft] + stem:[θ](stem:[τ])]
+    où stem:[f] est suffisamment grand par rapport à la fréquence la plus élevée des
+    composantes spectrales significatives du signal modulant, l'enveloppe est représentée
+    approximativement par la courbe stem:[y] = ± stem:[E](stem:[t]).
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 702-04-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ampiezza (di un segnale)
+  - type: expression
+    designation: inviluppo (di un segnale)
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 702-04-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 信号の
+    designation: 振幅
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 702-04-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 신호
+    designation: 진폭
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 702-04-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: amplituda (sygnału)
+  - type: expression
+    designation: obwiednia (sygnału)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 702-04-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: amplitude (de um sinal)
+  - type: expression
+    designation: envolvente (de um sinal)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 702-04-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: amplitud
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

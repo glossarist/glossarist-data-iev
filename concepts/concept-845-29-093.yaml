@@ -1,0 +1,168 @@
+---
+termid: 845-29-093
+term: configuration factor
+ara:
+  id: 845-29-093
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: بين سطحين
+    designation: عامل النكوين
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-29-093
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: zwischen zwei Flächen
+    designation: Konfigurationsfaktor
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-29-093
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: between two surfaces
+    designation: configuration factor
+  - type: symbol
+    designation: |-
+      stem:[c]~21~
+      stem:[c]~12~
+    international: true
+  definition: |-
+    quotient of the irradiance or illuminance, stem:[E]~2~ (or stem:[E]~1~), at a point on surface S~2~ (or S~1~) due to the flux received from surface S~1~ (or S~2~) and the radiant exitance or luminous exitance, stem:[M]~1~ (or stem:[M]~2~), of surface S~1~ (or S~2~)
+
+    stem:[c_((21)) = ((E_2))/((M_1))]
+
+    or
+
+    stem:[c_((12)) = ((E_1))/((M_2))]
+  language_code: eng
+  notes:
+  - |-
+    The relation between the configuration factor, stem:[c], and the (mutual) exchange coefficient, stem:[g], is
+
+    stem:[underset((A_2))( int ) c_((21)) d A_2 = ((underset((A_2))( int ) E_2 d A_2))/((M_1)) = ((Phi_2))/((M_1)) = g = ((Phi_1))/((M_2)) = ((underset((A_1))( int ) E_1 d A_1))/((M_2)) = underset((A_1))( int ) c_((12)) d A_1]
+
+    where stem:[Φ]~2~ (or stem:[Φ]~1~) is the flux received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~) and stem:[A]~2~ (or stem:[A]~1~) is the area of surface S~2~ (or S~1~)
+  - The configuration factor has unit one.
+  - This entry was numbered 845-09-72 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-29-093
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: entre deux surfaces
+    designation: facteur de configuration
+    gender: m
+    plurality: singular
+  definition: |-
+    quotient de l'éclairement énergétique ou de l'éclairement lumineux stem:[E]~2~ (ou stem:[E]~1~), en un point d'une surface S~2~ (ou S~1~) dû au flux reçu de la surface S~1~ (ou S~2~) par l'exitance énergétique ou lumineuse, stem:[M]~1~ (ou stem:[M]~2~), de la surface S~1~ (ou S~2~)
+
+    stem:[c_((21)) = ((E_2))/((M_1))]
+
+    ou
+
+    stem:[c_((12)) = ((E_1))/((M_2))]
+  language_code: fra
+  notes:
+  - |-
+    La relation entre le facteur de configuration, stem:[c], et coefficient d'échange mutuel, stem:[g], est
+
+    stem:[underset((A_2))( int ) c_((21)) d A_2 = ((underset((A_2))( int ) E_2 d A_2))/((M_1)) = ((Phi_2))/((M_1)) = g = ((Phi_1))/((M_2)) = ((underset((A_1))( int ) E_1 d A_1))/((M_2)) = underset((A_1))( int ) c_((12)) d A_1]
+
+    où stem:[Φ]~2~ (or stem:[Φ]~1~) est le flux reçu sur la surface S~2~ (ou S~1~) en provenance de la surface S~1~ (ou S~2~) et stem:[A]~2~ (ou stem:[A]~1~) est l'aire de la surface S~2~ (ou S~1~)
+  - L'unité de facteur de configuration est un.
+  - Cet article était numéroté 845-09-72 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 845-29-093
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: tra due superfici
+    designation: fattore di configurazione
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-29-093
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 立体角投射率
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-29-093
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 입체각 투사율, 1 과 S~2~ 사이&gt;
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-29-093
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: między dwiema powierzchniami
+    designation: współczynnik konfiguracji
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-29-093
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: entre duas superfícies
+    designation: fator de configuração
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-29-093
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 两表面之间的
+    designation: 构造系数
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

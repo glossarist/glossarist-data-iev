@@ -1,0 +1,162 @@
+---
+termid: 561-03-22
+term: phase noise
+ara:
+  id: 561-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ضوضاء طورية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 561-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Phasenrauschen
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 561-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phase noise
+  definition: frequency-domain measure of the short-term frequency stability of an
+    oscillator
+  language_code: eng
+  notes:
+  - |-
+    This phase noise is normally expressed as the power spectral density of the phase fluctuations, stem:[S_(varphi) ( f )], where the phase fluctuation function is stem:[varphi ( t ) = 2 pi F t - 2 pi F_0 t]. The spectral density of phase fluctuation can be directly related to the spectral density of frequency fluctuation by the following formula:
+
+    stem:[S_(varphi) ( f ) = ( ((F_0))/(f) ) S_y ( f ) rad^2 //Hz]
+
+    In the preceding formulae:
+
+    stem:[F] is the oscillator frequency;
+
+    stem:[F]~0~ is the average oscillator frequency;
+
+    stem:[f] is the Fourier frequency.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2014-11-01T00:00:00+00:00'
+  date_amended: '2014-11-01T00:00:00+00:00'
+  review_date: '2014-11-01T00:00:00+00:00'
+  review_decision_date: '2014-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 561-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ruido de fase
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 561-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bruit de phase
+    gender: m
+    plurality: singular
+  definition: mesure fréquentielle de la stabilité de fréquence à court terme d’un
+    oscillateur
+  language_code: fra
+  notes:
+  - |-
+    Ce bruit de phase est généralement exprimé comme la densité spectrale de puissance des fluctuations de phase, stem:[S_(varphi) ( f )], la fonction de fluctuation de phase étant stem:[varphi ( t ) = 2 pi F t - 2 pi F_0 t]. La densité spectrale de la fluctuation de phase peut être directement liée à celle de la fluctuation de fréquence par la formule suivante :
+
+    stem:[S_(varphi) ( f ) = ( ((F_0))/(f) ) S_y ( f ) rad^2 //Hz]
+
+    Dans les formules précédantes:
+
+    stem:[F] est la fréquence de l’oscillateur;
+
+    stem:[F]~0~ est la fréquence moyenne de l’oscillateur;
+
+    stem:[f] est la fréquence de Fourier.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 561-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rumore di fase
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 561-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 位相雑音
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 561-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 상 잡음
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 561-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: szum fazowy
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 561-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ruído de fase
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 561-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 相位噪声
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,160 @@
+---
+termid: 811-37-31
+term: device address
+ara:
+  id: 811-37-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: عنوان الجهاز (8 خانات)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 811-37-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Geräteadresse
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 811-37-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: device address
+  definition: device within a bus
+  language_code: eng
+  notes:
+  - On the wire train bus, the device address has 8 bits, the least significant 6
+    bits being the node address.
+  - A device connected to several busses can have a different device address for each
+    bus.
+  - Special devices such as repeaters only participate at the physical layer and have
+    no device address.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 61375-2-1:2012
+    clause: 3.1.43
+    relationship:
+      :type: :identical
+    original: IEC 61375-2-1:2012, 3.1.43
+  date_accepted: '2017-11-01T00:00:00+00:00'
+  date_amended: '2017-11-01T00:00:00+00:00'
+  review_date: '2017-11-01T00:00:00+00:00'
+  review_decision_date: '2017-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 811-37-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dirección de dispositivo
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 811-37-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adresse de dispositif
+    gender: f
+    plurality: singular
+  definition: dispositif sur un bus
+  language_code: fra
+  notes:
+  - Une adresse de dispositif est codée sur 8 bits sur le bus de train filaire, les
+    6 bits de poids faible correspondant à l’adresse de nœud.
+  - Un dispositif connecté à plusieurs bus peut avoir une adresse de dispositif différente
+    pour chaque bus.
+  - Des dispositifs particuliers comme les répéteurs participent uniquement à la couche
+    physique et n’ont pas d’adresse de dispositif.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 61375-2-1:2012
+    clause: 3.1.43
+    relationship:
+      :type: :identical
+    original: IEC 61375-2-1:2012, 3.1.43
+  review_decision_event: published
+ita:
+  id: 811-37-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indirizzo del dispositivo
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 811-37-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 装置アドレス
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 811-37-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 장치 주소
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 811-37-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adres urządzenia
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 811-37-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: endereço do dispositivo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 811-37-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 设备地址
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

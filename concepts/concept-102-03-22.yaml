@@ -1,0 +1,224 @@
+---
+termid: 102-03-22
+term: component
+deu:
+  id: 102-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Komponente (einer Vektorgröße)
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 102-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: of a vector quantity
+    designation: component
+  - type: expression
+    normative_status: preferred
+    usage_info: of a vector quantity
+    designation: coordinate
+  definition: any of the stem:[n] scalar quantities stem:[Q_1 , Q_2 , ... , Q_n] in
+    the representation of a vector quantity *stem:[Q]* as the linear combination stem:[Q_1
+    a_1 + Q_2 a_2 + ... + Q_n a_n] of the base vectors stem:[a_1 , a_2 , ... , a_n]
+  language_code: eng
+  notes:
+  - "Instead of treating each component of a vector quantity as a quantity (i.e. the
+    product of a numerical value and a unit of measurement), the vector quantity *stem:[Q]*
+    may be represented as a vector of numerical values multiplied by the unit:\n\nstem:[Q
+    = { Q_1 } Q e_1 + { Q_2 } Q e_2 + { Q_3 } Q e_3 = ( { Q_1 } e_1 + { Q_2 } e_2
+    + { Q_3 } e_3 ) Q] \nwhere stem:[{ Q_1 } , { Q_2 } , { Q_3 }] are numerical values,
+    stem:[Q] is the unit, and stem:[e_1 , e_2 , e_3] are the unit vectors. Similar
+    considerations apply to tensor quantities."
+  - The components of a vector quantity are transformed by a coordinate transformation
+    like the coordinates of a position vector.
+  - The term "coordinate" is generally used when the vector quantity is a position
+    vector. This usage is consistent with the definition of the coordinates of a vector
+    in mathematics ({{IEV 102-03-09, IEV:102-03-09}}).
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2008-08-01T00:00:00+00:00'
+  date_amended: '2008-08-01T00:00:00+00:00'
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 102-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: componente (de una magnitud vectorial)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 102-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: d'une grandeur vectorielle
+    designation: composante
+    gender: f
+    plurality: singular
+  definition: chacune des stem:[n] grandeurs scalaires stem:[Q_1 , Q_2 , ... , Q_n]
+    dans la représentation d'une grandeur vectorielle *stem:[Q]* comme la combinaison
+    linéaire stem:[Q_1 a_1 + Q_2 a_2 + ... + Q_n a_n] des vecteurs de base stem:[a_1
+    , a_2 , ... , a_n]
+  language_code: fra
+  notes:
+  - |-
+    Au lieu de traiter chaque coordonnée comme une grandeur (c'est-à-dire la produit de sa valeur numérique par l'unité de mesure), on peut exprimer la grandeur vectorielle *stem:[Q]* comme le produit d'un vecteur de valeurs numériques par l'unité:
+
+    stem:[Q = { Q_1 } Q e_1 + { Q_2 } Q e_2 + { Q_3 } Q e_3 = ( { Q_1 } e_1 + { Q_2 } e_2 + { Q_3 } e_3 ) Q]
+
+    où stem:[{ Q_1 } , { Q_2 } , { Q_3 }] sont des valeurs numériques, stem:[Q] est l'unité et stem:[e_1 , e_2 , e_3] sont les vecteurs unitaires. Les grandeurs tensorielles peuvent être traitées de manière analogue.
+  - Les composantes d'une grandeur vectorielle sont transformées par un changement
+    de coordonnées de la même manière que les coordonnées d'un rayon vecteur.
+  - Le terme «coordonnée» est généralement employé lorsque la grandeur vectorielle
+    est un rayon vecteur. Cet usage est compatible avec la définition des coordonnées
+    d'un vecteur en mathématiques ({{IEV 102-03-09, IEV:102-03-09}}).
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 102-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: ベクトル座標の
+    designation: 成分
+  - type: expression
+    normative_status: preferred
+    usage_info: ベクトル量の
+    designation: 座標
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 102-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 벡터 양
+    designation: 성분
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nld:
+  id: 102-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: van een vectoriële grootheid
+    designation: coördinaat
+    gender: m
+    plurality: singular
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 102-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: współrzędna (wielkości wektorowej)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 102-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: componente (de uma grandeza vectorial)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 102-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: векторске величине
+    designation: компонента
+  - type: expression
+    usage_info: векторске величине
+    designation: координата
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 102-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: komponent (av en vektorstorhet)
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 102-03-22
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 向量量的
+    designation: 分量
+  - type: expression
+    normative_status: preferred
+    usage_info: 向量量的
+    designation: 坐标
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published

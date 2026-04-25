@@ -1,0 +1,149 @@
+---
+termid: 523-06-08
+term: through-silicon-via
+deu:
+  id: 523-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Silizium-Durchkontaktierung
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Silizium-Via
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: TSV
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 523-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: through-silicon-via
+  - type: expression
+    normative_status: preferred
+    designation: TSV
+  definition: perpendicularly penetrating electro interconnection between both surfaces
+    of a silicon {{substrate, IEV:521-05-28}}
+  language_code: eng
+  notes:
+  - Through-silicon-vias are mainly applied to three-dimensionally stacked {{packaging,
+    IEV:523-06-06}} of {{semiconductor devices, IEV:521-04-01}}. In the MEMS fields,
+    the through-silicon-vias are applied to {{wafer level packaging, IEV:523-06-07}}
+    technology. Some through-silicon-vias consist of through-via, insulator and {{electrode,
+    IEV:151-13-01}} material. Solder, copper, doped-poly-silicon and so on are used
+    as electrode materials.
+  - This note applies to the French language only.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 62047-1:2016
+    clause: 2.6.11
+    link: https://webstore.iec.ch/publication/23992
+    relationship:
+      :type: :identical
+    original: IEC 62047-1:2016, 2.6.11
+  date_accepted: '2018-12-01T00:00:00+00:00'
+  date_amended: '2018-12-01T00:00:00+00:00'
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 523-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: trou de liaison à travers le silicium
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: TSV
+    gender: m
+    plurality: singular
+  definition: interconnexion électronique pénétrant perpendiculairement entre les
+    deux surfaces d'un {{substrat, IEV:521-05-28}} de silicium
+  language_code: fra
+  notes:
+  - Les trous de liaison à travers le silicium s'appliquent principalement aux {{dispositifs
+    à semiconducteurs, IEV:521-04-01}} encapsulés selon un empilement tridimensionnel.
+    Dans le cas des MEMS, les trous de liaison à travers le silicium s'appliquent
+    à la technologie de l'{{encapsulation au niveau de la tranche, IEV:523-06-07}}.
+    Certains trous de liaison à travers le silicium sont constitués de trous de liaison
+    traversants, d'isolants et de matériaux d'{{électrode, IEV:151-13-01}}.  Les électrodes
+    sont constituées de brasures, de cuivre, de polysilicium dopé, etc.
+  - Le terme abrégé "TSV" est dérivé du terme anglais développé correspondant "through-silicon-via".
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 62047-1:2016
+    clause: 2.6.11
+    link: https://webstore.iec.ch/publication/23992
+    relationship:
+      :type: :identical
+    original: IEC 62047-1:2016, 2.6.11
+  review_decision_event: published
+jpn:
+  id: 523-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: シリコン貫通電極　
+  - type: expression
+    designation: TSV
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 523-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: połączenia TSV
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: połączenia wewnętrzne między strukturami
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 523-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: via através do silício
+  - type: expression
+    designation: TSV
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 523-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 硅通孔
+  - type: expression
+    designation: TSV
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

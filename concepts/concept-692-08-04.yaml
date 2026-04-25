@@ -1,0 +1,176 @@
+---
+termid: 692-08-04
+term: service unavailability per customer interrupted
+ara:
+  id: 692-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: لا إتاحية الخدمة لكل عميل قطعت عنه الخدمة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 692-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mittlere Nichtverfügbarkeit je unterbrochenem Abnehmer
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 692-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: service unavailability per customer interrupted
+  - type: symbol
+    designation: stem:[U]~CI~
+    international: true
+  definition: sum of durations of all {{supply interruptions, IEV:692-07-01}} to individual
+    customers during a time interval, divided by the product of the number of customers
+    affected and the duration of that time interval
+  language_code: eng
+  notes:
+  - |-
+    If stem:[t]~stem:[ij]~ is the duration of the stem:[i]th interruption of supply to customer stem:[j] during a time interval of duration stem:[T], and stem:[N]~NS~ the number of customers affected, then the service unavailability per customer interrupted is given by
+
+    stem:[U_((CI)) = ((sum_i sum_j t_((i j))))/((N_(NS) T))]
+  - Only {{sustained interruptions, IEV:692-07-02}} are considered.
+  - The term "customer" represents the end user and not some intermediate distribution
+    system or company.
+  - Service unavailability per customer interrupted can be used to describe past performance
+    or to estimate expected future performance.
+  - This entry was numbered 191-27-04 in IEC 60050-191:1990.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-12-01T00:00:00+00:00'
+  date_amended: '2017-12-01T00:00:00+00:00'
+  review_date: '2017-12-01T00:00:00+00:00'
+  review_decision_date: '2017-12-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 692-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indisponibilidad del servicio por cliente interrumpido
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 692-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indisponibilité par client coupé
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: indice d’interruption par client coupé
+    gender: m
+    plurality: singular
+  definition: quotient de la somme des durées de toutes les {{interruptions de fourniture,
+    IEV:692-07-01}} d'énergie électrique à des clients individuels pendant un intervalle
+    de temps, par le produit de la durée de cet intervalle de temps et du nombre de
+    clients affectés
+  language_code: fra
+  notes:
+  - |-
+    Si sur un intervalle de temps de durée stem:[T], stem:[t]~stem:[ij]~ est la durée de la stem:[i]ème interruption subie par le client stem:[j], et stem:[N]~NS~ le nombre de clients affectés, alors, l’indisponibilité par client coupé est donnée par
+
+    stem:[U_((CI)) = ((sum_i sum_j t_((i j))))/((N_(NS) T))]
+  - Seules les {{interruptions longues, IEV:692-07-02}} sont prises en compte.
+  - Le terme "client" désigne l’utilisateur final et non un réseau ou une compagnie
+    de distribution intermédiaire.
+  - L’indisponibilité par client coupé peut être utilisée pour décrire des performances
+    réalisées, ou pour estimer les performances futures attendues.
+  - Cet article portait le numéro 191-27-04 dans l’IEC 60050-191:1990.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 692-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 停電需要家1軒当たりの平均停電時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 692-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 고객 정전당 서비스 불가용성
+  - type: expression
+    designation: 호별 정전당 서비스 불가용성
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+mon:
+  id: 692-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: тасалдалд өртсөн хэрэглэгч бүрд ногдох үйлчилгээний хүртээмжгүй байдал
+  language_code: mon
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 692-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: niedyspozycyjność zasilania przypadająca na wyłączonego odbiorcę
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: niedyspozycyjność zasilania na wyłączonego odbiorcę
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 692-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indisponibilidade do serviço por cliente interrompido
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 692-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 停电用户的供电不可用率
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

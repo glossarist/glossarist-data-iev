@@ -1,0 +1,208 @@
+---
+termid: 712-02-47
+term: "(total) effective area"
+ara:
+  id: 712-02-47
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: المساحة الفعالة الكلية (للهوائي وباتجاه محدد )
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1992-04-01T00:00:00+00:00'
+  date_amended: '1992-04-01T00:00:00+00:00'
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 712-02-47
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Gesamtwirkfläche (einer Antenne für eine gegebene Richtung)
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: Wirkfläche (einer Antenne für eine gegebene Richtung)
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+eng:
+  id: 712-02-47
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(total) effective area"
+  definition: in a given direction, the ratio of the available power at the terminals
+    of a receiving antenna to the power flux density of a plane wave incident from
+    that direction, the wave being polarization matched to the antenna
+  language_code: eng
+  notes:
+  - If no direction is specified, the direction corresponding to maximum available
+    power is implied.
+  - The total effective area is the sum of the partial effective areas for any two
+    orthogonal polarizations of components of the antenna polarization.
+  - |-
+    In free space, the effective area stem:[A]~e~ for a given direction of an antenna when used for reception is related to the absolute gain stem:[G]~i~ for the given direction when the same antenna is used for transmission by the equation:
+
+    stem:[G_i = ((4 pi A_e))/((lambda^2))]
+
+    where stem:[λ] is the wavelength.
+  - When an aperture illumination function is uniform in amplitude and phase and the
+    given direction is perpendicular to the aperture, the total effective area of
+    a radiating aperture of a lossless antennas is equal to its geometric area.
+  examples: []
+  entry_status: Standard
+  date_accepted: '1992-04-01T00:00:00+00:00'
+  date_amended: '1992-04-01T00:00:00+00:00'
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 712-02-47
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: área efectiva (total) (de una antena para una dirección dada)
+  - type: expression
+    designation: superficie equivalente (total) (término desaconsejado)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 712-02-47
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sieppauspinta
+  - type: expression
+    designation: kokonaissieppauspinta
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 712-02-47
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aire équivalente (totale)
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: surface équivalente
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: surface effective
+    gender: f
+    plurality: singular
+  definition: rapport de la puissance disponible aux bornes d'une antenne de réception,
+    à la puissance surfacique d'une onde plane incidente de direction de propagation
+    donnée, l'onde ayant une polarisation adaptée à celle de l'antenne
+  language_code: fra
+  notes:
+  - Si aucune direction n'est spécifiée, on considère celle qui correspond au maximum
+    de puissance disponible.
+  - L'aire équivalente totale est la somme des aires équivalentes partielles pour
+    deux polarisations orthogonales quelconques en lesquelles on peut décomposer la
+    polarisation de l'antenne.
+  - |-
+    En espace libre, pour une direction donnée, l'aire équivalente stem:[A]~e~ d'une antenne utilisée à la réception est liée au gain isotrope stem:[G]~i~ de la même antenne utilisée à l'émission par la relation:
+
+    stem:[G_i = ((4 pi A_e))/((lambda^2))]
+
+    où stem:[λ] est la longueur d'onde.
+  - En l'absence de pertes, l'aire équivalente totale d'une ouverture rayonnante dont
+    l'illumination est uniforme et équiphase, est égale à son aire géométrique, lorsque
+    la direction considérée est perpendiculaire à l'ouverture.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '1992-04-01T00:00:00+00:00'
+  date_amended: '1992-04-01T00:00:00+00:00'
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 712-02-47
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: area equivalente (per una data polarizzazione)
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 712-02-47
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "（総）実効面積"
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 712-02-47
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 지정된 방향에서 안테나
+    designation: 총 유효 면적
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 712-02-47
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: powierzchnia skuteczna całkowita (anteny dla danego kierunku)
+  - type: expression
+    designation: powierzchnia skuteczna (anteny dla danego kierunku)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 712-02-47
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: área equivalente (total) (de uma antena para uma direcção dada)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+slv:
+  id: 712-02-47
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(celotna) efektivna površina antene v dani smeri"
+  language_code: slv
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

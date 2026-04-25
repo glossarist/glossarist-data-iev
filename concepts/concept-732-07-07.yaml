@@ -1,0 +1,268 @@
+---
+termid: 732-07-07
+term: uniform resource locator
+ara:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: إختصار (URL)
+  - type: expression
+    normative_status: preferred
+    designation: عنوان موقع URL
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: einheitlicher Quellenweiser
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: URL
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uniform resource locator
+  - type: expression
+    normative_status: preferred
+    designation: URL
+  definition: standardized character string used for locating and accessing an Internet
+    resource
+  language_code: eng
+  notes:
+  - "1\tThe general form of an URL (see RFC 1738) is as follows:\n\n&lt;scheme&gt;://&lt;user&gt;:&lt;password&gt;@&lt;host&gt;:&lt;port&gt;/&lt;url-path&gt;\n\nIn
+    some cases, certain parts may be omitted.\n\n&lt;scheme&gt; is the access protocol,
+    e.g. http, ftp, or news.\n\n&lt;user&gt;, &lt;password&gt; and &lt;port&gt; are
+    optional, and the separators “:” (colon) and “@” are omitted when unnecessary.\n\n&lt;host&gt;
+    is an IP address or a fully qualified host name, and is omitted for local Internet
+    resources.\n\n&lt;port&gt; is an address for protocols on the TCP layer and has
+    a default which depends on the protocol.\n\n&lt;url-path&gt; indicates the access
+    to a resource inside the host. If it is omitted, a default resource is accessed.\n\nExamples
+    of URLs identifying a Web site, a file, or a service:\n\n“http://www.iec.ch” is
+    the URL of the site of the  International Electrotechnical Commission. In this
+    URL, “ch” is the top-level domain name. It should be noted that besides &lt;scheme&gt;
+    this URL contains only the part &lt;host&gt;.\n\n“http://www.iec.ch/about/mission-e.htm”
+    is the URL of a page giving in English the IEC mission and objectives.  This file
+    is accessible by the HTTP protocol.\n\n“news:comp.os.unix” is the URL of a forum
+    whose name is “comp.os.unix” and “news:XYZ123@news.iso.org” might be the URL of
+    an article, the identifier of which is “XYZ123”, stored on the host “news.iso.org”."
+  - "2\tURL is an acronym of the full term \"uniform resource locator\"."
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: localizador uniforme de recursos, URL (abreviatura)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: URL-osoite
+  - type: expression
+    designation: URL
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adresse universelle
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: adresse URL
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: URL
+  definition: chaîne de caractères normalisée, qui sert à localiser une ressource
+    de l’Internet et à y accéder
+  language_code: fra
+  notes:
+  - "1\tLa forme générale d’une adresse URL est la suivante (voir RFC 1738):\n\n&lt;mode&gt;://&lt;utilisateur&gt;:&lt;motdepasse&gt;@&lt;hôte&gt;:&lt;port&gt;/&lt;chemin
+    URL&gt;\n\nSelon le cas, certaines parties peuvent être omises.\n\n&lt;mode&gt;
+    représente le protocole d’accès, par exemple http, ftp ou news.\n\n&lt;utilisateur&gt;,
+    &lt;motdepasse&gt; et &lt;port&gt; sont facultatifs, et les séparateurs «:» (deux-points)
+    et @ sont omis lorsqu'ils ne sont pas nécessaires.\n\n&lt;hôte&gt; est une adresse
+    IP ou un nom d'hôte complet, mais est omis pour des ressources Internet locales.\n\n&lt;port&gt;
+    est une adresse pour des protocoles dans la couche TCP et a une valeur implicite
+    qui dépend du protocole.\n\n&lt;chemin URL&gt; indique l’accès à une ressource
+    à l’intérieur de l’hôte. S’il est omis, on obtient une ressource implicite.\n\nExemples
+    d'URL identifiant un site sur la Toile, un fichier ou un service:\n\n«http://www.iec.ch»
+    est l’URL du site du siège de la Commission électrotechnique internationale «CEI».
+    Dans cette URL, «ch» est le nom de domaine de premier niveau. Il est à noter que
+    cet URL contient seulement &lt;hôte&gt; à partir de &lt;mode&gt;.\n\n«http://www.iec.ch/about/mission-e.htm»
+    est l’URL de la page donnant en anglais la mission et les objectifs de la CEI.\n\n«news:comp.os.unix»
+    est l'URL d'un forum dont le nom est «comp.os.unix» et «news:XYZ123@news.iso.org»
+    pourrait être l'URL d’un article dont l'identificateur serait «XYZ123» situé dans
+    l'hôte «news.iso.org»."
+  - "2\tURL est le sigle du terme anglais «uniform resource locator»."
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: URL
+  - type: expression
+    normative_status: preferred
+    designation: ユニフォームリソースロケータ
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+kor:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 고유 자원 지시자
+  - type: expression
+    designation: 유아르엘
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lokalizator jednolity zasobów
+  - type: expression
+    normative_status: preferred
+    designation: URL (akronim)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: localizador uniforme de recurso
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+srp:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: јединствена адреса ресурса
+  - type: expression
+    designation: веб-адреса
+  - type: expression
+    designation: URL
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: URL, webbadress, länk
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 732-07-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 统一资源定位符
+  - type: expression
+    normative_status: preferred
+    designation: URL
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published

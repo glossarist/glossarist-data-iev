@@ -1,0 +1,208 @@
+---
+termid: 442-05-60
+term: selectivity-limit current
+ara:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: تيار حد التمييز (رمز:Is)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1998-11-01T00:00:00+00:00'
+  date_amended: '1998-11-01T00:00:00+00:00'
+  review_date: '1998-11-01T00:00:00+00:00'
+  review_decision_date: '1998-11-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Selektivitäts-Grenzstrom
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: selectivity-limit current
+  - type: symbol
+    designation: stem:[I]~s~
+    international: true
+  definition: value of the current corresponding to the intersection between the total
+    time–current characteristic of the protective device on the load side and the
+    pre-arcing (for fuses) or tripping (for circuit-breakers) time–current characteristic
+    of the other protective device
+  language_code: eng
+  notes:
+  - The selectivity-limit current is a limiting value of current:* below which, in
+    the presence of two overcurrent protective devices in series, the protective device
+    on the load side completes its breaking operation in time to prevent the other
+    protective device from starting its operation (i.e. selectivity is ensured);*
+    above which, in the presence of two overcurrent protective devices in series,
+    the protective device on the load side could not complete its breaking operation
+    in time to prevent the other protective device from starting its operation (i.e.
+    selectivity is not ensured).
+  - "{{stem:[I]^2^stem:[t] characteristics, IEV:442-05-59}} can be used instead of
+    time–current characteristics."
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 62873-2:2016
+    clause: 3.6.1
+    link: https://webstore.iec.ch/publication/25837
+    relationship:
+      :type: :identical
+    original: IEC 62873-2:2016, 3.6.1
+  date_accepted: '2019-05-01T00:00:00+00:00'
+  date_amended: '2019-05-01T00:00:00+00:00'
+  review_date: '2019-05-01T00:00:00+00:00'
+  review_decision_date: '2019-05-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 442-05-60:1998-11
+fin:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: selektiivisyysrajavirta
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: courant limite de sélectivité
+    gender: m
+    plurality: singular
+  definition: valeur de courant correspondant à l’intersection de la caractéristique
+    totale temps–courant de l'appareil de protection placé en aval avec la caractéristique
+    temps–courant de pré-arc (pour les fusibles) ou de déclenchement (pour les disjoncteurs)
+    de l’autre appareil de protection
+  language_code: fra
+  notes:
+  - Le courant limite de sélectivité est une valeur limite du courant:* au-dessous
+    de laquelle, pour deux dispositifs de protection à maximum de courant placés en
+    série, le dispositif placé côté aval assure son opération de coupure avant que
+    l'autre dispositif ne commence la sienne (c'est à dire que la sélectivité est
+    assurée);* au-dessus de laquelle, pour deux dispositifs de protection à maximum
+    de courant placés en série, le dispositif placé côté aval ne peut pas assurer
+    son opération de coupure complètement avant que l'autre dispositif ne commence
+    la sienne (c'est à dire que la sélectivité n'est pas assurée).
+  - "{{Les caractéristiques stem:[I]^2^stem:[t], IEV:442-05-59}} peuvent être utilisées
+    à la place des caractéristiques temps–courant."
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 62873-2:2016
+    clause: 3.6.1
+    link: https://webstore.iec.ch/publication/25837
+    relationship:
+      :type: :identical
+    original: IEC 62873-2:2016, 3.6.1
+  review_decision_event: published
+ita:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: corrente limite di selettività
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 選択限界電流
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 선택도 한계 전류
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: prąd wybiórczości granicznej
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: corrente limite de selectividade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+rus:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: предельный ток селективности
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: граница селективности струје
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1998-11-01T00:00:00+00:00'
+  date_amended: '1998-11-01T00:00:00+00:00'
+  review_date: '1998-11-01T00:00:00+00:00'
+  review_decision_date: '1998-11-01T00:00:00+00:00'
+  review_decision_event: published
+swe:
+  id: 442-05-60
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: selektivitetsgränsström
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

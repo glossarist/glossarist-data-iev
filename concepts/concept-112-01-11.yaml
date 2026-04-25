@@ -1,0 +1,329 @@
+---
+termid: 112-01-11
+term: dimension of a quantity
+ara:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: بعد لكمية (بعد كمية) بعد
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Dimension einer Größe
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Größendimension
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dimension of a quantity
+  - type: expression
+    normative_status: preferred
+    designation: quantity dimension
+  - type: expression
+    normative_status: preferred
+    designation: dimension
+  definition: expression of the dependence of a quantity on the {{base quantities,
+    IEV:112-01-08}} of a system of quantities as a product of powers of factors corresponding
+    to the base quantities, omitting any numerical factor
+  language_code: eng
+  notes:
+  - A power of a factor is the factor raised to an exponent. Each factor is the dimension
+    of a base quantity.
+  - The conventional symbolic representation of the dimension of a base quantity is
+    a single upper case letter in roman (upright) sans-serif type. The conventional
+    symbolic representation of the dimension of a derived quantity is the product
+    of powers of the dimensions of the base quantities according to the definition
+    of the derived quantity. The dimension of a quantity stem:[Q] is denoted by dim
+    stem:[Q].
+  - In deriving the dimension of a quantity, no account is taken of its scalar, vector
+    or tensor character.
+  - "In a given system of quantities,\r\n\r\n* quantities of the same kind (see {{IEV
+    112-01-04, IEV:112-01-04}}) have the same dimension,\r\n* quantities of different
+    dimensions are always of different kinds, and\r\n* quantities having the same
+    dimension are not necessarily of the same kind. For example, in the {{International
+    System of Quantities, IEV:112-02-01}} (ISQ), pressure and energy density (volumic
+    energy) have the same dimension L^–1^MT^–2^. See also note 5.\r\n"
+  - "In the International System of Quantities (ISQ), the symbols representing the
+    dimensions of the base quantities are:\n\n<table cellpadding=\"2\" border=\"solid\">\r\n<tbody>\r\n<tr>\r\n<td
+    width=\"198\">\n\nBase quantity\r\n</td>\r\n<td width=\"159\">\n\nSymbol for dimension\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+    width=\"198\">\n\nlength\r\n</td>\r\n<td width=\"159\">\n\n`L`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+    width=\"198\">\n\nmass\r\n</td>\r\n<td width=\"159\">\n\n`M`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+    width=\"198\">\n\ntime\r\n</td>\r\n<td width=\"159\">\n\n`T`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+    width=\"198\">\n\nelectric current\r\n</td>\r\n<td width=\"159\">\n\n`I`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+    width=\"198\">\n\nthermodynamic temperature\r\n</td>\r\n<td width=\"159\">\n\n`Θ`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+    width=\"198\">\n\namount of substance\r\n</td>\r\n<td width=\"159\">\n\n`N`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+    width=\"198\">\n\nluminous intensity\r\n</td>\r\n<td width=\"159\">\n\n`J`\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\n\nThus,
+    the dimension of a quantity stem:[Q] is denoted by dim stem:[Q] = `L`stem:[α]`M`stem:[β]`T`stem:[γ]`I`stem:[δ]`Θ`stem:[ε]`N`stem:[ζ]`J`stem:[η],
+    where the exponents, named dimensional exponents, are positive, negative, or zero.
+    Factors with exponent 0 are usually omitted. When all exponents are zero, the
+    symbol `1`, printed in sans-serif type, is used to represent the dimension. Examples
+    are:\r\n\r\n* The dimension of force is dim stem:[F] = LMT^–2^.\r\n* Mass concentration
+    of a given component and mass density (volumic mass) have the same dimension ML^–3^.\r\n*
+    Electric current and scalar magnetic potential have the same dimension I^1^ =
+    I, although they are not quantities of the same kind.\r\n"
+  - |-
+    An exponent can be fractional.
+
+    The period stem:[T] of a pendulum of length stem:[l] at a place with the local acceleration of free fall stem:[g] is:
+
+    stem:[T = 2 pi sqrt((1)/(g))] or stem:[T = C ( g ) sqrt(l)] where
+
+    stem:[C ( g ) = ((2 pi))/((sqrt(g)))]
+
+    Hence dim stem:[C](stem:[g]) = `T`· `L`^−1/2^.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: ISO/IEC Guide 99:2007
+    clause: '1.7'
+    link: https://www.iso.org/standard/45324.html
+    relationship:
+      :type: :modified
+      :modification: '"dimension of a quantity" is specified as the preferred term
+        and "quantity dimension" as a preferred synonym, addition of a cross-reference
+        in the definition and note 4, transfer of examples 1 and 2 to Note 5 to entry
+        and addition of a new example, transfer of example 3 to a new Note 6 to entry"'
+    original: ISO/IEC Guide 99:2007, 1.7, modified – "dimension of a quantity" is
+      specified as the preferred term and "quantity dimension" as a preferred synonym,
+      addition of a cross-reference in the definition and note 4, transfer of examples
+      1 and 2 to Note 5 to entry and addition of a new example, transfer of example
+      3 to a new Note 6 to entry"
+  date_accepted: '2019-01-01T00:00:00+00:00'
+  date_amended: '2019-01-01T00:00:00+00:00'
+  review_date: '2019-01-01T00:00:00+00:00'
+  review_decision_date: '2019-01-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 112-01-11:2010-01
+spa:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dimensión de una magnitud
+  - type: expression
+    designation: dimensión
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: d’une grandeur
+    designation: dimension
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: dimension d'une grandeur
+    gender: f
+    plurality: singular
+  definition: expression de la dépendance d’une grandeur par rapport aux {{grandeurs
+    de base, IEV:112-01-08}} d'un système de grandeurs sous la forme d'un produit
+    de puissances de facteurs correspondant aux grandeurs de base, en omettant tout
+    facteur numérique
+  language_code: fra
+  notes:
+  - Une puissance d'un facteur est le facteur muni d'un exposant. Chaque facteur exprime
+    la dimension d'une grandeur de base.
+  - Par convention, la représentation symbolique de la dimension d'une grandeur de
+    base est une lettre majuscule unique en caractère romain (droit) sans empattement.
+    Par convention, la représentation symbolique de la dimension d'une grandeur dérivée
+    est le produit de puissances des dimensions des grandeurs de base conformément
+    à la définition de la grandeur dérivée. La dimension de la grandeur stem:[Q] est
+    notée dim stem:[Q].
+  - Pour établir la dimension d'une grandeur, on ne tient pas compte du caractère
+    scalaire, vectoriel ou tensoriel.
+  - "Dans un système de grandeurs donné, \r\n\r\n* les grandeurs de même nature (voir
+    {{IEV 112-01-04, IEV:112-01-04}}) ont la même dimension, \r\n* des grandeurs de
+    dimensions différentes sont toujours de nature différente, \r\n* des grandeurs
+    ayant la même dimension ne sont pas nécessairement de même nature. Par exemple,
+    dans le {{Système international de grandeurs, IEV:112-02-01}} (ISQ), la pression
+    et l'énergie volumique ont la même dimension L^–1^MT^–2^. Voir aussi la note 5.\r\n"
+  - "Dans le Système international de grandeurs (ISQ), les symboles représentant les
+    dimensions des grandeurs de base sont:\n\n<table cellpadding=\"2\" border=\"solid\">\r\n<tbody>\r\n<tr>\r\n<td
+    width=\"198\">\n\nGrandeur de base\r\n</td>\r\n<td width=\"159\">\n\nSymbole de
+    la dimension\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\nlongueur\r\n</td>\r\n<td
+    width=\"159\">\n\n`L`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\nmasse\r\n</td>\r\n<td
+    width=\"159\">\n\n`M`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\ntemps\r\n</td>\r\n<td
+    width=\"159\">\n\n`T`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\ncourant
+    électrique\r\n</td>\r\n<td width=\"159\">\n\n`I`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+    width=\"198\">\n\ntempérature thermodynamique\r\n</td>\r\n<td width=\"159\">\n\n`Θ`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+    width=\"198\">\n\nquantité de matière\r\n</td>\r\n<td width=\"159\">\n\n`N`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+    width=\"198\">\n\nintensité lumineuse\r\n</td>\r\n<td width=\"159\">\n\n`J`\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\n\nLa
+    dimension d'une grandeur stem:[Q] est donc notée dim stem:[Q] = `L`stem:[α]`M`stem:[β]`T`stem:[γ]`I`stem:[δ]`Θ`stem:[ε]`N`stem:[ζ]`J`stem:[η],
+    où les exposants, appelés exposants dimensionnels, sont positifs, négatifs ou
+    nuls. Les facteurs d’exposant zéro sont généralement omis. Lorsque tous les exposants
+    sont nuls, le symbole `1`, imprimé sans empattement, est utilisé pour représenter
+    la dimension. Des exemples sont:\r\n\r\n* La dimension de la force est dim stem:[F]
+    = LMT^–2^.\r\n* La concentration en masse d’un constituant donné et la masse volumique
+    ont la même dimension ML^–3^.\r\n* Le courant électrique et le potentiel magnétique
+    scalaire ont la même dimension I^1^ = I, bien que ces grandeurs ne soient pas
+    de même nature.\r\n"
+  - |-
+    Un exposant peut être fractionnaire.
+
+    En un lieu où l’accélération locale de la pesanteur est stem:[g], la période stem:[T] d’un pendule de longueur stem:[l] est:
+
+    stem:[T = 2 pi sqrt((1)/(g))] ou stem:[T = C ( g ) sqrt(l)] où
+
+    stem:[C ( g ) = ((2 pi))/((sqrt(g)))]
+
+    Par consequent dim stem:[C](stem:[g]) = `T`· `L`^−1/2^.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: ISO/IEC Guide 99:2007
+    clause: '1.7'
+    link: https://www.iso.org/standard/45324.html
+    relationship:
+      :type: :modified
+      :modification: Ajout d'une utilisation spécifique du terme privilégié, ajout
+        de renvois dans la définition et la note 4, transfert des exemples 1 et 2
+        dans la Note 5 à l'article et ajout d'un nouvel exemple, transfert de l'exemple
+        3 dans une nouvelle Note 6 à l'article
+    original: ISO/IEC Guide 99:2007, 1.7, modifié – Ajout d'une utilisation spécifique
+      du terme privilégié, ajout de renvois dans la définition et la note 4, transfert
+      des exemples 1 et 2 dans la Note 5 à l'article et ajout d'un nouvel exemple,
+      transfert de l'exemple 3 dans une nouvelle Note 6 à l'article
+  review_decision_event: published
+ita:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dimensione di una grandezza
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 量の次元
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 양 차원
+  - type: expression
+    designation: 차원
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wymiar wielkości
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: wymiar
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dimensão de grandeza
+  - type: expression
+    normative_status: preferred
+    designation: dimensão
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+srp:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: димензија величине
+  - type: expression
+    designation: димензија
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dimension av en storhet
+  - type: expression
+    designation: dimension
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 112-01-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 量纲
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

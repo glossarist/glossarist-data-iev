@@ -1,0 +1,242 @@
+---
+termid: 121-11-24
+term: linked flux
+ara:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: فيض متواصل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verketteter Fluss
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1998-08-01T00:00:00+00:00'
+  date_amended: '1998-08-01T00:00:00+00:00'
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: linked flux
+  - type: symbol
+    designation: stem:[Ψ]
+    international: true
+  definition: |-
+    scalar line integral of a magnetic vector potential *stem:[A]* along a curve C:
+
+    stem:[Psi = underset(C)( int ) A * d r]
+
+    where d*stem:[r]* is the vector line element
+  language_code: eng
+  notes:
+  - |-
+    For a closed curve C, the linked flux is equal to the magnetic flux through any surface S bounded by the curve:
+
+    stem:[underset(C)( oint ) A * d r = underset(S)( int ) B * e_n d A]
+
+    where *stem:[B]* is the magnetic flux density and *stem:[e]*~n~dstem:[A] the vector surface element.
+  - For a coil with N turns, the linked flux is approximately equal to stem:[NΦ] where
+    stem:[Φ] is the magnetic flux through any surface bounded by one turn.
+  examples: []
+  entry_status: Standard
+  date_accepted: '1998-08-01T00:00:00+00:00'
+  date_amended: '1998-08-01T00:00:00+00:00'
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flujo enlazado
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: magneettivuo
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flux totalisé
+    gender: m
+    plurality: singular
+  definition: |-
+    circulation d’un potentiel vecteur magnétique *stem:[A]* le long d’une courbe C:
+
+    stem:[Psi = underset(C)( int ) A * d r]
+
+    où d*stem:[r]* est l’élément vectoriel d’arc
+  language_code: fra
+  notes:
+  - |-
+    Pour une courbe fermée C, le flux totalisé est égal au flux magnétique à travers toute surface S délimitée par la courbe:
+
+    stem:[underset(C)( oint ) A * d r = underset(S)( int ) B * e_n d A]
+
+    où *stem:[B]* est l’induction magnétique et *stem:[e]*~n~dstem:[A] l’élément vectoriel de surface.
+  - Pour une bobine de stem:[N] tours, le flux totalisé est approximativement égal
+    à stem:[NΦ] où stem:[Φ] est le flux magnétique à travers toute surface délimitée
+    par un tour.
+  examples: []
+  entry_status: Standard
+  date_accepted: '1998-08-01T00:00:00+00:00'
+  date_amended: '1998-08-01T00:00:00+00:00'
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flusso concatenato
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 鎖交磁束
+  - type: expression
+    normative_status: preferred
+    designation: ψ
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+kor:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 연쇄 자속
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nob:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: samordnet fluks
+  language_code: nob
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nno:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: samordna fluks
+  language_code: nno
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: strumień skojarzony
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fluxo totalizado
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+rus:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: потокосцепление
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: укупан флукс
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: magnetiskt samflöde
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 121-11-24
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 磁通链
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

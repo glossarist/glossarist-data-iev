@@ -1,0 +1,189 @@
+---
+termid: 801-22-13
+term: spectrum density level
+ara:
+  id: 801-22-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: مستوى كثافة طيف
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1994-07-01T00:00:00+00:00'
+  date_amended: '1994-07-01T00:00:00+00:00'
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 801-22-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Spektraldichtepegel
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 801-22-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectrum density level
+  - type: expression
+    normative_status: preferred
+    designation: spectrum level
+  definition: level of the limit, as the width of the band approaches zero, of the
+    ratio of a specified quantity distributed within a frequency band to the width
+    of the band
+  language_code: eng
+  notes:
+  - The kind of quantity must be specified, such as by (squared) sound pressure spectrum
+    level.
+  - |-
+    In view of the fact that filters have finite bandwidths, practically the sound pressure spectrum level stem:[L]~ps~ is obtained for the centre frequency of the band by the formula:
+
+    stem:[L_((ps)) = 10 (log)_((10)) ((( p^2 // B )))/((( p_0^2 // B_0 ))) dB]
+
+    where stem:[p] and stem:[p]~0~ are respectively the given field quantity and the reference quantity; stem:[B] et stem:[B]~0~ are respectively the effective bandwidth of the filter and the reference bandwidth of 1 Hz.
+
+    When stem:[L]~p~ is the band pressure level observed through the filter, the above relation reduces to
+
+    stem:[L_((ps)) = L_p - (log)_((10)) ( B // B_0 ) dB]
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '1994-07-01T00:00:00+00:00'
+  date_amended: '1994-07-01T00:00:00+00:00'
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 801-22-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nivel de densidad espectral
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 801-22-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spektritiheystaso
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 801-22-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: niveau de densité spectrale
+    gender: m
+    plurality: singular
+  definition: niveau de la limite du rapport d'une grandeur spécifiée répartie dans
+    une bande de fréquences à la largeur de cette bande, quand la largeur de la bande
+    tend vers zéro
+  language_code: fra
+  notes:
+  - 'La grandeur considérée doit êtrе précisée; exemple: niveau de densité spectrale
+    du carré de la pression acoustique.'
+  - |-
+    Puisque les filtres utilisés ont des largeurs de bande finies, le niveau de densité spectrale stem:[L]~ps~ du carré de la pression acoustique est pratiquement obtenues pour la fréquence médiane de cette bande par la formule:
+
+    stem:[L_((ps)) = 10 (log)_((10)) ((( p^2 // B )))/((( p_0^2 // B_0 ))) dB]
+
+    stem:[p] et stem:[p]~0~ étant respectivement la valeur de la grandeur de champ considérée et la valeur de référence de cette grandeur; stem:[B] et stem:[B]~0~ étant respectivement la largeur de bande effective du filtre et la bande de référence de 1 Hz.
+
+    Lorsque stem:[L]~p~ est le niveau de pression acoustique mesuré dans la bande correspondant au filtre, la relation ci-dessus se réduit à
+
+    stem:[L_((ps)) = L_p - (log)_((10)) ( B // B_0 ) dB]
+  examples: []
+  entry_status: Standard
+  date_accepted: '1994-07-01T00:00:00+00:00'
+  date_amended: '1994-07-01T00:00:00+00:00'
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 801-22-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: livello di densità spettrale
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 801-22-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: スペクトルレベル
+  - type: expression
+    normative_status: preferred
+    designation: スペクトル密度レベル
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+kor:
+  id: 801-22-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 스펙트럼 밀도 수준
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 801-22-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: poziom gęstości widmowej
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 801-22-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nível de densidade espectral
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 801-22-13
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spektral nivå
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

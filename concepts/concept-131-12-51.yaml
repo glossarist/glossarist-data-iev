@@ -1,0 +1,187 @@
+---
+termid: 131-12-51
+term: admittance
+ara:
+  id: 131-12-51
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: السماحية
+  - type: expression
+    designation: السماحية المركبة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 131-12-51
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Admittanz
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: komplexe Admittanz
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 131-12-51
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: admittance
+  - type: expression
+    normative_status: preferred
+    designation: complex admittance
+  - type: symbol
+    designation: stem:[underset(_)(Y)]
+    international: true
+  definition: |-
+    for a passive linear two-terminal element of two-terminal circuit with terminals A and B under sinusoidal conditions, quotient of the phasor stem:[underset(_)(I)] representing the electric current in the element or circuit by the phasor stem:[(underset(_)(U))_((A B))] representing the voltage ({{131-11-56, IEV:131-11-56}}) between the terminals
+
+    stem:[underset(_)(Y) = ((underset(_)(I)))/(((underset(_)(U))_((A B))))]
+
+    where the sinusoidal electric current represented by the phasor stem:[underset(_)(I)] is taken positive if its direction is from A to B or negative if its direction is from B to A and where the sinusoidal voltage stem:[u_((AB)) = v_A - v_B] represented by the phasor stem:[(underset(_)(U))_((A B))] is the difference of the electric potentials at terminals stem:[v_A] at A and stem:[v_A] at B
+  language_code: eng
+  notes:
+  - The admittance of an element or circuit is the inverse of its impedance. It is
+    equal to stem:[v_B], where stem:[G] is conductance for alternating current, stem:[B]
+    is susceptance, stem:[Y] is apparent admittance, and stem:[φ] is displacement
+    angle.
+  - The coherent SI unit of admittance is siemens, S.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-08-01T00:00:00+00:00'
+  date_amended: '2013-08-01T00:00:00+00:00'
+  review_date: '2013-08-01T00:00:00+00:00'
+  review_decision_date: '2013-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 131-12-51
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: admitancia
+  - type: expression
+    designation: admitancia compleja
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 131-12-51
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: admittance
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: admittance complexe
+    gender: f
+    plurality: singular
+  definition: |-
+    pour un bipôle linéaire passif, élémentaire ou non, de bornes A et B, en régime sinusoïdal, quotient du phaseur stem:[underset(_)(I)] représentant le courant électrique dans le bipôle par le phaseur stem:[(underset(_)(U))_((A B))] représentant la tension électrique ({{131-11-56, IEV:131-11-56}}) entre les bornes
+
+    stem:[underset(_)(Y) = ((underset(_)(I)))/(((underset(_)(U))_((A B))))]
+
+    où le courant sinusoïdal représenté par le phaseur stem:[underset(_)(I)] est positif si son sens est de A vers B et négatif si son sens est de B vers A et où la tension sinusoïdale stem:[u_((AB)) = v_A - v_B] représentée par le phaseur stem:[(underset(_)(U))_((A B))] est la différence des potentiels électriques stem:[v_A] en A et stem:[v_B] en B
+  language_code: fra
+  notes:
+  - L’admittance d'un bipôle est l’inverse de son impédance. Elle est égale à stem:[underset(_)(Y)
+    = G + j B = Y e^(- j phi)], où stem:[G] est la conductance en courant alternatif,
+    stem:[B] est la susceptance, stem:[Y] est l’admittance apparente et stem:[φ] est
+    le déphasage tension-courant.
+  - L’unité SI cohérente d’admittance est le siemens, S.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+ita:
+  id: 131-12-51
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ammettenza
+  - type: expression
+    designation: ammettenza complessa
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 131-12-51
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: アドミタンス
+  - type: expression
+    designation: 複素アドミタンス
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 131-12-51
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 어드미턴스
+  - type: expression
+    designation: 복소 어드미턴스
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 131-12-51
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: admitancja
+  - type: expression
+    designation: admitancja zespolona
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 131-12-51
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: admitância
+  - type: expression
+    designation: admitância complexa
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 131-12-51
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 导纳
+  - type: expression
+    designation: 复导纳
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

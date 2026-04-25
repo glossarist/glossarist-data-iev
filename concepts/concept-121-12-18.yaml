@@ -1,0 +1,257 @@
+---
+termid: 121-12-18
+term: effective complex relative permittivity
+ara:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: سماحية ،مجاوزية نسبية مركبة فعالة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: effektive komplexe Permittivitätszahl
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: effektive komplexe relative Permittivität
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '1998-08-01T00:00:00+00:00'
+  date_amended: '1998-08-01T00:00:00+00:00'
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: effective complex relative permittivity
+  - type: symbol
+    designation: stem:[ε]~re~
+    international: true
+  definition: |-
+    under sinusoidal conditions in a medium where the phasors <u>stem:[D]</u>, <u>stem:[E]</u> and <u>stem:[J]</u> representing respectively the electric flux density, the electric field strength and the electric current density are linearly related, complex quantity stem:[ε]~re~ defined by the relation
+
+    stem:[epsilon_0 underset(_)(epsilon)_((re)) underset(_)(E) = underset(_)(D) + ((underset(_)(J)))/((j omega)) = underset(_)(D) - j ((gamma underset(_)(E)))/(omega)]
+
+    where stem:[γ] is the conductivity of the medium, stem:[ω] the angular frequency and stem:[ε]~0~ the electric constant
+  language_code: eng
+  notes:
+  - The effective complex relative permittivity is generally frequency dependent.
+    For an isotropic medium the effective complex relative permittivity is a scalar;
+    for an anisotropic medium it is a tensor.
+  - |-
+    The effective complex relative permittivity and the complex relative permittivity stem:[ε]~r~ are linked by the relation
+
+    stem:[underset(_)(epsilon)_((re)) = underset(_)(epsilon)_r - ((j gamma ))/((epsilon_0 omega))]
+
+    In a conductive medium, including good conductors and imperfect dielectrics, the useful and measurable quantity is the effective complex relative permittivity.
+  - The negative of the imaginary part of the effective complex relative permittivity
+    represents both dielectric losses and losses due to the conductivity, the part
+    due to conductivity being represented by stem:[γ]/stem:[ε]~0~stem:[ω].
+  examples: []
+  entry_status: Standard
+  date_accepted: '1998-08-01T00:00:00+00:00'
+  date_amended: '1998-08-01T00:00:00+00:00'
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permitividad relativa compleja equivalente
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: efektiivinen kompleksinen suhteellinen permittiivisyys
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permittivité relative complexe équivalente
+    gender: f
+    plurality: singular
+  definition: |-
+    en régime sinusoïdal, dans un milieu tel qu'une relation linéaire existe en chaque point entre les phaseurs <u>stem:[D]</u>, <u>stem:[E]</u> et <u>stem:[J]</u> représentant respectivement l'induction électrique, le champ électrique et la densité de courant électrique, grandeur complexe stem:[ε]~re~ définie par la relation
+
+    stem:[epsilon_0 underset(_)(epsilon)_((re)) underset(_)(E) = underset(_)(D) + ((underset(_)(J)))/((j omega)) = underset(_)(D) - j ((gamma underset(_)(E)))/(omega)]
+
+    où stem:[γ] est la conductivité du milieu, stem:[ω] la pulsation et stem:[ε]~0~ la constante électrique
+  language_code: fra
+  notes:
+  - La permittivité relative complexe équivalente, généralement fonction de la fréquence,
+    est une grandeur scalaire dans un milieu isotrope, une grandeur tensorielle dans
+    un milieu anisotrope.
+  - |-
+    La permittivité relative complexe équivalente et la permittivité relative complexe stem:[ε]~r~ sont reliées par la relation
+
+    stem:[underset(_)(epsilon)_((re)) = underset(_)(epsilon)_r - ((j gamma ))/((epsilon_0 omega))]
+
+    Dans les milieux conducteurs, tels que les bons conducteurs et les diélectriques imparfaits, la grandeur utile et mesurable est la permittivité relative complexe équivalente.
+  - L'opposé de la partie imaginaire de la permittivité relative complexe équivalente
+    caractérise l'ensemble des pertes diélectriques et des pertes dues à la conductivité,
+    la contribution de ces dernières étant représentée par stem:[γ]/stem:[ε]~0~stem:[ω].
+  examples: []
+  entry_status: Standard
+  date_accepted: '1998-08-01T00:00:00+00:00'
+  date_amended: '1998-08-01T00:00:00+00:00'
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permettività relativa complessa equivalente
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 実行複素比誘導電率
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 실질적 복소 상대 유전률
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nob:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: effektiv kompleks relativ permittivitet
+  language_code: nob
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nno:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: effektiv kompleks relativ permittivitet
+  language_code: nno
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: przenikalność elektryczna względna zespolona uogólniona
+  - type: expression
+    designation: przenikalność elektryczna uogólniona
+  - type: expression
+    designation: przenikalność elektryczna względna zespolona efektywna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permitividade relativa complexa equivalente
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+rus:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: эффективная комплексная относительная диэлектрическая проницаемость
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ефективна комплексна релативна електрична пропустљивост
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ekvivalent permittivitetstal
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 121-12-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 有效复相对电容率
+  - type: expression
+    designation: 有效复相对介电常数
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

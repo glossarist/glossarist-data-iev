@@ -1,0 +1,171 @@
+---
+termid: 845-21-047
+term: geometric extent
+ara:
+  id: 845-21-047
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: المدى الهندسي لحزمة أشعة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-21-047
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geometrischer Leitwert
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: geometrischer Fluss
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-21-047
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geometric extent
+  - type: symbol
+    designation: "*stem:[G]*"
+    international: true
+  definition: quantity that determines the maximum geometric throughput of radiation
+    transmitted, received or emitted in a single-pass, passive optical arrangement
+  language_code: eng
+  notes:
+  - |-
+    Defining a ray as the confined radiation exchange between two subtended surface area elements dstem:[A] and dstem:[A]′ at distance stem:[l], with normal vectors stem:[n_A] and stem:[n^( ' )_A] and orientation angles stem:[θ] and stem:[θ]′ with respect to a common optical axis, the geometric extent is equal to the action of all possible rays between both surface areas stem:[A] and stem:[A]′. This is expressed by the integral over the product of all projected area elements dstem:[A] cos stem:[θ] and dstem:[A]′ cos stem:[θ]′ weighted by the distance squared to account for the apparent size of the subtending surfaces areas:
+
+    stem:[G = (1)/((l^2)) underset(A)( int ) underset(A^( ' ))( int ) d A cos theta * d A^( ' ) cos theta^( ' ) = int d G]
+
+    with
+
+    stem:[d G \ = ((d A cos theta * d A^( ' ) cos theta^( ' )))/((l^2)) = d A cos Theta * d omega = d A^( ' ) cos theta^( ' ) * d omega^( ' ) = d G^( ' )]
+
+    where dstem:[Ω] and dstem:[Ω]′ are the solid angle elements defining the angular extent of dstem:[A]′ from dstem:[A] and dstem:[A] from dstem:[A]′ respectively.
+  - '"Single-pass" means that the term applies only for radiation transfer in a single
+    defined direction. It does not apply to devices such as Fabry–Pérot cavities.'
+  - See also "<a href="IEV845-21-048">optical extent</a>".
+  - The geometric extent is expressed in square metre times steradian (m^2^·sr).
+  - This entry was numbered 845-01-33 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-21-047
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étendue géométrique
+    gender: f
+    plurality: singular
+  definition: grandeur qui détermine la puissance géométrique maximale de rayonnement
+    transmis, reçu ou émis selon une configuration optique passive monopasse
+  language_code: fra
+  notes:
+  - |-
+    Définissant un rayon comme l'échange de rayonnements confinés entre deux éléments de surface sous-tendus dstem:[A] et dstem:[A]′ à une distance stem:[l], avec les vecteurs normaux stem:[n_A] et stem:[n^( ' )_A] et les angles d'orientation stem:[θ] et stem:[θ]′ par rapport à un axe optique commun, l'étendue géométrique est égale à l'action de tous les rayons possibles entre les deux surfaces stem:[A] et stem:[A]′. Ce phénomène est exprimé par l'intégrale étendue au produit de tous les éléments de surface projetée dstem:[A] cos stem:[θ] et dstem:[A]′ cos stem:[θ] ′ pondérés par la distance au carré afin de tenir compte de la dimension apparente des surfaces correspondantes:
+
+    stem:[G = (1)/((l^2)) underset(A)( int ) underset(A^( ' ))( int ) d A cos theta * d A^( ' ) cos theta^( ' ) = int d G]
+
+    avec
+
+    stem:[d G \ = ((d A cos theta * d A^( ' ) cos theta^( ' )))/((l^2)) = d A cos Theta * d omega = d A^( ' ) cos theta^( ' ) * d omega^( ' ) = d G^( ' )]
+
+    où dstem:[Ω] et dstem:[Ω]′ sont les éléments des angles solides qui définissent l'étendue angulaire de dstem:[A]′ à partir de dstem:[A] et de dstem:[A] à partir de dstem:[A]′ respectivement.
+  - '"Monopasse" signifie que le terme s''applique uniquement au transfert de rayonnement
+    dans une direction définie unique. Il ne s''applique pas à des dispositifs tels
+    que les cavités Fabry–Pérot.'
+  - Voir aussi "<a href="IEV845-21-048">étendue optique</a>".
+  - L'étendue géométrique est exprimée en mètre carré multipliée par le stéradian
+    (m^2^·sr).
+  - Cet article était numéroté 845-01-33 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 845-21-047
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: estensione geometrica
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-21-047
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 光ビームの
+    designation: 幾何学的広がり
+  - type: expression
+    designation: 幾何的広がり
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-21-047
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 기하학 범위
+  - type: expression
+    designation: 전광속
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-21-047
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wskaźnik geometryczny
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-21-047
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: extensão geométrica
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-21-047
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 几何广度
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

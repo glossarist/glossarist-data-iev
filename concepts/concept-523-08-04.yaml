@@ -1,0 +1,158 @@
+---
+termid: 523-08-04
+term: energy harvesting
+deu:
+  id: 523-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Energie-Harvesting
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: Power-Harvesting
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: Energie-Scavenging
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 523-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: energy harvesting
+  - type: expression
+    normative_status: preferred
+    designation: power harvesting
+  - type: expression
+    normative_status: preferred
+    designation: energy scavenging
+  definition: technology by which electric energy is derived from environmental sources
+    and stored in a storage {{device, IEV:151-11-20}}
+  language_code: eng
+  notes:
+  - MEMS technology is often used for typical energy conversion devices. Examples
+    of energy derived from environmental sources are solar energy, thermal energy,
+    wind energy and mechanical vibration energy. Typical storage devices are a {{capacitor,
+    IEV:151-13-28}}, super capacitor, and battery. The important applications for
+    energy harvesting are environmental monitoring systems in wide or remote areas,
+    security systems, building maintenance systems, and factory maintenance systems.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 62047-1:2016
+    clause: 2.8.5
+    link: https://webstore.iec.ch/publication/23992
+    relationship:
+      :type: :identical
+    original: IEC 62047-1:2016, 2.8.5
+  date_accepted: '2018-12-01T00:00:00+00:00'
+  date_amended: '2018-12-01T00:00:00+00:00'
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 523-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: captage d'énergie
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: captage de puissance
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: récupération d'énergie
+    gender: f
+    plurality: singular
+  definition: technologie permettant d'obtenir de l'énergie électrique à partir de
+    sources environnementales et de la stocker dans un {{dispositif, IEV:151-11-20}}
+    de stockage
+  language_code: fra
+  notes:
+  - 'La technologie MEMS est souvent utilisée pour des dispositifs typiques de conversion
+    énergétique. Peuvent être citées, à titre d''exemples, les énergies suivantes
+    issues de sources environnementales: l''énergie solaire, l''énergie thermique,
+    l''énergie éolienne et l''énergie de vibrations mécaniques. Peuvent être cités
+    comme dispositifs typiques de stockage les {{condensateurs, IEV:151-13-28}}, les
+    super condensateurs et les batteries. Les applications importantes du captage
+    d''énergie sont les systèmes de surveillance de l''environnement dans des régions
+    étendues ou dans des régions distantes, les systèmes de sécurité, les systèmes
+    de maintenance de bâtiments et les systèmes de maintenance d''usines.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 62047-1:2016
+    clause: 2.8.5
+    link: https://webstore.iec.ch/publication/23992
+    relationship:
+      :type: :identical
+    original: IEC 62047-1:2016, 2.8.5
+  review_decision_event: published
+jpn:
+  id: 523-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: エネルギーハーベスティング
+  - type: expression
+    designation: パワーハーベスティング
+  - type: expression
+    designation: エネルギースキャベンジング
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 523-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pozyskiwanie energii z otoczenia
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 523-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: captura de energia
+  - type: expression
+    designation: captura de potência
+  - type: expression
+    designation: recuperação de energia
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 523-08-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 能源采集
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

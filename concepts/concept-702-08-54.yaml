@@ -1,0 +1,183 @@
+---
+termid: 702-08-54
+term: spot noise temperature
+ara:
+  id: 702-08-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: منفذ أحادي
+    designation: درجة حرارة بقعة ضوضائية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 702-08-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: eines Eintors
+    designation: Rauschtemperatur
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 702-08-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: of a one-port
+    designation: spot noise temperature
+  definition: exchangeable noise {{power spectral density, IEV:702-04-50}} at a given
+    {{frequency, IEV:103-06-02}} of a {{one-port, IEV:131-12-64}} divided by Boltzmann’s
+    constant
+  language_code: eng
+  notes:
+  - This definition assumes that quantum effects are negligible.
+  - The spot noise temperature has the sign of the real part of the one-port {{impedance,
+    IEV:131-12-43}}. When the real part is positive, the {{exchangeable power, IEV:702-07-11}}
+    becomes the {{available power, IEV:702-07-10}}.
+  - If the one-port has an impedance with a positive real part, its spot noise temperature
+    at a given frequency equals the {{thermodynamic temperature, IEV:113-04-14}} to
+    which a {{resistor, IEV:151-13-19}} equal in value to the real part of the impedance
+    should be brought in order to obtain an available power of {{thermal noise, IEV:702-08-45}}
+    equal to the available noise power of the one-port at the same frequency.
+  - A receiving antenna can be regarded as a one-port when viewed from its {{output
+    port, IEV:131-12-62}}.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2019-10-01T00:00:00+00:00'
+  date_amended: '2019-10-01T00:00:00+00:00'
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 702-08-54:1992-03
+spa:
+  id: 702-08-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temperatura de ruido (de un dispositivo monopuerta)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 702-08-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: d'un monoporte
+    designation: température de bruit
+    gender: f
+    plurality: singular
+  definition: quotient par la constante de Boltzmann de la {{densité spectrale de
+    puissance, IEV:702-04-50}} échangeable de bruit d'un {{monoporte, IEV:131-12-64}}
+    à une {{fréquence, IEV:103-06-02}} donnée
+  language_code: fra
+  notes:
+  - Cette définition suppose que les effets quantiques sont négligeables.
+  - La température de bruit d'un monoporte est de même signe que la partie réelle
+    de son {{impédance, IEV:131-12-43}}. Si celle-ci est positive, la {{puissance
+    échangeable, IEV:702-07-11}} se réduit à la {{puissance disponible, IEV:702-07-10}}.
+  - Si le monoporte a une impédance de partie réelle positive, sa température de bruit
+    à une fréquence donnée est égale à la {{température thermodynamique, IEV:113-04-14}}
+    à laquelle devrait être portée une {{résistance, IEV:151-13-19}} égale à la partie
+    réelle de l'impédance pour obtenir une puissance disponible de {{bruit thermique,
+    IEV:702-08-45}} égale à la puissance disponible de bruit du monoporte à la même
+    fréquence.
+  - Une antenne de réception vue de son {{accès de sortie, IEV:131-12-62}} peut être
+    assimilée à un monoporte.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 702-08-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temperatura di rumore (di un elemento a una porta)
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 702-08-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: スポット雑音温度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 702-08-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 일단자쌍
+    designation: 산탄 잡음 온도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 702-08-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: dwójnika
+    designation: temperatura szumu
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 702-08-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de um monoporto
+    designation: temperatura de ruído
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 702-08-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: brustemperatur
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 702-08-54
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 单端口的
+    designation: 点噪声温度
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

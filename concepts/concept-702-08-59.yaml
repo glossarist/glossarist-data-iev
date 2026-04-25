@@ -1,0 +1,173 @@
+---
+termid: 702-08-59
+term: "(mean) noise factor"
+ara:
+  id: 702-08-59
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: متوسط عامل  الضوضاء
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 702-08-59
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: eines linearen Zweitors
+    designation: mittlerer Rauschfaktor
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 702-08-59
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(mean) noise factor"
+  - type: expression
+    normative_status: preferred
+    designation: "(mean) noise figure"
+  - type: symbol
+    designation: stem:[bar F]
+    international: true
+  definition: the ratio of the total noise power appearing at the output of a given
+    linear two port device within a specified frequency band, to the portion of this
+    power originating from the one-port device connected to the input of the two port
+    device, the noise temperature of the one-port device being assumed equal at all
+    frequencies to the reference thermodynamic temperature conventionally fixed around
+    290 K
+  language_code: eng
+  notes:
+  - |-
+    The mean noise factor stem:[bar F] is related to the mean noise temperature stem:[T] as follows:
+
+    stem:[bar F = 1 + (bar T)/((T_0))]
+
+    where stem:[T]~0~ is the reference thermodynamic temperature.
+  - The value of the mean noise factor may be expressed in decibels. In English the
+    term "noise factor" is generally employed when the ratio is expressed arithmetically
+    and "noise figure" is employed when the ratio is expressed in decibels.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 702-08-59
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: factor de ruido (medio) (de un dispositivo bipuerta lineal)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 702-08-59
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de bruit (moyen)
+    gender: m
+    plurality: singular
+  definition: rapport de la puissance totale du bruit apparaissant à la sortie d'un
+    biporte linéaire donné dans une bande de Fréquences spécifiée à la partie de cette
+    puissance qui provient du monoporte connecté à l'entrée du biporte, la température
+    de bruit du monoporte étant supposée égale, à toute fréquence, à la température
+    thermodynamique de référence fixée conventionnellement au voisinage de 290 K
+  language_code: fra
+  notes:
+  - |-
+    Le facteur de bruit moyen stem:[bar F] d'un biporte est relié à sa température moyenne de bruit stem:[T] par la relation:
+
+    stem:[bar F = 1 + (bar T)/((T_0))]
+
+    où stem:[T]~0~ est la température thermodynamique de référence.
+  - Le facteur de bruit moyen peut s'exprimer en décibels. En anglais, on emploie
+    généralement "noise factor" pour désigner un facteur de bruit exprimé sous forme
+    arithmétique, et "noise figure" lorsqu'il est exprimé en décibels.
+  examples: []
+  entry_status: Standard
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 702-08-59
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cifra di rumore (medio) (di un elemento lineare a due porte)
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 702-08-59
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 線形二端子対デバイスの
+    designation: 平均雑音指数
+  - type: expression
+    normative_status: preferred
+    usage_info: 線形二端子対デバイスの
+    designation: 雑音指数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+kor:
+  id: 702-08-59
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 선형 2-단자쌍 장치
+    designation: 평균 잡음 지수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 702-08-59
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: współczynnik szumu średni (czwórnika liniowego)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 702-08-59
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: factor médio de ruído (de um biporto linear)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

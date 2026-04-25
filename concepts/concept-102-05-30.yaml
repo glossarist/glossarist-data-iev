@@ -1,0 +1,211 @@
+---
+termid: 102-05-30
+term: divergence theorem
+deu:
+  id: 102-05-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Gaußscher Integralsatz
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Satz von Gauß-Ostrogradski
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 102-05-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: divergence theorem
+  - type: expression
+    designation: Gauss theorem
+  - type: expression
+    designation: Ostrogradsky theorem
+  definition: |-
+    for a vector field *stem:[U]* that is given at each point of a three-dimensional domain V limited by a closed surface S having an orientation towards exterior, theorem stating that the volume integral over V of the divergence of the field *stem:[U]* is equal to the flux of this field through the surface S
+
+    stem:[underset(V)( ∭ ) div U d V = underset(S)( ∯ ) U * e_n d A]
+
+    where dstem:[V] is the volume element and *stem:[e]*~n~dstem:[A] is the vector surface element
+  language_code: eng
+  notes:
+  - The divergence theorem can be generalized to the stem:[n]-dimensional Euclidean
+    space.
+  - In electrostatics, the divergence theorem is applied to express that the electric
+    flux through a closed surface is equal to the total electric charge in the domain
+    enclosed by the surface. It is then called "Gauss law".
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 102-05-30:2007-08
+spa:
+  id: 102-05-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: teorema de la divergencia
+  - type: expression
+    normative_status: preferred
+    designation: teorema de Gauss-Ostrogradski
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 102-05-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: théorème de la divergence
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: théorème d'Ostrogradski
+    gender: m
+    plurality: singular
+  definition: |-
+    pour un champ vectoriel *stem:[U]* qui est donné en tout point d’un domaine tridimensionnel V délimité par une surface fermée S orientée vers l’extérieur, théorème énonçant que l’intégrale de volume étendue à V de la divergence du champ *stem:[U]* est égale au flux de ce champ à travers la surface S
+
+    stem:[underset(V)( ∭ ) div U d V = underset(S)( ∯ ) U * e_n d A]
+
+    où dstem:[V] est l’élément de volume et *stem:[e]*~n~dstem:[A] est l'élément vectoriel de surface
+  language_code: fra
+  notes:
+  - Le théorème de la divergence peut être généralisé à l'espace euclidien à stem:[n]
+    dimensions.
+  - En électrostatique, le théorème de la divergence est appliqué pour exprimer que
+    le flux électrique sortant d'une surface fermée est égal à la charge électrique
+    totale contenue dans le domaine délimité par la surface. Il est alors appelé «théorème
+    de Gauss».
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 102-05-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 発散定理
+  - type: expression
+    designation: ガウスの定理
+  - type: expression
+    designation: オストログラツキーの定理
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 102-05-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 발산 정리
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nld:
+  id: 102-05-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: divergentiestelling
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: stelling van Gauss
+    gender: f
+    plurality: singular
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 102-05-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: prawo Gaussa
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 102-05-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: teorema da divergência
+  - type: expression
+    designation: teorema de Gauss
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 102-05-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: теорема о дивергенцији
+  - type: expression
+    designation: Гаусова теорема
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 102-05-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Gauss sats
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 102-05-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 散度定理
+  - type: expression
+    designation: 高斯定理
+  - type: expression
+    designation: 高斯散度定理
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

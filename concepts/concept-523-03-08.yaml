@@ -1,0 +1,133 @@
+---
+termid: 523-03-08
+term: force ratio
+deu:
+  id: 523-03-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Kräfteverhältnis
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: Dehnungsverhältnis
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 523-03-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: force ratio
+  - type: expression
+    normative_status: preferred
+    designation: stress ratio
+  - type: symbol
+    designation: stem:[R]
+    international: true
+  definition: ratio of the {{minimum force, IEV:523-03-02}} (or the minimum stress)
+    to the {{maximum force, IEV:523-03-01}} (or the maximum stress)
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 62047-6:2009
+    clause: '3.13'
+    link: https://webstore.iec.ch/publication/6370
+    relationship:
+      :type: :identical
+    original: IEC 62047-6:2009, 3.13
+  date_accepted: '2018-12-01T00:00:00+00:00'
+  date_amended: '2018-12-01T00:00:00+00:00'
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 523-03-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rapport des forces
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: rapport des contraintes
+    gender: m
+    plurality: singular
+  definition: rapport de la {{force minimale, IEV:523-03-02}} (ou de la contrainte
+    minimale) à la {{force maximale, IEV:523-03-01}} (ou à la contrainte maximale)
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 62047-6:2009
+    clause: '3.13'
+    link: https://webstore.iec.ch/publication/6370
+    relationship:
+      :type: :identical
+    original: IEC 62047-6:2009, 3.13
+  review_decision_event: published
+jpn:
+  id: 523-03-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 力比
+  - type: expression
+    designation: 応力比率
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 523-03-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stosunek sił
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: stosunek naprężeń
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 523-03-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: razão força mínima-força máxima
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 523-03-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 力比
+  - type: expression
+    designation: 应力比
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

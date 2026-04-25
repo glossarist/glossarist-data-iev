@@ -1,0 +1,156 @@
+---
+termid: 192-07-02
+term: maintenance time
+ara:
+  id: 192-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: مدة الصيانة
+  - type: expression
+    designation: فترة الصيانة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ces:
+  id: 192-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: doba údržby
+  language_code: ces
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 192-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Instandhaltungsdauer
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 192-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maintenance time
+  definition: |-
+    duration of maintenance, including active maintenance time, and technical and logistic delays incurred, for a given maintenance action
+
+    image::/assets/images/parts/192/60050-192-F2en.png[Figure 2 - Maintenance times]
+  language_code: eng
+  notes:
+  - In some cases, maintenance may be designed to be carried out while the item is
+    functioning.
+  - Maintenance time excludes fault detection time ({{192-07-11, IEV:192-07-11}})
+    and administrative delay ({{192-07-12, IEV:192-07-12}}).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 192-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tiempo de mantenimiento
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 192-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de maintenance
+    gender: m
+    plurality: singular
+  definition: |-
+    durée de la maintenance, comprenant le temps de maintenance active et les délais techniques et logistiques inhérents, pour une tâche de maintenance donnée
+
+    image::/assets/images/parts/192/60050-192-F2fr.png[Figure 2 - Temps de maintenance]
+  language_code: fra
+  notes:
+  - Dans certains cas, la maintenance peut être conçue pour s’effectuer pendant le
+    fonctionnement de l’entité.
+  - Le temps de détection de panne ({{192-07-11, IEV:192-07-11}}) et le délai administratif
+    ({{192-07-12, IEV:192-07-12}}) ne sont pas inclus dans le temps de maintenance.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 192-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 保全時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 192-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 유지보수 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 192-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: czas trwania obsługiwania
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: czas obsługiwania
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 192-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tempo de manutenção
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 192-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 维修时间
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

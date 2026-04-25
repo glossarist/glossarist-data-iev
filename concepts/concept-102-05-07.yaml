@@ -1,0 +1,197 @@
+---
+termid: 102-05-07
+term: vector surface element
+deu:
+  id: 102-05-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vektorielles Flächenelement
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 102-05-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vector surface element
+  definition: in the three-dimensional Euclidean space, vector normal to a given surface
+    at a given point, the magnitude of which is the scalar surface element at the
+    given point
+  language_code: eng
+  notes:
+  - When the space orientation is defined by a right-handed trihedron, the direction
+    of the vector surface element defines the orientation of the surface at that point
+    as being in the anti-clockwise direction for an observer looking in the direction
+    opposite to that of the vector.
+  - |-
+    For a surface defined by *stem:[r]* = *stem:[f]*(stem:[u], stem:[v]) where stem:[( u , v ) in U sube R^2], the vector surface element is given by
+
+    stem:[((del f))/((del u)) xx ((del f))/((del v)) * d u d v].
+  - A vector surface element is preferably designated by stem:[e_n d A] or sometimes
+    by stem:[n d A], where stem:[e_n = n] is a unit vector normal to the surface and
+    dstem:[A] is a scalar surface element.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2008-08-01T00:00:00+00:00'
+  date_amended: '2008-08-01T00:00:00+00:00'
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 102-05-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: elemento vectorial de superficie
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 102-05-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: élément vectoriel de surface
+    gender: m
+    plurality: singular
+  definition: dans l'espace euclidien à trois dimensions, vecteur normal à une surface
+    donnée en un point donné, dont la norme est l'élément scalaire de surface au point
+    donné
+  language_code: fra
+  notes:
+  - Lorsque l'orientation de l'espace est définie par un trièdre direct, la direction
+    de l'élément vectoriel de surface définit l'orientation de la surface en ce point
+    comme étant dans le sens inverse des aiguilles d'une montre pour un observateur
+    regardant dans la direction opposée de celle du vecteur.
+  - |-
+    Pour une surface définie par *stem:[r]* = *stem:[f]*(stem:[u], stem:[v]), où stem:[( u , v ) in U sube R^2], l'élément vectoriel de surface est
+
+    stem:[((del f))/((del u)) xx ((del f))/((del v)) * d u d v].
+  - Un élément vectoriel de surface est désigné de préférence par stem:[e_n d A] ou
+    parfois par stem:[n d A], où stem:[e_n = n] est un vecteur unité normal à la surface
+    et où dstem:[A] est un élément scalaire de surface.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 102-05-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ベクトル面積素
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 102-05-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 벡터 곡면 원소
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nld:
+  id: 102-05-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vectorieel oppervlakte-element
+    gender: n
+    plurality: singular
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 102-05-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: element różniczkowy wektorowy powierzchni
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 102-05-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: elemento vectorial de superfície
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 102-05-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: векторски елемент површи
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 102-05-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vektoriellt ytelement
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 102-05-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 向量曲面元素
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published

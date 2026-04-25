@@ -1,0 +1,175 @@
+---
+termid: 192-05-05
+term: reliability
+ara:
+  id: 192-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: موثوقية
+  - type: expression
+    designation: عول
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ces:
+  id: 192-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: ukazatel
+    designation: pravděpodobnost bezporuchového provozu
+  language_code: ces
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 192-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: Messgröße
+    designation: Überlebenswahrscheinlichkeit
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 192-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: measure
+    designation: reliability
+  - type: symbol
+    designation: stem:[R](stem:[t]~1~, stem:[t2])
+    international: true
+  definition: probability of performing as required for the time interval (stem:[t]~1~,
+    stem:[t]~2~), under given conditions
+  language_code: eng
+  notes:
+  - 'Given conditions include aspects that affect reliability, such as: mode of operation;
+    stress levels; environmental conditions; and maintenance, where applicable.'
+  - It is usually assumed that the item is in a state to perform as required at the
+    beginning of the time interval.
+  - When stem:[t]~1~ = 0 and stem:[t]~2~ = stem:[t], then stem:[R](0, stem:[t]) is
+    denoted simply as stem:[R](stem:[t]) and termed the reliability function, or survival
+    function of the item. See IEC 61703, _Mathematical expressions for reliability,
+    availability, maintainability and maintenance support terms_, for more details.
+  - See also reliability, &lt;of an item&gt; ({{192-01-24, IEV:192-01-24}}).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 192-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: medida
+    designation: fiabilidad
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 192-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: mesure
+    designation: fiabilité
+    gender: f
+    plurality: singular
+  definition: probabilité de fonctionner tel que requis pendant l’intervalle de temps
+    (stem:[t]~1~, stem:[t]~2~), dans des conditions données
+  language_code: fra
+  notes:
+  - 'Les conditions données incluent les aspects ayant un impact sur la fiabilité,
+    tels que: le mode de fonctionnement, les niveaux de contrainte, les conditions
+    environnementales et la maintenance, le cas échéant.'
+  - En règle générale, l’entité est supposée se trouver dans un état lui permettant
+    d’accomplir la fonction requise au début de l’intervalle de temps.
+  - Si stem:[t]~1~= 0 et stem:[t]~2~ = stem:[t], alors stem:[R](0, stem:[t]) est noté
+    simplement stem:[R](stem:[t]) et est appelé fonction de fiabilité ou fonction
+    de survie de l’entité. Voir l'IEC 61703, _Expressions mathématiques pour les termes
+    de fiabilité, de disponibilité, de maintenabilité et de logistique de maintenance_,
+    pour plus de détails.
+  - Voir aussi fiabilité, &lt;d’une entité&gt; ({{192-01-24, IEV:192-01-24}}).
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 192-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 信頼度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 192-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 측정
+    designation: 신뢰도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 192-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: wskaźnik
+    designation: prawdopodobieństwo działania
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 192-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: medida
+    designation: fiabilidade
+  - type: expression
+    usage_info: medida
+    designation: confiabilidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 192-05-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 量度
+    designation: 可靠度
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

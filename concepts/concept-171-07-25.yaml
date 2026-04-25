@@ -1,0 +1,181 @@
+---
+termid: 171-07-25
+term: irrelevance
+ara:
+  id: 171-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: لاعلاقة
+  - type: expression
+    designation: عدم الإرتباط
+  - type: expression
+    designation: اللاعلاقية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Streuentropie
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Irrelevanz
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: irrelevance
+  - type: expression
+    normative_status: preferred
+    designation: prevarication
+  - type: expression
+    normative_status: preferred
+    designation: spread
+  - type: symbol
+    designation: stem:[H_( - ) ( Y | X )]
+    international: true
+  definition: "{{conditional entropy, IEV:171-07-23}} of a specific set of messages
+    stem:[Y] at a message sink given a specific set of messages stem:[X] at a message
+    source connected to the message sink by a specific channel"
+  language_code: eng
+  notes:
+  - stem:[H_( - ) ( Y | X ) = H_( + ) ( X | Y ) + H ( Y ) - H ( X )] where stem:[H_(
+    + ) ( X | Y )] is {{equivocation, IEV:171-07-24}} and stem:[H] is {{entropy, IEV:171-07-15}}.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-34
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+    original: IEC 80000-13:2008, 13-34, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vääristymä
+  - type: expression
+    designation: hajauma
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: altération
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: mesure de l'incertitude
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: dispersion
+    gender: f
+    plurality: singular
+  definition: "{{entropie conditionnelle, IEV:171-07-23}} d'un ensemble déterminé
+    stem:[Y] de messages reçus par un collecteur de messages lorsque l'on connaît
+    un ensemble déterminé stem:[X] de messages issus d'une source de messages reliée
+    au collecteur par un canal déterminé"
+  language_code: fra
+  notes:
+  - stem:[H_( - ) ( Y | X ) = H_( + ) ( X | Y ) + H ( Y ) - H ( X )] où stem:[H_(
+    + ) ( X | Y )] est l’{{équivoque, IEV:171-07-24}} et stem:[H] est l’{{entropie,
+    IEV:171-07-15}}.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-34
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+    original: IEC 80000-13:2008, 13-34, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+  review_decision_event: published
+jpn:
+  id: 171-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 散布度
+  - type: expression
+    designation: 散布量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: niestosowność
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: rozrzut
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: irrelevância
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 不相关
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

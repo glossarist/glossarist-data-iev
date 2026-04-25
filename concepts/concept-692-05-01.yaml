@@ -1,0 +1,155 @@
+---
+termid: 692-05-01
+term: outage occurrence
+ara:
+  id: 692-05-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: حدث الخروج
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 692-05-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Übergang zur Nichtverfügbarkeit
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 692-05-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: outage occurrence
+  definition: |-
+    transition from an {{up state, IEV:192-02-01}} to a {{disabled state, IEV:192-02-18}}
+
+    image::/assets/images/parts/692/692-fig5-en.png[Figure 5 - Outage occurrence relationships]
+  language_code: eng
+  notes:
+  - The up state could be the {{operating state, IEV:192-02-04}}, the {{standby state,
+    IEV:192-02-10}}, or the {{idle state, IEV:192-02-14}}.
+  - The outage occurrence comprises one or more simultaneous or sequential transitions
+    resulting in the outage of one or more items.
+  - The outage occurrence is a {{failure, IEV:192-03-01}} if the resulting outage
+    is a {{fault, IEV:692-01-06}}.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-12-01T00:00:00+00:00'
+  date_amended: '2017-12-01T00:00:00+00:00'
+  review_date: '2017-12-01T00:00:00+00:00'
+  review_decision_date: '2017-12-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 692-05-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: paso a indisponibilidad
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 692-05-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: survenance d’indisponibilité
+    gender: f
+    plurality: singular
+  definition: |-
+    passage d’un {{état de disponibilité, IEV:192-02-01}} à un {{état d’incapacité, IEV:192-02-18}}
+
+    image::/assets/images/parts/692/692-fig5-fr.png[Figure 5 - Relations entre survenances d’indisponibilité]
+  language_code: fra
+  notes:
+  - L’état de disponibilité peut être l’{{état de fonctionnement, IEV:192-02-04}},
+    l’{{attente, IEV:192-02-10}} ou l’{{état vacant, IEV:192-02-14}}.
+  - La survenance d'indisponibilité est liée à une ou plusieurs transitions, simultanées
+    ou séquentielles, se traduisant par un état d’indisponibilité d'une ou plusieurs
+    entités.
+  - La survenance d'indisponibilité est une {{défaillance, IEV:192-03-01}} si l’état
+    d’incapacité qui en résulte est une {{panne, IEV:692-01-06}}.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 692-05-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 停止
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 692-05-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 정지 발생
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+mon:
+  id: 692-05-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: тасралтын тохиолдол
+  language_code: mon
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 692-05-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wystąpienie wyłączenia
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 692-05-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ocorrência de indisponibilidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 692-05-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 停运事件
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

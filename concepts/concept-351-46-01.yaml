@@ -1,0 +1,206 @@
+---
+termid: 351-46-01
+term: control rise time
+ara:
+  id: 351-46-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: زمن الصعود للتحكم
+  - type: expression
+    normative_status: preferred
+    designation: وقت الوصول لقيمة التحكم
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 351-46-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Anregelzeit
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 351-46-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control rise time
+  - type: symbol
+    designation: stem:[T]~cr~
+    international: true
+  definition: |-
+    duration of the time interval after a stepwise change of the reference variable or a stepwise change of a disturbance variable beginning, when the controlled variable for the first time leaves a specified tolerance band, placed around the desired value of the controlled variable, and ending, when the controlled variable for the first time returns into this tolerance band
+
+    SEE: Figure 11.
+  language_code: eng
+  notes:
+  - This entry was numbered 351-25-01 in IEC 60050-351:2006.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 351-46-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tiempo de subida de control
+    gender: m
+    plurality: singular
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 351-46-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ohjauksen nousuaika
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 351-46-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de montée de commande
+    gender: m
+    plurality: singular
+  definition: |-
+    pour une variation en échelon de la variable de référence ou de la variable perturbatrice, durée de l'intervalle de temps compris entre l'instant où la variable de commande sort, pour la première fois, des limites de la tolérance spécifiée et l'instant où elle rentre de nouveau, pour la première fois, dans les limites de la tolérance spécifiée
+
+    VOIR: Figure 11.
+  language_code: fra
+  notes:
+  - |-
+    Cet article était numéroté 351-25-01 dans la CEI 60050-351:2006.
+
+    <simg>
+
+    *Figure 11 – Typical step responses of a control system for a step of the reference variable (top) and a step of the disturbance variable (bottom)*
+
+    *Figure 11 – Réponses typiques d'un système de commande à un échelon de la variable de référence (haut) et à un échelon de la variable perturbatrice (bas)*</simg>
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 351-46-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tempo di salita di controllo
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 351-46-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 制御立ち上がり時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 351-46-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 제어 상승 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 351-46-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: układu sterowania
+    designation: czas reakcji
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 351-46-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tempo de subida de controlo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 351-46-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 控制上升时间
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published

@@ -1,0 +1,180 @@
+---
+termid: 395-05-43
+term: ambient dose equivalent
+deu:
+  id: 395-05-43
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Umgebungs-Äquivalentdosis
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 395-05-43
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ambient dose equivalent
+  - type: symbol
+    designation: stem:[H]*(stem:[d])
+    international: true
+  definition: dose equivalent at a point in a radiation field, produced by the corresponding
+    aligned and expanded field, in the ICRU sphere at a depth stem:[d], on the radius
+    opposing the direction of the aligned field
+  language_code: eng
+  notes:
+  - In defining these quantities, it is useful to stipulate certain radiation fields
+    that are derived from the actual radiation field. The terms "expanded" and "aligned"
+    are used to characterise these derived radiation fields. In the expanded field,
+    the fluence and its angular and energy distribution have the same values throughout
+    the volume of interest as in the actual field at the point of reference. In the
+    aligned and expanded field, the fluence and its energy distribution are the same
+    as in the expanded field but the fluence is unidirectional.
+  - The ICRU sphere is a 30 cm diameter, tissue-equivalent sphere with a volumic mass
+    of 1 g/cm3 and a mass composition of tissue equivalent material (see 393-14-78).
+  - The recommended depth stem:[d], for environmental monitoring in terms of stem:[H]*(stem:[d])
+    is 10 mm, and stem:[H]*(stem:[d]) may then be written as stem:[H]*(10).
+  - An instrument that has an isotropic response and is calibrated in terms of stem:[H]*(stem:[d])
+    will measure stem:[H]*(stem:[d]) in any radiation fields that are uniform over
+    the dimensions of the instrument.
+  - The definition of stem:[H]*(stem:[d]) requires the design of the instrument to
+    take account of backscatter.
+  - This entry was numbered 393-14-95 in IEC 60050-393:2003.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: ICRU Report 39
+    relationship:
+      :type: :identical
+    original: ICRU Report 39
+  date_accepted: '2014-03-01T00:00:00+00:00'
+  date_amended: '2014-03-01T00:00:00+00:00'
+  review_date: '2014-03-01T00:00:00+00:00'
+  review_decision_date: '2014-03-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 395-05-43
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dosis equivalente ambiental
+    gender: m
+    plurality: singular
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 395-05-43
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: équivalent de dose ambiant
+    gender: m
+    plurality: singular
+  definition: équivalent de dose en un point d'un champ de rayonnement, qui serait
+    produit par le champ unidirectionnel et expansé correspondant dans la sphère de
+    l’ICRU à une profondeur stem:[d], sur le rayon qui fait face à la direction du
+    champ unidirectionnel
+  language_code: fra
+  notes:
+  - Afin de définir ces grandeurs, il est utile de spécifier certains champs de rayonnements
+    qui sont dérivés du champ de rayonnement réel. Les termes "expansé" et "unidirectionnel"
+    sont utilisés pour caractériser ces champs dérivés. Dans le champ expansé, la
+    fluence et ses distributions angulaire et énergétique ont les mêmes valeurs dans
+    tout le volume d'intérêt, comme dans le champ réel au point de référence. Dans
+    le champ unidirectionnel et expansé, la fluence et sa distribution énergétique
+    sont les mêmes que dans le champ expansé mais la fluence est unidirectionnelle.
+  - La sphère de l’ICRU est une sphère en matériau équivalent au tissu, de masse volumique
+    1 g/cm3 et de 30 cm de diamètre, dont la composition massique est celle du tissu
+    équivalent (voir 393-14-78).
+  - La profondeur recommandée stem:[d], pour la surveillance dosimétrique en termes
+    de stem:[H]*(stem:[d]) est 10 mm, et stem:[H]*(stem:[d]) peut alors s’écrire stem:[H]*(10).
+  - Un instrument qui a une réponse isotrope et qui est étalonné en termes de stem:[H]*(stem:[d])
+    mesurera stem:[H]*(stem:[d]) dans tous les champs de rayonnement, à condition
+    que ceux-ci soient uniformes sur le volume de l'instrument.
+  - La définition de stem:[H]*(stem:[d]) suppose un instrument conçu pour que la rétrodiffusion
+    soit prise en considération.
+  - Cet article était numéroté 393-14-95 dans la CEI 60050-393:2003.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: ICRU Report 39
+    relationship:
+      :type: :identical
+    original: ICRU Report 39
+  review_decision_event: published
+ita:
+  id: 395-05-43
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equivalente di dose ambientale
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 395-05-43
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 周辺線量当量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 395-05-43
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 주위 선량당량
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 395-05-43
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: przestrzenny równoważnik dawki
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 395-05-43
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equivalente de dose ambiente
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 395-05-43
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 周围剂量当量
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

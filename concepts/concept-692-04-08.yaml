@@ -1,0 +1,160 @@
+---
+termid: 692-04-08
+term: sustained outage
+ara:
+  id: 692-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: خروج ممتد
+  - type: expression
+    designation: خروج مستمر
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 692-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: länger anhaltende Nichtverfügbarkeit
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 692-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sustained outage
+  definition: |-
+    {{unplanned outage, IEV:692-04-04}} where the associated equipment is not automatically returned to service within a specified time interval
+
+    image::/assets/images/parts/692/692-fig4-en.png[Figure 4 - Outage relationships]
+  language_code: eng
+  notes:
+  - A sustained outage can be either a {{forced outage, IEV:692-04-05}} or a {{deferrable
+    outage, IEV:692-04-06}}.
+  - A sustained outage includes {{permanent outages, IEV:692-04-09}} and {{temporary
+    outages, IEV:692-04-10}}.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-12-01T00:00:00+00:00'
+  date_amended: '2017-12-01T00:00:00+00:00'
+  review_date: '2017-12-01T00:00:00+00:00'
+  review_decision_date: '2017-12-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 692-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indisponibilidad sostenida
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 692-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indisponibilité durable
+    gender: f
+    plurality: singular
+  definition: |-
+    {{indisponibilité fortuite, IEV:692-04-04}} pour laquelle le matériel associé n’est pas remis automatiquement en service dans un intervalle de temps spécifié
+
+    image::/assets/images/parts/692/692-fig4-fr.png[Figure 4 - Relations entre indisponibilités]
+  language_code: fra
+  notes:
+  - Une indisponibilité durable peut être une {{indisponibilité non différable, IEV:692-04-05}}
+    ou une {{indisponibilité différable, IEV:692-04-06}}.
+  - Une indisponibilité durable peut être une {{indisponibilité permanente, IEV:692-04-09}}
+    ou une {{indisponibilité temporaire, IEV:692-04-10}}.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 692-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 継続停止
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 692-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 지속 정지
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+mon:
+  id: 692-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: үргэлжилсэн тасралт
+  language_code: mon
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 692-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wyłączenie trwałe
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: odstawienie trwałe
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: odstawienie utrzymujące się
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 692-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indisponibilidade duradoura
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 692-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 持续停运
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,204 @@
+---
+termid: 351-50-31
+term: dead-time element
+ara:
+  id: 351-50-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: عنصر عدم الاستجابة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 351-50-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Totzeitglied
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 351-50-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dead-time element
+  definition: linear time-invariant transfer element the output variable of which
+    reproduces the input variable shifted by an interval equal to the dead time
+  language_code: eng
+  notes:
+  - "The transfer function of a dead-time element is given by\n\nstem:[((V ( s )))/((U
+    ( s ))) = e^(- s * T_t)]\n\nwhere<table>\r\n<tr>\n<td>\nstem:[T]~t~\n</td>\n<td>is
+    the dead time;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>is the complex variable
+    of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n<td>is
+    the input transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n<td>is
+    the output transform.</td>\n</tr>\r\n</table>"
+  - Transportation lags of mass, energy or information are described by dead-time
+    elements.
+  - This entry was numbered 351-28-42 in IEC 60050-351:2006.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 351-50-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: elemento de retardo puro
+    gender: m
+    plurality: singular
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 351-50-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: viivästyselementti
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 351-50-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: élément à temps mort
+    gender: m
+    plurality: singular
+  definition: élément de transfert linéaire invariant dans le temps dont la variable
+    de sortie reproduit la variable d'entrée avec un décalage temporel égal au temps
+    mort
+  language_code: fra
+  notes:
+  - "La fonction de transfert d'un élément à temps mort est donnée par\n\nstem:[((V
+    ( s )))/((U ( s ))) = e^(- s * T_t)]\n\noù<table>\r\n<tr>\n<td>\nstem:[T]~t~\n</td>\n<td>est
+    le temps mort;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>est la variable complexe
+    de la transformée de Laplace;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n<td>est
+    la transformée de la variable d’entrée;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n<td>est
+    la transformée de la variable de sortie.</td>\n</tr>\r\n</table>"
+  - Les retards dans le transport de masses, d’énergie ou d’informations sont décrits
+    par des éléments à temps mort.
+  - Cet article était numéroté 351-28-42 dans la CEI 60050-351:2006.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 351-50-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: elemento di tempo morto
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 351-50-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 遅れ時間要素
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 351-50-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 불감 시간 요소
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 351-50-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: element opóźniający
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 351-50-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: elemento de tempo morto
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 351-50-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 时滞元件
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published

@@ -1,0 +1,221 @@
+---
+termid: 102-05-31
+term: Stokes theorem
+deu:
+  id: 102-05-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Stokesscher Integralsatz
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 102-05-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Stokes theorem
+  - type: expression
+    designation: circulation theorem
+  definition: |-
+    for a vector field *stem:[U]* that is given at each point of a surface S limited by an oriented closed curve C, theorem stating that the surface integral over S of the rotation of the field *stem:[U]* is equal to the circulation of this field along the curve C
+
+    stem:[underset(S)( ∬ ) rot U * e_n d A = underset(C)( oint ) U * d r]
+
+    where *stem:[e]*~n~dstem:[A] is the vector surface element and d*stem:[r]* is the vector line element
+  language_code: eng
+  notes:
+  - The orientation of the surface S with respect to the curve C is chosen such that,
+    at any point of C, the vector line element, the unit vector normal to S and defining
+    its orientation, and the unit vector normal to these two vectors and oriented
+    towards the exterior of the curve, form a right-handed or a left-handed trihedron
+    according to space orientation.
+  - The Stokes theorem can be generalized to the stem:[n]-dimensional Euclidean space.
+  - In magnetostatics, the Stokes theorem is applied to express that the magnetic
+    flux through the surface S is equal to the circulation over C of the magnetic
+    vector potential. This circulation defines the linked flux. See {{IEV 121-11-24,
+    IEV:121-11-24}}.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2008-08-01T00:00:00+00:00'
+  date_amended: '2008-08-01T00:00:00+00:00'
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 102-05-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: teorema de la circulación
+  - type: expression
+    normative_status: preferred
+    designation: teorema de Ampère-Stokes
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 102-05-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: théorème de Stokes
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: théorème d'Ampère-Stokes
+    gender: m
+    plurality: singular
+  definition: |-
+    pour un champ vectoriel *stem:[U]* qui est donné en tout point d'une surface S délimitée par une courbe fermée orientée C, théorème énonçant que l’intégrale de surface étendue à S du rotationnel du champ *stem:[U]* est égal à l’intégrale curviligne de ce champ le long de la courbe C
+
+    stem:[underset(S)( ∬ ) rot U * e_n d A = underset(C)( oint ) U * d r]
+
+    où *stem:[e]*~n~dstem:[A] est l’élément vectoriel de surface et d*stem:[r]* est l’élément vectoriel d’arc
+  language_code: fra
+  notes:
+  - L'orientation de la surface S par rapport à la courbe C est choisie de façon que,
+    en tout point de la courbe, l'élément vectoriel d'arc, le vecteur unité normal
+    à la surface qui détermine son orientation, et le vecteur unité normal à ces deux
+    vecteurs et orienté vers l'extérieur de la courbe, forment un trièdre direct ou
+    rétrograde selon l'orientation de l'espace.
+  - Le théorème de Stokes peut être généralisé à l'espace euclidien à stem:[n] dimensions.
+  - En magnétostatique, le théorème de Stokes est appliqué pour exprimer que le flux
+    magnétique à travers la surface S est égal à l'intégrale curviligne du potentiel
+    vecteur magnétique le long de la courbe C. Cette intégrale curviligne définit
+    le flux totalisé. Voir {{IEV 121-11-24, IEV:121-11-24}}.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 102-05-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ストークスの定理
+  - type: expression
+    normative_status: preferred
+    designation: 循環―回転定理
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 102-05-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 스토크스 정리
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nld:
+  id: 102-05-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stelling van Stokes
+    gender: f
+    plurality: singular
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 102-05-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: twierdzenie Stokesa
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 102-05-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: teorema de Stokes
+  - type: expression
+    normative_status: preferred
+    designation: teorema da circulação
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+srp:
+  id: 102-05-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Стоксова теорема
+  - type: expression
+    designation: теорема циркулације
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 102-05-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Stokes sats
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 102-05-31
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 斯托克斯定理
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published

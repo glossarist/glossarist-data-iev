@@ -1,0 +1,155 @@
+---
+termid: 447-04-09
+term: output break circuit
+ara:
+  id: 447-04-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: دائرة خرج فاصلة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 447-04-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Ausgangskreis mit Öffnerfunktion
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Ausschaltkreis
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 447-04-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: output break circuit
+  definition: "{{output circuit, IEV:447-04-01}} that, when the {{measuring relay,
+    IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}} is in its {{operate
+    condition, IEV:447-02-01}}, either is opened by a contact or is effectively non-conducting,
+    and when the relay is in its {{reset condition, IEV:447-02-02}}, either is closed
+    by a contact or is effectively conducting"
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-444:2002
+    clause: 444-04-16
+    link: https://webstore.iec.ch/publication/208
+    relationship:
+      :type: :modified
+      :modification: '"relay" has been replaced by "measuring relay or protection
+        equipment", "release" has been replaced by "reset".'
+    original: IEC 60050-444:2002, 444-04-16, modified – "relay" has been replaced
+      by "measuring relay or protection equipment", "release" has been replaced by
+      "reset".
+  date_accepted: '2020-05-01T00:00:00+00:00'
+  date_amended: '2020-05-01T00:00:00+00:00'
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 447-04-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: circuit de sortie de repos
+    gender: m
+    plurality: singular
+  definition: "{{circuit de sortie, IEV:447-04-01}} qui est soit ouvert par un contact
+    ou bloqué quand le {{relais de mesure, IEV:447-01-02}} ou l'{{équipement de protection,
+    IEV:447-01-49}} est à l'{{état de travail, IEV:447-02-01}} et qui est soit fermé
+    par un contact ou passant quand le relais ou l'équipement est à l'{{état de repos,
+    IEV:447-02-02}}"
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-444:2002
+    clause: 444-04-16
+    link: https://webstore.iec.ch/publication/208
+    relationship:
+      :type: :modified
+      :modification: '"relais" a été remplacé par "relais de mesure ou dispositif
+        de protection". L''ordre des mots a été modifié afin de rendre la définition
+        plus compréhensible.'
+    original: IEC 60050-444:2002, 444-04-16, modifié – "relais" a été remplacé par
+      "relais de mesure ou dispositif de protection". L'ordre des mots a été modifié
+      afin de rendre la définition plus compréhensible.
+  review_decision_event: published
+jpn:
+  id: 447-04-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ブレーク出力回路
+  - type: expression
+    designation: b接点回路
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 447-04-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 출력차단회로
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 447-04-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: obwód wyjściowy rozwierny
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: obwód wyjściowy otwierany
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 447-04-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: circuito de saída de repouso
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 447-04-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 动断输出电路
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

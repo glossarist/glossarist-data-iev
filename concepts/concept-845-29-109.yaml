@@ -1,0 +1,162 @@
+---
+termid: 845-29-109
+term: relative optical air mass
+ara:
+  id: 845-29-109
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: كتلة الهواء البصرية النسبية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-29-109
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative optische Luftmasse
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-29-109
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative optical air mass
+  - type: symbol
+    designation: stem:[m]
+    international: true
+  definition: |-
+    quotient of the <a href="IEV845-29-106">optical thickness</a> of the atmosphere at angle stem:[ε] to the vertical, stem:[δ](stem:[ε]), and the vertical optical thickness, stem:[δ](0°), of the atmosphere
+
+    stem:[m = ((delta ( epsilon )))/((delta ( 0 ° )))]
+  language_code: eng
+  notes:
+  - See also "<a href="IEV845-29-106">optical thickness</a>".
+  - |-
+    Several equations are available to express this concept. Usually the Kasten–Young formula is used:
+
+    stem:[m = (1)/((sin\ gamma_s \ + \ 0, 5 0 5\ 72 ( gamma_s \ + \ 6 ,0 79\ 95 )^(- 1 , 636 4)))]
+
+    where stem:[γ]~s~ (= 90° − stem:[ε]) is solar altitude (complementary angle of zenith angle, stem:[ε]) in degree.
+  - |-
+    When the curvature of the atmosphere and atmospheric refraction are neglected:
+
+    stem:[m = (1)/((cos epsilon))].
+  - The relative optical air mass has unit one.
+  - This entry was numbered 845-09-88 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-29-109
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: masse d'air optique relative
+    gender: f
+    plurality: singular
+  definition: |-
+    quotient de l'<a href="IEV845-29-106">épaisseur optique</a> de l'atmosphère à l'angle stem:[ε] par rapport à la verticale, stem:[δ](stem:[ε]), par l'épaisseur optique verticale, stem:[δ](0°), de l'atmosphère
+
+    stem:[m = ((delta ( epsilon )))/((delta ( 0 ° )))]
+  language_code: fra
+  notes:
+  - Voir aussi "<a href="IEV845-29-106">épaisseur optique</a>".
+  - |-
+    Plusieurs équations permettent d'exprimer ce concept. Généralement, la formule de Kasten–Young est utilisée:
+
+    stem:[m = (1)/((sin\ gamma_s \ + \ 0, 5 0 5\ 72 ( gamma_s \ + \ 6 ,0 79\ 95 )^(- 1 , 636 4)))]
+
+    où stem:[γ]~s~ (= 90° − stem:[ε]) est l'altitude solaire (angle complémentaire de l'angle zénithal, stem:[ε]) en degré.
+  - |-
+    Lorsque la courbure de l'atmosphère et la réfraction atmosphérique sont négligées:
+
+    stem:[m = (1)/((cos epsilon))].
+  - L'unité de la masse d'air optique relative est un.
+  - Cet article était numéroté 845-09-88 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 845-29-109
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: massa ottica relativa dell'aria
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-29-109
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 光学的空気量
+  - type: expression
+    designation: 大気路程
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-29-109
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 상대 광 대기노정
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-29-109
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gęstość optyczna atmosfery względna
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-29-109
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: massa de ar óptica relativa
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-29-109
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 相对大气光学质量
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

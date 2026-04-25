@@ -1,0 +1,159 @@
+---
+termid: 702-07-39
+term: error ratio
+ara:
+  id: 702-07-39
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: نسبة الخطأ
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 702-07-39
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Fehlerquote
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 702-07-39
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error ratio
+  - type: expression
+    normative_status: deprecated
+    designation: error rate
+  definition: ratio of the number of erroneous received elements of a message to the
+    total number of elements transmitted during a given {{time interval, IEV:113-01-10}}
+  language_code: eng
+  notes:
+  - The elements can be, for example, {{digits, IEV:702-05-02}}, {{code words, IEV:702-05-17}}
+    or {{blocks, IEV:721-03-11}}.
+  examples:
+  - "{{bit error ratio, IEV:704-18-04}}, {{digit error ratio, IEV:721-08-11}}, {{block
+    error ratio, IEV:721-08-13}}"
+  entry_status: Standard
+  classification: Deprecated
+  date_accepted: '2018-09-01T00:00:00+00:00'
+  date_amended: '2018-09-01T00:00:00+00:00'
+  review_date: '2018-09-01T00:00:00+00:00'
+  review_decision_date: '2018-09-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 702-07-39:1992-03
+spa:
+  id: 702-07-39
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tasa de error
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 702-07-39
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taux d'erreurs
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: deprecated
+    designation: rapport d'erreur
+    gender: m
+    plurality: singular
+  definition: rapport du nombre d'éléments erronés dans un message reçu au nombre
+    total d'éléments émis pendant un {{intervalle de temps, IEV:113-01-10}} déterminé
+  language_code: fra
+  notes:
+  - Les éléments peuvent être, par exemple, des {{éléments numériques, IEV:702-05-02}},
+    des {{codets, IEV:702-05-17}} ou des {{blocs, IEV:721-03-11}}.
+  examples:
+  - "{{taux d'erreur binaire, IEV:704-18-04}}, {{taux d'erreurs sur les éléments numériques,
+    IEV:721-08-11}}, {{taux d'erreurs sur les blocs, IEV:721-08-13}}"
+  entry_status: Standard
+  classification: Deprecated
+  review_decision_event: published
+ita:
+  id: 702-07-39
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tasso di errore
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 702-07-39
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 誤り比
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 702-07-39
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 오류비
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 702-07-39
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stopa błędów
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 702-07-39
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taxa de erros
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 702-07-39
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: felkvot
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,190 @@
+---
+termid: 845-24-017
+term: distribution temperature
+ara:
+  id: 845-24-017
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: لمشع حرارى عند نطاق طول موجى محدد
+    designation: توزبع درجات الحرارة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-24-017
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: einer Quelle in einem gegebenen Wellenlängenbereich, <i
+    designation: Verteilungstemperatur
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-24-017
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: of a source in a given wavelength range, <i
+    designation: distribution temperature
+  - type: symbol
+    designation: stem:[T]~D~
+    international: true
+  definition: |-
+    temperature of the Planckian radiator whose <a href="IEV845-21-030">relative spectral distribution</a>, stem:[S](stem:[λ]) is the same or nearly the same as that of the radiation considered in the spectral range of interest for which the following integral is minimized by adjustment of stem:[a] and stem:[T]:
+
+    stem:[int_((lambda_1))^((lambda_2)) 1 - ((S_t ( lambda )))/((a S_b ( lambda , T )))^2 d lambda]
+
+    where stem:[λ] is the wavelength, stem:[S]~t~(stem:[λ]) is the <a href="IEV845-21-030">relative spectral distribution</a> of the radiation being considered, stem:[S]~b~(stem:[λ], stem:[T]) is the relative spectral distribution of the Planckian radiator at temperature stem:[T], and stem:[a] is a scaling factor
+  language_code: eng
+  notes:
+  - |-
+    The scaling factor stem:[a] is chosen to make the quotient stem:[((S_t ( lambda )))/((S_b ( lambda , T )))] equal to unity at a convenient wavelength which, in photometry and colorimetry is typically 560 nm.
+
+    stem:[S_b ( lambda , T ) = ((P ( lambda , T )))/((P ( 560 nm , T )))]
+
+    with stem:[P ( lambda , T ) = lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)], where stem:[c]~2~ is the second radiation constant.
+  - Distribution temperature is a meaningful characteristic for radiators having a
+    <a href="IEV845-21-030">relative spectral distribution</a> similar to that of
+    a Planckian radiator, but only if calculated for an expanded wavelength range
+    and for radiation whose <a href="IEV845-21-029">spectral distribution</a> of radiant
+    flux is a continuous function of wavelength in that range.
+  - In photometry and colorimetry the wavelength range set by stem:[λ]~1~ and stem:[λ]~2~
+    is the visible spectral range, and in these cases the range from at least stem:[λ]~1~
+    = 400 nm to stem:[λ]~2~ = 750 nm is recommended.
+  - In practice, the integral is replaced by a summation. For <a href="IEV845-27-011">incandescent
+    lamps</a>, equally spaced wavelength intervals of 10 nm will usually suffice.
+    All values in the summation are treated with equal weight.
+  - The distribution temperature is expressed in kelvin (K).
+  - For further information, see CIE 114-1994, _CIE Collection in Photometry and Radiometry
+    – 114/4 Distribution Temperature and Ratio Temperature_.
+  - This entry was numbered 845-04-14 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-24-017
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: d'une source dans une plage de longueurs d'onde donnée, <i
+    designation: température de répartition
+    gender: f
+    plurality: singular
+  definition: |-
+    température du radiateur de Planck dont la <a href="IEV845-21-030">répartition spectrale relative</a>, stem:[S](stem:[λ]) est la même, ou à peu près la même, que celle du rayonnement pris en considération dans le domaine spectral concerné pour lequel l'intégrale suivante est réduite le plus possible par ajustement de stem:[a] et de stem:[T]:
+
+    stem:[int_((lambda_1))^((lambda_2)) 1 - ((S_t ( lambda )))/((a S_b ( lambda , T )))^2 d lambda]
+
+    où stem:[λ] est la longueur d'onde, stem:[S]~t~(stem:[λ]) est la répartition spectrale relative du rayonnement pris en considération, stem:[S]~b~(stem:[λ], stem:[T]) est la répartition spectrale relative du radiateur de Planck à la température stem:[T], et stem:[a] est un facteur d'échelle
+  language_code: fra
+  notes:
+  - |-
+    Le facteur d'échelle stem:[a] est choisi de sorte que le quotient stem:[((S_t ( lambda )))/((S_b ( lambda , T )))] soit égal à un à une longueur d'onde adaptée, généralement de 560 nm en photométrie et en colorimétrie.
+
+    stem:[S_b ( lambda , T ) = ((P ( lambda , T )))/((P ( 560 nm , T )))] avec stem:[P ( lambda , T ) = lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)], où stem:[c]~2~ est la seconde constante de rayonnement.
+  - La température de répartition est une caractéristique significative des radiateurs
+    dont la <a href="IEV845-21-030">répartition spectrale relative</a> est similaire
+    à celle d'un radiateur de Planck, mais uniquement si elle est calculée pour une
+    plage de longueurs d'onde étendue et pour un rayonnement dont la <a href="IEV845-21-029">répartition
+    spectrale</a> du flux énergétique est une fonction continue de la longueur d'onde
+    dans cette plage.
+  - En photométrie et en colorimétrie, la plage de longueurs d'onde définie par stem:[λ]~1~
+    et stem:[λ]~2~ est le domaine spectral visible, et, dans ces cas, la plage comprise
+    entre au moins stem:[λ]~1~ = 400 nm et stem:[λ]~2~ = 750 nm est recommandée.
+  - Dans la pratique, l'intégrale est remplacée par une sommation. Pour des <a href="IEV845-27-011">lampes
+    à incandescence</a>, des intervalles de longueurs d'onde également répartis de
+    10 nm sont habituellement suffisants. Toutes les valeurs de la sommation sont
+    traitées de manière égale.
+  - La température de répartition est exprimée en kelvin (K).
+  - Pour de plus amples informations, voir CIE 114-1994, _CIE Collection in Photometry
+    and Radiometry – 114/4 Distribution Temperature and Ratio Temperature_.
+  - Cet article était numéroté 845-04-14 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 845-24-017
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: di una sorgente per un intervallo di lunghezza dato, da <i
+    designation: temperatura di distribuzione
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-24-017
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 分布温度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-24-017
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 파장 범위
+    designation: 분포 온도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-24-017
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: źródła w przedziale długości fal od <i
+    designation: temperatura rozkładu
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-24-017
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de uma fonte, num determinado intervalo de comprimentos de onda, 1λ
+      até 2λ
+    designation: temperatura de distribuição
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-24-017
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 考虑的波长范围 1λ至2λ的
+    designation: 分布温度
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

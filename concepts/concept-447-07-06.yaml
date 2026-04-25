@@ -1,0 +1,150 @@
+---
+termid: 447-07-06
+term: reset ratio
+ara:
+  id: 447-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: نسبة الرجوع
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 447-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Rücksetzverhältnis
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 447-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reset ratio
+  definition: |-
+    ratio of a {{reset value, IEV:447-02-12}} to an {{operate value, IEV:447-02-10}}
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig1-en-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig1-en-4web"> <area title="initial condition" href="IEV447-02-03" shape="rect" coords="220,63,123,95" target="_self" alt="initial condition"> <area title="characteristic quantity (for under... relay)" href="IEV447-01-24" shape="rect" coords="114,109,3,144" target="_self" alt="characteristic quantity for under relay"> <area title="operate value" href="IEV447-02-10" shape="rect" coords="139,149,196,187" target="_self" alt="operate value"> <area title="operate value" href="IEV447-02-10" shape="rect" coords="195,214,142,247" target="_self" alt="operate value"> <area title="characteristic quantity (for over... relay)" href="IEV447-01-23" shape="rect" coords="3,258,113,294" target="_self" alt="characteristic quantity for over relay"> <area title="operate signal" href="IEV447-04-14" shape="rect" coords="32,357,118,385" target="_self" alt="operate signal"> <area title="operate time" href="IEV447-05-05" shape="rect" coords="215,401,268,426" target="_self" alt="operate time"> <area title="operate" href="IEV447-02-04" shape="rect" coords="245,17,296,42" target="_self" alt="operate"> <area title="operate condition" href="IEV447-02-01" shape="rect" coords="304,68,395,84" target="_self" alt="operate condition"> <area title="disengage value" href="IEV447-02-18" shape="rect" coords="312,149,402,168" target="_self" alt="disengage value"> <area title="disengage value" href="IEV447-02-18" shape="rect" coords="314,234,403,252" target="_self" alt="disengage value"> <area title="disengage" href="IEV447-02-17" shape="rect" coords="434,14,506,33" target="_self" alt="disengage"> <area title="disengage condition" href="IEV447-02-20" shape="rect" coords="473,65,581,81" target="_self" alt="disengage condition"> <area title="disengage hysteresis" href="IEV447-07-14" shape="rect" coords="476,154,599,170" target="_self" alt="disengage hysteresis"> <area title="disengage hysteresis" href="IEV447-07-14" shape="rect" coords="474,228,599,247" target="_self" alt="disengage hysteresis"> <area title="disengage time" href="IEV447-05-10" shape="rect" coords="413,398,478,427" target="_self" alt="disengage time"></map>
+
+    *Figure 1 – Explanatory diagram for operate condition*
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig2a-en-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig2a-en-4web"> <area title="characteristic quantity (for under... relay)" href="IEV447-01-24" shape="rect" coords="77,76,201,106" target="_self" alt="characteristic quantity under relay"> <area title="characteristic quantity (for over... relay)" href="IEV447-01-23" shape="rect" coords="74,213,205,245" target="_self" alt="characteristic quantity over relay"> <area title="reset" href="IEV447-02-05" shape="rect" coords="519,3,555,18" target="_self" alt="reset"> <area title="reset condition" href="IEV447-02-02" shape="rect" coords="543,41,624,59" target="_self" alt="reset condition"> <area title="reset value" href="IEV447-02-12" shape="rect" coords="381,106,446,123" target="_self" alt="reset value"> <area title="reset value" href="IEV447-02-12" shape="rect" coords="383,195,454,212" target="_self" alt="reset value"> <area title="reset time" href="IEV447-05-06" shape="rect" coords="488,398,528,429" target="_self" alt="reset time">
+    <area title="output signals" href="IEV447-04-03" shape="rect" coords="118,309,200,324" target="_self" alt="output signals"></map>
+
+    *a) Output circuits are fully reset before all internal status are reset*
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig2b-en-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig2b-en-4web"> <area title="characteristic quantity (for under... relay)" href="IEV447-01-24" shape="rect" coords="80,73,207,112" target="_self" alt="characteristic quantity (for under... relay)"> <area title="characteristic quantity (for over... relay)" href="IEV447-01-23" shape="rect" coords="81,214,207,248" target="_self" alt="characteristic quantity (for over... relay)"> <area title="reset value" href="IEV447-02-12" shape="rect" coords="393,109,458,126" target="_self" alt="reset value"> <area title="reset value" href="IEV447-02-12" shape="rect" coords="397,199,467,214" target="_self" alt="reset value"> <area title="reset" href="IEV447-02-05" shape="rect" coords="543,7,577,26" target="_self" alt="reset"> <area title="reset condition" href="IEV447-02-02" shape="rect" coords="565,50,652,66" target="_self" alt="reset condition"> <area title="reset time" href="IEV447-05-06" shape="rect" coords="497,413,557,427" target="_self" alt="reset time">
+    <area title="output signals" href="IEV447-04-03" shape="rect" coords="" target="_self" alt="output signals"></map>
+
+    *b) Output circuits are fully reset after all internal status are reset*
+
+    *Figure 2 – Explanatory diagram for reset condition*</simg></simg></simg>
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-05-01T00:00:00+00:00'
+  date_amended: '2020-05-01T00:00:00+00:00'
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 447-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rapport de mise au repos
+    gender: m
+    plurality: singular
+  definition: |-
+    rapport d'une valeur de {{mise au repos, IEV:447-02-12}} à une {{valeur de fonctionnement, IEV:447-02-10}}
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig1-fr-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig1-fr-4web"> <area title="fonctionner" href="IEV447-02-04" shape="rect" coords="297,16,372,47" target="_self" alt="fonctionner"> <area title="état initial" href="IEV447-02-03" shape="rect" coords="203,69,261,87" target="_self" alt="état initial"> <area title="grandeur caractéristique (pour relais à minimum de ...)" href="IEV447-01-24" shape="rect" coords="5,109,171,152" target="_self" alt="grandeur caractéristique minimum"> <area title="grandeur caractéristique (pour relais à maximum de ...)" href="IEV447-01-23" shape="rect" coords="3,263,176,298" target="_self" alt="grandeur caractéristique maximum"> <area title="operate signal" href="IEV447-04-14" shape="rect" coords="34,362,167,382" target="_self" alt="operate signal"> <area title="valeur de fonctionnement" href="IEV447-02-10" shape="rect" coords="186,158,272,188" target="_self" alt="valeur de fonctionnement"> <area title="valeur de fonctionnement" href="IEV447-02-10" shape="rect" coords="187,222,273,249" target="_self" alt="valeur de fonctionnement"> <area title="temps de fonctionnement" href="IEV447-05-05" shape="rect" coords="348,433,255,403" target="_self" alt="temps de fonctionnement"> <area title="dégager" href="IEV447-02-17" shape="rect" coords="502,19,562,41" target="_self" alt="dégager"> <area title="état de travail" href="IEV447-02-01" shape="rect" coords="364,73,442,87" target="_self" alt="état de travail"> <area title="état de dégagement" href="IEV447-02-20" shape="rect" coords="536,68,648,86" target="_self" alt="état de dégagement"> <area title="valeur de dégagement" href="IEV447-02-18" shape="rect" coords="341,152,466,170" target="_self" alt="valeur de dégagement"> <area title="valeur de dégagement" href="IEV447-02-18" shape="rect" coords="342,237,466,255" target="_self" alt="valeur de dégagement"> <area title="hystérésis de dégagement" href="IEV447-07-14" shape="rect" coords="538,159,682,178" target="_self" alt="hystérésis de dégagement"> <area title="hystérésis de dégagement" href="IEV447-07-14" shape="rect" coords="538,231,683,250" target="_self" alt="hystérésis de dégagement"> <area title="temps de dégagement" href="IEV447-05-10" shape="rect" coords="471,403,547,433" target="_self" alt="temps de dégagement"></map>
+
+    *Figure 1 – Diagramme explicatif de l'état de travail*
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig2a-fr-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig2a-fr-4web"> <area title="grandeur caractéristique (pour relais à minimum de ...)" href="IEV447-01-24" shape="rect" coords="53,75,220,110" target="_self" alt="grandeur caractéristique minimum"> <area title="grandeur caractéristique (pour relais à maximum de ...)" href="IEV447-01-23" shape="rect" coords="47,216,220,250" target="_self" alt="grandeur caractéristique maximum"> <area title="mettre au repos" href="IEV447-02-05" shape="rect" coords="514,4,608,22" target="_self" alt="mettre au repos"> <area title="état de repos" href="IEV447-02-02" shape="rect" coords="566,41,642,57" target="_self" alt="état de repos"> <area title="valeur de repos" href="IEV447-02-12" shape="rect" coords="382,106,471,125" target="_self" alt="valeur de repos"> <area title="valeur de repos" href="IEV447-02-12" shape="rect" coords="391,196,478,214" target="_self" alt="valeur de repos"> <area title="temps de mise au repos" href="IEV447-05-06" shape="rect" coords="503,397,561,443" target="_self" alt="temps de mise au repos">
+    <area title="signaux de sortie" href="IEV447-04-03" shape="rect" coords="114,310,216,326" target="_self" alt="signaux de sortie"></map>
+
+    *a) Les circuits de sortie sont entièrement retournés avant que tous les états internes le soient*
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig2b-fr-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig2b-fr-4web"> <area title="grandeur caratéristique (pour relais à minimum de ...)" href="IEV447-01-24" shape="rect" coords="46,68,218,103" target="_self" alt="grandeur caratéristique (pour relais à minimum de ...)"> <area title="grandeur caratéristique (pour relais à maximum de ...)" href="IEV447-01-23" shape="rect" coords="45,208,219,240" target="_self" alt="grandeur caratéristique (pour relais à maximum de ...)"> <area title="valeur de repos" href="IEV447-02-12" shape="rect" coords="375,98,470,117" target="_self" alt="valeur de repos"> <area title="valeur de repos" href="IEV447-02-12" shape="rect" coords="387,187,477,205" target="_self" alt="valeur de repos"> <area title="mettre au repos" href="IEV447-02-05" shape="rect" coords="533,3,628,20" target="_self" alt="mettre au repos"> <area title="état de repos" href="IEV447-02-02" shape="rect" coords="585,39,660,58" target="_self" alt="état de repos"> <area title="temps de mise au repos" href="IEV447-05-06" shape="rect" coords="510,393,573,437" target="_self" alt="temps de mise au repos">
+    <area title="signaux de sortie" href="IEV447-04-03" shape="rect" coords="112,305,213,320" target="_self" alt="signaux de sortie"></map>
+
+    *b) Les circuits de sortie sont entièrement retournés après que tous les états internes le soient*
+
+    *Figure 2 – Diagramme explicatif de l'état de retour*</simg></simg></simg>
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 447-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 復帰値比
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 447-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 재설정비
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 447-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: współczynnik powrotu
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 447-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: razão de reposição
+  - type: expression
+    designation: relação de reposição
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 447-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 复归系数
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

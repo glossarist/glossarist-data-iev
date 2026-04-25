@@ -1,0 +1,184 @@
+---
+termid: 192-01-03
+term: system
+ara:
+  id: 192-01-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: في الاعتمادية
+    designation: نظام،
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ces:
+  id: 192-01-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: ve spolehlivosti
+    designation: systém
+  language_code: ces
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 192-01-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: im Sinne der Zuverlässigkeit
+    designation: System
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 192-01-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: in dependability
+    designation: system
+  definition: set of interrelated items that collectively fulfil a requirement
+  language_code: eng
+  notes:
+  - A system is considered to have a defined real or abstract boundary.
+  - External resources (from outside the system boundary) may be required for the
+    system to operate.
+  - A system structure may be hierarchical, e.g. system, subsystem, component, etc.
+  - Conditions of use and maintenance should be expressed or implied within the requirement.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-151:2001
+    clause: 151-11-27
+    link: https://webstore.iec.ch/publication/176
+    relationship:
+      :type: :modified
+      :modification: by extension to suit the dependability context
+    original: IEC 60050-151:2001, 151-11-27, modified by extension to suit the dependability
+      context
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 192-01-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: en confiabilidad
+    designation: sistema
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 192-01-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: en sûreté de fonctionnement
+    designation: système
+    gender: m
+    plurality: singular
+  definition: ensemble d’entités reliées entre elles qui satisfont collectivement
+    à une exigence
+  language_code: fra
+  notes:
+  - Un système est considéré comme ayant une frontière définie, réelle ou abstraite.
+  - Des ressources externes (provenant d’au-delà de la frontière) peuvent être nécessaires
+    au fonctionnement du système.
+  - La structure d’un système peut être hiérarchique, par exemple, système, sous-système,
+    composant, etc.
+  - Il convient d’exprimer ou de sous-entendre les conditions d’utilisation et de
+    maintenance dans l’exigence.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-151:2001
+    clause: 151-11-27
+    link: https://webstore.iec.ch/publication/176
+    relationship:
+      :type: :modified
+      :modification: pour adapter au contexte de la sûreté de fonctionnement
+    original: IEC 60050-151:2001, 151-11-27, modifié pour adapter au contexte de la
+      sûreté de fonctionnement
+  review_decision_event: published
+jpn:
+  id: 192-01-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: ディペンダビリティに関する
+    designation: システム
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 192-01-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 신인성
+    designation: 계통
+  - type: expression
+    usage_info: 신인성
+    designation: 시스템
+  - type: expression
+    usage_info: 신인성
+    designation: 체계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 192-01-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: w aspekcie niezawodności
+    designation: system
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 192-01-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: em dependabilidade
+    designation: sistema
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 192-01-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 可信性领域
+    designation: 系统
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

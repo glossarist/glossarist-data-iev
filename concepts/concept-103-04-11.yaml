@@ -1,0 +1,215 @@
+---
+termid: 103-04-11
+term: wavelet
+ara:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: الموجة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Wavelet
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wavelet
+  definition: small localized wave, represented by a function having a zero mean value
+    and a practically finite duration
+  language_code: eng
+  notes:
+  - 'From a mother wavelet stem:[psi ( t )], daughter wavelets are obtained through
+    shifting and scaling (expansion or compression): stem:[psi_((a , b)) ( t ) = (1)/((sqrt(a)))
+    psi ( ((t - b))/(a) )], where stem:[a] is a scale parameter and stem:[b] a position
+    parameter.'
+  - "Examples (see Figures 3 and 4):\n\n\n\n* Haar wavelet: stem:[psi ( t ) = - 1]
+    for −1/2 &lt; stem:[t] &lt; 0, stem:[psi ( t ) = 1] for 0 &lt; stem:[t] &lt; 1/2,
+    stem:[psi ( t ) = 0] outside; \n\n* Morlet wavelet: stem:[psi ( t ) = e^(- t^2
+    // 2) e^(- j omega t)] (example of exponential damping; Figure 4 gives the real
+    part). \n\n\nimage::/assets/images/parts/103/103-04-118.png[Figure 4 - Morlet
+    wavelet ; Ondelette de Morlet]"
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ondícula
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ondelette
+    gender: f
+    plurality: singular
+  definition: petite onde localisée, représentée par une fonction ayant une valeur
+    moyenne nulle et une durée pratiquement finie
+  language_code: fra
+  notes:
+  - 'À partir d''une ondelette mère stem:[psi ( t )], des ondelettes filles sont obtenues
+    par décalage et changement d''échelle (dilatation et compression): stem:[psi_((a
+    , b)) ( t ) = (1)/((sqrt(a))) psi ( ((t - b))/(a) )], où stem:[a] est un paramètre
+    d''échelle et stem:[b] un paramètre de position.'
+  - "Exemples (voir les Figures 3 et 4):\n\n\n\n* ondelette de Haar: stem:[psi ( t
+    ) = - 1] pour −1/2 &lt; stem:[t] &lt; 0, stem:[psi ( t ) = 1] pour 0 &lt; stem:[t]
+    &lt; 1/2, stem:[psi ( t ) = 0] ailleurs; \n\n* ondelette de Morlet: stem:[psi
+    ( t ) = e^(- t^2 // 2) e^(- j omega t)] (exemple d'amortissement exponentiel;
+    Figure 4 représente la partie réelle). \n"
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wavelet
+  - type: expression
+    designation: onda elementare (unitaria)
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ウェーブレット
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 파형 요소
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: falka
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ôndula
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+srp:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: таласна трансформација
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vågpaket
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 103-04-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 小波
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

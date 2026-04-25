@@ -1,0 +1,168 @@
+---
+termid: 561-03-02
+term: Allan variance of fractional frequency fluctuation
+ara:
+  id: 561-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: تباين اختلاف "آلان" لتموج التردد الجزئى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 561-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Allan-Varianz
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Varianz der relativen Frequenzabweichungen
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 561-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Allan variance of fractional frequency fluctuation
+  definition: |-
+    unbiased estimate of the preferred definition in the time domain of the short-term stability characteristic of the oscillator output frequency given by
+
+    stem:[sigma_y ^2 ( tau ) tilde= (1)/((M – 1)) sum_((k = 1))^((M – 1)) ((( Y_((k + 1)) – Y_k )^2))/(2)]
+
+    where
+
+    stem:[Y]~stem:[k]~ are the average fractional frequency fluctuations obtained sequentially, with no systematic dead time between measurements;
+
+    stem:[τ] is the sample time over which the measurements are averaged;
+
+    stem:[M] is the number of measurements
+  language_code: eng
+  notes:
+  - The confidence of the estimate improves as stem:[M] increases.
+  - This entry was numbered 561-04-18 in IEC 60050-561:1991.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2016-07-01T00:00:00+00:00'
+  date_amended: '2016-07-01T00:00:00+00:00'
+  review_date: '2016-07-01T00:00:00+00:00'
+  review_decision_date: '2016-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 561-03-02:2014-11
+spa:
+  id: 561-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: varianza de Allan de la fluctuación de frecuencia fraccional
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 561-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: variance d’Allan de la fluctuation de fréquence relative
+    gender: f
+    plurality: singular
+  definition: |-
+    estimation non biaisée de la définition préférée dans le domaine temporel de la caractéristique de stabilité à court terme de la fréquence de sortie de l’oscillateur donnée par
+
+    stem:[sigma_y ^2 ( tau ) tilde= (1)/((M – 1)) sum_((k = 1))^((M – 1)) ((( Y_((k + 1)) – Y_k )^2))/(2)]
+
+    où
+
+    stem:[Y]~stem:[k]~ sont les fluctuations de fréquence relative moyennes obtenues de manière séquentielle, sans temps mort systématique entre les mesures;
+
+    stem:[τ] est la durée d’échantillon sur laquelle la moyenne des mesures est calculée;
+
+    stem:[M] est le nombre de mesures
+  language_code: fra
+  notes:
+  - Le niveau de confiance de l’estimation augmente au fur et à mesure de l’augmentation
+    de stem:[M.]
+  - Cet article était numéroté 561-04-18 dans l'IEC 60050-561:1991.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 561-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: varianza di Allan della fluttuazione di frequenza relativa
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 561-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 周波数揺らぎのアラン分散
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 561-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 분수 주파수 진동의 앨란 분산
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 561-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wariancja Allana względnych fluktuacji częstotliwości
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 561-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: variância de Allan da flutuação dos desvios da frequência relativa
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 561-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 相对频率起伏的阿仑方差
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,177 @@
+---
+termid: 131-12-04
+term: resistance
+ara:
+  id: 131-12-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: المقاومة
+  - type: expression
+    designation: مقاومة التيار
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 131-12-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Widerstandswert
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: Widerstand
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    usage_info: 'Verwandter Begriff: IEV 131-12-45'
+    designation: Resistanz
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+eng:
+  id: 131-12-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resistance
+  - type: symbol
+    designation: stem:[R]
+    international: true
+  definition: |-
+    for a resistive two-terminal element or two-terminal circuit with terminals A and B, quotient of the voltage ({{131-11-56, IEV:131-11-56}}) stem:[u]~AB~ between the terminals by the electric current stem:[i] in the element or circuit
+
+    stem:[R = ((u_((AB))))/(i)]
+
+    where the electric current is taken positive if its direction is from A to B and negative if its direction is from B to A
+  language_code: eng
+  notes:
+  - A resistance cannot be negative.
+  - The term "resistance" is also a short term for “resistance to alternating current”
+    ({{131-12-45, IEV:131-12-45}}).
+  - In French, the term "résistance" also denotes a device, in English "resistor"
+    (see {{151-13-19, IEV:151-13-19}}).
+  - The coherent SI unit of resistance is ohm, Ω.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-08-01T00:00:00+00:00'
+  date_amended: '2013-08-01T00:00:00+00:00'
+  review_date: '2013-08-01T00:00:00+00:00'
+  review_decision_date: '2013-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 131-12-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resistencia
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 131-12-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: résistance
+    gender: f
+    plurality: singular
+  definition: |-
+    pour un bipôle résistif, élémentaire ou non, de bornes A et B, quotient de la tension électrique ({{131-11-56, IEV:131-11-56}}) stem:[u]~AB~ entre les bornes par le courant électrique stem:[i] dans le bipôle
+
+    stem:[R = ((u_((AB))))/(i)]
+
+    où le courant est positif si le sens du courant est de A vers B et négatif si son sens est de B vers A
+  language_code: fra
+  notes:
+  - Une résistance ne peut pas être négative.
+  - Le terme «résistance» désigne aussi elliptiquement la résistance en courant alternatif
+    ({{131-12-45, IEV:131-12-45}}).
+  - En français, le terme «résistance» désigne aussi un dispositif, en anglais «resistor»
+    (voir {{151-13-19, IEV:151-13-19}}).
+  - L’unité SI cohérente de résistance est l’ohm, Ω.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 131-12-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resistenza
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 131-12-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: '関連エントリー: IEV 131-12-45'
+    designation: 抵抗
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 131-12-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 저항
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 131-12-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rezystancja
+  - type: expression
+    designation: opór elektryczny
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 131-12-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resistência
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 131-12-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: '相关条目: IEV 131-12-45'
+    designation: 电阻
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,159 @@
+---
+termid: 171-06-03
+term: transfer rate
+ara:
+  id: 171-06-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: معدل النقل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-06-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Übertragungsrate
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-06-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transfer rate
+  - type: symbol
+    designation: |-
+      stem:[r]
+      stem:[ν]
+    international: true
+  definition: quotient of the number of specified {{data elements, IEV:171-02-01}}
+    {{transferred, IEV:171-06-01}} in a time interval by the duration of this interval
+  language_code: eng
+  notes:
+  - The transfer rate is expressed in seconds to the power of minus one (s^−1^). In
+    practice, it is expressed in digits per second, for example in bits per second
+    (bit/s) or in bytes per second (B/s). These units can be combined with decimal
+    multiple prefixes, for example kilobyte per second (kB/s).
+  examples:
+  - "{{Digit rate, IEV:702-05-23}}, stem:[r]~d~ or stem:[ν]~d~; transfer rate for
+    bytes, stem:[r]~B~, stem:[r]~o~, stem:[ν]~B~, or stem:[ν]~o~; {{binary digit rate,
+    IEV:704-16-07}} (or bit rate), stem:[r]~b~, stem:[r]~bit~, stem:[ν]~b~, or stem:[ν]~bit~."
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-11
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+    original: IEC 80000-13:2008, 13-11, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-06-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: siirtonopeus
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-06-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: débit de transfert
+    gender: m
+    plurality: singular
+  definition: quotient du nombre d’{{éléments de données, IEV:171-02-01}} d’une nature
+    spécifiée {{transférés, IEV:171-06-01}} pendant un intervalle de temps par la
+    durée de cet intervalle
+  language_code: fra
+  notes:
+  - Le débit de transfert s’exprime en secondes à la puissance moins un (s^−1^). En
+    pratique, il s’exprime en éléments numériques par seconde, par exemple en bits
+    par seconde (bit/s) ou en octets par seconde (o/s). Ces unités peuvent être combinées
+    avec des préfixes de multiples décimaux, par exemple kilooctet par seconde (ko/s).
+  examples:
+  - "{{Débit numérique, IEV:702-05-23}}, stem:[r]~d~ ou stem:[ν]~d~ ; débit de transfert
+    pour des octets, stem:[r]~B~, stem:[r]~o~, stem:[ν]~B~, ou stem:[ν]~o~; {{débit
+    binaire, IEV:704-16-07}}, stem:[r]~b~, stem:[r]~bit~, stem:[ν]~b~, ou stem:[ν]~bit~."
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-11
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+    original: IEC 80000-13:2008, 13-11, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+  review_decision_event: published
+jpn:
+  id: 171-06-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 転送率
+  - type: expression
+    designation: 転送レート
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-06-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: danych
+    designation: szybkość przesyłania
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-06-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taxa de transferência
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-06-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 传输速率
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

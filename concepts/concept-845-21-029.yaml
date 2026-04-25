@@ -1,0 +1,189 @@
+---
+termid: 845-21-029
+term: spectral distribution
+ara:
+  id: 845-21-029
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: توزيع طيفى
+  - type: expression
+    designation: تركيز الطيف
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-21-029
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spektrale Verteilung
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: spektrale Dichte
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-21-029
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral distribution
+  - type: expression
+    designation: spectral concentration
+  - type: symbol
+    designation: stem:[Xλ]
+    international: true
+  definition: |-
+    density of a radiant or luminous or photon quantity, stem:[X](stem:[λ]), with respect to wavelength, stem:[λ], at the wavelength stem:[λ]
+
+    stem:[X_(lambda) = ((d X ( lambda )))/((d lambda))]
+  language_code: eng
+  notes:
+  - The term "spectral distribution" is to be preferred to the equivalent term "spectral
+    concentration" when dealing with the function stem:[Xλ](stem:[λ]) over a range
+    of wavelengths, not at a particular wavelength.
+  - Usually stem:[Xλ] is also a function of stem:[λ] and in this case, in order to
+    stress this, can be written stem:[Xλ](stem:[λ]) without any change of meaning.
+  - The spectral distribution of radiant flux is expressed in watt per nanometre (W·nm^−1^),
+    the spectral distribution of luminous flux is expressed in lumen per nanometre
+    (lm·nm^−1^), the spectral distribution of photon flux is expressed in nanometre
+    to the power minus one (nm^−1^). The units of spectral distributions of other
+    quantities are expressed accordingly.
+  - The quantity stem:[X] can also be expressed as a function of {{frequency, IEV:103-06-02}},
+    stem:[ν], <a href="IEV845-21-026">wavenumber</a>, stem:[σ], etc.; the corresponding
+    symbols are stem:[X](stem:[ν]), stem:[X](stem:[σ]), etc. and the corresponding
+    densities with respect to frequency, stem:[ν], wavenumber, stem:[σ], etc. are
+    stem:[Xν], stem:[Xσ], etc., in which case the expression of units will also change
+    accordingly.
+  - This entry was numbered 845-01-17 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-21-029
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: répartition spectrale
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: admitted
+    designation: densité spectrale
+    gender: f
+    plurality: singular
+  definition: |-
+    densité de la grandeur énergétique, lumineuse ou photonique stem:[X](stem:[λ]), par rapport à la longueur d'onde stem:[λ], à la longueur d'onde stem:[λ]
+
+    stem:[X_(lambda) = ((d X ( lambda )))/((d lambda))]
+  language_code: fra
+  notes:
+  - Le terme "répartition spectrale" doit être privilégié par rapport au terme équivalent
+    "densité spectrale" lorsqu'il s'agit de la fonction stem:[Xλ](stem:[λ]) sur une
+    plage de longueurs d'onde, et non pas à une longueur d'onde particulière.
+  - Habituellement stem:[Xλ] est également fonction de stem:[λ] et, dans ce cas, pour
+    souligner ce fait, peut s'écrire sous la forme stem:[Xλ](stem:[λ]) sans modification
+    de sa signification.
+  - La répartition spectrale du flux énergétique est exprimée en watt par nanomètre
+    (W·nm^−1^), la répartition spectrale du flux lumineux est exprimée en lumen par
+    nanomètre (lm·nm^−1^) et la répartition spectrale du flux photonique est exprimée
+    en nanomètre à la puissance moins un (nm^−1^). Les unités des répartitions spectrales
+    d'autres grandeurs sont exprimées en conséquence.
+  - La grandeur stem:[X] peut également être exprimée en fonction de la {{fréquence,
+    IEV:103-06-02}} stem:[ν], du <a href="IEV845-21-026">nombre d'onde</a> stem:[σ],
+    etc.; les symboles correspondants sont alors stem:[X](stem:[ν]), stem:[X](stem:[σ]),
+    etc. et les densités correspondantes par rapport à la fréquence, stem:[ν], au
+    nombre d'onde, stem:[σ], etc. sont alors stem:[Xν], stem:[Xσ], etc., auquel cas
+    l'expression des unités est également modifiée en conséquence.
+  - Cet article était numéroté 845-01-17 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  classification: Admitted
+  review_decision_event: published
+ita:
+  id: 845-21-029
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: distribuzione spettrale
+  - type: expression
+    designation: densità spettrale
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-21-029
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 分光分布
+  - type: expression
+    designation: 分光密度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-21-029
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 분광 분포
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-21-029
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rozkład widmowy
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-21-029
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: distribuição espectral
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-21-029
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 光谱分布
+  - type: expression
+    designation: 光谱密集度
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

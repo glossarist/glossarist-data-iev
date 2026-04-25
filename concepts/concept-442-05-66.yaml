@@ -1,0 +1,55 @@
+---
+termid: 442-05-66
+term: arc fault
+eng:
+  id: 442-05-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: arc fault
+  - type: expression
+    normative_status: preferred
+    designation: arcing fault
+  definition: dangerous unintentional arc
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 62606:2013
+    clause: '3.2'
+    link: https://webstore.iec.ch/publication/7248
+    relationship:
+      :type: :identical
+    original: IEC 62606:2013, 3.2
+  date_accepted: '2019-05-01T00:00:00+00:00'
+  date_amended: '2019-05-01T00:00:00+00:00'
+  review_date: '2019-05-01T00:00:00+00:00'
+  review_decision_date: '2019-05-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 442-05-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: défaut d’arc
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: défaut de production d’arc électrique
+    gender: m
+    plurality: singular
+  definition: arc non intentionnel dangereux
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 62606:2013
+    clause: '3.2'
+    link: https://webstore.iec.ch/publication/7248
+    relationship:
+      :type: :identical
+    original: IEC 62606:2013, 3.2
+  review_decision_event: published

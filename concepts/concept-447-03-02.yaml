@@ -1,0 +1,148 @@
+---
+termid: 447-03-02
+term: input energizing quantity
+ara:
+  id: 447-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: كميات مفعِّلة داخلة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 447-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Eingangserregungsgröße
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: deprecated
+    designation: charakteristische Erregungsgröße
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  review_decision_event: published
+eng:
+  id: 447-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: input energizing quantity
+  - type: expression
+    normative_status: deprecated
+    designation: characteristic energizing quantity
+  definition: |-
+    {{energizing quantity, IEV:447-03-01}} that by itself constitutes the {{characteristic quantity, IEV:447-07-01}}, or helps to constitute it
+
+    EXAMPLE
+
+    * Current, for {{current relay, IEV:447-01-27}}, {{thermal electric relay, IEV:447-01-36}} and ({{differential relay, IEV:447-01-40}});* voltage, for {{voltage relay, IEV:447-01-28}}, {{frequency relay, IEV:447-01-29}}, {{volt per hertz relay, IEV:447-01-47}} and {{synchronizing relay, IEV:447-01-45}};* voltage and current, for {{impedance relay, IEV:447-01-30}}, {{directional relay, IEV:447-01-41}} and {{power relay, IEV:447-01-42}}.
+
+    Note 1 to entry: The {{input energizing quantity, IEV:447-03-02}} can be applied to a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}} either by hardwire from {{instrument transformers, IEV:321-01-01}} or as a data packet over communication ports using an appropriate data communication protocol, such as IEC 61850-9-2.
+
+    Note 2 to entry: In IEC 60050-447:2010, "characteristic energizing quantity" was numbered 447-03-03, as a substitute of {{"input energising quantity", IEV:447-03-02}}, and "input energising quantity" was provisionally defined for the existing IEC 60255 series standards. However, "input energizing quantity" is internationally accepted.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  date_accepted: '2020-05-01T00:00:00+00:00'
+  date_amended: '2020-05-01T00:00:00+00:00'
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 447-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur d'alimentation d'entrée
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: deprecated
+    designation: grandeur d'alimentation caractéristique
+    gender: f
+    plurality: singular
+  definition: |-
+    {{grandeur d'alimentation, IEV:447-03-01}} qui constitue par elle-même la {{grandeur caractéristique, IEV:447-07-01}} ou bien qui aide à sa constitution
+
+    EXEMPLE
+
+    * Courant pour un {{relais de courant, IEV:447-01-27}}, un {{relais électrique thermique, IEV:447-01-36}} et un ({{relais différentiel, IEV:447-01-40}});* tension pour un {{relais de tension, IEV:447-01-28}}, un {{relais de fréquence, IEV:447-01-29}}, un {{relais volt par hertz, IEV:447-01-47}} et un {{relais de synchronisation, IEV:447-01-45}};* tension et courant pour un {{relais d'impédance, IEV:447-01-30}}, un {{relais directionnel, IEV:447-01-41}} et un {{relais de puissance, IEV:447-01-42}}.
+
+    Note 1 à l'article: La {{grandeur d'alimentation d'entrée, IEV:447-03-02}} peut être appliquée à un {{relais de mesure, IEV:447-01-02}} ou à un {{équipment de protection, IEV:447-01-49}} soit par un câblage depuis des {{transformateurs de mesure, IEV:321-01-01}} ou en tant que paquet de données sur des ports de communication en employant un protocole de communication de données approprié, tel que l'IEC 61850-9-2.
+
+    Note 2 à l'article: Dans l'IEC 60050-447:2010, la "grandeur d'alimentation caractéristique" portait le numéro 447-03-03 en tant que substitut pour la {{"grandeur d'alimentation d'entrée", IEV:447-03-02}}, et la "grandeur d'alimentation d'entrée" était provisoirement définie pour l'actuelle série de normes IEC 60255. Toutefois, le terme de "grandeur d'alimentation d'entrée" est internationalement accepté.
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  review_decision_event: published
+jpn:
+  id: 447-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 入力付勢量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 447-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 입력 여기량
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 447-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wielkość zasilająca wejściowa
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 447-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeza de alimentação de entrada
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 447-03-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 输入激励量
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

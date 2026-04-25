@@ -1,0 +1,171 @@
+---
+termid: 845-25-073
+term: normalized detectivity
+ara:
+  id: 845-25-073
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: لكاشف
+    designation: الكشفية المعيارية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-25-073
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: eines Empfängers
+    designation: normierte Detektivität
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-25-073
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: of a detector
+    designation: normalized detectivity
+  - type: symbol
+    designation: stem:[D]^*^
+    international: true
+  definition: |-
+    detectivity, stem:[D], normalized to take into account two important parameters of the detection system, the sensitive area, stem:[A], of the detector and the measurement bandwidth, Δstem:[f]
+
+    stem:[D * = D ( A Delta f )^(1 // 2) = Phi_m^(- 1) ( A Delta f )^(1 // 2)]
+
+    where stem:[Φ]~m~ is noise equivalent power
+  language_code: eng
+  notes:
+  - The concept "normalized detectivity" is realistic only if the responsivity and
+    noise output of the detector are {{frequency, IEV:103-06-02}} independent throughout
+    the frequency range under consideration and if the noise equivalent input varies
+    as the square root of the detector area; this is not always the case.
+  - The normalized detectivity is expressed in metre hertz to the power one half per
+    watt (m·Hz^1/2^·W^−1^).
+  - This entry was numbered 845-05-66 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-25-073
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: d'un récepteur
+    designation: détectivité spécifique
+    gender: f
+    plurality: singular
+  - type: expression
+    usage_info: d'un récepteur
+    designation: détectivité normée
+    gender: f
+    plurality: singular
+  definition: |-
+    détectivité, stem:[D], normée en tenant compte de deux paramètres importants du système de détection, à savoir l'aire sensible, stem:[A], du récepteur et la largeur de bande de mesure, Δstem:[f]
+
+    stem:[D * = D ( A Delta f )^(1 // 2) = Phi_m^(- 1) ( A Delta f )^(1 // 2)]
+
+    où stem:[Φ]~m~ est le flux énergétique équivalent au bruit
+  language_code: fra
+  notes:
+  - La notion "détectivité normée" n'est valable que si la sensibilité et le bruit
+    de sortie du récepteur sont indépendants de la {{fréquence, IEV:103-06-02}} dans
+    la plage de fréquences prise en considération et si l'excitation équivalente au
+    bruit varie comme la racine carrée de l'aire du récepteur, ce qui n'est pas toujours
+    le cas.
+  - La détectivité normée est exprimée en mètre hertz à la puissance un demi par watt
+    (m·Hz^1/2^·W^−1^).
+  - Cet article était numéroté 845-05-66 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 845-25-073
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: di un rivelatore
+    designation: rilevabilità normalizzata
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-25-073
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 光放射電検出器の
+    designation: 規格化検出能力
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-25-073
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 검출기
+    designation: 정규화 검출도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-25-073
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: odbiornika
+    designation: próg czułości unormowany
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-25-073
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de um detetor
+    designation: detetividade normalizada
+  - type: expression
+    usage_info: de um detetor
+    designation: detetividade específica
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-25-073
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 探测器的
+    designation: 标准化探测率
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

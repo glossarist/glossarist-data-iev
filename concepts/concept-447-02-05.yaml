@@ -1,0 +1,141 @@
+---
+termid: 447-02-05
+term: reset
+ara:
+  id: 447-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: يرجع
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 447-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: eines Messrelais oder einer Schutzeinrichtung
+    designation: rücksetzen
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 447-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: for a measuring relay or protection equipment
+    designation: reset
+  definition: |-
+    to {{switch, IEV:447-02-09}} to a {{reset condition, IEV:447-02-02}}
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig2a-en-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig2a-en-4web"> <area title="characteristic quantity (for under... relay)" href="IEV447-01-24" shape="rect" coords="77,76,201,106" target="_self" alt="characteristic quantity under relay"> <area title="characteristic quantity (for over... relay)" href="IEV447-01-23" shape="rect" coords="74,213,205,245" target="_self" alt="characteristic quantity over relay"> <area title="reset" href="IEV447-02-05" shape="rect" coords="519,3,555,18" target="_self" alt="reset"> <area title="reset condition" href="IEV447-02-02" shape="rect" coords="543,41,624,59" target="_self" alt="reset condition"> <area title="reset value" href="IEV447-02-12" shape="rect" coords="381,106,446,123" target="_self" alt="reset value"> <area title="reset value" href="IEV447-02-12" shape="rect" coords="383,195,454,212" target="_self" alt="reset value"> <area title="reset time" href="IEV447-05-06" shape="rect" coords="488,398,528,429" target="_self" alt="reset time">
+    <area title="output signals" href="IEV447-04-03" shape="rect" coords="118,309,200,324" target="_self" alt="output signals"></map>
+
+    *a) Output circuits are fully reset before all internal status are reset*
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig2b-en-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig2b-en-4web"> <area title="characteristic quantity (for under... relay)" href="IEV447-01-24" shape="rect" coords="80,73,207,112" target="_self" alt="characteristic quantity (for under... relay)"> <area title="characteristic quantity (for over... relay)" href="IEV447-01-23" shape="rect" coords="81,214,207,248" target="_self" alt="characteristic quantity (for over... relay)"> <area title="reset value" href="IEV447-02-12" shape="rect" coords="393,109,458,126" target="_self" alt="reset value"> <area title="reset value" href="IEV447-02-12" shape="rect" coords="397,199,467,214" target="_self" alt="reset value"> <area title="reset" href="IEV447-02-05" shape="rect" coords="543,7,577,26" target="_self" alt="reset"> <area title="reset condition" href="IEV447-02-02" shape="rect" coords="565,50,652,66" target="_self" alt="reset condition"> <area title="reset time" href="IEV447-05-06" shape="rect" coords="497,413,557,427" target="_self" alt="reset time">
+    <area title="output signals" href="IEV447-04-03" shape="rect" coords="" target="_self" alt="output signals"></map>
+
+    *b) Output circuits are fully reset after all internal status are reset*
+
+    *Figure 2 – Explanatory diagram for reset condition*</simg></simg>
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-05-01T00:00:00+00:00'
+  date_amended: '2020-05-01T00:00:00+00:00'
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 447-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: pour un relais de mesure ou un dispositif de protection
+    designation: mettre au repos
+  definition: |-
+    {{commuter, IEV:447-02-09}} à l'{{état de repos, IEV:447-02-02}}
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig2a-fr-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig2a-fr-4web"> <area title="grandeur caractéristique (pour relais à minimum de ...)" href="IEV447-01-24" shape="rect" coords="53,75,220,110" target="_self" alt="grandeur caractéristique minimum"> <area title="grandeur caractéristique (pour relais à maximum de ...)" href="IEV447-01-23" shape="rect" coords="47,216,220,250" target="_self" alt="grandeur caractéristique maximum"> <area title="mettre au repos" href="IEV447-02-05" shape="rect" coords="514,4,608,22" target="_self" alt="mettre au repos"> <area title="état de repos" href="IEV447-02-02" shape="rect" coords="566,41,642,57" target="_self" alt="état de repos"> <area title="valeur de repos" href="IEV447-02-12" shape="rect" coords="382,106,471,125" target="_self" alt="valeur de repos"> <area title="valeur de repos" href="IEV447-02-12" shape="rect" coords="391,196,478,214" target="_self" alt="valeur de repos"> <area title="temps de mise au repos" href="IEV447-05-06" shape="rect" coords="503,397,561,443" target="_self" alt="temps de mise au repos">
+    <area title="signaux de sortie" href="IEV447-04-03" shape="rect" coords="114,310,216,326" target="_self" alt="signaux de sortie"></map>
+
+    *a) Les circuits de sortie sont entièrement retournés avant que tous les états internes le soient*
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig2b-fr-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig2b-fr-4web"> <area title="grandeur caratéristique (pour relais à minimum de ...)" href="IEV447-01-24" shape="rect" coords="46,68,218,103" target="_self" alt="grandeur caratéristique (pour relais à minimum de ...)"> <area title="grandeur caratéristique (pour relais à maximum de ...)" href="IEV447-01-23" shape="rect" coords="45,208,219,240" target="_self" alt="grandeur caratéristique (pour relais à maximum de ...)"> <area title="valeur de repos" href="IEV447-02-12" shape="rect" coords="375,98,470,117" target="_self" alt="valeur de repos"> <area title="valeur de repos" href="IEV447-02-12" shape="rect" coords="387,187,477,205" target="_self" alt="valeur de repos"> <area title="mettre au repos" href="IEV447-02-05" shape="rect" coords="533,3,628,20" target="_self" alt="mettre au repos"> <area title="état de repos" href="IEV447-02-02" shape="rect" coords="585,39,660,58" target="_self" alt="état de repos"> <area title="temps de mise au repos" href="IEV447-05-06" shape="rect" coords="510,393,573,437" target="_self" alt="temps de mise au repos">
+    <area title="signaux de sortie" href="IEV447-04-03" shape="rect" coords="112,305,213,320" target="_self" alt="signaux de sortie"></map>
+
+    *b) Les circuits de sortie sont entièrement retournés après que tous les états internes le soient*
+
+    *Figure 2 – Diagramme explicatif de l'état de retour*</simg></simg>
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 447-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 保護リレーの
+    designation: 復帰する
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 447-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 측정 계전기 또는 보호 장비
+    designation: 재설정하다
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 447-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: powracać
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 447-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: para um relé de medição ou um equipamento de proteção
+    designation: repor
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 447-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 针对量度继电器或保护设备
+    designation: 复归
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,124 @@
+---
+termid: 447-01-15
+term: control relay
+ara:
+  id: 447-01-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: مُرَحِّل تحكم
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 447-01-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Steuerrelais
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 447-01-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control relay
+  definition: |-
+    {{electric relay, IEV:151-13-31}}, the function of which is to control equipment
+
+    Note 1 to entry: A control relay can be a simple relay that translates an external command into a control signal [e.g. a command to close a {{circuit-breaker, IEV:441-14-20}}], or it can be a more complex {{device, IEV:151-11-20}} that translates an external command into a number of sequential control signals [e.g. the closing and opening of {{disconnectors, IEV:441-14-05}} and {{circuit-breakers, IEV:441-14-20}} to changeover a circuit from one busbar section to another]. A control relay can also supervise a {{characteristic quantity, IEV:447-07-01}} (e.g. voltage, frequency) and produce a control signal that is dependent upon its specific functional design (e.g. under frequency load shedding relay).
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-05-01T00:00:00+00:00'
+  date_amended: '2020-05-01T00:00:00+00:00'
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 447-01-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relais de commande
+    gender: m
+    plurality: singular
+  definition: |-
+    {{relais électrique, IEV:151-13-31}} qui sert à commander des équipements
+
+    Note 1 à l'article: Un relais de commande peut être un simple relais qui traduit une commande externe en un signal de commande [par exemple, commande de fermeture d'un {{disjoncteur, IEV:441-14-20}}], ou un {{dispositif, IEV:151-11-20}} plus complexe qui traduit une commande externe en une suite de signaux de commande [par exemple, fermeture et ouverture de {{sectionneurs, IEV:441-14-05}} et de {{disjoncteurs, IEV:441-14-20}} pour basculer un circuit d'un tronçon de jeu de barres à un autre]. Un relais de commande peut également servir à surveiller une {{grandeur caractéristique, IEV:447-07-01}} (par exemple, tension, fréquence) et à produire un signal de commande qui dépend de sa conception fonctionnelle spécifique (par exemple, relais de délestage à baisse de fréquence).
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 447-01-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 制御用リレー
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 447-01-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 제어 계전기
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 447-01-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: przekaźnik sterujący
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: przekaźnik wyjściowy
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 447-01-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relé de controlo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 447-01-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 控制继电器
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

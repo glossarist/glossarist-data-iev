@@ -1,0 +1,249 @@
+---
+termid: 103-02-02
+term: root-mean-square value
+ara:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: الوسط التربيعى
+  - type: expression
+    designation: قيمة الجذر التربيعى لمتوسط المربعات(1)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quadratischer Mittelwert
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: root-mean-square value
+  - type: expression
+    normative_status: preferred
+    designation: RMS value
+  - type: expression
+    normative_status: preferred
+    designation: quadratic mean
+  definition: |-
+    quantity representing the quantities in a finite set or in an interval,
+
+
+    . for stem:[n] quantities stem:[x_1 , x_2 , ... x_n], by the positive square root of the mean value of their squares:
+
+    stem:[X_q = ( (1)/(n) ( x_1^2 + x_2^2 + ... + x_n^2 ) )^(1 // 2)]
+
+    .  for a quantity stem:[x] depending on a variable stem:[t], by the positive square root of the mean value of the square of the quantity taken over a given interval stem:[( t_0 , t_0 + T )] of the variable:
+
+    stem:[X_q = ( (1)/(T) int_( t_0)^( t_0 + T) ( x ( t ) )^2 d t )^(1 // 2)]
+  language_code: eng
+  notes:
+  - The root-mean-square value of a periodic quantity is usually taken over an integration
+    interval the range of which is the period multiplied by a natural number.
+  - The root-mean-square value of a quantity is denoted by adding the subscript q
+    to the symbol of the quantity.
+  - The abbreviation RMS was formerly denoted as r.m.s. or rms, but these notations
+    are now deprecated.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 103-02-02:2009-12
+spa:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valor medio cuadrático
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur moyenne quadratique
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: moyenne quadratique
+    gender: f
+    plurality: singular
+  definition: |-
+    grandeur représentant les grandeurs d’un ensemble fini ou d’un intervalle,
+
+
+    . pour stem:[n] grandeurs stem:[x_1 , x_2 , ... x_n], par la racine carrée positive de la valeur moyenne de leurs carrés:
+
+    stem:[X_q = ( (1)/(n) ( x_1^2 + x_2^2 + ... + x_n^2 ) )^(1 // 2)]
+
+    .  pour une grandeur stem:[x] fonction de la variable stem:[t], par la racine carrée positive de la valeur moyenne du carré de la grandeur prise sur un intervalle donné stem:[( t_0 , t_0 + T )] de la variable:
+
+    stem:[X_q = ( (1)/(T) int_( t_0)^( t_0 + T) ( x ( t ) )^2 d t )^(1 // 2)]
+  language_code: fra
+  notes:
+  - La valeur moyenne quadratique d'une grandeur périodique est généralement prise
+    sur un intervalle d'intégration dont l’étendue est le produit de la période par
+    un entier naturel.
+  - La valeur moyenne quadratique d'une grandeur est notée en ajoutant l'indice q
+    au symbole de la grandeur.
+  - L’abréviation anglaise RMS était anciennement écrite r.m.s. ou rms, mais ces notations
+    sont maintenant déconseillées.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+ita:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radice della media dei quadrati
+  - type: expression
+    designation: valore efficace
+  - type: expression
+    designation: media quadratica
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 二乗平均平方根値
+  - type: expression
+    designation: RMS値
+  - type: expression
+    designation: 平方平均
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: '관련엔트리: 103-02-03'
+    designation: 실효값
+  - type: expression
+    designation: 아르엠에스 값
+  - type: expression
+    designation: 평방평균
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: średnia kwadratowa
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: wartość średnia kwadratowa
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valor eficaz
+  - type: expression
+    designation: valor médio quadrático
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ефективна вредност
+  - type: expression
+    designation: rms вредност
+  - type: expression
+    designation: средња квадратна вредност
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: kvadratiskt medelvärde
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 103-02-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 相关条目：IEV 103-02-03
+    designation: 方均根值
+  - type: expression
+    designation: 二次均值
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

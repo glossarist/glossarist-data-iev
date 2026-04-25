@@ -1,0 +1,239 @@
+---
+termid: 121-11-66
+term: Poynting vector
+ara:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: متجه بوينتنغ
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Poynting-Vektor
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: deprecated
+    designation: Energieflussdichte
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: deprecated
+    designation: Energiestromdichte
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  review_decision_event: published
+eng:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Poynting vector
+  - type: symbol
+    designation: stem:[*S*]
+    international: true
+  definition: |-
+    {{vector product, IEV:102-03-36}} of the {{electric field strength, IEV:121-11-18}} stem:[*E*] and the {{magnetic field strength, IEV:121-11-56}} stem:[*H*] of the {{electromagnetic field, IEV:121-11-61}} at a given point
+
+    stem:[*S*] = stem:[*E*] × stem:[*H*]
+  language_code: eng
+  notes:
+  - The flux of the Poynting vector through a closed surface is equal to the electromagnetic
+    power passing through this surface.
+  - For a periodic electromagnetic field, the time average of the Poynting vector
+    is a vector the direction of which, with certain reservations, can be considered
+    as being the {{direction of propagation, IEV:705-02-15}} of {{electromagnetic
+    energy, IEV:121-11-64}} and the {{magnitude, IEV:102-03-23}} can be considered
+    as being the average {{power flux density, IEV:705-02-03}}.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2019-10-01T00:00:00+00:00'
+  date_amended: '2019-10-01T00:00:00+00:00'
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 121-11-66:1998-08
+spa:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vector de Poynting
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Poyntingin vektori
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vecteur de Poynting
+    gender: m
+    plurality: singular
+  definition: |-
+    {{produit vectoriel, IEV:102-03-36}} du {{champ électrique, IEV:121-11-18}} stem:[*E*] par le {{champ magnétique, IEV:121-11-56}} stem:[*H*] du {{champ électromagnétique, IEV:121-11-61}} en un point donné
+
+    stem:[*S*] = stem:[*E*] × stem:[*H*]
+  language_code: fra
+  notes:
+  - Le flux du vecteur de Poynting à travers une surface fermée est égal à la puissance
+    électromagnétique qui traverse cette surface.
+  - Pour un champ électromagnétique périodique, la moyenne temporelle du vecteur de
+    Poynting est un vecteur dont la direction, sous certaines réserves, peut être
+    considérée comme étant la {{direction de propagation, IEV:705-02-15}} de l'{{énergie
+    électromagnétique, IEV:121-11-64}} et la {{norme, IEV:102-03-23}} comme la {{puissance
+    surfacique, IEV:705-02-03}} moyenne.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vettore di Poynting
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ポインティングベクトル
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 포인팅 벡터
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nob:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Poyntings vektor
+  language_code: nob
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nno:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Poyntings vektor
+  language_code: nno
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: S
+  - type: expression
+    designation: wektor Poyntinga
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vetor de Poynting
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+rus:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: вектор Пойнтинга
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Поинтингов вектор
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Poyntings vektor
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 121-11-66
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 坡印亭矢量
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,184 @@
+---
+termid: 131-13-21
+term: branch-node incidence matrix
+ara:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: مصفوفة تلاقى عقد فرعية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Knoten-Zweig-Inzidenzmatrix
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2002-06-01T00:00:00+00:00'
+  date_amended: '2002-06-01T00:00:00+00:00'
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: branch-node incidence matrix
+  definition: "for a network containing stem:[n] nodes and stem:[b] branches and in
+    which a reference direction is chosen for each branch, matrix of type stem:[n] × stem:[b]
+    where the element stem:[a]~stem:[ij]~ is:\r\n<ul style=\"list-style: none;\">\r\n*
+    0 if branch stem:[j] is not incident at node stem:[i]\r\n* 1 if branch stem:[j]
+    is pointing away from node stem:[i]\r\n* −1 if branch stem:[j] is pointing towards
+    node stem:[i]"
+  language_code: eng
+  notes:
+  - "– The figure below gives a network and the corresponding branch-node incidence
+    matrix."
+  examples: []
+  entry_status: Standard
+  date_accepted: '2002-06-01T00:00:00+00:00'
+  date_amended: '2002-06-01T00:00:00+00:00'
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matriz de incidencia rama-nudo
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matrice d'incidence branche-noeud
+    gender: f
+    plurality: singular
+  definition: "pour un réseau contenant stem:[n] noeuds et stem:[b] branches, dont
+    chacune est munie d'un sens de référence, matrice de format stem:[n] × stem:[b]
+    dont l'élément stem:[a]~stem:[ij]~ est égal à\r\n<ul style=\"list-style: none;\">\r\n*
+    0 si la branche stem:[j] n'est pas incidente au noeud stem:[i]\r\n* 1 si la branche
+    stem:[j] est orientée à partir du noeud stem:[i]\r\n* −1 si la branche stem:[j]
+    est orientée vers le noeud stem:[i]"
+  language_code: fra
+  notes:
+  - |-
+    – La figure ci-dessous représente un réseau et la matrice d'incidence branche-noeud correspondante.
+
+    image::/assets/images/parts/131/131-13-21.gif[]
+  examples: []
+  entry_status: Standard
+  date_accepted: '2002-06-01T00:00:00+00:00'
+  date_amended: '2002-06-01T00:00:00+00:00'
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matrice di incidenza rami-nodi
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: カットセット行列
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 가지 노드 입사 행렬
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nob:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: NA
+  language_code: nob
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nno:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: NA
+  language_code: nno
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: macierz koincydencji gałęziowo-węzłowych
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matriz de incidência ramo-nó
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 131-13-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 支路-节点关联矩阵
+  - type: expression
+    normative_status: preferred
+    designation: 关联矩阵
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published

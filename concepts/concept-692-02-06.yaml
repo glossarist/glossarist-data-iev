@@ -1,0 +1,189 @@
+---
+termid: 692-02-06
+term: emergency state
+ara:
+  id: 692-02-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: لنظام كهربى
+    designation: حالة طارئة
+  - type: expression
+    designation: حالة غير ملائمة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 692-02-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: eines Elektrizitätsversorgungssystems
+    designation: Notzustand
+    gender: m
+    plurality: singular
+  - type: expression
+    usage_info: eines Elektrizitätsversorgungssystems
+    designation: nicht adäquater Zustand
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 692-02-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: of an electric power system
+    designation: emergency state
+  - type: expression
+    usage_info: of an electric power system
+    designation: inadequate state
+  definition: |-
+    {{stable state, IEV:692-02-02}} in which some system components are stressed beyond their ratings, or some bus voltages or system frequency are outside tolerances
+
+    image::/assets/images/parts/692/692-fig6-en.png[Figure 6 - Examples of electric power system states and corresponding system operation status]
+  language_code: eng
+  notes:
+  - In an emergency state, urgent actions (such as load shedding; reducing voltage;
+    and starting emergency generators) are required to prevent equipment damage and/or
+    further degradation of system state.
+  - Although {{loss of load, IEV:692-01-16}} can occur, it is not a criterion for
+    an emergency state.
+  - This entry was numbered 191-22-05 in IEC 60050-191:1990.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-12-01T00:00:00+00:00'
+  date_amended: '2017-12-01T00:00:00+00:00'
+  review_date: '2017-12-01T00:00:00+00:00'
+  review_decision_date: '2017-12-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 692-02-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de un sistema eléctrico de potencia
+    designation: estado de emergencia
+  - type: expression
+    usage_info: de un sistema eléctrico de potencia
+    designation: estado inadecuado
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 692-02-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: d’un réseau d’énergie électrique
+    designation: état d’urgence
+    gender: m
+    plurality: singular
+  - type: expression
+    usage_info: d’un réseau d’énergie électrique
+    designation: état inadéquat
+    gender: m
+    plurality: singular
+  definition: |-
+    {{état stable, IEV:692-02-02}} dans lequel certains éléments de réseau fonctionnent au-delà de leurs caractéristiques assignées, ou dans lequel les tensions de certains jeux de barres ou la fréquence du réseau sont hors des plages de tolérances
+
+    image::/assets/images/parts/692/692-fig6-fr.png[Figure 6 - Exemples d’états d’un réseau d’énergie électrique et de la situation de fonctionnement correspondante]
+  language_code: fra
+  notes:
+  - Un état d’urgence exige des actions urgentes (telles que délestage de charge,
+    réduction de tension et démarrage de générateurs de secours) pour éviter un endommagement
+    des matériels ou une dégradation supplémentaire de l'état du système.
+  - La {{perte de charge, IEV:692-01-16}}, bien qu’elle puisse se produire, n’est
+    pas un critère pour un état d’urgence.
+  - Cet article portait le numéro 191-22-05 dans l’IEC 60050-191:1990.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 692-02-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 電力系統の
+    designation: 緊急状態
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 692-02-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 전력 계통
+    designation: 비상 상태
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+mon:
+  id: 692-02-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: цахилгаан эрчим хүчний системийн
+    designation: онц байдлын төлөв байдал
+  - type: expression
+    usage_info: цахилгаан эрчим хүчний системийн
+    designation: хүрэлцээгүй төлөв байдал
+  language_code: mon
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 692-02-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: systemu elektroenergetycznego
+    designation: stan nieprawidłowy
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 692-02-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de um sistema de energia elétrica
+    designation: estado de emergência
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 692-02-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 电力系统的
+    designation: 紧急状态
+  - type: expression
+    usage_info: 电力系统的
+    designation: 不充裕状态
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

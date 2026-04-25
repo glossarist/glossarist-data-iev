@@ -1,0 +1,164 @@
+---
+termid: 692-04-02
+term: outage
+ara:
+  id: 692-04-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: فى نظام كهربى
+    designation: خروج
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 692-04-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: in einem Elektrizitätsversorgungssystem
+    designation: Nichtverfügbarkeit
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 692-04-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: in an electric power system
+    designation: outage
+  definition: |-
+    {{interruption, IEV:692-04-01}} in supply of electric power
+
+    image::/assets/images/parts/692/692-fig4-en.png[Figure 4 - Outage relationships]
+  language_code: eng
+  notes:
+  - In the context of {{electric power system, IEV:692-01-02}}s equipment, the term
+    outage is used to indicate the existence of a disabled state.
+  - Although this entry was numbered 603-05-05 in IEC 60050-603:1986 the definition
+    was not applicable to {{electric power system, IEV:692-01-02}}s.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-12-01T00:00:00+00:00'
+  date_amended: '2017-12-01T00:00:00+00:00'
+  review_date: '2017-12-01T00:00:00+00:00'
+  review_decision_date: '2017-12-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 692-04-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: en un sistema eléctrico de potencia
+    designation: indisponibilidad
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 692-04-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: dans un réseau d’énergie électrique
+    designation: indisponibilité
+    gender: f
+    plurality: singular
+  definition: |-
+    {{interruption, IEV:692-04-01}} de l’alimentation en énergie électrique
+
+    image::/assets/images/parts/692/692-fig4-fr.png[Figure 4 - Relations entre indisponibilités]
+  language_code: fra
+  notes:
+  - Dans le contexte du matériel des réseaux d’énergie électrique, le terme "indisponibilité"
+    est utilisé pour désigner l’existence d’un état d’incapacité.
+  - Bien que cet article portait le numéro 603-05-05 dans l’IEC 60050-603:1986, la
+    définition ne s'appliquait pas aux réseaux d’énergie électrique.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 692-04-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 停電
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 692-04-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 전력 계통
+    designation: 정지
+  - type: expression
+    usage_info: 전력 계통
+    designation: 사고
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+mon:
+  id: 692-04-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: цахилгаан эрчим хүчний системд гардаг
+    designation: тасралт
+  language_code: mon
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 692-04-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: w systemie elektroenergetycznym
+    designation: wyłączenie
+  - type: expression
+    usage_info: w systemie elektroenergetycznym
+    designation: odstawienie
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 692-04-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: num sistema de energia elétrica
+    designation: indisponibilidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 692-04-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 电力系统
+    designation: 停运
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

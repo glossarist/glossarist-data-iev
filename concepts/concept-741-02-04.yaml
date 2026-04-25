@@ -1,0 +1,148 @@
+---
+termid: 741-02-04
+term: IoT device
+ara:
+  id: 741-02-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: نبيطة خاصة بشبكة الإنترنت
+  - type: expression
+    designation: جهاز خاص بشبكة الإنترنت
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 741-02-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IoT-Gerät
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 741-02-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IoT device
+  definition: "{{entity, IEV:741-01-18}} of an {{IoT system, IEV:741-02-07}} that
+    interacts and communicates with the physical world through sensing or actuating"
+  language_code: eng
+  notes:
+  - An IoT device can be a {{sensor, IEV:741-02-09}} or an {{actuator, IEV:351-49-07}}.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: ISO/IEC 20924:2018
+    clause: 3.2.4
+    link: https://www.iso.org/standard/69470.html
+    relationship:
+      :type: :identical
+    original: ISO/IEC 20924:2018, 3.2.4
+  date_accepted: '2020-04-01T00:00:00+00:00'
+  date_amended: '2020-04-01T00:00:00+00:00'
+  review_date: '2020-04-01T00:00:00+00:00'
+  review_decision_date: '2020-04-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 741-02-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dispositif IdO
+    gender: m
+    plurality: singular
+  definition: "{{entité, IEV:741-01-18}} d'un {{système IdO, IEV:741-02-07}} qui interagit
+    et communique avec le monde physique par des actions de détection ou d'actionnement"
+  language_code: fra
+  notes:
+  - Un dispositif IdO peut être un {{capteur, IEV:741-02-09}} ou un {{actionneur,
+    IEV:351-49-07}}.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: ISO/IEC 20924:2018
+    clause: 3.2.4
+    link: https://www.iso.org/standard/69470.html
+    relationship:
+      :type: :identical
+    original: ISO/IEC 20924:2018, 3.2.4
+  review_decision_event: published
+ita:
+  id: 741-02-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dispositivo di Internet delle Cose
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 741-02-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IoTデバイス
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 741-02-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 사물인터넷 장치
+  - type: expression
+    designation: IoT 장치
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 741-02-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: urządzenie IR
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 741-02-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dispositivo stem:[IoT]
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 741-02-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 物联网设备
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

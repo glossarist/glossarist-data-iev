@@ -1,0 +1,221 @@
+---
+termid: 351-50-03
+term: second-order lag element
+ara:
+  id: 351-50-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: عنصر تأخير من الدرجة الثانية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 351-50-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Verzögerungsglied zweiter Ordnung
+    gender: n
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: P-T2-Glied
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 351-50-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: second-order lag element
+  definition: linear time-invariant transfer element the transfer function of which
+    has exactly two poles with negative real parts which may be real or complex conjugate
+    and no zeros
+  language_code: eng
+  notes:
+  - "The transfer function of a second-order lag element is given as\n\nstem:[((V
+    ( s )))/((U ( s ))) = ((K_Ρ))/((( 1 + T_1 * s ) * ( 1 + T_2 * s )))] for two real
+    poles\n\nand as\n\nstem:[((V ( s )))/((U ( s ))) = ((K_Ρ))/((((s^2))/((omega_0^2))
+    + 2 * vartheta * (s)/((omega_0)) + 1))] for a complex conjugate pair of poles\n\nwhere<table>\r\n<tr>\n<td>\nstem:[K]~P~\n</td>\n<td>is
+    the proportional action coefficient;</td>\n</tr>\r\n<tr>\n<td>\nstem:[T]~1~, stem:[T]~2~\n</td>\n<td>are
+    the time constants;</td>\n</tr>\r\n<tr>\n<td>stem:[vartheta]</td>\n<td>is the
+    damping ratio;</td>\n</tr>\r\n<tr>\n<td>\nstem:[ω]~0~\n</td>\n<td>is the characteristic
+    angular frequency;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>is the complex
+    variable of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n<td>is
+    the input transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n<td>is
+    the output transform.</td>\n</tr>\r\n</table>"
+  - This entry was numbered 351-28-14 in IEC 60050-351:2006.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 351-50-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: elemento de retraso de segundo orden
+    gender: m
+    plurality: singular
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 351-50-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: toisen asteen vaiheenjättöelementti
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 351-50-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: élément de retard du second ordre
+    gender: m
+    plurality: singular
+  definition: élément de transfert linéaire invariant dans le temps dont la fonction
+    de transfert a exactement deux pôles avec des parties réelles négatives, qui peuvent
+    être réels ou imaginaires conjugués, et pas de zéro
+  language_code: fra
+  notes:
+  - "La fonction de transfert d'un élément de retard de second ordre est donnée par\n\nstem:[((V
+    ( s )))/((U ( s ))) = ((K_Ρ))/((( 1 + T_1 * s ) * ( 1 + T_2 * s )))] pour deux
+    pôles réels\n\net par\n\nstem:[((V ( s )))/((U ( s ))) = ((K_Ρ))/((((s^2))/((omega_0^2))
+    + 2 * vartheta * (s)/((omega_0)) + 1))] pour une paire de pôles imaginaires conjugués\n\noù<table>\r\n<tr>\n<td>\nstem:[K]~P~\n</td>\n<td>est
+    le coefficient d’action proportionnelle;</td>\n</tr>\r\n<tr>\n<td>\nstem:[T]~1~,
+    stem:[T]~2~\n</td>\n<td>sont les constantes de temps;</td>\n</tr>\r\n<tr>\n<td>stem:[vartheta]</td>\n<td>est
+    le taux d’amortissement;</td>\n</tr>\r\n<tr>\n<td>\nstem:[ω]~0~\n</td>\n<td>est
+    la pulsation caractéristique;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>est
+    la variable complexe de la transformée de Laplace;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n<td>est
+    la transformée de la variable d’entrée;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n<td>est
+    la transformée de la variable de sortie.</td>\n</tr>\r\n</table>"
+  - Cet article était numéroté 351-28-14 dans la CEI 60050-351:2006.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 351-50-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: elemento di ritardo del secondo ordine
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 351-50-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 二次遅れ要素
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 351-50-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 이차 지연 요소
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 351-50-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: człon inercyjny drugiego rzędu
+  - type: expression
+    normative_status: preferred
+    designation: element inercyjny drugiego rzędu
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 351-50-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: elemento de atraso de segunda ordem
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 351-50-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 二阶滞后元件
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published

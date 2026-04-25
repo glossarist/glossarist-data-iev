@@ -1,0 +1,167 @@
+---
+termid: 811-37-25
+term: conversation
+ara:
+  id: 811-37-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: فى شبكة إتصالات القطار
+    designation: تبادل البيانات
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 811-37-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: in einem Zug-Kommunikationsnetzwerk
+    designation: Konversation
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 811-37-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: in a train communication network
+    designation: conversation
+  definition: data exchange at the application layer, consisting of a call message
+    and a reply message (the latter is missing in the multicast protocol)
+  language_code: eng
+  notes:
+  - A conversation starts with the first connect request frame and ceases when the
+    last acknowledgement for the reply message has been received or is no longer expected.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 61375-2-1:2012
+    clause: 3.1.37
+    relationship:
+      :type: :identical
+    original: IEC 61375-2-1:2012, 3.1.37
+  date_accepted: '2017-11-01T00:00:00+00:00'
+  date_amended: '2017-11-01T00:00:00+00:00'
+  review_date: '2017-11-01T00:00:00+00:00'
+  review_decision_date: '2017-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 811-37-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: en una red de comunicación ferroviaria
+    designation: conversación
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 811-37-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: dans un réseau embarqué de train
+    designation: conversation
+    gender: f
+    plurality: singular
+  definition: échange de données au niveau de la couche application, consistant en
+    un message d'appel et un message de réponse (ce dernier est inexistant dans le
+    cas du protocole de distribution)
+  language_code: fra
+  notes:
+  - Une conversation commence par la première trame connect request (demande de connexion)
+    et cesse quand le dernier acquittement pour le message de réponse a été reçu,
+    ou quand il n'est plus attendu.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 61375-2-1:2012
+    clause: 3.1.37
+    relationship:
+      :type: :identical
+    original: IEC 61375-2-1:2012, 3.1.37
+  review_decision_event: published
+ita:
+  id: 811-37-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: in una rete di comunicazione dei treni
+    designation: conversazione
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 811-37-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: TCN
+    designation: 会話
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 811-37-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 열차 통신망
+    designation: 대화
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 811-37-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: wymiana danych w warstwie aplikacyjnej sieci łączności pociągu
+    designation: rozmowa
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 811-37-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: numa rede de comunicação ferroviária
+    designation: conversação
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 811-37-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 列车通信网络
+    designation: 会话
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

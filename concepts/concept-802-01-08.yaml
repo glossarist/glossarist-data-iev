@@ -1,0 +1,214 @@
+---
+termid: 802-01-08
+term: beam(-alignment) axis
+ara:
+  id: 802-01-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: محور حزمة الأشعة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 802-01-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Bündelachse
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 802-01-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: beam(-alignment) axis
+  definition: straight line that passes through the beam centrepoints of two planes
+    perpendicular to the line which connects the point of maximal pulse-pressure-squared
+    integral with the centre of the external transducer aperture
+  language_code: eng
+  notes:
+  - The location of the first plane is the location of the plane containing the maximum
+    pulse-pressure-squared integral or, alternatively, is one containing a single
+    main lobe that is in the focal zone. The location of the second plane is as far
+    as is practicable from the first plane and parallel to the first plane with the
+    same two orthogonal scan lines (stem:[x] and stem:[y] axes) used for the first
+    plane.
+  - |-
+    In a number of cases, the term pulse-pressure-squared integral is replaced in the above definition by any linearly related quantity, e.g.:
+
+    a) in the case of a continuous wave signal the term pulse-pressure-squared integral is replaced by mean square acoustic pressure as defined in IEC 61689,
+
+    b) in cases where signal synchronisation with the scan frame is not available the term pulse-pressure-squared integral may be replaced by temporal average intensity.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 62127-1
+    clause: '3.8'
+    link: https://webstore.iec.ch/publication/6486
+    relationship:
+      :type: :modified
+    original: definition 3.8 of IEC 62127-1 MOD
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 802-01-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: eje (de alineamiento) del haz
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 802-01-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: axe (d’alignement) du faisceau
+    gender: m
+    plurality: singular
+  definition: ligne droite passant par les points centraux d’un faisceau de deux plans
+    perpendiculaires à la droite associant le point de l’intégrale de pression d'impulsion
+    au carré maximum au centre de l’ouverture du transducteur externe
+  language_code: fra
+  notes:
+  - L’emplacement du premier plan est celui du plan contenant l’intégrale de pression
+    d'impulsion au carré maximum, ou, alternativement, celui contenant un seul lobe
+    principal se trouvant dans la zone focale. L’emplacement du second plan est, dans
+    la mesure du possible, issu du premier plan et parallèle au premier avec les deux
+    mêmes lignes d'exploration orthogonales (axes stem:[x] et stem:[y]) utilisées
+    pour le premier plan.
+  - |-
+    Dans un certain nombre de cas, l'expression intégrale de pression d'impulsion au carré est remplacée dans la définition ci-dessus par une grandeur associée de manière linéaire, par exemple
+
+    a) dans le cas d’un signal à ondes entretenues, l’expression intégrale de pression d'impulsion au carré est remplacée par la pression acoustique moyenne au carré telle que définie dans la CEI 61689,
+
+    b) si la synchronisation du signal avec cadre de balayage n’est pas disponible, l’expression intégrale de pression d’impulsion au carré peut être remplacée par l’intensité dérivée de la moyenne temporelle.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 62127-1
+    clause: '3.8'
+    link: https://webstore.iec.ch/publication/6486
+    relationship:
+      :type: :modified
+    original: définition 3.8 de la CEI 62127-1 MOD
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 802-01-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ビーム整列軸
+  - type: expression
+    normative_status: preferred
+    designation: ビーム軸
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+kor:
+  id: 802-01-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 빔축
+  - type: expression
+    designation: 빔정렬축
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 802-01-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: oś rzeczywista wiązki
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 802-01-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: eixo (de alinhamento) do feixe
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+srp:
+  id: 802-01-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: оса (центрирања) дијаграма зрачења
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 802-01-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 波束准直轴
+  - type: expression
+    normative_status: preferred
+    designation: 波束轴
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published

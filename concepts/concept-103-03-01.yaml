@@ -1,0 +1,252 @@
+---
+termid: 103-03-01
+term: unit step function
+ara:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: دالة الخطوة الواحدة
+  - type: expression
+    designation: دالة هيفيسايد
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Einheitssprungfunktion
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: Einheitssprung
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: Heaviside-Funktion
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unit step function
+  - type: expression
+    designation: Heaviside function
+  - type: symbol
+    designation: ε
+    international: true
+  definition: function, zero for all negative values of the independent variable and
+    equal to one for all positive values
+  language_code: eng
+  notes:
+  - See Figure 1 below for a graphical representation of ε(stem:[t]). The value ε(0)
+    may remain undefined or may be defined according to the context.
+  - ε(stem:[x] − stem:[x]~0~) denotes a unit step at the value stem:[x]~0~ of the
+    independent variable stem:[x].
+  - |-
+    Notation H(stem:[x]) is also used. Notation ϑ(stem:[t]) is used for the unit step function of time. Notation ϒ(stem:[x]) has also been used.
+
+    image::/assets/images/parts/103/103-03-015.png[Figure 1 - Représentation graphique de ε(stem:[t]); Graphical representation of ε(stem:[t])]
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: función escalón unidad
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fonction échelon unité
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: échelon unité
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: fonction de Heaviside
+    gender: f
+    plurality: singular
+  definition: fonction nulle pour toute valeur négative de la variable indépendante
+    et égale à un pour toute valeur positive
+  language_code: fra
+  notes:
+  - Voir la Figure 1 ci-dessous pour une représentation graphique de ε(stem:[t]).
+    La valeur ε(0) peut rester indéfinie ou être définie selon le contexte.
+  - ε(stem:[x] − stem:[x]~0~) représente un échelon unité à la valeur stem:[x]~0~
+    de la variable indépendante stem:[x].
+  - La notation H(stem:[x]) est aussi utilisée. La notation ϑ(stem:[t]) est utilisée
+    pour la fonction échelon unité du temps. La notation ϒ(stem:[x]) a aussi été utilisée.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: funzione a gradino unitario
+  - type: expression
+    designation: funzione di Heaviside
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 単位階段関数
+  - type: expression
+    normative_status: preferred
+    designation: ヘビサイド関数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 단위 계단 함수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: skok jednostkowy Heaviside’a
+  - type: expression
+    designation: funkcja Heaviside’a
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: função degrau unitário
+  - type: expression
+    designation: função de Heaviside
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+srp:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: јединична одскочна функција
+  - type: expression
+    designation: Хависајдова функција
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Heavisides stegfunktion
+  - type: expression
+    designation: enhetsstegfunktion
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 103-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 单位阶跃函数
+  - type: expression
+    normative_status: preferred
+    designation: 赫维赛德函数
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

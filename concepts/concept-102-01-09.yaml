@@ -1,0 +1,228 @@
+---
+termid: 102-01-09
+term: order relation
+deu:
+  id: 102-01-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Ordnungsrelation
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 102-01-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: order relation
+  - type: expression
+    normative_status: preferred
+    designation: order
+  definition: "binary relation ℛ between elements stem:[a] and stem:[b] of a given
+    set having the following properties:\n\n* reflexivity: stem:[a]ℛstem:[a]*,* \n\n*
+    antisymmetry: if stem:[a]ℛstem:[b] and stem:[b]ℛstem:[a] then stem:[a] = stem:[b]*,*
+    \n\n* transitivity: if stem:[a]ℛstem:[b] and stem:[b]ℛstem:[c] then stem:[a]ℛstem:[c],
+    for any elements stem:[a], stem:[b] and stem:[c] of the given set"
+  language_code: eng
+  notes:
+  - The given set is said to be ordered by the relation ℛ.
+  - An order relation is a total order if at least one of the relations stem:[a]ℛstem:[b]
+    and stem:[b]ℛstem:[a] is true for any elements stem:[a] and stem:[b]. The usual
+    order for real numbers is a total order because stem:[a] ≤ stem:[b] or stem:[b]
+    ≤ stem:[a].
+  - An order relation is a partial order if, for at least two elements stem:[a] and
+    stem:[b], neither stem:[a]ℛstem:[b] nor stem:[b]ℛstem:[a] is true. Examples are
+    the divisibility relation for natural numbers and the inclusion relation for subsets
+    of a set with at least two elements.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2008-08-01T00:00:00+00:00'
+  date_amended: '2008-08-01T00:00:00+00:00'
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 102-01-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relación de orden
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 102-01-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relation d'ordre
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: ordre
+    gender: m
+    plurality: singular
+  definition: "relation binaire ℛ entre éléments stem:[a] et stem:[b] d'un ensemble
+    donné, ayant les propriétés suivantes:\n\n * réflexivité: stem:[a]ℛstem:[a]*,*
+    \n\n* antisymétrie: si stem:[a]ℛstem:[b] et stem:[b]ℛstem:[a] alors stem:[a] =
+    stem:[b]*,* \n\n* transitivité: si stem:[a]ℛstem:[b] et stem:[b]ℛstem:[c] alors
+    stem:[a]ℛstem:[c], pour des éléments quelconques stem:[a], stem:[b] et stem:[c]
+    de l'ensemble donné"
+  language_code: fra
+  notes:
+  - On dit que l'ensemble donné est ordonné par la relation ℛ.
+  - Une relation d'ordre est un ordre total si l'une au moins des relations stem:[a]ℛstem:[b]
+    et stem:[b]ℛstem:[a] est vraie pour tout couple d'éléments stem:[a] et stem:[b].
+    L'ordre usuel des nombres réels est un ordre total car stem:[a] ≤ stem:[b] ou
+    stem:[b] ≤ stem:[a].
+  - Une relation d'ordre est un ordre partiel si, pour au moins deux éléments stem:[a]
+    et stem:[b], ni stem:[a]ℛstem:[b] ni stem:[b]ℛstem:[a] n'est vraie. Des exemples
+    sont la relation de divisibilité pour les nombres entiers naturels et l'inclusion
+    pour les sous-ensembles d'un ensemble donné contenant au moins deux éléments.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 102-01-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 順序関係
+  - type: expression
+    normative_status: preferred
+    designation: 順序
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 102-01-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 순서관계
+  - type: expression
+    designation: 순서
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nld:
+  id: 102-01-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ordening
+    gender: f
+    plurality: singular
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 102-01-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relacja porządkująca
+  - type: expression
+    normative_status: preferred
+    designation: porządek
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+por:
+  id: 102-01-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relação de ordem
+  - type: expression
+    normative_status: preferred
+    designation: ordem
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+srp:
+  id: 102-01-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: релација поретка
+  - type: expression
+    designation: уређеност
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 102-01-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ordning
+  - type: expression
+    normative_status: preferred
+    designation: ordningsrelation
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 102-01-09
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 序关系
+  - type: expression
+    normative_status: preferred
+    designation: 序
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published

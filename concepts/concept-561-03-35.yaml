@@ -1,0 +1,193 @@
+---
+termid: 561-03-35
+term: symmetry
+ara:
+  id: 561-03-35
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: تماثل
+  - type: expression
+    designation: معدل الإشغال إلى الفراغ
+  - type: expression
+    designation: دورة العمل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 561-03-35
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: der Ausgangsspannung
+    designation: Symmetrie
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 561-03-35
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: symmetry
+  - type: expression
+    normative_status: preferred
+    designation: mark/space ratio
+  - type: expression
+    normative_status: preferred
+    designation: duty cycle
+  definition: |-
+    ratio between the time period (stem:[t]~1~), in which the output voltage is above a specified level, and the time period (stem:[t]~2~), in which the output voltage is below the specified level
+
+    image::/assets/images/parts/561/561-fig17-en.png[]
+
+    *Figure 17 – Characteristics of an output waveform*
+  language_code: eng
+  notes:
+  - The symmetry is expressed in percent of the duration of the full signal period.
+  - |-
+    The specified level may be the arithmetic mean between levels stem:[V]~OL~ and stem:[V]~OH~, or 50 % of the peak-to-peak amplitude. The ratio is expressed as:
+
+    stem:[((100 t_1))/((t_1 + t_2)) : ((100 t_2))/((t_1 + t_2))]
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2014-11-01T00:00:00+00:00'
+  date_amended: '2014-11-01T00:00:00+00:00'
+  review_date: '2014-11-01T00:00:00+00:00'
+  review_decision_date: '2014-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 561-03-35
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: simetría
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 561-03-35
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: symétrie
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: rapport de plage de séparation
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: cycle de service
+    gender: m
+    plurality: singular
+  definition: |-
+    rapport entre la période de temps (stem:[t]~1~), au cours duquel la tension de sortie est supérieure à un niveau spécifié, et la période de temps (stem:[t]~2~), au cours duquel la tension de sortie est inférieure au niveau spécifié
+
+    image::/assets/images/parts/561/561-fig17-fr.png[]
+
+    *Figure 17 – Caractéristiques d’une forme d’onde de sortie*
+  language_code: fra
+  notes:
+  - La symétrie est exprimée en pourcentage de la durée de la période totale du signal.
+  - |-
+    Le niveau spécifié peut être la moyenne arithmétique des niveaux stem:[V]~OL~ et stem:[V]~OH~ ou 50 % de l’amplitude crête à crête. Le rapport est exprimé comme suit:
+
+    stem:[((100 t_1))/((t_1 + t_2)) : ((100 t_2))/((t_1 + t_2))]
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+ita:
+  id: 561-03-35
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: simmetria
+  - type: expression
+    designation: rapporto mark/space
+  - type: expression
+    designation: ciclo di lavoro
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 561-03-35
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 波形シンメトリ
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 561-03-35
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 대칭
+  - type: expression
+    designation: 기호/공간율
+  - type: expression
+    designation: 사용률
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 561-03-35
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cykl pracy względny
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 561-03-35
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: simetria
+  - type: expression
+    designation: razão da gama de separação
+  - type: expression
+    designation: ciclo de serviço
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 561-03-35
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 对称性
+  - type: expression
+    designation: 占空比
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

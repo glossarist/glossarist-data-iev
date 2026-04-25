@@ -1,0 +1,169 @@
+---
+termid: 171-07-28
+term: character mean entropy
+ara:
+  id: 171-07-28
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: متوسط محتوى المعلومات للحرف
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-07-28
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mittlerer Informationsbelag
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Zeichenentropie
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-07-28
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: character mean entropy
+  - type: expression
+    normative_status: preferred
+    designation: character mean information content
+  - type: expression
+    normative_status: preferred
+    designation: character average information
+  - type: expression
+    normative_status: preferred
+    designation: content character information rate
+  - type: symbol
+    designation: stem:[H^( ' )]
+    international: true
+  definition: |-
+    mean per {{character, IEV:702-05-10}} of the {{entropy, IEV:171-07-15}} for all possible messages from a {{stationary message source, IEV:171-07-09}}
+
+    stem:[H^( ' ) = underset((m -&gt; oo))((lim)) ((H_m))/(m)]
+
+    where stem:[Hm] is the entropy of the set of all sequences of stem:[m] characters from the source
+  language_code: eng
+  notes:
+  - The character mean entropy can be expressed in a unit such as the shannon per
+    character.
+  - The limit might not exist if the source were not stationary.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-37
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+    original: IEC 80000-13:2008, 13-37, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-07-28
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: keskimääräinen entropia merkkiä kohti
+  - type: expression
+    designation: merkin keskimääräinen informaatiomäärä
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-07-28
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entropie moyenne par caractère
+    gender: f
+    plurality: singular
+  definition: |-
+    moyenne par {{caractère, IEV:702-05-10}} de l'{{entropie, IEV:171-07-15}}, étendue à tous les messages issus d'une {{source de messages stationnaire, IEV:171-07-09}}
+
+    stem:[H^( ' ) = underset((m -&gt; oo))((lim)) ((H_m))/(m)]
+
+    où stem:[Hm] est l'entropie de l'ensemble de toutes les suites de stem:[m] caractères issues de la source
+  language_code: fra
+  notes:
+  - L'entropie moyenne par caractère peut être exprimée à l'aide d'une unité telle
+    que le shannon par caractère.
+  - La limite pourrait ne pas exister si la source n'était pas stationnaire.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-37
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+    original: IEC 80000-13:2008, 13-37, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+  review_decision_event: published
+jpn:
+  id: 171-07-28
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 文字平均エントロピー
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-07-28
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: średnia zawartość informacji w znakach
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-07-28
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entropia média por carácter
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-07-28
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 字符平均熵
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

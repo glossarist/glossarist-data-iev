@@ -1,0 +1,206 @@
+---
+termid: 102-03-01
+term: vector space
+deu:
+  id: 102-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Vektorraum
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 102-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vector space
+  - type: expression
+    normative_status: preferred
+    designation: linear space
+  definition: "for a given set of {{scalars, IEV:102-02-18}}, set of elements for
+    which the sum of any two elements *stem:[U]* and *stem:[V]* and the product of
+    any element and a scalar stem:[α] are elements of the set, with the following
+    properties:\n\n\n\n* stem:[U + V = V + U],\n\n* stem:[( U + V ) + W = U + ( V
+    + W )], where *stem:[W]* is also an element of the set, \n\n* there exists a neutral
+    element for addition, called zero vector and denoted by *0*, such that: stem:[U
+    + 0 = U],\n\n* there exists an opposite stem:[( - U )] such that stem:[U + ( -
+    U ) = 0],\n\n* stem:[( alpha + beta ) U = alpha U + beta U], where stem:[β] is
+    also a scalar, \n\n* stem:[alpha ( U + V ) = alpha U + alpha V],\n\n* stem:[alpha
+    ( beta U ) = ( alpha beta ) U],\n\n* stem:[1 U = U]"
+  language_code: eng
+  notes:
+  - In the usual three-dimensional space, the directed line segments with a specified
+    origin form an example of a vector space over real numbers. Another example, corresponding
+    to the extended concept of scalar (see {{IEV 102-02-18, IEV:102-02-18}}, Note
+    1) is the set of stem:[n-]bit words formed of the digits 0 and 1 with addition
+    modulo two, where the set of scalars is the set of two elements 0 and 1 subject
+    to Boolean algebra.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 102-03-01:2007-08
+spa:
+  id: 102-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: espacio vectorial
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 102-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: espace vectoriel
+    gender: m
+    plurality: singular
+  definition: "pour un ensemble donné de {{scalaires, IEV:102-02-18}}, ensemble d'éléments
+    dans lequel la somme de deux éléments quelconques *stem:[U]* et *stem:[V]* et
+    le produit d'un élément quelconque par un scalaire stem:[α] sont des éléments
+    de l'ensemble, avec les propriétés suivantes:\n\n\n* stem:[U + V = V + U],\n\n*
+    stem:[( U + V ) + W = U + ( V + W )], où *stem:[W]* est aussi un élément de l'ensemble,
+    \n\n* il existe un élément neutre pour l'addition, appelé vecteur nul et noté
+    *0*, tel que stem:[U + 0 = U],\n\n* il existe un opposé stem:[( - U )] tel que
+    stem:[U + ( - U ) = 0],\n\n* stem:[( alpha + beta ) U = alpha U + beta U], où
+    stem:[β] est aussi un scalaire, \n\n* stem:[alpha ( U + V ) = alpha U + alpha
+    V],\n\n* stem:[alpha ( beta U ) = ( alpha beta ) U],\n\n* stem:[1 U = U]"
+  language_code: fra
+  notes:
+  - Dans l'espace usuel à trois dimensions, les segments orientés ayant une origine
+    spécifiée constituent un espace vectoriel sur les nombres réels. Un autre exemple,
+    correspondant à l'extension du concept de scalaire (voir {{IEV 102-02-18, IEV:102-02-18}},
+    Note 1), est l'ensemble des mots de stem:[n] bits formés des chiffres 0 et 1 avec
+    addition modulo deux, où l'ensemble de scalaires est l'ensemble des deux éléments
+    0 et 1 muni de l'algèbre de Boole.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 102-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ベクトル空間
+  - type: expression
+    designation: 線形空間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 102-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 벡터공간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nld:
+  id: 102-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vectorruimte
+    gender: f
+    plurality: singular
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 102-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: przestrzeń wektorowa
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: przestrzeń liniowa
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 102-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: espaço vetorial
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 102-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: векторски простор
+  - type: expression
+    designation: линеарни простор
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 102-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: linjär rymd
+  - type: expression
+    normative_status: preferred
+    designation: vektorrymd
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 102-03-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 向量空间
+  - type: expression
+    designation: 线性空间
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

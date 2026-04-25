@@ -1,0 +1,91 @@
+== IEC Electropedia (IEV) Glossarist Dataset
+
+This repository contains the public dataset of the
+https://www.electropedia.org[IEC Electropedia] terms (International
+Electrotechnical Vocabulary, IEC 60050) in Glossarist YAML format.
+
+This repository is managed using the
+https://github.com/glossarist/iev[iev-termbase] toolkit and is built into
+the https://github.com/geolexica/iev.geolexica.org[IEV Geolexica website].
+
+=== Data format
+
+Each concept is stored as a single YAML file in the `concepts/` directory,
+following the Glossarist v1 format. Each file contains multilingual data
+for one IEV concept identified by its term ID (e.g., `103-01-02`).
+
+Example: `concepts/concept-103-01-02.yaml`
+
+[source,yaml]
+----
+---
+termid: 103-01-02
+term: functional
+eng:
+  id: 103-01-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: functional
+  definition: function for which the argument is a function and the value a number
+  language_code: eng
+  notes:
+  - An example of a functional...
+  examples: []
+  entry_status: Standard
+  ...
+----
+
+=== Data fields
+
+Each language section may contain:
+
+* `terms` — array of term designations (preferred, synonyms, deprecated)
+* `definition` — the definition text
+* `notes` — notes to entry
+* `examples` — examples
+* `entry_status` — publication status (e.g., "Standard")
+* `date_accepted`, `date_amended` — dates
+* `review_date`, `review_decision_date` — review tracking
+* `language_code` — ISO 639-3 language code
+
+=== Usage
+
+==== Via the `iev` Ruby gem
+
+[source,ruby]
+----
+require "iev"
+
+# Simple term lookup (backward compatible)
+Iev.get("103-01-02", "en")  # => "functional"
+
+# Full concept data
+Iev.fetch_concept("103-01-02")  # => hash with all language data
+
+# Localized concept data
+Iev.fetch_term("103-01-02", "eng")  # => hash with English data
+----
+
+==== Via the `glossarist` gem
+
+[source,ruby]
+----
+require "glossarist"
+
+collection = Glossarist::ManagedConceptCollection.new
+collection.load_from_files("./concepts")
+----
+
+==== Via `metanorma-plugin-glossarist`
+
+[source,adoc]
+----
+:glossarist-dataset: iev:./path/to/glossarist-data-iev
+----
+
+=== License and attribution
+
+This dataset is derived from the IEC Electropedia (IEC 60050). The
+terminology is published by the International Electrotechnical Commission
+(IEC). See https://www.electropedia.org for the original source.

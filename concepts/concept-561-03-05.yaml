@@ -1,0 +1,186 @@
+---
+termid: 561-03-05
+term: decay time
+ara:
+  id: 561-03-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: زمن الإضمحلال
+  - type: expression
+    designation: زمن الهبوط
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 561-03-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Abklingzeit
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 561-03-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: decay time
+  - type: expression
+    normative_status: preferred
+    designation: fall time
+  definition: |-
+    time interval required for the trailing edge of a waveform to change between two defined levels which may be either the logic levels stem:[V]~OH~ and stem:[V]~OL~ [being at 90 % and 10 %, respectively, of the maximum amplitude (equalling stem:[V]~HI~ – stem:[V]~LO~)], or any other ratio as defined in the detail specification
+
+    where
+
+    stem:[V]~OL~ is the low level output voltage
+
+    stem:[V]~OH~ is the high level output voltage
+
+    stem:[V]~HI~ is the upper flat voltage of the pulse waveform
+
+    stem:[V]~LO~ is the low flat voltage of the pulse waveform
+
+    image::/assets/images/parts/561/561-fig17-en.png[]
+
+    *Figure 17 – Characteristics of an output waveform*
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2014-11-01T00:00:00+00:00'
+  date_amended: '2014-11-01T00:00:00+00:00'
+  review_date: '2014-11-01T00:00:00+00:00'
+  review_decision_date: '2014-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 561-03-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tiempo de decadencia
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 561-03-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de déclin
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: temps de descente
+    gender: m
+    plurality: singular
+  definition: |-
+    intervalle de temps nécessaire pour que le front arrière d’une forme d’onde passe d’un niveau défini à un autre les niveaux logiques stem:[V]~OH~ et stem:[V]~OL~ [étant de 10 % à 90 %, respectivement, de l’amplitude maximale (égale à stem:[V]~HI~ – stem:[V]~LO~)], ou de tout autre rapport comme défini dans la spécification détaillée
+
+    où
+
+    stem:[V]~OL~ est la tension de sortie de niveau inférieur
+
+    stem:[V]~OH~ est la tension de sortie de niveau supérieur
+
+    stem:[V]~HI~ est la tension plane supérieure de la forme d’onde d’impulsion
+
+    stem:[V]~LO~ est la tension plane inférieure de la forme d’onde d’impulsion
+
+    image::/assets/images/parts/561/561-fig17-fr.png[]
+
+    *Figure 17 – Caractéristiques d’une forme d’onde de sortie*
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+ita:
+  id: 561-03-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tempo di discesa
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 561-03-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 立下り時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 561-03-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 감쇠 시간
+  - type: expression
+    designation: 하강 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 561-03-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: czas opadania
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: czas zaniku
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 561-03-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tempo de declínio
+  - type: expression
+    designation: tempo de descida
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 561-03-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 下降时间
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

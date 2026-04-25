@@ -1,0 +1,143 @@
+---
+termid: 447-01-32
+term: distance relay
+ara:
+  id: 447-01-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: مُرَحِّل مسافة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 447-01-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Distanzrelais
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 447-01-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: distance relay
+  definition: "{{measuring relay, IEV:447-01-02}}, whose operation and selectivity
+    depend on local measurement of electrical quantities from which the equivalent
+    distance to a {{power system fault, IEV:448-13-02}} is evaluated by comparing
+    with zone {{setting values, IEV:447-07-02}}"
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-448:1995
+    clause: 448-14-01
+    link: https://webstore.iec.ch/publication/211
+    relationship:
+      :type: :modified
+      :modification: '"a non-unit-protection" replaced by "measuring relay" and "the
+        fault" replaced by "power system fault"'
+    original: IEC 60050-448:1995, 448-14-01, modified – "a non-unit-protection" replaced
+      by "measuring relay" and "the fault" replaced by "power system fault"
+  date_accepted: '2020-05-01T00:00:00+00:00'
+  date_amended: '2020-05-01T00:00:00+00:00'
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 447-01-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relais de distance
+    gender: m
+    plurality: singular
+  definition: "{{relais de mesure, IEV:447-01-02}}, dont le fonctionnement et la sélectivité
+    dépendent de la mesure locale de grandeurs électriques à partir desquelles la
+    distance équivalente d'un {{défaut dans un réseaux d'énergie, IEV:448-13-02}}
+    est évaluée par comparaison avec des {{valeurs de réglage, IEV:447-07-02}} de
+    zones"
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-448:1995
+    clause: 448-14-01
+    link: https://webstore.iec.ch/publication/211
+    relationship:
+      :type: :modified
+      :modification: –"protection à sélectivité relative de section" a été remplacé
+        par "relais de mesure" et "du défaut" a été remplacé par "d'un défaut dans
+        un réseau d'énergie"
+    original: IEC 60050-448:1995, 448-14-01, modifié –"protection à sélectivité relative
+      de section" a été remplacé par "relais de mesure" et "du défaut" a été remplacé
+      par "d'un défaut dans un réseau d'énergie"
+  review_decision_event: published
+jpn:
+  id: 447-01-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 距離リレー
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 447-01-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 거리 계전기
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 447-01-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: przekaźnik odległościowy
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 447-01-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relé de distância
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 447-01-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 距离继电器
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,182 @@
+---
+termid: 192-10-17
+term: backward recovery
+ara:
+  id: 192-10-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: التعافى من الخطأ لحالة ما قبل الخطأ
+  - type: expression
+    designation: إصلاح الخطأ الخلفى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ces:
+  id: 192-10-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zpětné zotavení
+  - type: expression
+    designation: zpětné zotavení po chybě
+  language_code: ces
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 192-10-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Wiederherstellung durch Zurücksetzen
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Backward-Error-Recovery
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 192-10-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: backward recovery
+  - type: expression
+    designation: backward error recovery
+  definition: error recovery in which a system, program, database, or other system
+    resource is restored to a previous state in which it can perform required functions
+  language_code: eng
+  notes:
+  - Backward error recovery is employed in system software.
+  - Backward error recovery requires the internal state of the item to be recorded
+    at certain points during its operation.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: ISO/IEC/IEEE 24765:2010
+    clause: 3.234 (2)
+    link: https://www.iso.org/standard/50518.html
+    relationship:
+      :type: :modified
+      :modification: by omission of "type of" or other relevant words and addition
+        of Notes 1 and 2
+    original: ISO/IEC/IEEE 24765:2010,  <i>Systems and software engineering – Vocabulary</i>,
+      3.234 (2), modified by omission of "type of" or other relevant words and addition
+      of Notes 1 and 2
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 192-10-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recuperación retroactiva del error
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 192-10-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reprise sur erreur par régression
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: récupération par régression
+    gender: f
+    plurality: singular
+  definition: reprise sur erreur dans laquelle un système, un programme, une base
+    de données ou une autre ressource du système est rétabli dans un état antérieur
+    lui permettant d’accomplir les fonctions requises
+  language_code: fra
+  notes:
+  - La reprise sur erreur par régression est utilisée dans un logiciel d’exploitation.
+  - La reprise sur erreur par régression implique d’enregistrer l’état interne de
+    l’entité à certains stades de son fonctionnement.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: ISO/IEC/IEEE 24765:2010
+    clause: 3.234 (2)
+    link: https://www.iso.org/standard/50518.html
+    relationship:
+      :type: :identical
+    original: ISO/IEC/IEEE 24765:2010, <i>Ingénierie des systèmes et du logiciel –
+      Vocabulaire</i>, 3.234 (2). Cette source n'existe que dans la langue anglaise.
+  review_decision_event: published
+jpn:
+  id: 192-10-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: バックワードリカバリ
+  - type: expression
+    designation: ロールバック
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 192-10-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 역방향 복구
+  - type: expression
+    designation: 역방향 오류 복구
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 192-10-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: korygowanie błędu wsteczne z odtwarzaniem
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 192-10-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recuperação inversa
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 192-10-17
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 反向恢复
+  - type: expression
+    designation: 反向错误恢复
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

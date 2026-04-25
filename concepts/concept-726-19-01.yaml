@@ -1,0 +1,202 @@
+---
+termid: 726-19-01
+term: Smith chart
+ara:
+  id: 726-19-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: مخطط سميث
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2021-01-01T00:00:00+00:00'
+  date_amended: '2021-01-01T00:00:00+00:00'
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 726-19-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Smith-Diagramm
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 726-19-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Smith chart
+  - type: expression
+    normative_status: preferred
+    designation: Smith diagram
+  definition: |-
+    graphical representation in polar coordinates of the amplitude reflection factor stem:[r] for a lossless uniform transmission line with characteristic impedance stem:[Z]~0~:
+
+    stem:[underset(_)(r) = ((underset(_)(Z) - Z_0))/((underset(_)(Z) + Z_0)) = ((underset(_)(Z) // Z_0 - 1))/((underset(_)(Z) // Z_0 + 1))]
+
+    in terms of the complex impedance stem:[Z] by two families of orthogonal circles on each of which either the resistance stem:[R] or the reactance stem:[X] has a constant value, where stem:[Z] = stem:[R] + jstem:[X] is the complex impedance in the direction of propagation of the incident wave at the point at which the amplitude reflection factor is evaluated
+  language_code: eng
+  notes:
+  - The Smith chart may be used with impedances stem:[Z], admittances stem:[underset(_)(Y)
+    = (1)/(underset(_)(Z))], normalized impedances stem:[(underset(_)(Z))/((Z_0))]
+    or normalized admittances stem:[(underset(_)(Y))/((Y_0)) = ((Z_0))/(underset(_)(Z))]
+  - The Smith chart is usually restricted to positive values of stem:[R], in which
+    case it is bounded by an outer circle where the magnitude of the amplitude reflection
+    factor is unity.
+  - The Smith chart allows the conversion by direct reading of the amplitude reflection
+    factor into the real and imaginary parts of the impedance or admittance and vice
+    versa; the representation also simplifies the transformation of impedance or admittance
+    from one point to another on the same transmission line.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2021-01-01T00:00:00+00:00'
+  date_amended: '2021-01-01T00:00:00+00:00'
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 726-19-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diagrama de Smith
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 726-19-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Smithin diagrammi
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 726-19-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: abaque de Smith
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: diagramme de Smith
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: diagramme polaire d'impédance
+    gender: m
+    plurality: singular
+  definition: |-
+    représentation graphique en coordonnées polaires du facteur de réflexion complexe stem:[r], pour une ligne de transmission uniforme sans pertes, d'impédance caractéristique stem:[Z]~0~:
+
+    stem:[underset(_)(r) = ((underset(_)(Z) - Z_0))/((underset(_)(Z) + Z_0)) = ((underset(_)(Z) // Z_0 - 1))/((underset(_)(Z) // Z_0 + 1))]
+
+    en fonction de l'impédance complexe stem:[Z] à l'aide de deux familles de cercles orthogonaux sur chacun desquels soit la résistance stem:[R], soit la réactance stem:[X] a une valeur constante, stem:[Z] = stem:[R] + jstem:[X] étant l'impédance complexe dans la direction de propagation de l'onde incidente au point de détermination du facteur de réflexion complexe
+  language_code: fra
+  notes:
+  - L'abaque de Smith peut être employé avec des impédances stem:[Z], des admittances
+    stem:[underset(_)(Y) = (1)/(underset(_)(Z))], des impédances normées stem:[(underset(_)(Z))/((Z_0))]
+    ou des admittances normées stem:[(underset(_)(Y))/((Y_0)) = ((Z_0))/(underset(_)(Z))]
+  - L'abaque de Smith est habituellement limité aux valeurs positives de stem:[R]
+    ; tout l'abaque est alors compris à l'intérieur d'un cercle où le module du facteur
+    de réflexion est égal à l'unité.
+  - L'abaque de Smith permet, par lecture directe, de convertir le facteur de réflexion
+    complexe en parties réelle et imaginaire de l'impédance ou de l'admittance et
+    inversement; cette représentation simplifie aussi la transformation des impédances
+    ou des admittances d'un point à un autre d'une ligne radioélectrique.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2021-01-01T00:00:00+00:00'
+  date_amended: '2021-01-01T00:00:00+00:00'
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 726-19-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: carta di Smith
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 726-19-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: スミス図表
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 726-19-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 스미스 선도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 726-19-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wykres Smitha
+  - type: expression
+    designation: wykres kołowy (impedancji lub admitancji)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 726-19-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diagrama de Smith
+  - type: expression
+    designation: ábaco de Smith
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 726-19-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Smith-diagram
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

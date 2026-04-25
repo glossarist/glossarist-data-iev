@@ -1,0 +1,59 @@
+---
+termid: 442-05-71
+term: limiting value of the non-operating current in case of single-phase overcurrent
+eng:
+  id: 442-05-71
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: limiting value of the non-operating current in case of single-phase
+      overcurrent
+  definition: maximum value of single-phase overcurrent which, in the absence of a
+    residual current, can flow through a residual current device (whatever the number
+    of poles) without causing it to operate
+  language_code: eng
+  notes:
+  - In the case of overcurrent in the main circuit, in the absence of residual current,
+    operation of the detecting device can occur as a consequence of asymmetry existing
+    in the detecting device itself.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 62873-2:2016
+    clause: 3.4.3
+    link: https://webstore.iec.ch/publication/25837
+    relationship:
+      :type: :identical
+    original: IEC 62873-2:2016, 3.4.3
+  date_accepted: '2019-05-01T00:00:00+00:00'
+  date_amended: '2019-05-01T00:00:00+00:00'
+  review_date: '2019-05-01T00:00:00+00:00'
+  review_decision_date: '2019-05-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 442-05-71
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur limite du courant de non-fonctionnement dans le cas d'une
+      surintensité monophasée
+    gender: f
+    plurality: singular
+  definition: valeur maximale d'une surintensité monophasée qui, en l'absence de courant
+    différentiel résiduel, peut traverser un dispositif de coupure différentiel (quel
+    que soit le nombre de pôles) sans qu'il ne fonctionne
+  language_code: fra
+  notes:
+  - Dans le cas d'une surintensité dans le circuit principal, en l'absence de courant
+    différentiel résiduel, le dispositif de détection peut fonctionner en raison de
+    la dissymétrie existant dans le dispositif de détection lui-même.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 62873-2:2016
+    clause: 3.4.3
+    link: https://webstore.iec.ch/publication/25837
+    relationship:
+      :type: :identical
+    original: IEC 62873-2:2016, 3.4.3
+  review_decision_event: published

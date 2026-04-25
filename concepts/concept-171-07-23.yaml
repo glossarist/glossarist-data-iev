@@ -1,0 +1,168 @@
+---
+termid: 171-07-23
+term: conditional entropy
+ara:
+  id: 171-07-23
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: الانتروبيا المشروطة
+  - type: expression
+    designation: القيمة المتوسطة المشروطة لمحتوى المعلومات
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-07-23
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bedingte Entropie
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-07-23
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conditional entropy
+  - type: expression
+    normative_status: preferred
+    designation: mean conditional information content
+  - type: expression
+    normative_status: preferred
+    designation: average conditional information content
+  - type: symbol
+    designation: stem:[H ( X | Y )]
+    international: true
+  definition: |-
+    mean value of the {{conditional information content, IEV:171-07-21}} of the events in a finite set of mutually exclusive and jointly exhaustive events, given the occurrence of the events in another set of mutually exclusive and jointly exhaustive events
+
+    stem:[H ( X | Y ) = sum_((i = 1))^n sum_((j = 1))^m p ( x_i , y_j ) * I ( x_i | y_j )]
+
+    where stem:[X = { x_1 , ... , x_n }] is the set of events stem:[x_i ( i = 1, ... , n )], stem:[Y = { y_1 , ... , y_m }] is the set of events stem:[y_j ( j = 1, ... , m )], stem:[I ( x_i | y_j )] is the conditional information content of stem:[x_i] given stem:[y_j], and stem:[p ( x_i , y_j )] the joint probability that both events occur
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-32
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+    original: IEC 80000-13:2008, 13-32, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-07-23
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ehdollinen entropia
+  - type: expression
+    designation: keskimääräinen ehdollinen informaatiomäärä
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-07-23
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entropie conditionnelle
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: deprecated
+    designation: néguentropie conditionnelle
+    gender: f
+    plurality: singular
+  definition: |-
+    espérance mathématique de la {{quantité d'information conditionnelle, IEV:171-07-21}} des événements d'un ensemble exhaustif d'événements s'excluant mutuellement, lorsque se sont réalisés les événements d'un autre ensemble exhaustif d'événements s'excluant mutuellement
+
+    stem:[H ( X | Y ) = sum_((i = 1))^n sum_((j = 1))^m p ( x_i , y_j ) * I ( x_i | y_j )]
+
+    où stem:[X = { x_1 , ... , x_n }] est l'ensemble d'événements stem:[x_i ( i = 1, ... , n )], stem:[Y = { y_1 , ... , y_m }] est l'ensemble d'événements stem:[y_j ( j = 1, ... , m )], stem:[I ( x_i | y_j )] est la quantité d'information conditionnelle de stem:[x_i] lorsque stem:[y_j] s'est réalisé, stem:[p ( x_i , y_j )] est la probabilité de réalisation simultanée des deux événements
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-32
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+    original: IEC 80000-13:2008, 13-32, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+  review_decision_event: published
+jpn:
+  id: 171-07-23
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 条件付きエントロピー
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-07-23
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entropia warunkowa
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: średnia względna zawartość informacji
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-07-23
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entropia condicional
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-07-23
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 条件熵
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

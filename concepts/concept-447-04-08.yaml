@@ -1,0 +1,155 @@
+---
+termid: 447-04-08
+term: output make circuit
+ara:
+  id: 447-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: دائرة خرج موصلة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 447-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Ausgangskreis mit Schließerfunktion
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Einschaltkreis
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 447-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: output make circuit
+  definition: "{{output circuit, IEV:447-04-01}} which, when the {{measuring relay,
+    IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}} is in its {{operate
+    condition, IEV:447-02-01}}, either is closed by a contact or is effectively conducting,
+    and when the relay is in its {{reset condition, IEV:447-02-02}}, either is open
+    by a contact or is effectively non-conducting"
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-444:2002
+    clause: 444-04-15
+    link: https://webstore.iec.ch/publication/208
+    relationship:
+      :type: :modified
+      :modification: '"relay" has been replaced by "measuring relay or protection
+        equipment", "release" has been replaced by "reset"'
+    original: IEC 60050-444:2002, 444-04-15, modified – "relay" has been replaced
+      by "measuring relay or protection equipment", "release" has been replaced by
+      "reset"
+  date_accepted: '2020-05-01T00:00:00+00:00'
+  date_amended: '2020-05-01T00:00:00+00:00'
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 447-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: circuit de sortie de travail
+    gender: m
+    plurality: singular
+  definition: "{{circuit de sortie, IEV:447-04-01}} qui est soit fermé par un contact
+    ou à l'état passant quand le {{relais de mesure, IEV:447-01-02}} ou l'{{équipement
+    de protection, IEV:447-01-49}} est à l'{{état de travail, IEV:447-02-01}} et qui
+    est soit ouvert par un contact ou bloqué quand le relais ou le dispositif est
+    à l'{{état de repos, IEV:447-02-02}}"
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-444:2002
+    clause: 444-04-15
+    link: https://webstore.iec.ch/publication/208
+    relationship:
+      :type: :modified
+      :modification: '"relais" a été remplacé par "relais de mesure ou équipement
+        de protection", "repos" a été remplacé par "repos". L''ordre des mots a été
+        modifié afin de rendre la définition plus compréhensible.'
+    original: IEC 60050-444:2002, 444-04-15, modifié – "relais" a été remplacé par
+      "relais de mesure ou équipement de protection", "repos" a été remplacé par "repos".
+      L'ordre des mots a été modifié afin de rendre la définition plus compréhensible.
+  review_decision_event: published
+jpn:
+  id: 447-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: メーク出力回路
+  - type: expression
+    designation: a接点回路
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 447-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 출력투입회로
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 447-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: obwód wyjściowy zwierny
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: obwód wyjściowy zamykany
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 447-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: circuito de saída de trabalho
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 447-04-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 动合输出电路
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

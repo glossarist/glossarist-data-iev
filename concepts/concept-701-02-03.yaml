@@ -1,0 +1,256 @@
+---
+termid: 701-02-03
+term: telecommunication circuit
+ara:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: دارة (إتصال عن بعد)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2021-01-01T00:00:00+00:00'
+  date_amended: '2021-01-01T00:00:00+00:00'
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Telekommunikationsleitung
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Telekommunikationsstromkreis
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Leitung
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Kanal
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: telecommunication circuit
+  - type: expression
+    normative_status: deprecated
+    designation: communication channel
+  - type: expression
+    normative_status: deprecated
+    designation: channel
+  definition: combination of two {{transmission channels, IEV:701-02-01}} permitting
+    {{transmission, IEV:701-01-03}} in both directions between two points
+  language_code: eng
+  notes:
+  - If the {{telecommunication, IEV:701-01-05}} is by nature {{unidirectional, IEV:701-03-18}},
+    e.g. long-distance {{television, IEV:701-01-15}} transmission, the term “circuit”
+    is sometimes used to designate the single transmission channel providing the facility,
+    but this usage is deprecated.
+  - In some countries the term “communication channel” or its abbreviation “channel”
+    is used to mean “telecommunication circuit”, i.e. to encompass the two directions
+    of transmission. This usage is deprecated.
+  - The adjective "telecommunication" can be replaced by an adjective indicating the
+    nature or characteristics of the transmitted {{signals, IEV:101-12-02}}; for example,
+    {{telephone circuit, IEV:722-06-07}}, {{telegraph circuit, IEV:721-11-04}}, {{data
+    circuit, IEV:721-11-05}}, digital circuit.
+  - Characteristics of the transmission channels such as {{frequency bandwidth, IEV:702-01-03}},
+    or {{digit rate, IEV:702-05-23}}, can be different in the two directions of transmission.
+  - In telephony, usage of the term “telephone circuit” is generally limited to a
+    telecommunication circuit directly connecting two {{switching centres, IEV:722-06-05}}.
+  - 'In switching, the two transmission channels associated in a telecommunication
+    circuit can be: a) permanently associated together; b) selected from separate
+    sets for association together throughout a {{call, IEV:701-03-05}}; c) selected
+    from time to time during a call and then released, the selection and release processes
+    being determined, separately in the two directions, by the varying characteristics
+    of the information being transmitted over the telecommunication circuit.'
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  date_accepted: '2016-12-01T00:00:00+00:00'
+  date_amended: '2016-12-01T00:00:00+00:00'
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 701-02-03:1988
+spa:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: circuito (de telecomunicación)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: johto
+  - type: expression
+    designation: tietoliikennejohto
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: circuit de télécommunication
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    usage_info: en télécommunication
+    designation: circuit
+    gender: m
+    plurality: singular
+  definition: ensemble de deux {{voies de transmission, IEV:701-02-01}} associées
+    pour assurer, entre deux points, une {{transmission, IEV:701-01-03}} dans les
+    deux sens
+  language_code: fra
+  notes:
+  - Si la nature de la {{télécommunication, IEV:701-01-05}} est {{unilatérale, IEV:701-03-18}},
+    par exemple pour la transmission de la {{télévision, IEV:701-01-15}} à grande
+    distance, on utilise parfois le terme "circuit" pour désigner la voie de transmission
+    unique employée, mais cet usage est déconseillé.
+  - Dans certains pays, le terme anglais "communication channel" ou son abréviation
+    "channel" sont aussi utilisés avec la signification de "circuit de télécommunication",
+    c'est-à-dire qu'ils couvrent les deux sens de transmission. Cet usage est déconseillé.
+  - Le complément «de télécommunication» à «circuit» peut être remplacé par un adjectif
+    ou un complément indiquant la nature ou les caractéristiques des {{signaux, IEV:101-12-02}}
+    échangés; par exemple, {{circuit téléphonique, IEV:722-06-07}}, {{circuit télégraphique,
+    IEV:721-11-04}}, {{circuit de données, IEV:721-11-05}}, circuit numérique.
+  - La {{largeur de bande de fréquences, IEV:702-01-03}} ou le {{débit numérique,
+    IEV:702-05-23}} des voies de transmission associées n'est pas nécessairement le
+    même dans les deux sens.
+  - En téléphonie, le terme "circuit téléphonique" désigne en général d'une façon
+    restrictive un circuit de télécommunication reliant directement deux {{centres
+    de commutation, IEV:722-06-05}}.
+  - 'En commutation, les deux voies de transmission associées dans un circuit de télécommunication
+    peuvent être: a) associées en permanence; b) choisies dans des ensembles séparés
+    pour être associées pendant une {{communication, IEV:701-03-05}}; c) choisies
+    de temps en temps pendant une communication et libérées, la sélection et la libération
+    étant déterminées indépendamment dans les deux sens, par les caractéristiques
+    variables de l''information transmise sur le circuit de télécommunication.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+ita:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: circuito (di telecomunicazione)
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 電気通信回線
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 전기통신 회선
+  - type: expression
+    designation: 원격통신 회선
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: łącze telekomunikacyjne
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: łącze
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de telecomunicação
+    designation: circuito
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: телекомуникационо коло
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: teleförbindelse
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 701-02-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 电信电路
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

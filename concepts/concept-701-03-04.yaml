@@ -1,0 +1,201 @@
+---
+termid: 701-03-04
+term: call attempt
+ara:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: محاولة الاتصال
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2021-01-01T00:00:00+00:00'
+  date_amended: '2021-01-01T00:00:00+00:00'
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Anrufversuch
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: call attempt
+  definition: single sequence of operations made by a user of a {{telecommunication
+    network, IEV:701-02-07}} trying to obtain the desired user, {{terminal, IEV:715-01-06}}
+    or service
+  language_code: eng
+  notes:
+  - Such a sequence is sufficient in favourable cases; it cannot suffice in situations
+    such as {{blocking, IEV:715-02-15}}, {{faults, IEV:192-04-01}}, etc.
+  - At a given point of the network a call attempt is manifested by a single unsuccessful
+    {{bid, IEV:715-02-03}}, or a successful bid and all the subsequent identifiable
+    activity related to the establishment of a {{connection, IEV:701-03-01}}.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2016-12-01T00:00:00+00:00'
+  date_amended: '2016-12-01T00:00:00+00:00'
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 701-03-04:1988
+spa:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(tentativa de) llamada (por usuario)"
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: puheluyritys
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tentative d'appel
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: appel
+    gender: m
+    plurality: singular
+  definition: chaque suite d'opérations effectuée par un usager d'un {{réseau de télécommunication,
+    IEV:701-02-07}} pour essayer d'obtenir l'usager, le {{terminal, IEV:715-01-06}}
+    ou le service voulu
+  language_code: fra
+  notes:
+  - Une telle suite est suffisante dans les cas favorables; elle peut ne pas l'être
+    dans des circonstances telles qu'{{encombrements, IEV:715-02-15}}, {{pannes, IEV:192-04-01}}
+    etc.
+  - En un point donné du réseau, une tentative d'appel se manifeste par une unique
+    {{tentative de prise, IEV:715-02-03}} inefficace, ou par une tentative de prise
+    qui aboutit et par toute autre activité ultérieure liée à l'établissement de la
+    {{chaîne de connexion, IEV:701-03-01}}.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+ita:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chiamata (tentativo di…)
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 呼の試行
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 호 시도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: próba nawiązania połączenia
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: por um utilizador
+    designation: tentativa de chamada
+  - type: expression
+    usage_info: por um utilizador
+    designation: tentativa de ligação
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: од стране корисника
+    designation: покушај позива
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: anropsförsök
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 701-03-04
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 呼叫尝试
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

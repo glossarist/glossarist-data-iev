@@ -1,0 +1,174 @@
+---
+termid: 192-04-05
+term: transient fault
+ara:
+  id: 192-04-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: لبند
+    designation: خطأ لحظى،
+  - type: expression
+    designation: 'سابقاً: عطل عابر'
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ces:
+  id: 192-04-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: objektu
+    designation: přechodný poruchový stav
+  - type: expression
+    normative_status: deprecated
+    designation: přechodná vada
+  language_code: ces
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  review_decision_event: published
+deu:
+  id: 192-04-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: einer Einheit
+    designation: vorübergehender Fehlzustand
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 192-04-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: of an item
+    designation: transient fault
+  - type: expression
+    normative_status: deprecated
+    designation: volatile fault
+  definition: fault that disappears without intervention
+  language_code: eng
+  notes:
+  - The disappearance may be due to self-recovery.
+  - In IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015), this concept
+    was termed "intermittent fault", with "volatile fault" and "transient fault" as
+    synonyms, but not all transient faults are intermittent faults ({{192-04-06, IEV:192-04-06}}).
+  - IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015) identified
+    “volatile fault” as a synonym, which is deprecated as it is not true in all applications.
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 192-04-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de un elemento
+    designation: avería transitoria
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 192-04-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: d’une entité
+    designation: panne temporaire
+    gender: f
+    plurality: singular
+  definition: panne qui disparaît sans intervention
+  language_code: fra
+  notes:
+  - La disparition peut être le résultat d’un rétablissement automatique.
+  - Dans l’IEC 60050-191:1990 (supprimée; remplacée par l'IEC 60050-192:2015), ce
+    concept était désigné comme «panne intermittente», avec «panne temporaire» comme
+    synonyme, mais toutes les pannes temporaires ne sont pas des pannes intermittentes
+    ({{192-04-06, IEV:192-04-06}}).
+  - Cette note ne s’applique qu’à la langue anglaise.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 192-04-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: アイテムの
+    designation: 一時的フォールト
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 192-04-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 품목
+    designation: 과도 고장
+  - type: expression
+    usage_info: 품목
+    designation: 과도 결함
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 192-04-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: obiektu
+    designation: niezdatność przejściowa
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 192-04-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de um item
+    designation: defeito fugitivo
+  - type: expression
+    usage_info: de um item
+    designation: defeito fugaz
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 192-04-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 瞬间故障
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

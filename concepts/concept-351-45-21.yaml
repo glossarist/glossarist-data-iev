@@ -1,0 +1,236 @@
+---
+termid: 351-45-21
+term: unit-step function
+ara:
+  id: 351-45-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: دالة أحادية الخطوة
+  - type: expression
+    normative_status: preferred
+    designation: دالة هيفيسايد
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 351-45-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Einheitssprungfunktion
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 351-45-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unit-step function
+  - type: expression
+    normative_status: preferred
+    designation: Heaviside function
+  - type: symbol
+    designation: ε(stem:[t])
+    international: true
+  definition: |-
+    function, zero for all negative values of the independent variable time and equal to one for all its positive values, described by
+
+    stem:[epsilon ( t ) = int_((- oo))^t delta ( tau ) d tau = { [[0, , ,for, ,t,,0, ],[1, , ,for, ,t,&gt;,0]]], where δ(stem:[t]) is the unit impulse
+
+    SEE: Figure 4b), IEC 60050-103:2009, 103-03-01, and IEC 60027-6.
+  language_code: eng
+  notes:
+  - The value ε(0) of the unit-step function ε(stem:[t]) may remain undefined or may
+    be defined according to the context.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 351-45-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: función escalón unitario
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: función de Heaviside
+    gender: f
+    plurality: singular
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 351-45-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: yksikköaskelfunktio
+  - type: expression
+    designation: Heavisiden funktio
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 351-45-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fonction échelon unité
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: fonction de Heaviside
+    gender: f
+    plurality: singular
+  definition: |-
+    fonction nulle pour toutes les valeurs négatives de la variable indépendante temps et égale à un pour toutes ses valeurs positives, décrite par
+
+    stem:[epsilon ( t ) = int_((- oo))^t delta ( tau ) d tau = { [[0, , ,pour, ,t,,0, ],[1, , ,pour, ,t,&gt;,0]]], où δ(stem:[t]) est l’impulsion unité
+
+    VOIR: Figure 4b), CEI 60050-103:2009, 103-03-01, et CEI 60027-6.
+  language_code: fra
+  notes:
+  - |-
+    La valeur ε(0) de la fonction échelon unité ε(stem:[t])peut rester indéfinie ou peut être définie selon le contexte.
+
+    image::/assets/images/parts/351/351-fig4.png[Figure 4 - Unit test functions; Fonctions du test unités]
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 351-45-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: funzione a gradino unitario
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 351-45-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 単位ステップ関数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 351-45-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 단위 계단 함수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 351-45-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: funkcja skokowa Heaviside’a
+  - type: expression
+    normative_status: preferred
+    designation: skok jednostkowy
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 351-45-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: função degrau unitário
+  - type: expression
+    normative_status: preferred
+    designation: função de Heaviside
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 351-45-21
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 单位阶跃函数
+  - type: expression
+    normative_status: preferred
+    designation: 赫维赛德函数
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published

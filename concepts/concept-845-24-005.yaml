@@ -1,0 +1,161 @@
+---
+termid: 845-24-005
+term: Planck's law
+ara:
+  id: 845-24-005
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: قانون بلانك
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-24-005
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Plancksches Gesetz
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-24-005
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Planck's law
+  definition: |-
+    law giving the <a href="IEV845-21-029">spectral distribution</a> of radiance of a <a href="IEV845-24-004">Planckian radiator</a> as a function of wavelength and temperature
+
+    stem:[L_((e , lambda)) ( lambda , T ) = ((del L_e ( lambda , T )))/((del lambda)) = ((c_1))/(pi) lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)]
+
+    where stem:[L]~e,~stem:[λ] is the spectral radiance, stem:[λ] is the wavelength in vacuum, stem:[T] is the thermodynamic temperature, stem:[c_1 \ = 2 \ pi \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] is the Planck constant, stem:[c]~0~ is the {{speed of light in vacuum, IEV:113-01-34}}, and stem:[k] is the Boltzmann constant
+  language_code: eng
+  notes:
+  - The formula is sometimes written with stem:[((c_1))/((pi omega_0))] instead of
+    stem:[((c_1))/(pi)], where stem:[Ω]~0~ is the solid angle of magnitude 1 sr.
+  - For a detector in a medium of refractive index stem:[n], the measured radiance
+    is stem:[n]^2^stem:[L]~e,~stem:[λ](stem:[λ], stem:[T]).
+  - Planck's law can also be expressed to give the spectral distribution of radiant
+    exitance, stem:[M]~e,~stem:[λ](stem:[λ], stem:[T]); the first factor in the formula
+    is then stem:[c]~1~ instead of stem:[((c_1))/(pi)].
+  - Both quantities (radiance and radiant exitance) apply to the <a href="IEV845-21-021">unpolarized
+    radiation</a> as emitted.
+  - For the up-to-date values of the Planck constant, stem:[h], the {{speed of light
+    in vacuum, IEV:113-01-34}}, stem:[c]~0~, and the Boltzmann constant, stem:[k],
+    see CODATA.
+  - This entry was numbered 845-04-05 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-24-005
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: loi de Planck
+    gender: f
+    plurality: singular
+  definition: |-
+    loi donnant la <a href="IEV845-21-029">répartition spectrale</a> de la luminance énergétique d'un <a href="IEV845-24-004">radiateur de Planck</a> en fonction de la longueur d'onde et de la température
+
+    stem:[L_((e , lambda)) ( lambda , T ) = ((del L_e ( lambda , T )))/((del lambda)) = ((c_1))/(pi) lambda^(- 5) ( e^(((c_2))/((lambda T))) - 1 )^(- 1)]
+
+    où stem:[L]~e,~stem:[λ] est la luminance spectrale, stem:[λ] est la longueur d'onde dans le vide, stem:[T] est la température thermodynamique, stem:[c_1 \ = 2 \ pi \ h \ c_0^2], stem:[c_2 \ = h \ c_0 \ // \ k], stem:[h] est la constante de Planck, stem:[c]~0~ est la {{vitesse de la lumière dans le vide, IEV:113-01-34}}, et stem:[k] est la constante de Boltzmann
+  language_code: fra
+  notes:
+  - La formule s'écrit parfois avec stem:[((c_1))/((pi omega_0))] au lieu de stem:[((c_1))/(pi)],
+    où stem:[Ω]~0~ est l'angle solide de 1 sr.
+  - Pour un récepteur dans un milieu d'indice de réfraction stem:[n], la luminance
+    énergétique mesurée est stem:[n]^2^stem:[L]~e,~stem:[λ](stem:[λ], stem:[T]).
+  - La loi de Planck peut aussi être exprimée pour donner la répartition spectrale
+    de l'exitance énergétique, stem:[M]~e,~stem:[λ](stem:[λ], stem:[T]); dans la formule,
+    le premier facteur est alors stem:[c]~1~ au lieu de stem:[((c_1))/(pi)].
+  - Les deux grandeurs (luminance et exitance énergétiques) s'appliquent au <a href="IEV845-21-021">rayonnement
+    non polarisé</a> tel qu'il est émis.
+  - Pour les valeurs actualisées de la constante de Planck, stem:[h], la {{vitesse
+    de la lumière dans le vide, IEV:113-01-34}}, stem:[c]~0~, et la constante de Boltzmann,
+    stem:[k], voir CODATA.
+  - Cet article était numéroté 845-04-05 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 845-24-005
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: legge di Planck
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-24-005
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: プランクの放射則
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-24-005
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 플랑크 법칙
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-24-005
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: prawo Plancka
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-24-005
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: lei de Planck
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-24-005
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 普朗克定律
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

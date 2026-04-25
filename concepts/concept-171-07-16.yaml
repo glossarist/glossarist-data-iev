@@ -1,0 +1,147 @@
+---
+termid: 171-07-16
+term: maximum entropy
+ara:
+  id: 171-07-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: اقصى انتروبيا
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-07-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximale Entropie
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-07-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum entropy
+  - type: symbol
+    designation: |-
+      stem:[H]~0~
+      stem:[H]~max~
+    international: true
+  definition: "{{entropy, IEV:171-07-15}} of a set of events when they are equiprobable,
+    i.e. stem:[p](stem:[x]~stem:[i]~) &amp;equals; 1/stem:[n] for stem:[i] &amp;equals;
+    1, …, stem:[n]"
+  language_code: eng
+  notes:
+  - When the same integer base is used for the same number of events, the maximum
+    entropy equals the {{decision content, IEV:171-07-10}}.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-26
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+    original: IEC 80000-13:2008, 13-26, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-07-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maksimientropia
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-07-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entropie maximale
+    gender: f
+    plurality: singular
+  definition: "{{ entropie, IEV:171-07-15}} d’un jeu d’événements lorsqu’ils sont
+    équiprobables, c.-à-d. stem:[p](stem:[x]~stem:[i]~) &amp;equals; 1/stem:[n] pour
+    stem:[i] &amp;equals; 1, …, stem:[n]"
+  language_code: fra
+  notes:
+  - Lorsqu’on emploie la même base entière pour le même nombre d’événements, l’entropie
+    maximale est égale à la {{quantité de décision, IEV:171-07-10}}.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-26
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+    original: IEC 80000-13:2008, 13-26, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+  review_decision_event: published
+jpn:
+  id: 171-07-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 最大エントロピー
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-07-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maksymalna entropia
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-07-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entropia máxima
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-07-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 最大熵
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

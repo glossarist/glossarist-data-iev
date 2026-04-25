@@ -1,0 +1,174 @@
+---
+termid: 845-21-067
+term: radiance dose
+ara:
+  id: 845-21-067
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: جرعة إشعاعية
+  - type: expression
+    designation: كثافة الإشعاع
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-21-067
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Strahldichtedosis
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: zeitintegrierte Strahldichte
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-21-067
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance dose
+  - type: expression
+    designation: integrated radiance
+  - type: expression
+    designation: time-integrated radiance
+  - type: symbol
+    designation: |-
+      stem:[L]~e,~stem:[t]
+      stem:[Lt]
+    international: true
+  definition: |-
+    time integral of radiance, stem:[L]~e~, over a given duration, Δstem:[t]
+
+    stem:[L_((e , t)) = underset((Delta t))( int ) L_e d t]
+  language_code: eng
+  notes:
+  - The corresponding photometric quantity is "luminance dose". The corresponding
+    quantity for photons is "photon radiance dose".
+  - The radiance dose is expressed in joule per square metre per steradian (J·m^−2^·sr^−1^).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-21-067
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dose de luminance énergétique
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: admitted
+    designation: radiance intégrée
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: admitted
+    designation: radiance à intégration temporelle
+    gender: f
+    plurality: singular
+  definition: |-
+    intégrale par rapport au temps de la luminance énergétique, stem:[L]~e~, pendant une durée donnée, Δstem:[t]
+
+    stem:[L_((e , t)) = underset((Delta t))( int ) L_e d t]
+  language_code: fra
+  notes:
+  - La grandeur photométrique correspondante est la "dose de luminance". La grandeur
+    correspondante pour les photons est la "dose de luminance photonique".
+  - La dose de luminance énergétique est exprimée en joule par mètre carré par stéradian
+    (J·m^−2^·sr^−1^).
+  examples: []
+  entry_status: Standard
+  classification: Admitted
+  review_decision_event: published
+ita:
+  id: 845-21-067
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dose di radianza
+  - type: expression
+    designation: radianza integrata
+  - type: expression
+    designation: radianza integrata nel tempo
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-21-067
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 放射量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-21-067
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 방사 휘도 선량
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-21-067
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dawka luminancji energetycznej
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-21-067
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dose de radiância
+  - type: expression
+    designation: radiância integrada no tempo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-21-067
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 辐亮度剂量
+  - type: expression
+    designation: 积分辐亮度
+  - type: expression
+    designation: 时间积分辐亮度
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

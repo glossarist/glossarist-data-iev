@@ -1,0 +1,165 @@
+---
+termid: 192-05-12
+term: mean operating time to first failure
+ara:
+  id: 192-05-12
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: الزمن التشغيلي المتوسط حتى الانهيار الأول
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ces:
+  id: 192-05-12
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: střední doba provozu do první poruchy
+  - type: expression
+    designation: MTTFF
+  language_code: ces
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 192-05-12
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mittlere Betriebszeit bis zum ersten Ausfall
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: MTTFF
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 192-05-12
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mean operating time to first failure
+  - type: expression
+    designation: MTTFF
+  definition: expectation of the operating time to first failure
+  language_code: eng
+  notes:
+  - See also operating time to first failure ({{192-05-02, IEV:192-05-02}}).
+  - For non-repairable items, the MTTFF is also the MTTF.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 192-05-12
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tiempo medio operativo hasta el primer fallo
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 192-05-12
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durée moyenne de fonctionnement avant la première défaillance
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: durée moyenne avant la première défaillance
+    gender: f
+    plurality: singular
+  definition: espérance mathématique du temps de fonctionnement avant la première
+    défaillance
+  language_code: fra
+  notes:
+  - Voir aussi temps de fonctionnement avant la première défaillance ({{192-05-02,
+    IEV:192-05-02}}).
+  - Pour des entités non réparables, la durée moyenne de fonctionnement avant la première
+    défaillance est égale à la durée moyenne de fonctionnement avant défaillance.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 192-05-12
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 最初の故障までの平均動作時間
+  - type: expression
+    designation: 最初の故障までの平均運用時間
+  - type: expression
+    designation: MTTFF
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 192-05-12
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 첫 고장 전 평균 작동 시간
+  - type: expression
+    designation: MTTFF
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 192-05-12
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: oczekiwany czas działania do pierwszego uszkodzenia
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: MTTFF
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 192-05-12
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tempo médio de funcionamento antes da primeira falha
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 192-05-12
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 平均首次失效前工作时间
+  - type: expression
+    designation: MTTFF
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

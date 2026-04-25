@@ -1,0 +1,161 @@
+---
+termid: 845-25-061
+term: responsivity
+ara:
+  id: 845-25-061
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: استجابة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-25-061
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: eines Empfängers
+    designation: Empfindlichkeit
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-25-061
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: of a detector
+    designation: responsivity
+  - type: expression
+    normative_status: deprecated
+    designation: sensitivity
+  - type: symbol
+    designation: stem:[s]
+    international: true
+  definition: |-
+    quotient of the detector output, stem:[Y], and the detector input, stem:[X]
+
+    stem:[s = (Y)/(X)]
+  language_code: eng
+  notes:
+  - If the detector signal is stem:[Y]~0~ in the absence of input, and is stem:[Y]~t~
+    when there is an input stem:[X], the responsivity is stem:[s = ((Y_t - Y_0))/(X)].
+  - The term "sensitivity" is no longer used.
+  - This entry was numbered 845-05-54 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-25-061
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: d'un récepteur
+    designation: sensibilité
+    gender: f
+    plurality: singular
+  definition: |-
+    quotient de la réponse du récepteur, stem:[Y], par son excitation, stem:[X]
+
+    stem:[s = (Y)/(X)]
+  language_code: fra
+  notes:
+  - Si le signal du récepteur est stem:[Y]~0~ en l'absence d'excitation, et stem:[Y]~t~
+    pour une excitation stem:[X], la sensibilité est stem:[s = ((Y_t - Y_0))/(X)].
+  - En anglais, le terme "sensitivity" n'est plus usité.
+  - Cet article était numéroté 845-05-54 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 845-25-061
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: di un rivelatore
+    designation: sensibilità
+  - type: expression
+    normative_status: deprecated
+    designation: sensitività
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  review_decision_event: published
+jpn:
+  id: 845-25-061
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 光放射電検出器の
+    designation: 応答度
+  - type: expression
+    designation: 感度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-25-061
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 검출기
+    designation: 감도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-25-061
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: odbiornika
+    designation: czułość
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-25-061
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de um detetor
+    designation: sensibilidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-25-061
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 探测器的
+    designation: 响应度
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,136 @@
+---
+termid: 523-03-19
+term: gauge factor
+deu:
+  id: 523-03-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Dehnungs-Empfindlichkeitsfaktor
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Empfindlichkeitsfaktor
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Proportionalitätsfaktor
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 523-03-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gauge factor
+  - type: symbol
+    designation: stem:[G]~F~
+    international: true
+  definition: |-
+    ratio of the change in electrical {{resistance, IEV:131-12-04}} divided by the product of the original resistance (stem:[R]~o~, resistance in the undeformed configuration) and the engineering strain (stem:[e])
+
+    stem:[G]~F~&amp;equals;(stem:[R]−stem:[R]~o~)/stem:[R]~o~stem:[e]
+
+    where stem:[R] is the electrical resistance in the deformed configuration.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 62047-22:2014
+    clause: 3.1.1
+    link: https://webstore.iec.ch/publication/6365
+    relationship:
+      :type: :modified
+      :modification: In the definition, "the product of" has been added. Note 1 to
+        entry has been deleted; its content is now part of the definition.
+    original: IEC 62047-22:2014, 3.1.1, modified – In the definition, "the product
+      of" has been added. Note 1 to entry has been deleted; its content is now part
+      of the definition.
+  date_accepted: '2018-12-01T00:00:00+00:00'
+  date_amended: '2018-12-01T00:00:00+00:00'
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 523-03-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coefficient de traction
+    gender: m
+    plurality: singular
+  definition: |-
+    rapport entre la modification de {{résistance, IEV:131-12-04}} électrique divisée par le produit de la résistence originale (stem:[R]~o~, résistance en configuration non déformée) et la déformation d'ingénierie (stem:[e])
+
+    stem:[G]~F~&amp;equals;(stem:[R]−stem:[R]~o~)/stem:[R]~o~stem:[e]
+
+    où stem:[R] est a résistance électrique dans la configuration déformée.
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 62047-22:2014
+    clause: 3.1.1
+    link: https://webstore.iec.ch/publication/6365
+    relationship:
+      :type: :modified
+      :modification: Dans la définition, "le produit de" a été ajouté. La Note 1 à
+        l'article a été supprimée; son contenu fait désormais partie de la définition.
+    original: IEC 62047-22:2014, 3.1.1, modifié – Dans la définition, "le produit
+      de" a été ajouté. La Note 1 à l'article a été supprimée; son contenu fait désormais
+      partie de la définition.
+  review_decision_event: published
+jpn:
+  id: 523-03-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ゲージ率
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 523-03-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stosunek względnej zmiany rezystancji elektrycznej do naprężenia
+      mechanicznego
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 523-03-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coeficiente de deformação
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 523-03-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 应变因子
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

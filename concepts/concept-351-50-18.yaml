@@ -1,0 +1,225 @@
+---
+termid: 351-50-18
+term: derivative action gain
+ara:
+  id: 351-50-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: كسب فعل اشتقاقي
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 351-50-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Vorhaltverstärkung
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 351-50-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: derivative action gain
+  definition: |-
+    for a proportional plus derivative element with an additional first-order lag the ratio of the maximum gain resulting from the proportional plus derivative action with first-order lag to the gain resulting from proportional action only
+
+    SEE: Figure 18.
+  language_code: eng
+  notes:
+  - "The transfer function of a PD element with first-order lag is\n\nstem:[((V (
+    s )))/((U ( s ))) = K_Ρ * ((1 + T_d * s))/((1 + T_1 * s))]\n\nand using the derivative
+    action gain stem:[a] = stem:[T]~d~/T~1~ the transfer function may be written\n\nstem:[((V
+    ( s )))/((U ( s ))) = K_Ρ * ((1 + T_d * s))/((1 + ((T_d * s))/(a)))]\n\nwhere<table>\r\n<tr>\n<td>\nstem:[K]~P~\n</td>\n<td>is
+    the proportional action coefficient;</td>\n</tr>\r\n<tr>\n<td>\nstem:[T]~d~\n</td>\n<td>is
+    the rate time;</td>\n</tr>\r\n<tr>\n<td>\nstem:[T]~1~\n</td>\n<td>is the time
+    constant;</td>\n</tr>\r\n<tr>\n<td>stem:[a]</td>\n<td>is the derivative action
+    gain, 1 &lt; stem:[a] &lt; ∞;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>is the
+    complex variable of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n<td>is
+    the input transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n<td>is
+    the output transform.</td>\n</tr>\r\n</table>"
+  - This entry was numbered 351-28-29 in IEC 60050-351:2006.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 351-50-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ganancia de acción PD
+    gender: f
+    plurality: singular
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 351-50-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: derivoinnin maksimivahvistus
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 351-50-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gain d'action par dérivation
+    gender: m
+    plurality: singular
+  definition: |-
+    pour un élément à action proportionnelle et par dérivation avec retard additionnel du premier ordre, rapport du gain maximal résultant d'une action proportionnelle et par dérivation, avec un retard du premier ordre, au gain dû à la seule action proportionnelle
+
+    VOIR: Figure 18.
+  language_code: fra
+  notes:
+  - "La fonction de transfert d’un élément PD avec un retard du premier ordre est\n\nstem:[((V
+    ( s )))/((U ( s ))) = K_Ρ * ((1 + T_d * s))/((1 + T_1 * s))]\n\net utilisant le
+    gain d'action par dérivation stem:[a] = stem:[T]~d~/T~1~, la fonction de transfert
+    peut être écrite\n\nstem:[((V ( s )))/((U ( s ))) = K_Ρ * ((1 + T_d * s))/((1
+    + ((T_d * s))/(a)))]\n\noù<table>\r\n<tr>\n<td>\nstem:[K]~P~\n</td>\n<td>est le
+    coefficient d’action proportionnelle;</td>\n</tr>\r\n<tr>\n<td>\nstem:[T]~d~\n</td>\n<td>est
+    le temps de dosage de dérivation;</td>\n</tr>\r\n<tr>\n<td>\nstem:[T]~1~\n</td>\n<td>est
+    la constante de temps;</td>\n</tr>\r\n<tr>\n<td>stem:[a]</td>\n<td>est le gain
+    d’action par dérivation, 1 &lt; stem:[a] &lt; ∞;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>est
+    la variable complexe de la transformée de Laplace;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n<td>est
+    la transformée de la variable d’entrée;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n<td>est
+    la transformée de la variable de sortie.</td>\n</tr>\r\n</table>"
+  - |-
+    Cet article était numéroté 351-28-29 dans la CEI 60050-351:2006.
+
+    image::/assets/images/parts/351/351-fig18.png[]
+
+    *Figure 18 – Step response of a proportional plus derivative element with additional first order delay*
+
+    *Figure 18 – Réponse à un échelon d'un élément à action proportionnelle et par dérivation avec retard additionnel du premier ordre*
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 351-50-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: guadagno d’azione per derivazione
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 351-50-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 微分動作利得
+  - type: expression
+    normative_status: preferred
+    designation: 微分動作ゲイン
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 351-50-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 미분 동작 이득
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 351-50-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wzmocnienie różniczkowania
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 351-50-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ganho de ação derivada
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 351-50-18
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 微分作用增益
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published

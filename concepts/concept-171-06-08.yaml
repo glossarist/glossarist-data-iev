@@ -1,0 +1,149 @@
+---
+termid: 171-06-08
+term: error probability
+ara:
+  id: 171-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: احتمال الخطأ
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Fehlerwahrscheinlichkeit
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error probability
+  - type: symbol
+    designation: stem:[P]
+    international: true
+  definition: "{{probability, IEV:103-08-02}} that a {{data element, IEV:171-02-01}}
+    is incorrectly received"
+  language_code: eng
+  notes:
+  - The measured value is designated as "{{error ratio, IEV:702-07-39}}", whereas
+    "error rate" is deprecated; for example, {{bit error ratio, IEV:704-18-04}} (BER);
+    {{block error ratio, IEV:721-08-13}}.
+  examples:
+  - Error probability for binary digits or bit error probability, stem:[P]~b~ or stem:[P]~bit~;
+    block error probability, stem:[P]~bl~.
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-20
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+    original: IEC 80000-13:2008, 13-20, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: virhetodennäköisyys
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: probabilité d'erreur
+    gender: f
+    plurality: singular
+  definition: "{{probabilité, IEV:103-08-02}} pour qu’un {{élément de données, IEV:171-02-01}}
+    soit reçu de façon erronée"
+  language_code: fra
+  notes:
+  - 'La valeur mesurée est désignée par "{{taux d’erreurs, IEV:702-07-39}}", par exemple:
+    {{taux d’erreur binaire, IEV:704-18-04}} ou taux d’erreur sur les bits (TEB);
+    {{taux d’erreur sur les blocs, IEV:721-08-13}}.'
+  examples:
+  - Probabilité d’erreur sur les bits ou probabilité d’erreur binaire, stem:[P]~b~
+    ou stem:[P]~bit~; probabilité d’erreur sur les blocs, stem:[P]~bl~.
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-20
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+    original: IEC 80000-13:2008, 13-20, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+  review_decision_event: published
+jpn:
+  id: 171-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 誤りの確率
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: prawdopodobieństwo wystąpienia błędu
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: probabilidade de erro
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-06-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 差错概率
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

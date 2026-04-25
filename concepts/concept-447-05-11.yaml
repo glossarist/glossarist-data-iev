@@ -1,0 +1,160 @@
+---
+termid: 447-05-11
+term: start time
+ara:
+  id: 447-05-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: زمن االبدء
+  - type: expression
+    designation: زمن الإلتقاط
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 447-05-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Startzeit
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Anregezeit
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 447-05-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: start time
+  - type: expression
+    normative_status: preferred
+    designation: pick-up time
+  definition: |-
+    duration between the instant a specified change is made in the value(s) of the {{input energizing quantity(ies), IEV:447-03-02}} that will cause the {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}} in {{initial condition, IEV:447-02-03}} or {{reset condition, IEV:447-02-02}} to {{start, IEV:447-02-08}} (pick up) and the instant it starts (picks up)
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig3-en-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig3-en-4web"> <area title="characteristic quantity (for under... relay)" href="IEV447-01-24" shape="rect" coords="8,106,129,147" target="_self" alt="characteristic quantity (for under... relay)"> <area title="characteristic quantity (for over... relay)" href="IEV447-01-23" shape="rect" coords="4,263,129,298" target="_self" alt="characteristic quantity (for over... relay)"> <area title="initial condition" href="IEV447-02-03" shape="rect" coords="142,38,227,87" target="_self" alt="initial condition"> <area title="start value" href="IEV447-02-14" shape="rect" coords="139,148,224,180" target="_self" alt="start value"> <area title="start value" href="IEV447-02-14" shape="rect" coords="141,231,224,259" target="_self" alt="start value"> <area title="start time" href="IEV447-05-11" shape="rect" coords="230,402,306,433" target="_self" alt="start time"> <area title="start" href="IEV447-02-08" shape="rect" coords="275,21,332,52" target="_self" alt="start"> <area title="start condition" href="IEV447-02-19" shape="rect" coords="322,61,429,93" target="_self" alt="start condition">
+    <area title="output signals" href="IEV447-04-03" shape="rect" coords="49,368,129,385" target="_self" alt="output signals"></map>
+
+    *Figure 3 – Explanatory diagram for start condition (pick-up condition)*
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig4-en-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig4-en-4web"> <area title="characteristic quantity (for under... relay)" href="IEV447-01-24" shape="rect" coords="6,73,129,115" target="_self" alt="characteristic quantity (for under... relay)"> <area title="characteristic quantity (for over... relay)" href="IEV447-01-23" shape="rect" coords="5,223,132,260" target="_self" alt="characteristic quantity (for over... relay)"> <area title="start value" href="IEV447-02-14" shape="rect" coords="149,105,222,130" target="_self" alt="start value"> <area title="start value" href="IEV447-02-14" shape="rect" coords="223,228,148,204" target="_self" alt="start value"> <area title="operate value" href="IEV447-02-10" shape="rect" coords="149,131,217,146" target="_self" alt="operate value"> <area title="operate value" href="IEV447-02-10" shape="rect" coords="220,202,149,189" target="_self" alt="operate value"> <area title="start" href="IEV447-02-08" shape="rect" coords="236,9,296,40" target="_self" alt="start"> <area title="operate" href="IEV447-02-04" shape="rect" coords="272,43,316,56" target="_self" alt="operate"> <area title="start time" href="IEV447-05-11" shape="rect" coords="293,257,429,277" target="_self" alt="start time"> <area title="operate time" href="IEV447-05-05" shape="rect" coords="293,291,367,306" target="_self" alt="operate time"> <area title="output signals" href="IEV447-04-03" shape="rect" coords="56,361,134,376" target="_self" alt="output signals"> <area title="operate signal" href="IEV447-04-14" shape="rect" coords="26,425,106,441" target="_self" alt="operate signal"></map>
+
+    *Figure 4 – Relation between start time (pick-up time) and operate time*
+
+    Note 1 to entry: The relation between start time (pick-up time) and {{operate time, IEV:447-05-05}} is shown in Figure 4.</simg></simg>
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2020-05-01T00:00:00+00:00'
+  date_amended: '2020-05-01T00:00:00+00:00'
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 447-05-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de démarrage
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: temps de reprise
+    gender: m
+    plurality: singular
+  definition: |-
+    durée entre l'instant de la modification spécifiée de la ou des valeurs des {{grandeurs d'alimentation d'entrée, IEV:447-03-02}} qui vont entraîner le démarrage (reprise) du {{relais de mesure, IEV:447-01-02}} ou de l'{{équipement de protection, IEV:447-01-49}} à l'{{état initial, IEV:447-02-03}} ou à l'{{état de repos, IEV:447-02-02}} et l'instant où le relais ou le dispositif {{démarre, IEV:447-02-08}} (reprend)
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig3-fr-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig3-fr-4web"> <area title="temps de démarrage" href="IEV447-05-11" shape="rect" coords="250,403,357,447" target="_self" alt="temps de démarrage"> <area title="grandeur caractéristique (pour relais à minimum de ...)" href="IEV447-01-24" shape="rect" coords="5,142,170,112" target="_self" alt="grandeur caractéristique (pour relais à minimum de ...)"> <area title="grandeur caractéristique (pour relais à maximum de ...)" href="IEV447-01-23" shape="rect" coords="3,264,173,295" target="_self" alt="grandeur caractéristique (pour relais à maximum de ...)"> <area title="état initial" href="IEV447-02-03" shape="rect" coords="182,37,266,86" target="_self" alt="état initial"> <area title="valeur de démarrage" href="IEV447-02-14" shape="rect" coords="182,133,253,193" target="_self" alt="valeur de démarrage"> <area title="valeur de démarrage" href="IEV447-02-14" shape="rect" coords="183,213,251,274" target="_self" alt="valeur de démarrage"> <area title="démarrer" href="IEV447-02-08" shape="rect" coords="307,17,374,49" target="_self" alt="démarrer"> <area title="état de démarrage" href="IEV447-02-19" shape="rect" coords="356,59,462,90" target="_self" alt="état de démarrage">
+    <area title="signaux de sortie" href="IEV447-04-03" shape="rect" coords="70,367,169,383" target="_self" alt="signaux de sortie"></map>
+
+    *Figure 3 – Diagramme explicatif de l'état de démarrage (état de reprise)*
+
+    <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig4-fr-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig4-fr-4web"> <area title="grandeur caractéristique (pour relais à minimum de ...)" href="IEV447-01-24" shape="rect" coords="9,76,175,108" target="_self" alt="grandeur caractéristique (pour relais à minimum de ...)"> <area title="grandeur caractéristique (pour relais à maximum de ...)" href="IEV447-01-23" shape="rect" coords="3,221,178,256" target="_self" alt="grandeur caractéristique (pour relais à maximum de ...)"> <area title="signaux de sortie" href="IEV447-04-03" shape="rect" coords="73,360,170,376" target="_self" alt="signaux de sortie"> <area title="signal de fonctionnement" href="IEV447-04-14" shape="rect" coords="27,417,169,432" target="_self" alt="signal de fonctionnement"> <area title="valeur de démarrage" href="IEV447-02-14" shape="rect" coords="267,131,187,95" target="_self" alt="valeur de démarrage"> <area title="valeur de démarrage" href="IEV447-02-14" shape="rect" coords="188,204,267,234" target="_self" alt="valeur de démarrage"> <area title="valeur de fonctionnement" href="IEV447-02-10" shape="rect" coords="265,152,188,133" target="_self" alt="valeur de fonctionnement"> <area title="valeur de fonctionnement" href="IEV447-02-10" shape="rect" coords="191,183,263,202" target="_self" alt="valeur de fonctionnement"> <area title="démarrer" href="IEV447-02-08" shape="rect" coords="267,7,337,37" target="_self" alt="démarrer"> <area title="fonctionner" href="IEV447-02-04" shape="rect" coords="321,40,387,55" target="_self" alt="fonctionner"> <area title="temps de démarrage" href="IEV447-05-11" shape="rect" coords="332,255,558,275" target="_self" alt="temps de démarrage"> <area title="temps de fonctionnement" href="IEV447-05-05" shape="rect" coords="" target="_self" alt="temps de fonctionnement"></map>
+
+    *Figure 4 – Relation entre le temps de démarrage (temps de reprise)et le temps de fonctionnement*
+
+    Note 1 à l'article: La relation entre le temps de démarrage (temps de reprise) et le {{temps de fonctionnement, IEV:447-05-05}} est représentée à la Figure 4.</simg></simg>
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 447-05-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 始動時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 447-05-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 기동시간
+  - type: expression
+    designation: 시작시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 447-05-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: czas rozruchu
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: czas startu
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 447-05-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: duração de arranque
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 447-05-11
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 启动时间
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

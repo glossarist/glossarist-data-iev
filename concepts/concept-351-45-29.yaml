@@ -1,0 +1,248 @@
+---
+termid: 351-45-29
+term: unit-impulse response
+ara:
+  id: 351-45-29
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: إستجابة نبضة أحادية
+  - type: expression
+    normative_status: preferred
+    designation: دالة الوزن
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 351-45-29
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Einheitsimpulsantwort
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: Gewichtsfunktion
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 351-45-29
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unit-impulse response
+  - type: expression
+    normative_status: preferred
+    designation: weighting function
+  - type: symbol
+    designation: stem:[g](stem:[t])
+    international: true
+  definition: |-
+    quotient impulse response Δstem:[v]~δ~(stem:[t]) divided by the impulse area stem:[K]~δ~ of the impulse function, the quotient described by
+
+    stem:[g ( t ) = (1)/((K_(delta))) * Delta v_( delta ) ( t )]
+  language_code: eng
+  notes:
+  - |-
+    The unit-impulse response stem:[g](stem:[t]) of a system contains all properties of the system and is used to calculate the response Δstem:[v](stem:[t]) of the system to any input variable Δstem:[u](stem:[t]) by the convolution integral
+
+    stem:[Delta v ( t ) = int_((- oo))^(oo) g ( tau ) * Delta u ( t - tau ) d tau].
+  - |-
+    The systems frequency response stem:[G ( j * omega )] may be calculated by Fourier transformation of stem:[g](stem:[t]):
+
+    stem:[G ( j * omega ) = ℱ { g ( t ) }].
+  - The unit-impulse response of a system mathematically may be considered to result
+    from application of a unit impulse to an input variable.
+  - This entry was numbered 351-24-19 in IEC 60050-351:2006.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 351-45-29
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: respuesta a impulso unitario
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: respuesta impulsional
+    gender: f
+    plurality: singular
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 351-45-29
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: yksikköimpulssivaste
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 351-45-29
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: réponse impulsionnelle unité
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: fonction de pondération
+    gender: f
+    plurality: singular
+  definition: |-
+    quotient représenté par la réponse impulsionnelle Δstem:[v]~δ~(stem:[t]) divisé par la zone impulsionnelle stem:[K]~δ~ de la fonction impulsion, le quotient étant décrit par
+
+    stem:[g ( t ) = (1)/((K_(delta))) * Delta v_(delta) ( t )]
+  language_code: fra
+  notes:
+  - |-
+    La réponse impulsionnelle unité stem:[g](stem:[t]) d’un système contient toutes les propriétés du système et est utilisée pour calculer la réponse Δstem:[v](stem:[t]) du système à une variable d’entrée Δstem:[u](stem:[t]) par l’intégrale de convolution
+
+    stem:[Delta v ( t ) = int_((- oo))^(oo) g ( tau ) * Delta u ( t - tau ) d tau].
+  - |-
+    La réponse en fréquence du système stem:[G ( j * omega )] peut être calculée par la transformation de Fourier de stem:[g](stem:[t]):
+
+    stem:[G ( j * omega ) = ℱ { g ( t ) }].
+  - La réponse impulsionnelle unité d’un système peut mathématiquement être considérée
+    comme le résultat de l’application d’une impulsion unitaire à une variable d’entrée.
+  - Cet article était numéroté 351-24-19 dans la CEI 60050-351:2006.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 351-45-29
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: risposta ad impulso unitario
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 351-45-29
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 単位インパルス応答
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 351-45-29
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 단위임펄스 응답
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 351-45-29
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: odpowiedź impulsowa
+  - type: expression
+    normative_status: preferred
+    designation: odpowiedź na impuls Diraca
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 351-45-29
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: resposta ao impulso unitário
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 351-45-29
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 单位脉冲响应
+  - type: expression
+    normative_status: preferred
+    designation: 加权函数
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published

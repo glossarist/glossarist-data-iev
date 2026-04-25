@@ -1,0 +1,191 @@
+---
+termid: 726-19-02
+term: stem:[Z]-Theta chart
+ara:
+  id: 726-19-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: مخطط معاوقة (ثيتا)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2021-01-01T00:00:00+00:00'
+  date_amended: '2021-01-01T00:00:00+00:00'
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 726-19-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stem:[Z]-Theta-Diagramm
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 726-19-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stem:[Z]-Theta chart
+  definition: |-
+    graphical representation in polar coordinates of the amplitude reflection factor stem:[r], for a lossless uniform transmission line with characteristic impedance stem:[Z]~0~:
+
+    stem:[underset(_)(r) = ((underset(_)(Z) - Z_0))/((underset(_)(Z) + Z_0)) = ((underset(_)(Z) // Z_0 - 1))/((underset(_)(Z) // Z_0 + 1))]
+
+    in terms of the complex impedance stem:[Z] by two families of orthogonal circles on each of which either the modulus stem:[Z] or the argument stem:[θ] has a constant value, where stem:[Z] = stem:[Z]/stem:[θ] is the complex impedance in the direction of propagation of the incident wave at the point at which the amplitude reflection factor is evaluated
+  language_code: eng
+  notes:
+  - The stem:[Z]-Theta chart may be used with impedances stem:[Z], admittances stem:[underset(_)(Y)
+    = (1)/(underset(_)(Z))], normalized impedances stem:[(underset(_)(Z))/((Z_0))]
+    or normalized admittances stem:[(underset(_)(Y))/((Y_0)) = ((Z_0))/(underset(_)(Z))].
+  - The stem:[Z]-Theta chart is usually restricted to values of stem:[θ] between stem:[-
+    (pi)/(2)] and stem:[+ (pi)/(2)] corresponding to positive values of the real part
+    of stem:[Z] in which case it is bounded by an outer circle where the magnitude
+    of the amplitude reflection factor is unity.
+  - The stem:[Z]-Theta chart has the same properties and applications as those of
+    the Smith chart, but the complex impedance stem:[Z] is represented with two families
+    of orthogonal circles on each of which either the modulus stem:[Z] either the
+    argument stem:[θ] has a constant value instead of the real and imaginary parts
+    stem:[R] and stem:[X] of stem:[Z] used for the Smith chart.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2021-01-01T00:00:00+00:00'
+  date_amended: '2021-01-01T00:00:00+00:00'
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 726-19-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diagrama polar
+  - type: expression
+    designation: diagrama stem:[Z]-theta
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 726-19-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: polaaridiagrammi
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 726-19-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: abaque stem:[Z]-Théta
+    gender: m
+    plurality: singular
+  definition: |-
+    représentation graphique en coordonnées polaires du facteur de réflexion complexe stem:[r], pour une ligne de transmission uniforme sans pertes, d'impédance caractéristique stem:[Z]~0~:
+
+    stem:[underset(_)(r) = ((underset(_)(Z) - Z_0))/((underset(_)(Z) + Z_0)) = ((underset(_)(Z) // Z_0 - 1))/((underset(_)(Z) // Z_0 + 1))]
+
+    en fonction de l'impédance complexe stem:[Z] à l'aide de deux familles de cercles orthogonaux sur chacun desquels soit le module stem:[Z] soit l'argument stem:[θ] a une valeur constante, stem:[Z] = stem:[Z]/stem:[θ] étant l'impédance complexe dans la direction de propagation de l'onde incidente au point de détermination du facteur de réflexion complexe
+  language_code: fra
+  notes:
+  - "L'abaque stem:[Z]-Théta peut être employé avec des impédances stem:[Z], des admittances
+    stem:[underset(_)(Y) = (1)/(underset(_)(Z))], des impédances normées stem:[(underset(_)(Z))/((Z_0))]
+    ou des admittances normées\r\nstem:[(underset(_)(Y))/((Y_0)) = ((Z_0))/(underset(_)(Z))]."
+  - L'abaque stem:[Z]-Théta est habituellement limité aux valeurs de stem:[θ] comprises
+    entre stem:[- (pi)/(2)] et stem:[+ (pi)/(2)] qui correspondent aux valeurs positives
+    de la partie réelle de stem:[Z]; tout l'abaque est alors compris à l'intérieur
+    d'un cercle où le module du facteur de réflexion est égal à l'unité.
+  - L'abaque stem:[Z]-Théta a les mêmes propriétés et applications que l'abaque de
+    Smith, mais l'impédance complexe stem:[Z] y est représentée à l'aide de deux familles
+    de cercles sur chacun desquels soit le module stem:[Z], soit l'argument stem:[θ]
+    a une valeur constante, au lieu des parties réelle stem:[R] et imaginaire stem:[X]
+    de stem:[Z] employées avec l'abaque de Smith.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2021-01-01T00:00:00+00:00'
+  date_amended: '2021-01-01T00:00:00+00:00'
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 726-19-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: carta Z-θ
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 726-19-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Z-シータ図表
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 726-19-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stem:[Z]- 세타 선도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 726-19-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wykres biegunowy (impedancji lub admitancji)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 726-19-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diagrama polar
+  - type: expression
+    designation: diagrama Z-Teta
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 726-19-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: impedansdiagram
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,225 @@
+---
+termid: 311-01-01
+term: "(result of a) measurement"
+ara:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: نسبة الفقد (الإضعاف)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2001-07-01T00:00:00+00:00'
+  date_amended: '2001-07-01T00:00:00+00:00'
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Messergebnis
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(result of a) measurement"
+  definition: set of values attributed to a measurand
+  language_code: eng
+  notes:
+  - This term is used in the "uncertainty" approach.
+  - The central value of the whole can be selected as value of the measurand and a
+    parameter caracterising the dispersion as uncertainty.
+  - The result of a measurement is related to the indication given by the instrument
+    and to the values of correction obtained by calibration and by the use of a model.
+  - The set of values can be considered as representing the measurand provided that
+    it is compatible with all other measurements of the same measurand.
+  - The set, and hence the uncertainty, can only be given with a stated level of confidence.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: JCGM VIM
+    clause: '3.1'
+    relationship:
+      :type: :not_equal
+    original: "≠ VIM 3.1"
+  date_accepted: '2001-07-01T00:00:00+00:00'
+  date_amended: '2001-07-01T00:00:00+00:00'
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: medida
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mittaustulos
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(résultat de) mesure"
+    gender: f
+    plurality: singular
+  definition: ensemble de valeurs attribuées à un mesurande
+  language_code: fra
+  notes:
+  - Ce terme est utilisé dans l’approche "incertitude".
+  - La valeur centrale de l’ensemble peut être choisie comme valeur du mesurande et
+    un paramètre caractérisant la dispersion comme incertitude.
+  - Le résultat de mesure est relié à l’indication de l’instrument par les valeurs
+    de correction obtenues par étalonnage et par l'utilisation d'un modèle.
+  - L’ensemble des valeurs peut être considéré comme représentant le mesurande à condition
+    qu’il soit compatible avec toutes les autres mesures du même mesurande.
+  - L'ensemble, et donc l’incertitude, ne peuvent être donnés qu’avec un niveau de
+    confiance déterminé.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: JCGM VIM
+    clause: '3.1'
+    relationship:
+      :type: :not_equal
+    original: "≠ VIM 3.1"
+  date_accepted: '2001-07-01T00:00:00+00:00'
+  date_amended: '2001-07-01T00:00:00+00:00'
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fattore di smorzamento
+  - type: expression
+    normative_status: preferred
+    designation: fattore di perdita
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 測定結果
+  - type: expression
+    normative_status: preferred
+    designation: 測定
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+kor:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 측정 결과
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wynik pomiaru
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: medida
+  - type: expression
+    designation: resultado de uma medição
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+rus:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: результат измерения
+  language_code: rus
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: резултат мерења
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mätresultat
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 311-01-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 测量结果
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

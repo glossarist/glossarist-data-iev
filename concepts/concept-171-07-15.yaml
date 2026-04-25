@@ -1,0 +1,187 @@
+---
+termid: 171-07-15
+term: entropy
+ara:
+  id: 171-07-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: في نظرية المعلومات
+    designation: الانتروبيا
+  - type: expression
+    designation: القيمة المتوسطة للمعلومات
+  - type: expression
+    designation: متوسط محتوى المعلومات
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-07-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: in der Informationstheorie
+    designation: Entropie
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-07-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: in information theory
+    designation: entropy
+  - type: expression
+    normative_status: preferred
+    designation: average information content
+  - type: expression
+    normative_status: preferred
+    designation: negentropy
+  - type: symbol
+    designation: stem:[H](stem:[X])
+    international: true
+  definition: |-
+    mean value of the {{information content, IEV:171-07-14}} of the events in a finite set of mutually exclusive and jointly exhaustive events
+
+    stem:[H = sum_((i = 1))^n p ( x_i ) * I ( x_i ) = sum_((i = 1))^n p ( x_i ) * log ( (1)/((p ( x_i ))) )]
+
+    where stem:[X = { x_1 , ... , x_n }] is the set of events stem:[x_i ( i = 1, ... , n )], stem:[I ( x_i )] are their information contents and stem:[p ( x_i )] the probabilities of their occurrences, subject to stem:[sum_((i = 1))^n p ( x_i ) = 1]
+  language_code: eng
+  notes: []
+  examples:
+  - Let stem:[{ a , b , c }] be a set of three events and let stem:[p ( a ) = 0,5],
+    stem:[p ( b ) = 0,25] and stem:[p ( c ) = 0,25] be the probabilities of their
+    occurrences. The entropy of this set is stem:[H ( X ) = p ( a ) * I ( a ) + p
+    ( b ) * I ( b ) + p ( c ) * I ( c ) = 1,5 Sh].
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-25
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+    original: IEC 80000-13:2008, 13-25, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-07-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: informaatioteoriassa
+    designation: entropia
+  - type: expression
+    designation: keskimääräinen informaatiomäärä
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-07-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: en théorie de l’information
+    designation: entropie
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: deprecated
+    designation: néguentropie
+    gender: f
+    plurality: singular
+  definition: |-
+    espérance mathématique de la {{quantité d'information, IEV:171-07-14}} des événements d'un ensemble exhaustif d'événements s'excluant mutuellement
+
+    stem:[H = sum_((i = 1))^n p ( x_i ) * I ( x_i ) = sum_((i = 1))^n p ( x_i ) * log ( (1)/((p ( x_i ))) )]
+
+    où stem:[X = { x_1 , ... , x_n }] est l'ensemble des événements stem:[x_i ( i = 1, ... , n )], stem:[I ( x_i )] sont leurs quantités d'information et stem:[p ( x_i )] leurs probabilités de réalisation, avec stem:[sum_((i = 1))^n p ( x_i ) = 1]
+  language_code: fra
+  notes: []
+  examples:
+  - Soit stem:[{ a , b , c }] un jeu de trois événements dont les probabilités de
+    réalisation sont stem:[p ( a ) = 0,5], stem:[p ( b ) = 0,25] et stem:[p ( c )
+    = 0,25]. L'entropie de ce jeu est stem:[H ( X ) = p ( a ) * I ( a ) + p ( b )
+    * I ( b ) + p ( c ) * I ( c ) = 1,5 Sh].
+  entry_status: Standard
+  classification: Deprecated
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-25
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+    original: IEC 80000-13:2008, 13-25, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+  review_decision_event: published
+jpn:
+  id: 171-07-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 情報理論
+    designation: エントロピー
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-07-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: w teorii informacji
+    designation: entropia
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: średnia zawartość informacji
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-07-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: em teoria da informação
+    designation: entropia
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-07-15
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 信息论中
+    designation: 熵
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

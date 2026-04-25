@@ -1,0 +1,161 @@
+---
+termid: 192-07-01
+term: maintainability
+ara:
+  id: 192-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: قياس
+    designation: القابلية للصيانة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ces:
+  id: 192-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: ukazatel
+    designation: pravděpodobnost doby aktivní údržby
+  language_code: ces
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 192-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: Messgröße
+    designation: Instandhaltbarkeitsmaß
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 192-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: measure
+    designation: maintainability
+  - type: symbol
+    designation: stem:[M](stem:[t]~1~, stem:[t]~2~)
+    international: true
+  definition: probability that a given maintenance action, performed under stated
+    conditions and using specified procedures and resources, can be completed within
+    the time interval (stem:[t]~1~, stem:[t]~2~) given that the action started at
+    stem:[t] = 0
+  language_code: eng
+  notes:
+  - When stem:[t]~1~ = 0 and stem:[t]~2~ = stem:[t], then stem:[M](0, stem:[t]) is
+    denoted simply as stem:[M](stem:[t]) and termed the maintainability function.
+  - See also maintainability &lt;of an item&gt; ({{192-01-27, IEV:192-01-27}}).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 192-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: medida
+    designation: mantenibilidad
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 192-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: mesure
+    designation: maintenabilité
+    gender: f
+    plurality: singular
+  definition: probabilité pour qu’une opération donnée de maintenance, réalisée dans
+    des conditions définies et à l’aide de procédures et ressources spécifiées, puisse
+    être effectuée dans un intervalle de temps (stem:[t]~1~, stem:[t]~2~) donné lorsque
+    l’opération a démarré à stem:[t] = 0
+  language_code: fra
+  notes:
+  - Si stem:[t]~1~= 0 et stem:[t]~2~ = stem:[t], alors stem:[M](0, stem:[t]) est indiqué
+    simplement sous la forme stem:[M](stem:[t]) et appelé fonction de maintenabilité.
+  - Voir aussi maintenabilité &lt;d’une entité&gt; ({{192-01-27, IEV:192-01-27}}).
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 192-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 保全度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 192-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 측정
+    designation: 유지보수능력
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 192-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: wskaźnik
+    designation: prawdopodobieństwo zakończenia obsługiwania
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 192-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: medida
+    designation: manutibilidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 192-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 量度
+    designation: 维修度
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,174 @@
+---
+termid: 845-21-045
+term: luminous intensity
+ara:
+  id: 845-21-045
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: شدة ضيائية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-21-045
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Lichtstärke
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-21-045
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous intensity
+  - type: symbol
+    designation: |-
+      stem:[I]~v~
+      stem:[I]
+    international: true
+  definition: |-
+    density of luminous flux with respect to solid angle in a specified direction
+
+    stem:[I_v = ((d Phi_v))/((d omega))]
+
+    where stem:[Φ]~v~ is the luminous flux emitted in a specified direction, and stem:[Ω] is the solid angle containing that direction
+  language_code: eng
+  notes:
+  - For practical realization of the quantity, the source is approximated by a <a
+    href="IEV845-21-033">point source</a>.
+  - |-
+    The distribution of the luminous intensities as a function of the direction of emission, e.g. given by the polar angles (stem:[ϑ], stem:[φ]), is used to determine the luminous flux, stem:[Φ]~v~, within a certain solid angle, stem:[Ω], of a source:
+
+    stem:[Phi_v = underset(omega)( ∬ ) I_v ( vartheta , phi ) sin vartheta \ d phi \ d vartheta].
+  - |-
+    Luminous intensity can be derived from the spectral radiant intensity distribution by
+
+    stem:[I_v = \ K_m int_0^(oo) I_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+
+    where stem:[K]~m~ is maximum luminous efficacy, stem:[I]~e,stem:[λ]~(stem:[λ]) is the spectral radiant intensity at wavelength stem:[λ], and stem:[V](stem:[λ]) is <a href="IEV845-21-035">spectral luminous efficiency</a>.
+  - The corresponding radiometric quantity is "radiant intensity". The corresponding
+    quantity for photons is "photon intensity".
+  - The luminous intensity is expressed in candela (cd = lm·sr^−1^).
+  - This entry was numbered 845-01-31 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-21-045
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intensité lumineuse
+    gender: f
+    plurality: singular
+  definition: |-
+    densité du flux lumineux par rapport à l'angle solide dans une direction spécifiée
+
+    stem:[I_v = ((d Phi_v))/((d omega))]
+
+    où stem:[Φ]~v~ est le flux lumineux émis dans une direction spécifiée, et stem:[Ω] est l'angle solide contenant cette direction
+  language_code: fra
+  notes:
+  - Pour l'application pratique de la grandeur, la source est calculée de manière
+    approchée par une <a href="IEV845-21-033">source ponctuelle</a>.
+  - |-
+    La répartition des intensités lumineuses en fonction de la direction d'émission, par exemple, donnée par les angles polaires (stem:[ϑ], stem:[φ]), permet de déterminer le flux lumineux, stem:[Φ]~v~, dans un certain angle solide, stem:[Ω], d'une source:
+
+    stem:[Phi_v = underset(omega)( ∬ ) I_v ( vartheta , phi ) sin vartheta \ d phi \ d vartheta].
+  - |-
+    L'intensité lumineuse peut être dérivée de la répartition de l'intensité énergétique spectrale par
+
+    stem:[I_v = \ K_m int_0^(oo) I_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+
+    où stem:[K]~m~ est l'efficacité lumineuse maximale, stem:[I]~e,stem:[λ]~(stem:[λ]) est l'intensité énergétique spectrale à la longueur d'onde stem:[λ], et stem:[V](stem:[λ]) est l'<a href="IEV845-21-035">efficacité lumineuse spectrale</a>.
+  - La grandeur radiométrique correspondante est l'"intensité énergétique". La grandeur
+    correspondante pour les photons est l'"intensité photonique".
+  - L'intensité lumineuse est exprimée en candela (cd = lm·sr^−1^).
+  - Cet article était numéroté 845-01-31 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 845-21-045
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intensità luminosa
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-21-045
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 光度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-21-045
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 광도
+  - type: expression
+    designation: 조도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-21-045
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: światłość
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-21-045
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intensidade luminosa
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-21-045
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 发光强度
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

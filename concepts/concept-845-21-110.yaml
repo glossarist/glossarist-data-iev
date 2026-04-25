@@ -1,0 +1,167 @@
+---
+termid: 845-21-110
+term: partial luminous flux
+ara:
+  id: 845-21-110
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: لمصدرضوئى
+    designation: فيض ضيائى جزئى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-21-110
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: einer Lichtquelle
+    designation: partieller Lichtstrom
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-21-110
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: of a light source
+    designation: partial luminous flux
+  - type: symbol
+    designation: |-
+      stem:[Φ]~v,p,~stem:[α]
+      stem:[Φα]
+    international: true
+  definition: |-
+    luminous flux emitted within a specified cone angle, stem:[α], determined from the luminous intensity distribution, stem:[I]~v~(stem:[θ],stem:[φ]), of the light source
+
+    stem:[Phi_((v ,p , alpha)) = int_((phi = 0))^((2 pi)) int_((theta = 0))^((alpha // 2)) I_v ( theta , phi ) sin theta d theta d phi]
+  language_code: eng
+  notes:
+  - "(stem:[θ],stem:[φ]) = (0,0) is the direction of the cone axis, which can be coincident
+    with the mechanical axis or optical beam axis of the light source or any other
+    direction, and should be specified."
+  - The cone angle, stem:[α], which can be expressed either in degree (°) or radian
+    (rad), is given by the full conic angle and has to be specified, e.g. stem:[Φ]~p,90°~
+    or stem:[Φ]~p,π/2~.
+  - The term "cone luminous flux" is also used in some applications with the same
+    meaning.
+  - See also "<a href="IEV845-21-111">useful luminous flux</a>".
+  - The partial luminous flux is expressed in lumen (lm).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-21-110
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: d'une source de lumière
+    designation: flux lumineux partiel
+    gender: m
+    plurality: singular
+  definition: |-
+    flux lumineux émis dans un angle conique spécifié, stem:[α], déterminé à partir de la répartition de l'intensité lumineuse, stem:[I]~v~(stem:[θ],stem:[φ]), de la source de lumière
+
+    stem:[Phi_((v ,p , alpha)) = int_((phi = 0))^((2 pi)) int_((theta = 0))^((alpha // 2)) I_v ( theta , phi ) sin theta d theta d phi]
+  language_code: fra
+  notes:
+  - "(stem:[θ],stem:[φ]) = (0,0) est la direction de l'axe conique, qu'il convient
+    de spécifier, et qui peut correspondre à l'axe mécanique ou à l'axe du faisceau
+    optique de la source de lumière ou toute autre direction."
+  - L'angle conique, stem:[α], qui peut être exprimé soit en degré (°) soit en radian
+    (rad), est donné par l'angle conique complet et doit être précisé, par exemple,
+    stem:[Φ]~p,90°~ ou stem:[Φ]~p,π/2~.
+  - Le terme "flux lumineux conique" est également utilisé dans certaines applications
+    selon la même acception.
+  - Voir aussi "<a href="IEV845-21-111">flux lumineux utile</a>".
+  - Le flux lumineux partiel est exprimé en lumen (lm).
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 845-21-110
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: di una sorgente luminosa
+    designation: flusso luminoso parziale
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-21-110
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 部分光束
+  - type: expression
+    designation: 部分放射束
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-21-110
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 광원
+    designation: 부분 광속
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-21-110
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: źródła światła
+    designation: strumień świetlny cząstkowy
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-21-110
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de uma fonte de luz
+    designation: fluxo luminoso parcial
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-21-110
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 光源的
+    designation: 区域光通量
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

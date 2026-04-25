@@ -1,0 +1,176 @@
+---
+termid: 845-21-072
+term: luminous exposure
+ara:
+  id: 845-21-072
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: التعرض الضيائي
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-21-072
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Belichtung
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-21-072
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous exposure
+  - type: expression
+    normative_status: deprecated
+    designation: light exposure
+  - type: symbol
+    designation: |-
+      stem:[H]~v~
+      stem:[H]
+    international: true
+  definition: |-
+    density of incident <a href="IEV845-21-037">luminous energy</a> with respect to area at a point on a real or imaginary surface
+
+    stem:[H_v = ((d Q_v))/((d A))]
+
+    where stem:[Q]~v~ is luminous energy and stem:[A] is the area on which the luminous energy is incident
+  language_code: eng
+  notes:
+  - The term "light exposure" is no longer used.
+  - |-
+    Luminous exposure can be derived from the spectral radiant exposure distribution by
+
+    stem:[H_v \ = \ K_m int_0^(oo) H_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+
+    where stem:[K]~m~ is maximum luminous efficacy, stem:[H]~e,~stem:[λ](stem:[λ]) is the spectral radiant exposure at wavelength stem:[λ] and stem:[V](stem:[λ]) is <a href="IEV845-21-035">spectral luminous efficiency</a>. Integral limits can be confined depending on the spectral <a href="IEV845-25-061">responsivity</a> of the detectors used as a sensor.
+  - The corresponding radiometric quantity is "radiant exposure". The corresponding
+    quantity for photons is "photon exposure"
+  - The luminous exposure is expressed in lux second (lx·s = lm·s·m^−2^).
+  - This entry was numbered 845-01-43 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-21-072
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exposition lumineuse
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: deprecated
+    designation: lumination
+    gender: f
+    plurality: singular
+  definition: |-
+    densité d'<a href="IEV845-21-037">énergie lumineuse</a> incidente par rapport à une aire en un point d'une surface réelle ou fictive
+
+    stem:[H_v = ((d Q_v))/((d A))]
+
+    où stem:[Q]~v~ est l'énergie lumineuse et stem:[A] est l'aire qui reçoit cette énergie
+  language_code: fra
+  notes:
+  - Le terme "exposition lumineuse" n'est plus usité.
+  - |-
+    L'exposition lumineuse peut être dérivée de la répartition spectrale de l'exposition énergétique par
+
+    stem:[H_v \ = \ K_m int_0^(oo) H_((e , lambda)) ( lambda ) V ( lambda ) d lambda]
+
+    où stem:[K]~m~ est l'efficacité lumineuse maximale, stem:[H]~e,~stem:[λ](stem:[λ]) est l'exposition spectrale énergétique à la longueur d'onde stem:[λ] et stem:[V](stem:[λ]) est l'<a href="IEV845-21-035">efficacité lumineuse relative spectrale</a>. Les limites d'intégrale peuvent être confinées selon la <a href="IEV845-25-061">sensibilité</a> spectrale des récepteurs utilisés comme capteur.
+  - La grandeur radiométrique correspondante est l'"exposition énergétique". La grandeur
+    correspondante pour les photons est l'"exposition photonique".
+  - L'exposition lumineuse est exprimée en lux seconde (lx·s = lm·s·m^−2^).
+  - Cet article était numéroté 845-01-43 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  review_decision_event: published
+ita:
+  id: 845-21-072
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: esposizione luminosa
+  - type: expression
+    normative_status: deprecated
+    designation: esposizione alla luce
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  review_decision_event: published
+jpn:
+  id: 845-21-072
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 露光量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-21-072
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 노광량
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-21-072
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: naświetlenie
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-21-072
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exposição luminosa
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-21-072
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 曝光量
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

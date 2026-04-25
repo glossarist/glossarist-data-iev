@@ -1,0 +1,157 @@
+---
+termid: 192-10-19
+term: recovery block scheme
+ara:
+  id: 192-10-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: برنامج تخطيطى للتعافى من الخطأ
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ces:
+  id: 192-10-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blokové schéma zotavení
+  language_code: ces
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 192-10-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Wiederherstellung durch Blockschema
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Recovery-Block-Schema
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 192-10-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recovery block scheme
+  definition: form of fault-tolerant software design in which several diverse modules
+    are invoked in sequence to perform a given task until one of them is successful
+  language_code: eng
+  notes:
+  - Each of the modules is capable of performing the given task, but in a different
+    way. ‘Success’ is judged by the fact that the output satisfies an acceptance test
+    performed by an adjudicator. A module in the sequence is invoked only if all earlier
+    modules fail.
+  - If a module fails then backward error recovery is performed before invoking the
+    next module.
+  - The recovery block scheme is an example of standby redundancy.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 192-10-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: esquema de bloques de recuperación
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 192-10-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: récupération par bloc
+    gender: f
+    plurality: singular
+  definition: forme de conception logicielle tolérante aux pannes dans laquelle plusieurs
+    modules différents sont appelés en séquence pour effectuer une tâche donnée jusqu’à
+    ce que l’un d’eux réussisse
+  language_code: fra
+  notes:
+  - Chacun des modules est capable de réaliser la tâche donnée, mais d’une manière
+    différente. Le succès est établi par un résultat satisfaisant à un essai d’acceptation
+    réalisé par un arbitre. Un module de la séquence n’est appelé que si tous les
+    modules précédents échouent.
+  - Si un module tombe en panne, une reprise sur erreur par régression est réalisée
+    avant d’appeler le module suivant.
+  - La récupération par bloc est un exemple de redondance passive.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 192-10-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: リカバリブロックスキーム
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 192-10-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 복구 구역 방안
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 192-10-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: schemat bloków oprogramowania korygujących błąd
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 192-10-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recuperação por bloco
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 192-10-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 恢复块方案
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

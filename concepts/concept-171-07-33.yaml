@@ -1,0 +1,165 @@
+---
+termid: 171-07-33
+term: channel time capacity
+ara:
+  id: 171-07-33
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: السعة الزمنية للقناة
+  - type: expression
+    designation: سعة القناة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-07-33
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zeitbezogene Kanalkapazität
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-07-33
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: channel time capacity
+  - type: expression
+    designation: channel capacity
+  - type: symbol
+    designation: stem:[C]^*^
+    international: true
+  definition: maximum possible {{average transinformation rate, IEV:171-07-31}}, which
+    can be achieved with an arbitrary small {{error probability, IEV:171-06-08}} by
+    use of an appropriate {{code, IEV:171-01-15}}
+  language_code: eng
+  notes:
+  - The channel time capacity is one way to express quantitatively the ability of
+    a given channel subject to specific constraints to transmit messages from a specified
+    message source.
+  - The channel time capacity can be expressed in a unit such as the shannon per second
+    (Sh/s).
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-42
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+    original: IEC 80000-13:2008, 13-42, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-07-33
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: kanavan kapasiteetti
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-07-33
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capacité temporelle de canal
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: capacité de canal
+    gender: f
+    plurality: singular
+  definition: valeur maximale du {{débit moyen de transinformation, IEV:171-07-31}},
+    qui peut être atteinte avec une {{probabilité d'erreur, IEV:171-06-08}} arbitrairement
+    faible grâce à l'emploi d'un {{code, IEV:171-01-15}} approprié
+  language_code: fra
+  notes:
+  - La capacité temporelle de canal est un moyen d’exprimer quantitativement l'aptitude
+    d'un canal soumis à des contraintes spécifiées à transmettre les messages d'une
+    source de messages donnée.
+  - La capacité temporelle de canal peut être exprimée à l'aide d'une unité telle
+    que le shannon par seconde (Sh/s).
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-42
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+    original: IEC 80000-13:2008, 13-42, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+  review_decision_event: published
+jpn:
+  id: 171-07-33
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 通信路時間容量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-07-33
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zdolność przepustowa kanału w odniesieniu do czasu
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: przepustowość kanału
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-07-33
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capacidade temporal de canal
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-07-33
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 信道时间能力
+  - type: expression
+    designation: 信道能力
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,269 @@
+---
+termid: 732-07-06
+term: IP address
+ara:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: عنوان بروتوكول انترنت
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Internet-Adresse
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: IP-Adresse
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IP address
+  - type: expression
+    designation: dot address
+  - type: expression
+    designation: dotted decimal notation
+  - type: expression
+    designation: IP number
+  definition: address of a host computer used in the Internet Protocol
+  language_code: eng
+  notes:
+  - 'The IP address corresponds to a fully qualified domain name. At present, it consists
+    of 32 bits and is generally represented by a sequence of four decimal numbers
+    (each in the range from 0 to 255), separated by dots. The IP address of a computer
+    usually comprises two parts: a part corresponding to the network number of the
+    network on which this computer is located, and a part identifying the computer
+    within its network. In the new version IPv6 of the Internet Protocol, the IP address
+    consists of 128 bits'
+  - The Internet Protocol is not limited to the Internet, and may be used on other
+    networks.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dirección IP, dirección de punto, dirección en notación decimal,
+      número IP
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IP-osoite
+  - type: expression
+    designation: IP-numero
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adresse IP
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: numéro IP
+    gender: m
+    plurality: singular
+  definition: adresse d’un ordinateur hôte utilisée dans le protocole IP
+  language_code: fra
+  notes:
+  - 'L’adresse IP correspond à un nom de domaine complet. Actuellement, elle consiste
+    en 32 bits. Elle est généralement représentée par une suite de quatre nombres
+    décimaux (chacun dans la gamme de 0 à 255), séparés par des points. L’adresse
+    IP d’un ordinateur comprend généralement deux parties: une partie correspondant
+    au numéro de réseau du réseau sur lequel cet ordinateur est situé, et une partie
+    identifiant l’ordinateur à l’intérieur de ce réseau. Dans la nouvelle version
+    IPv6 du protocole IP, l''adresse IP consiste en 128 bits.'
+  - Le protocole IP n’est pas restreint à l’Internet et peut être utilisé sur d’autres
+    réseaux.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IPアドレス
+  - type: expression
+    normative_status: preferred
+    designation: ドットアドレス
+  - type: expression
+    normative_status: preferred
+    designation: ドット付き10進記法
+  - type: expression
+    normative_status: preferred
+    designation: IP番号
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+kor:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 인터넷 통신 규약 주소
+  - type: expression
+    designation: 점 주소
+  - type: expression
+    designation: 점 십진 표기법
+  - type: expression
+    designation: 인터넷 통신 규약 숫자
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adres IP (komputera w Internecie)
+  - type: expression
+    normative_status: preferred
+    designation: numer IP
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: endereço IP
+  - type: expression
+    normative_status: preferred
+    designation: número IP
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+srp:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IP адреса
+  - type: expression
+    designation: адреса са тачком
+  - type: expression
+    designation: децимални запис са тачком
+  - type: expression
+    designation: IP броj
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: punktadress
+  - type: expression
+    normative_status: preferred
+    designation: IP-adress
+  - type: expression
+    normative_status: preferred
+    designation: decimal beteckning med punkter
+  - type: expression
+    normative_status: preferred
+    designation: IP-nummer
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 732-07-06
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 网际协议地址
+  - type: expression
+    normative_status: preferred
+    designation: IP地址
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published

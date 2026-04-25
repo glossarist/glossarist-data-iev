@@ -1,0 +1,182 @@
+---
+termid: 702-07-02
+term: decibel
+ara:
+  id: 702-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ديسيبل (وحدة قياس فى مستوى الشدة بين صوتين متساويين التردد)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 702-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Dezibel
+    gender: n
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: 'Einheitenzeichen: dB'
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+eng:
+  id: 702-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: decibel
+  - type: symbol
+    designation: dB
+    international: true
+  definition: a unit used to express the ratio of two powers by ten times the decimal
+    logarithm of this ratio
+  language_code: eng
+  notes:
+  - |-
+    1 – The decibel may also be used to express the ratio of two field quantities. To obtain the same numerical value as for the corresponding power ratio, the logarithm of the field quantity ratio is multiplied by the factor 20, assuming that the impedances are equal.
+
+    If stem:[P]~1~ and stem:[P]~2~ are two powers, their ratio expressed in decibels is:
+
+    stem:[10 lg ((P_1))/((P_2))]
+
+    The relation between a field quantity ratio and the corresponding power ratio is dependent on the impedances.
+
+    If stem:[P]~1~ and stem:[P]~2~ represent the powers dissipated by currents stem:[I]~1~ and stem:[I]~2~ in resistances stem:[R]~1~ and stem:[R]~2~, then:
+
+    stem:[10 lg ((P_1))/((P_2)) = 10 lg ((I_1^2))/((I_2^2)) ((R_1))/((R_2)) = 20 lg ((I_1))/((I_2)) + 10 lg ((R_1))/((R_2))]
+  - 2 – Guidance for the use of the decibel and appropriate symbols to represent the
+    ratios of various quantities is given in CCIR Recommendation 574, in CCITT Recommendation
+    B.12, and in IEC publication 27-3.
+  examples: []
+  entry_status: Standard
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 702-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: decibelio
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 702-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: décibel
+    gender: m
+    plurality: singular
+  definition: unité servant à exprimer le rapport de deux puissances par dix fois
+    le logarithme décimal de ce rapport
+  language_code: fra
+  notes:
+  - |-
+    1 – Le décibel permet aussi d'exprimer le rapport de deux grandeurs de champ. Pour obtenir la même valeur numérique qu'avec le rapport des puissances correspondantes, le logarithme du rapport des grandeurs de champ est multiplié par le facteur 20, en supposant que les impédances soient égales.
+
+    Si stem:[P]~1~ et stem:[P]~2~ sont deux puissances, leur rapport exprimé en décibels est:
+
+    stem:[10 lg ((P_1))/((P_2))]
+
+    La relation entre un rapport de grandeurs de champ et le rapport des puissances correspondantes dépend des impédances.
+
+    Si stem:[P]~1~ et stem:[P]~2~ représentent les puissances dissipées par les courants stem:[I]~1~ et stem:[I]~2~ dans les résistances stem:[R]~1~ et stem:[R]~2~:
+
+    stem:[10 lg ((P_1))/((P_2)) = 10 lg ((I_1^2))/((I_2^2)) ((R_1))/((R_2)) = 20 lg ((I_1))/((I_2)) + 10 lg ((R_1))/((R_2))]
+  - 2 – Des directives pour l'emploi du décibel et de certains symboles pour désigner
+    les rapports de certaines quantités sont données dans la recommandation 574 du
+    CCIR, dans la recommandation B.12 du CCITT, ainsi que dans la publication 27-3
+    de la CEI.
+  examples: []
+  entry_status: Standard
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 702-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: decibel
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 702-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: デシベル
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 702-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 데시벨
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 702-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: decybel
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 702-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: decibel
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 702-07-02
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: decibel
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

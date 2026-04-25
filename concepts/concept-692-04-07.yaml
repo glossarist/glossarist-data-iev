@@ -1,0 +1,152 @@
+---
+termid: 692-04-07
+term: transient outage
+ara:
+  id: 692-04-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: خروج عابر
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 692-04-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vorübergehende Nichtverfügbarkeit
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 692-04-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transient outage
+  definition: |-
+    {{forced outage, IEV:692-04-05}} where the associated equipment is automatically returned to service within a specified time interval
+
+    image::/assets/images/parts/692/692-fig4-en.png[Figure 4 - Outage relationships]
+  language_code: eng
+  notes:
+  - The duration of that time interval is normally less than one minute.
+  - A transient outage generally involves restoration by automatic means (protection
+    schemes).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-12-01T00:00:00+00:00'
+  date_amended: '2017-12-01T00:00:00+00:00'
+  review_date: '2017-12-01T00:00:00+00:00'
+  review_decision_date: '2017-12-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 692-04-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indisponibilidad transitoria
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 692-04-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indisponibilité transitoire
+    gender: f
+    plurality: singular
+  definition: |-
+    {{indisponibilité non différable, IEV:692-04-05}} pour laquelle le matériel associé est remis automatiquement en service dans un intervalle de temps spécifié
+
+    image::/assets/images/parts/692/692-fig4-fr.png[Figure 4 - Relations entre indisponibilités]
+  language_code: fra
+  notes:
+  - La durée de cet intervalle de temps est normalement inférieure à une minute.
+  - Une indisponibilité transitoire implique généralement une remise en service automatique
+    (programmes de protection).
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 692-04-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 瞬時停止
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 692-04-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 과도 정지
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+mon:
+  id: 692-04-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: шилжилтийн тасралт
+  language_code: mon
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 692-04-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wyłączenie przejściowe
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: odstawienie przejściowe
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 692-04-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indisponibilidade transitória
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 692-04-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 瞬时停运
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

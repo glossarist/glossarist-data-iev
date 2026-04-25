@@ -1,0 +1,200 @@
+---
+termid: 171-07-26
+term: transinformation content
+ara:
+  id: 171-07-26
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: محتوى المعلومات المتبادلة
+  - type: expression
+    designation: معلومات متبادلة
+  - type: expression
+    designation: معلومات منقولة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-07-26
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Transinformationsgehalt
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: wechselseitiger Informationsgehalt
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-07-26
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transinformation content
+  - type: expression
+    normative_status: preferred
+    designation: transferred information
+  - type: expression
+    normative_status: preferred
+    designation: transmitted information
+  - type: expression
+    normative_status: preferred
+    designation: mutual information
+  - type: symbol
+    designation: stem:[T](stem:[x],stem:[y])
+    international: true
+  definition: |-
+    difference between the {{information content, IEV:171-07-14}} stem:[I](stem:[x]) conveyed by the occurrence of an event stem:[x], and the conditional information content stem:[I ( x | y )] conveyed by the occurrence of the same event, given the occurrence of another event stem:[y]
+
+    stem:[T ( x , y ) = I ( x ) - I ( x | y )]
+  language_code: eng
+  notes:
+  - The two events are particularly a message at the message source of a channel and
+    a message at the message sink of the channel.
+  - 'The transinformation content can also be expressed as: stem:[T ( x , y ) = I
+    ( x ) + I ( y ) - I ( x , y )], where stem:[I](stem:[y]) is the information content
+    of the event stem:[y]. From this follows that it is symmetric in stem:[x] and
+    stem:[y]: stem:[T ( x , y ) = T ( y , x )].'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-35
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+    original: IEC 80000-13:2008, 13-35, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-07-26
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: keskinäisinformaatiomäärä
+  - type: expression
+    designation: siirretty informaatio
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-07-26
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transinformation
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: quantité d'information mutuelle
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: information mutuelle
+    gender: f
+    plurality: singular
+  definition: |-
+    excès de la {{quantité d'information, IEV:171-07-14}} stem:[I](stem:[x]) apportée par la réalisation d'un événement stem:[x] sur la quantité d'information conditionnelle stem:[I ( x | y )] liée à cette réalisation lorsque l'on connaît la réalisation d'un autre événement stem:[y]
+
+    stem:[T ( x , y ) = I ( x ) - I ( x | y )]
+  language_code: fra
+  notes:
+  - Les deux événements sont en particulier un message émis par la source de messages
+    d'un canal et un message reçu par le collecteur de messages du canal.
+  - 'La transinformation peut aussi être exprimée par: stem:[T ( x , y ) = I ( x )
+    + I ( y ) - I ( x , y )] où stem:[I](stem:[y]) est la quantité d''information
+    de l''événement stem:[y]. Il en résulte qu''elle est symétrique en stem:[x] et
+    stem:[y]: stem:[T ( x , y ) = T ( y , x )].'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-35
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+    original: IEC 80000-13:2008, 13-35, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+  review_decision_event: published
+jpn:
+  id: 171-07-26
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 伝達情報量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-07-26
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zawartość transinformacji
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: zawartość informacji wzajemnej
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: informacja przesłana
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: informacja wzajemna
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-07-26
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transinformação
+  - type: expression
+    designation: quantidade de informação mutual
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-07-26
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 交互信息
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

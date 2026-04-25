@@ -1,0 +1,237 @@
+---
+termid: 161-04-36
+term: reference-ground plane
+ara:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: مستوى أرضي (مرجعي)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Äquipotentialbezugsebene
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1990-08-01T00:00:00+00:00'
+  date_amended: '1990-08-01T00:00:00+00:00'
+  review_date: '1990-08-01T00:00:00+00:00'
+  review_decision_date: '1990-08-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference-ground plane
+  - type: expression
+    normative_status: preferred
+    designation: RGP
+  - type: expression
+    normative_status: preferred
+    designation: reference-earth plane
+  definition: flat conductive surface that is at the same {{electric potential, IEV:121-11-25}}  as
+    {{reference ground, IEV:195-01-01}}, which is used as a common reference, and
+    which contributes to a reproducible parasitic capacitance with the surroundings
+    of the equipment under test (EUT)
+  language_code: eng
+  notes:
+  - A reference-ground plane is needed for the measurements of {{conducted disturbances,
+    IEV:161-03-27}}, and serves as reference for the measurement of unsymmetrical
+    and asymmetrical {{disturbance voltages, IEV:161-04-01}}.
+  - In some regions, the term ‘earth’ is used in place of ‘ground’.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2014-11-01T00:00:00+00:00'
+  date_amended: '2014-11-01T00:00:00+00:00'
+  review_date: '2014-11-01T00:00:00+00:00'
+  review_decision_date: '2014-11-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 161-04-36:2013-06-03
+spa:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: plano de tierra de referencia
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: plan de masse de référence
+    gender: m
+    plurality: singular
+  definition: surface conductrice plate dont le {{potentiel électrique, IEV:121-11-25}}
+    est identique à celui de la {{terre de référence, IEV:195-01-01}}, qui est utilisée
+    comme référence commune, et qui contribue à une capacité parasite reproductible
+    avec l’environnement de l'équipement en essai (EST)
+  language_code: fra
+  notes:
+  - Un plan de masse de référence est nécessaire pour les mesures de {{perturbations
+    conduites, IEV:161-03-27}}, et sert de référence pour la mesure des {{tensions
+    perturbatrices, IEV:161-04-01}} dissymétriques et asymétriques.
+  - Dans certaines régions, le terme anglais ‘earth’ est utilisé à la place de ‘ground’.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: piano di massa di riferimento
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 共通接地面
+  - type: expression
+    normative_status: preferred
+    designation: 基準接地面
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+kor:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 기준 접지 면
+  - type: expression
+    designation: RGP
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nob:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: jordreferanseplan
+  language_code: nob
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-02-01T00:00:00+00:00'
+  date_amended: '2013-02-01T00:00:00+00:00'
+  review_date: '2013-02-01T00:00:00+00:00'
+  review_decision_date: '2013-02-01T00:00:00+00:00'
+  review_decision_event: published
+nno:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: jordrefereranseplan
+  language_code: nno
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-02-01T00:00:00+00:00'
+  date_amended: '2013-02-01T00:00:00+00:00'
+  review_date: '2013-02-01T00:00:00+00:00'
+  review_decision_date: '2013-02-01T00:00:00+00:00'
+  review_decision_event: published
+pol:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: płaszczyzna ziemi odniesienia
+  - type: expression
+    normative_status: preferred
+    designation: płaszczyzna ziemi
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+por:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: plano de terra de referência
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+slv:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: plošča (referenčnega) potenciala
+  - type: expression
+    normative_status: preferred
+    designation: referenčna plošča
+  language_code: slv
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+srp:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: референтна подлога
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: jordplan
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 161-04-36
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 参考接地平面
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

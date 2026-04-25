@@ -1,0 +1,218 @@
+---
+termid: 103-05-19
+term: peak-to-valley value
+ara:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: قيمة بين القمة و القاع
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Schwingungsbreite
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Schwankung
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Spitze-Tal-Wert
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: peak-to-valley value
+  - type: expression
+    normative_status: preferred
+    designation: peak-to-peak value
+  definition: difference between the {{global maximum value, IEV:103-05-15}} and the
+    {{global minimum value, IEV:103-05-18}} in the same specified interval of the
+    argument
+  language_code: eng
+  notes:
+  - For a periodic quantity, the specified interval has a range equal to the period.
+  - The synonym "peak-to-peak value" should be used only when the global maximum and
+    minimum values are of different signs.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 103-05-19:2009-12
+spa:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valor de cresta a valle
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur de crête à creux
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: valeur de crête à crête
+    gender: f
+    plurality: singular
+  definition: différence entre la {{valeur maximale globale, IEV:103-05-15}} et la
+    {{valeur minimale globale, IEV:103-05-18}} dans le même intervalle spécifié de
+    l’argument
+  language_code: fra
+  notes:
+  - Dans le cas d'une grandeur périodique, l'intervalle spécifié a une étendue égale
+    à la période.
+  - Il convient de n’utiliser le synonyme «valeur de crête à crête» que si les valeurs
+    maximale et minimale globales sont de signes contraires.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+ita:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valore picco gola
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ピーク・ツー・ピーク値
+  - type: expression
+    designation: ピークピーク値
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 최고 최저차 값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wartość szczytowo-siodłowa
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: deprecated
+    designation: wartość międzyszczytowa
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  review_decision_event: published
+por:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valor pico-a-cava
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: разлика између највеће и најмање вредности
+  - type: expression
+    normative_status: напуштен
+    designation: пуна промена вредности
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: НАПУШТЕН
+  review_decision_event: published
+swe:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: topp-till-bottenvärde
+  - type: expression
+    designation: topp-till-toppvärde (ska inte användas)
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 103-05-19
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 峰-谷值
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

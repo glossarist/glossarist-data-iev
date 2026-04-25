@@ -1,0 +1,155 @@
+---
+termid: 171-07-30
+term: character mean transinformation content
+ara:
+  id: 171-07-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: متوسط محتوى المعلومات المتبادلة للحرف
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-07-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zeichenbezogener mittlerer Transinformationsgehalt
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: mittlerer Transinformationsbelag
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-07-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: character mean transinformation content
+  - type: symbol
+    designation: stem:[T]^′^
+    international: true
+  definition: |-
+    mean per {{character, IEV:702-05-10}} of the {{mean transinformation content, IEV:171-07-27}} for all possible messages from a {{stationary message source, IEV:171-07-09}}
+
+    stem:[T^( ' ) = underset((m -&gt; oo))((lim)) ((T_m))/(m)]
+
+    where stem:[Tm] is the mean transinformation content for all pairs of corresponding input and output sequences of stem:[m] characters each
+  language_code: eng
+  notes:
+  - The character mean transinformation content can be expressed in a unit such as
+    the shannon per character.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-39
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Addition of information useful for the context of the IEV, and
+        adaptation to the IEV rules
+    original: IEC 80000-13:2008, 13-39, modified – Addition of information useful
+      for the context of the IEV, and adaptation to the IEV rules
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-07-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: keskimääräinen keskinäisinformaatiomäärä merkkiä kohti
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-07-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transinformation moyenne par caractère
+    gender: f
+    plurality: singular
+  definition: |-
+    moyenne par {{caractère, IEV:702-05-10}} de la {{transinformation moyenne, IEV:171-07-27}}, étendue à tous les messages issus d'une {{source de messages stationnaire, IEV:171-07-09}}
+
+    stem:[T^( ' ) = underset((m -&gt; oo))((lim)) ((T_m))/(m)]
+
+    où stem:[Tm] est la transinformation moyenne de toutes les paires de suites correspondantes émises et reçues, de stem:[m] caractères chacune
+  language_code: fra
+  notes:
+  - La transinformation moyenne par caractère peut être exprimée à l'aide d'une unité
+    telle que le shannon par caractère.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-39
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :modified
+      :modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+        aux règles de l’IEV
+    original: IEC 80000-13:2008, 13-39, modifié – Ajout d’informations utiles pour
+      le contexte de l’IEV, et adaptation aux règles de l’IEV
+  review_decision_event: published
+jpn:
+  id: 171-07-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 文字平均伝達情報量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-07-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: średnia zawartość przesyłanej informacji w znakach
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-07-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantidade de transinformação média por carácter
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-07-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 字符平均传送信息内容
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,234 @@
+---
+termid: 801-32-37
+term: volume backscattering differential
+ara:
+  id: 801-32-37
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: تبعثر خلفي تفاضلي حجمي
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1994-07-01T00:00:00+00:00'
+  date_amended: '1994-07-01T00:00:00+00:00'
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 801-32-37
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Volumen-Rückstreumaß
+    gender: n
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: Volumenstreustärke
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+eng:
+  id: 801-32-37
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: volume backscattering differential
+  - type: expression
+    normative_status: preferred
+    designation: volume scattering strength
+  definition: level in decibels equal to ten times the logarithm to the base ten of
+    the ratio of the backscattering coefficient of the volume to the reference volume
+    backscattering coefficient 4π/stem:[r]~0~, where stem:[r]~0~ is the reference
+    distance, preferably chosen to be 1 m
+  language_code: eng
+  notes:
+  - Whatever reference coefficient is used, it shall be specified.
+  - The volume scattering differential for a designated direction other than backward
+    is similarly defined.
+  - Otherwise described, the volume backscattering differential is the backscattered
+    sound pressure level that would exist at the reference distance of stem:[r]~0~
+    from the acoustic centre of the volume containing scatterers, minus the sound
+    pressure level of a plane wave incident on the scatterers.
+  - |-
+    Expressed in letter symbols:
+
+    stem:[N_V = L_((SC)) - L_i = 10 (log)_((10)) ((A_V // V))/((4 pi r_0^2 // V_0)) dB = 10 (log)_((10)) (m)/((4 pi // r_0)) dB]
+
+    where:
+
+    stem:[N]~stem:[V]~  is volume backscattering differential or volume scattering strength
+
+    stem:[L]~SC~  is backscattered sound pressure level at reference distance
+
+    stem:[L]~i~  is incident sound pressure level
+
+    stem:[A]~stem:[V]~  is backscattering cross-section of scatterers in volume stem:[V]
+
+    stem:[r]~0~  is reference distance
+
+    stem:[V_0 = r_0^3] is reference volume
+
+    stem:[m] = stem:[A]~stem:[V]~ /stem:[V]  is volume backscattering coefficient
+
+    stem:[4 pi // r_0 = 4 pi r_0^2 // V_0] is reference volume backscattering coefficient.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '1994-07-01T00:00:00+00:00'
+  date_amended: '1994-07-01T00:00:00+00:00'
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 801-32-37
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: índice de reverberación de un volumen
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 801-32-37
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tilan takaisinsirontaluku
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 801-32-37
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indice de réverbération de volume
+    gender: m
+    plurality: singular
+  definition: niveau, exprimé en décibels, égal à dix fois le logarithme décimal du
+    rapport du coefficient de réverbération de volume au coefficient de réverbération
+    de volume de référence 4π/stem:[r]~0~, où stem:[r]~0~ est la distance de référence,
+    choisie de préférence égale à 1 m
+  language_code: fra
+  notes:
+  - Quel que soit le coefficient de référence utilisé, il doit être spécifié.
+  - On peut définir de la même façon l'indice de réverbération de volume pour une
+    direction déterminée autre que vers l'arrière.
+  - Exprimé sous une autre forme, l'indice de réverbération de volume est le niveau
+    de pression acoustique correspondant au champ réverbéré qui existerait à la distance
+    de référence stem:[r]~0~ du centre acoustique du volume contenant les diffuseurs,
+    diminué du niveau de pression acoustique correspondant à une onde plane venant
+    frapper les diffuseurs.
+  - |-
+    Exprimée en symboles littéraux, la définition s'écrit:
+
+    stem:[N_V = L_((SC)) - L_i = 10 (log)_((10)) ((A_V // V))/((4 pi r_0^2 // V_0)) dB = 10 (log)_((10)) (m)/((4 pi // r_0)) dB]
+
+    où:
+
+    stem:[N]~stem:[V]~  est l'indice de réverbération de volume
+
+    stem:[L]~SC~  est le niveau de pression acoustique réverbérée à la distance de référence
+
+    stem:[L]~i~  est le niveau de pression acoustique incidente
+
+    stem:[A]~stem:[V]~  est la surface efficace de réverbération des diffuseurs de volume stem:[V]
+
+    stem:[r]~0~  est la distance de référence
+
+    stem:[V_0 = r_0^3] est le volume de référence
+
+    stem:[m] = stem:[A]~stem:[V]~ /stem:[V]  est le coefficient de réverbération de volume
+
+    stem:[4 pi // r_0 = 4 pi r_0^2 // V_0] est le coefficient de réverbération de volume de référence.
+  examples: []
+  entry_status: Standard
+  date_accepted: '1994-07-01T00:00:00+00:00'
+  date_amended: '1994-07-01T00:00:00+00:00'
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 801-32-37
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: diffusione di ritorno di un solido
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 801-32-37
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 体積後方散乱ディファレンシャル
+  - type: expression
+    normative_status: preferred
+    designation: 体積散乱強度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+kor:
+  id: 801-32-37
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 부피 후방산란 차이
+  - type: expression
+    designation: 부피 산란 강도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 801-32-37
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wskaźnik rewerberacyjny objętościowy
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 801-32-37
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: índice de reverberação de volume
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 801-32-37
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: volymåterspridningsindex
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

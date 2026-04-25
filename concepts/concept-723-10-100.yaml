@@ -1,0 +1,180 @@
+---
+termid: 723-10-100
+term: cyclic redundancy check
+ara:
+  id: 723-10-100
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: فحص دوري للوفرة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1997-03-01T00:00:00+00:00'
+  date_amended: '1997-03-01T00:00:00+00:00'
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 723-10-100
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zyklische Redundanzprüfung
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: CRC
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+eng:
+  id: 723-10-100
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cyclic redundancy check
+  - type: expression
+    designation: CRC
+  definition: method of error control using a cyclic code mainly for the purpose of
+    error detection
+  language_code: eng
+  notes:
+  - The bits of a data block to be protected are used as coefficients of a polynomial,
+    which is modulo-2-divided by a prescribed generator polynomial; the coefficients
+    of the remainder left after division are appended to the data block as a block
+    check sequence.
+  examples: []
+  entry_status: Standard
+  date_accepted: '1997-03-01T00:00:00+00:00'
+  date_amended: '1997-03-01T00:00:00+00:00'
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 723-10-100
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control de redundancia cíclica
+  - type: expression
+    designation: CRC (abreviatura)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 723-10-100
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contrôle de redondance cyclique
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: CRC
+    gender: m
+    plurality: singular
+  definition: méthode de protection contre les erreurs utilisant un code cyclique,
+    principalement en vue de la détection d'erreurs
+  language_code: fra
+  notes:
+  - Les éléments binaires du bloc à protéger sont pris comme coefficients d'un polynôme
+    que l'on divise modulo 2 par un polynôme générateur spécifié ; les coefficients
+    du reste de cette division sont ajoutés au bloc initial sous forme d'un bloc de
+    contrôle.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '1997-03-01T00:00:00+00:00'
+  date_amended: '1997-03-01T00:00:00+00:00'
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 723-10-100
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CRC (abbreviazione)
+  - type: expression
+    designation: controllo ciclico della ridondanza
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 723-10-100
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 巡回形冗長度検査
+  - type: expression
+    normative_status: preferred
+    designation: ＣＲＣ
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+kor:
+  id: 723-10-100
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 순환 덧붙임 검사
+  - type: expression
+    designation: 시아르시
+  - type: expression
+    designation: 주기적 덧붙임 검사
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 723-10-100
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cykliczna kontrola nadmiarowa
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 723-10-100
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verificação de redundância cíclica
+  - type: expression
+    designation: CRC (abreviatura inglesa)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 723-10-100
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cyklisk redundanskontroll
+  - type: expression
+    designation: CRC
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

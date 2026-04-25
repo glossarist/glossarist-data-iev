@@ -1,0 +1,153 @@
+---
+termid: 131-11-44
+term: reactive power
+ara:
+  id: 131-11-44
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: متجه القدرة غير الفعالة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 131-11-44
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Blindleistung
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 131-11-44
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reactive power
+  - type: symbol
+    designation: stem:[Q]
+    international: true
+  definition: |-
+    for a linear two-terminal element or two-terminal circuit, under sinusoidal conditions, quantity equal to the product of the apparent power stem:[S] and the sine of the displacement angle stem:[φ]
+
+    stem:[Q = S sin phi]
+  language_code: eng
+  notes:
+  - The reactive power is the imaginary part of the complex power stem:[underset(_)(S)],
+    thus stem:[Q = Im underset(_)(S)]. Its absolute value is equal to the non-active
+    power, thus stem:[| Q | = Q_( ∼ )].
+  - The coherent SI unit for reactive power is voltampere, VA. The special name var
+    and its symbol var are also used. See {{131-11-45, IEV:131-11-45}}.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-08-01T00:00:00+00:00'
+  date_amended: '2013-08-01T00:00:00+00:00'
+  review_date: '2013-08-01T00:00:00+00:00'
+  review_decision_date: '2013-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 131-11-44
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: potencia reactiva
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 131-11-44
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: puissance réactive
+    gender: f
+    plurality: singular
+  definition: |-
+    pour un bipôle linéaire, élémentaire ou non, en régime sinusoïdal, grandeur égale au produit de la puissance apparente stem:[S] et du sinus du déphasage tension-courant stem:[φ]
+
+    stem:[Q = S sin phi]
+  language_code: fra
+  notes:
+  - La puissance réactive est la partie imaginaire de la puissance complexe stem:[underset(_)(S)],
+    soit stem:[Q = Im underset(_)(S)]. Sa valeur absolue est égale à la puissance
+    non active, soit stem:[| Q | = Q_( ∼ )].
+  - L’unité SI cohérente de puissance réactive est le voltampère, VA. Le nom spécial
+    var et son symbole var sont aussi utilisés. Voir {{131-11-45, IEV:131-11-45}}.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 131-11-44
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: potenza reattiva
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 131-11-44
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 無効電力
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 131-11-44
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 무효 전력
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 131-11-44
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moc bierna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 131-11-44
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: potência reativa
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 131-11-44
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 无功功率
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,209 @@
+---
+termid: 102-03-16
+term: bilinear form
+deu:
+  id: 102-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Bilinearform
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 102-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bilinear form
+  definition: "function stem:[f] that attributes a scalar stem:[f ( U , V )] to any
+    pair of vectors *stem:[U]* and *stem:[V]* in a given vector space, with the following
+    properties:\n\n\n\n* stem:[f ( alpha U , V ) = alpha f ( U , V )] and stem:[f
+    ( U , beta V ) = beta f ( U , V )] where stem:[α] and stem:[β] are scalars, \n\n*
+    stem:[f ( U + V , W ) = f ( U , W ) + f ( V , W )] and stem:[f ( W , U + V ) =
+    f ( W , U ) + f ( W , V )] for any vector *stem:[W]* existing in the same vector
+    space"
+  language_code: eng
+  notes:
+  - A bilinear form over an stem:[n]-dimensional vector space can be represented by
+    a square matrix stem:[( k_((i j)) )] and the scalar is stem:[f ( U , V ) = underset((i
+    j))( sum ) k_((i j)) U_i V_j].
+  - The bilinear forms over a given stem:[n]-dimensional vector space constitute an
+    stem:[n^2]-dimensional vector space.
+  - The concept of bilinear form extends to "linear form" in the case of one vector
+    and to "multilinear form" (or stem:[m]-linear form) in the case of an ordered
+    set of stem:[m] vectors.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2008-08-01T00:00:00+00:00'
+  date_amended: '2008-08-01T00:00:00+00:00'
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 102-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: forma bilineal
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 102-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: forme bilinéaire
+    gender: f
+    plurality: singular
+  definition: "fonction stem:[f] qui attribue un scalaire stem:[f ( U , V )] à tout
+    couple de vecteurs *stem:[U]* et *stem:[V]* dans un espace vectoriel donné, avec
+    les propriétés suivantes:\n\n\n\n* stem:[f ( alpha U , V ) = alpha f ( U , V )]
+    et stem:[f ( U , beta V ) = beta f ( U , V )] où stem:[α] et stem:[β] sont des
+    scalaires, \n\n* stem:[f ( U + V , W ) = f ( U , W ) + f ( V , W )] et stem:[f
+    ( W , U + V ) = f ( W , U ) + f ( W , V )] pour tout vecteur *stem:[W]* du même
+    espace vectoriel"
+  language_code: fra
+  notes:
+  - Une forme bilinéaire sur un espace vectoriel à stem:[n] dimensions peut être représentée
+    par une matrice carrée stem:[( k_((i j)) )] et le scalaire est stem:[f ( U , V
+    ) = underset((i j))( sum ) k_((i j)) U_i V_j].
+  - Les formes bilinéaires sur un espace vectoriel à stem:[n] dimensions constituent
+    un espace vectoriel à stem:[n^2] dimensions.
+  - Le concept de forme bilinéaire se généralise à celui de «forme linéaire» dans
+    le cas d'un seul vecteur et de «forme multilinéaire» (ou stem:[m]-linéaire) dans
+    le cas d'un ensemble ordonné de stem:[m] vecteurs.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 102-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 双一次形式
+  - type: expression
+    normative_status: preferred
+    designation: 双線形形式
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 102-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 쌍선형형식
+  - type: expression
+    designation: 쌍1차형식
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+nld:
+  id: 102-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bilineaire vorm
+    gender: m
+    plurality: singular
+  language_code: nld
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 102-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: forma dwuliniowa
+  - type: expression
+    normative_status: preferred
+    designation: forma biliniowa
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 102-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: forma bilinear
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 102-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: билинеарна форма
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 102-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bilinjär form
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 102-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 双线性型
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2007-08-01T00:00:00+00:00'
+  date_amended: '2007-08-01T00:00:00+00:00'
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published

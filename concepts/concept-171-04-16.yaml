@@ -1,0 +1,167 @@
+---
+termid: 171-04-16
+term: storage capacity
+ara:
+  id: 171-04-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: سعة التخزين
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-04-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Speicherkapazität
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-04-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: storage capacity
+  - type: expression
+    normative_status: preferred
+    designation: storage size
+  - type: symbol
+    designation: stem:[M]
+    international: true
+  definition: "{{amount of data, IEV:171-02-09}} that can be contained in a {{storage
+    device, IEV:171-04-14}}, expressed as a number of specified {{data elements, IEV:171-02-01}}"
+  language_code: eng
+  notes:
+  - The specified data elements depend on the organization of the storage device,
+    for example, {{binary elements, IEV:171-02-10}}, {{bytes, IEV:171-02-12}}, {{words,
+    IEV:171-02-27}} of a given number of bits, {{blocks, IEV:721-03-11}}. A subscript
+    referring to a specified data element can be added to the symbol.
+  - For {{registers, IEV:171-04-19}}, the term "register length" is used with the
+    same meaning.
+  examples:
+  - Storage capacity for bits, stem:[M]~b~ or stem:[M]~bit~; storage capacity for
+    bytes, stem:[M]~B~ (or for octets, stem:[M]~o~).
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-9
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :identical
+    original: IEC 80000-13:2008, 13-9
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-04-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tallennuskapasiteetti
+  - type: expression
+    designation: tallennustilan koko
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-04-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capacité de mémoire
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: taille de mémoire
+    gender: f
+    plurality: singular
+  definition: "{{quantité de données, IEV:171-02-09}} pouvant être contenue dans une
+    {{mémoire, IEV:171-04-14}}, exprimée par un nombre d’{{éléments de données, IEV:171-02-01}}
+    de nature spécifiée"
+  language_code: fra
+  notes:
+  - Les éléments de données spécifiés dépendent de l'organisation de la mémoire; ce
+    sont par exemple des {{éléments binaires, IEV:171-02-10}}, des {{octets, IEV:171-02-12}},
+    des {{mots, IEV:171-02-27}} formés d'un nombre déterminé d’éléments binaires,
+    des {{blocs, IEV:721-03-11}}. Un indice peut être ajouté au symbole pour indiquer
+    un élément de données spécifié.
+  - Pour les {{registres, IEV:171-04-19}}, on utilise plutôt, dans le même sens, le
+    terme "longueur de registre".
+  examples:
+  - Capacité de mémoire pour des bits, stem:[M]~b~ ou stem:[M]~bit~; capacité de mémoire
+    pour des octets, stem:[M]~o~.
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 80000-13:2008
+    clause: 13-9
+    link: https://webstore.iec.ch/publication/7479
+    relationship:
+      :type: :identical
+    original: IEC 80000-13:2008, 13-9
+  review_decision_event: published
+jpn:
+  id: 171-04-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 記憶容量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-04-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pojemność magazynowa
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: pojemność pamięci
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-04-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capacidade de armazenamento
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-04-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 存储容量
+  - type: expression
+    designation: 存储大小
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

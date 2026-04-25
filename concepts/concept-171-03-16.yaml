@@ -1,0 +1,164 @@
+---
+termid: 171-03-16
+term: exclusive-or operation
+ara:
+  id: 171-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: عملية الاقتصار
+  - type: expression
+    designation: عملية حصرية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 171-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Kontravalenzoperation
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: XOR-Operation
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 171-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exclusive-or operation
+  - type: expression
+    normative_status: preferred
+    designation: XOR
+  - type: expression
+    normative_status: preferred
+    designation: non-equivalence operation
+  definition: "{{dyadic Boolean operation, IEV:171-03-08}} whose result has the Boolean
+    value 1 if and only if the {{operands, IEV:171-03-04}} have different Boolean
+    values"
+  language_code: eng
+  notes:
+  - The exclusive-or operation applied to variables stem:[a] and stem:[b] is noted
+    stem:[a o+ b] (U+2295). Other notations are also used like stem:[a ≢ b] (U+2262),
+    stem:[a ↮ b] (U+21AE), stem:[a ⇎ b] (U+21CE), stem:[a ⩒ b] (U+2A52), stem:[a ⩡
+    b] (U+2A61).
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2019-03-01T00:00:00+00:00'
+  date_amended: '2019-03-01T00:00:00+00:00'
+  review_date: '2019-03-01T00:00:00+00:00'
+  review_decision_date: '2019-03-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 171-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: poissulkeva TAI –operaatio
+  - type: expression
+    designation: ehdoton TAI -operaatio
+  - type: expression
+    designation: ei-ekvivalenssioperaatio
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 171-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disjonction exclusive
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: OU exclusif
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: dilemme
+    gender: m
+    plurality: singular
+  definition: "{{opération booléenne dyadique, IEV:171-03-08}} dont le résultat a
+    la valeur booléenne 1 si et seulement si les deux {{opérandes, IEV:171-03-04}}
+    ont des valeurs booléennes différentes"
+  language_code: fra
+  notes:
+  - La disjonction exclusive des variables stem:[a] et stem:[b] est notée stem:[a
+    o+ b] (U+2295). D’autres notations sont aussi utilisées, comme stem:[a ≢ b] (U+2262),
+    stem:[a ↮ b] (U+21AE), stem:[a ⇎ b] (U+21CE), stem:[a ⩒ b] (U+2A52), stem:[a ⩡
+    b] (U+2A61).
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 171-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 排他的論理和演算
+  - type: expression
+    designation: EXCLUSIVE-OR演算
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 171-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: operacja alternatywy wykluczającej
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: funktor LUB wykluczające
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 171-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: operação ou exclusivo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 171-03-16
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 异或运算
+  - type: expression
+    designation: 非等价运算
+  - type: expression
+    designation: XOR
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

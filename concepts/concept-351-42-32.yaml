@@ -1,0 +1,221 @@
+---
+termid: 351-42-32
+term: automaton
+ara:
+  id: 351-42-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: آلية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 351-42-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Automat
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 351-42-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automaton
+  definition: |-
+    self-acting artificial system the behaviour of which is governed either in a stepwise manner by given decision rules or continuously in time by defined relationships, while the output variables of which are created from its input and state variables
+
+    Note 1 to entry:  An essential characteristic of a program controlled automaton is the existence of at least one branching in the program, offering different alternatives of control actions between which a decision is made based on external inputs or inner states. Deactivation, too, is an alternative branch of the program. The program sequence is triggered or controlled by an external stimulus which is part of an external input or the input itself.
+
+
+
+    EXAMPLE 2: A machine tool which automatically executes operations under program control is an automaton. Examples: automatic lathe, milling machine.
+
+    Note 2 to entry: A controller, governed by the defined relationships in a control loop is an automaton.
+
+    EXAMPLE 3: In a temperature controller a reference variable is set, which will be compared with the feedback variable. Based on the result of the comparison the controller drives the final controlling equipment. In other words, based on the difference between the reference variable and the feedback variable (representing the temperature as controlled variable) the controller and the final controlling equipment influence the temperature via the manipulated variable (output variable).
+
+    Note 3 to entry: This entry was numbered 351-21-42 in IEC 60050-351:2006.
+  language_code: eng
+  notes: []
+  examples:
+  - '1: In a vending machine the program is started by inserting a coin. The program
+    can respond in two ways: either accept the coin and release the article or return
+    the coin with the article output remaining blocked. The decision is made based
+    on the result of the check of the inserted coin and the article stock.'
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 351-42-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: autómata
+    gender: m
+    plurality: singular
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 351-42-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automaatti
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 351-42-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automate
+    gender: m
+    plurality: singular
+  definition: système artificiel automatique, dont le comportement est régi, soit
+    d'une manière discontinue en échelons par des règles décisionnelles données, soit
+    d'une manière continue par des relations définies et dont les variables de sortie
+    sont créées à partir de ses variables d'entrée et d'état
+  language_code: fra
+  notes:
+  - |-
+    Une caractéristique importante d'un automate commandé par programme est l'existence d'au moins un branchement dans le programme, offrant différentes possibilités d'actions de commande entre lesquelles une décision est prise, celle-ci étant basée sur les entrées externes et les états internes. La désactivation est aussi une branche possible du programme. La séquence du programme est déclenchée ou commandée par un stimulus externe qui fait partie d'une entrée externe ou de l'entrée elle-même.
+
+
+
+    EXEMPLE 2: Une machine-outil qui exécute automatiquement des opérations commandées par programme est un automate. Exemples: tour automatique, fraiseuse.
+  - |-
+    Les régulateurs analogiques continus sont régis par des relations définies pilotant une boucle d'asservissement.
+
+    EXEMPLE 3: Dans un régulateur de température, une variable de référence est positionnée et elle est comparée à la variable de réaction. En fonction du résultat de la comparaison, le régulateur pilote l'équipement de commande final. En d'autres termes, en fonction de la différence entre la variable de référence et la variable de réaction (représentant la température en tant que variable commandée), le régulateur et l'équipement de commande final influent sur la température par l'intermédiaire de la variable réglante (variable de sortie).
+  - Cet article était numéroté 351-21-42 dans la CEI 60050-351:2006.
+  examples:
+  - '1: Dans un distributeur, le programme est initialisé en insérant une pièce de
+    monnaie. Le programme peut répondre de deux manières: soit accepter la pièce de
+    monnaie et délivrer l''article, soit la rejeter en maintenant bloquée la sortie
+    de l''article. La décision est prise sur la base du résultat du contrôle de la
+    pièce de monnaie insérée et du stock d''articles.'
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 351-42-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sistema automatico
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 351-42-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: オートマトン
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 351-42-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 자동 장치
+  - type: expression
+    designation: 오토마톤
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 351-42-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automat
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 351-42-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: autómato
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 351-42-32
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 自动装置
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-11-01T00:00:00+00:00'
+  date_amended: '2013-11-01T00:00:00+00:00'
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published

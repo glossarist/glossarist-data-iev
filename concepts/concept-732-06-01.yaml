@@ -1,0 +1,237 @@
+---
+termid: 732-06-01
+term: firewall
+ara:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: الجدار النارى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Schutzwall
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: Firewall
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: Brandschutzmauer
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: firewall
+  definition: functional unit that mediates all traffic between two networks and protects
+    one of them or some part thereof against unauthorized access
+  language_code: eng
+  notes:
+  - 1 – The protected network is generally a private network, internal to an organization.
+  - 2 – A firewall may permit messages or files to be transferred to a high-security
+    workstation within the internal network, without permitting such transfer in the
+    opposite direction.
+  - 3 – The firewall may have different types of implementation. Examples are dual-homed-host,
+    screened subnet,  screening router, or bastion host.
+  - |-
+    4 – See Figure 3.
+
+    image::/assets/images/parts/732/732-06-01en.gif[]
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cortafuegos
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+fin:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: palomuuri
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pare-feu
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: barrière de sécurité
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: coupe-feu CA
+    gender: m
+    plurality: singular
+  definition: unité fonctionnelle qui s’interpose sur tout le trafic passant entre
+    deux réseaux et protège l’un d’eux, ou une partie de l’un d’eux, contre tout accès
+    non autorisé
+  language_code: fra
+  notes:
+  - 1 – Le réseau protégé est généralement un réseau privé interne à un organisme.
+  - 2 – Un pare-feu autorise le transfert de messages ou de fichiers vers une station
+    de travail de haute sécurité dans le réseau interne, sans permettre de transfert
+    dans le sens opposé.
+  - 3 – Un pare-feu peut être réalisé de plusieurs façons, par exemple passerelle
+    à double anneau, sous-réseau filtré, routeur de filtrage ou passerelle hôte filtrée.
+  - |-
+    4 – Voir Figure 3.
+
+    image::/assets/images/parts/732/732-06-01fr.gif[]
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ファイアウォール
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 방화벽
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zapora sieciowa
+  - type: expression
+    normative_status: preferred
+    designation: zapora ochronna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pára-fogo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+srp:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: заштитни зид
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: brandvägg
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+zho:
+  id: 732-06-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 防火墙
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-06-01T00:00:00+00:00'
+  date_amended: '2010-06-01T00:00:00+00:00'
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published

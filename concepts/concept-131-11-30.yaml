@@ -1,0 +1,165 @@
+---
+termid: 131-11-30
+term: instantaneous power
+ara:
+  id: 131-11-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: القدرة اللحظية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 131-11-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: bei einem Zweipol
+    designation: Momentanleistung
+    gender: f
+    plurality: singular
+  - type: expression
+    usage_info: bei einem Zweipol
+    designation: Momentanwert der Leistung
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 131-11-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instantaneous power
+  - type: symbol
+    designation: stem:[p]
+    international: true
+  definition: |-
+    for a two-terminal element or a two-terminal circuit with terminals A and B, product of the voltage stem:[u_((AB))] between the terminals and the electric current stem:[i] in the element or circuit
+
+    stem:[p = u_((AB)) * i]
+
+    where stem:[u_((AB))] is the line integral of the electric field strength from A to B, and where the electric current in the element or circuit is taken positive if its direction is from A to B and negative if its direction is from B to A
+  language_code: eng
+  notes:
+  - The direction of electric current is as defined in {{131-11-29, IEV:131-11-29}}.
+  - In circuit theory the electric field strength is generally irrotational and thus
+    stem:[u_((AB)) = v_A - v_B], where stem:[v_A] and stem:[v_B] are the electric
+    potentials at terminals A and B, respectively.
+  - The coherent SI unit of instantaneous power is watt, W.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2013-08-01T00:00:00+00:00'
+  date_amended: '2013-08-01T00:00:00+00:00'
+  review_date: '2013-08-01T00:00:00+00:00'
+  review_decision_date: '2013-08-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 131-11-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: potencia instantánea
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 131-11-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: puissance instantanée
+    gender: f
+    plurality: singular
+  definition: |-
+    pour un bipôle, élémentaire ou non, de bornes A et B, produit de la tension électrique stem:[u_((AB))] entre les bornes et du courant stem:[i] dans le bipôle
+
+    stem:[p = u_((AB)) * i]
+
+    où stem:[u_((AB))] est l'intégrale curviligne du champ électrique de A à B et où le courant dans le bipôle est positif si le sens du courant électrique est de A vers B et négatif si son sens est de B vers A
+  language_code: fra
+  notes:
+  - Le sens du courant électrique est celui défini en {{131-11-29, IEV:131-11-29}}.
+  - |-
+    En théorie des circuits, le champ électrique est généralement irrotationnel et par conséquent stem:[u_((AB)) = v_A - v_B], où stem:[v_A] et stem:[v_B]
+
+    sont respectivement les potentiels électriques aux bornes A et B.
+  - L’unité SI cohérente de puissance instantanée est le watt, W.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 131-11-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: potenza istantanea
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 131-11-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 瞬時電力
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 131-11-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 순시 전력
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 131-11-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: dwójnika lub dwójnika elementarnego
+    designation: moc chwilowa
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 131-11-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: potência instantânea
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 131-11-30
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 瞬时功率
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

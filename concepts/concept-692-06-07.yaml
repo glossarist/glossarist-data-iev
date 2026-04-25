@@ -1,0 +1,177 @@
+---
+termid: 692-06-07
+term: forced outage duration
+ara:
+  id: 692-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: فترة خروج إضطرارية
+  - type: expression
+    designation: فترة خروج إجبارية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 692-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erzwungene Nichtverfügbarkeitsdauer
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 692-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: forced outage duration
+  definition: within a specified period of time, the duration during which an item
+    is incapable of performing as required because of an {{unplanned outage, IEV:692-04-04}}
+    that is not possible to defer
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-603:1986
+    clause: 603-05-21
+    link: https://webstore.iec.ch/publication/227
+    relationship:
+      :type: :modified
+      :modification: Punctuation of the term altered, and in the definition "time"
+        corrected to "duration" and "was incapable of performing its function because
+        of a fault" replaced by “is incapable of performing as required because of
+        an unplanned outage that is not possible to defer”
+    original: IEC 60050-603:1986, 603-05-21, modified – Punctuation of the term altered,
+      and in the definition "time" corrected to "duration" and "was incapable of performing
+      its function because of a fault" replaced by “is incapable of performing as
+      required because of an unplanned outage that is not possible to defer”
+  date_accepted: '2017-12-01T00:00:00+00:00'
+  date_amended: '2017-12-01T00:00:00+00:00'
+  review_date: '2017-12-01T00:00:00+00:00'
+  review_decision_date: '2017-12-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 692-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: duración de la indisponibilidad forzada
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 692-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durée d’indisponibilité non différable
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: durée d’indisponibilité fortuite
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: durée d’indisponibilité sur avarie
+    gender: f
+    plurality: singular
+  definition: dans une période de temps spécifiée, durée pendant laquelle un dispositif
+    n’est pas en mesure de remplir sa fonction tel qu’exigé en raison d’une {{indisponibilité
+    fortuite, IEV:692-04-04}} qu’il n’est pas possible de différer
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+  - ref: IEC 60050-603:1986
+    clause: 603-05-21
+    link: https://webstore.iec.ch/publication/227
+    relationship:
+      :type: :modified
+      :modification: Ajout d’un terme privilégié, ajout de “qu’il n’est pas possible
+        de différer”
+    original: IEC 60050-603:1986, 603-05-21, modifié – Ajout d’un terme privilégié,
+      ajout de “qu’il n’est pas possible de différer”
+  review_decision_event: published
+jpn:
+  id: 692-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 事故停止時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 692-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 사고 정지 지속 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+mon:
+  id: 692-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: зайлшгүй тасралтын үргэлжлэх хугацаа
+  language_code: mon
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 692-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: czas trwania odstawienia eksploatacyjnego
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 692-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: duração da indisponibilidade forçada
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 692-06-07
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 强迫停运持续时间
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

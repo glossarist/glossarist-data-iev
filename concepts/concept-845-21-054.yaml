@@ -1,0 +1,202 @@
+---
+termid: 845-21-054
+term: spherical irradiance
+ara:
+  id: 845-21-054
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: كثافة الفيض الإشعاعى على سطح كروي
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-21-054
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Raumbestrahlungsstärke
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Energieflussdichte
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-21-054
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spherical irradiance
+  - type: expression
+    designation: fluence rate
+  - type: expression
+    designation: radiant fluence rate
+  - type: symbol
+    designation: |-
+      stem:[E]~e,o~
+      stem:[E]~o~
+    international: true
+  definition: mean value of irradiance on the outer curved surface of a very small
+    (real or imaginary) sphere at a point in space
+  language_code: eng
+  notes:
+  - |-
+    The spherical irradiance can be expressed by
+
+    stem:[E_((e,o)) = int_((4 pi)) L_e d omega]
+
+    where stem:[Ω] is solid angle and stem:[L]~e~ is radiance.
+  - The spherical irradiance is the quotient of the radiant flux of all the radiation
+    incident on the outer surface of an infinitely small sphere centred at the specified
+    point and the area of the diametrical cross-section of that sphere.
+  - The analogous quantities "spherical illuminance", stem:[E]~v,o~, and "photon spherical
+    irradiance", stem:[E]~p,o~, are defined in a similar way, replacing radiance,
+    stem:[L]~e~, by luminance, stem:[L]~v~, and photon radiance, stem:[L]~p~, respectively.
+  - The spherical irradiance is the appropriate radiometric quantity for describing
+    a dose rate for a photobiological or photochemical effect in a scattering medium
+    (e.g. light in skin). The spherical irradiance is also the appropriate quantity
+    for describing the irradiation of microorganisms. The spherical irradiance is
+    frequently used incorrectly as a substitute for irradiance in some publications.
+  - The spherical irradiance is expressed in watt per square metre (W·m^−2^).
+  - This entry was numbered 845-01-40 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-21-054
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: éclairement sphérique énergétique
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: admitted
+    designation: débit de fluence
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: admitted
+    designation: débit de fluence énergétique
+    gender: m
+    plurality: singular
+  definition: valeur moyenne d'éclairement énergétique sur la surface courbe extérieure
+    d'une très petite sphère (réelle ou fictive) en un point dans l'espace
+  language_code: fra
+  notes:
+  - |-
+    L'éclairement sphérique énergétique peut être exprimé par
+
+    stem:[E_((e,o)) = int_((4 pi)) L_e d omega]
+
+    où stem:[Ω] est l'angle solide et stem:[L]~e~ est la radiance.
+  - L'éclairement sphérique énergétique est le quotient du flux énergétique de tout
+    le rayonnement que reçoit la surface extérieure d'une sphère infiniment petite
+    centrée au point spécifié par l'aire de la section diamétrale de cette sphère.
+  - Les grandeurs similaires "éclairement sphérique lumineux", stem:[E]~v,o~, et "éclairement
+    sphérique photonique", stem:[E]~p,o~, sont définies de la même façon, en remplaçant
+    la luminance énergétique, stem:[L]~e~, par la luminance lumineuse, stem:[L]~v~,
+    et la luminance photonique, stem:[L]~p~, respectivement.
+  - L'éclairement sphérique énergétique est la grandeur radiométrique appropriée pour
+    décrire un débit de dose pour un effet photobiologique ou photochimique dans un
+    milieu de diffusion (par exemple, lumière sur la peau). L'éclairement sphérique
+    énergétique est également la grandeur appropriée pour décrire l'irradiation des
+    micro-organismes. L'éclairement sphérique énergétique est utilisé fréquemment
+    de manière incorrecte en remplacement de l'éclairement énergétique dans certaines
+    publications.
+  - L'éclairement sphérique énergétique est exprimé en watt par mètre carré (W·m^−2^).
+  - Cet article était numéroté 845-01-40 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  classification: Admitted
+  review_decision_event: published
+ita:
+  id: 845-21-054
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: irradianza sferica
+  - type: expression
+    designation: tasso di fluenza
+  - type: expression
+    designation: tasso di fluenza radiante
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-21-054
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 球面放射照度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-21-054
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 구면 방사 조도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-21-054
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: natężenie napromienienia sferyczne
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-21-054
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: irradiância esférica
+  - type: expression
+    designation: iluminância esférica energética
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-21-054
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 球面辐射照度
+  - type: expression
+    designation: 流率
+  - type: expression
+    designation: 辐射流率
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

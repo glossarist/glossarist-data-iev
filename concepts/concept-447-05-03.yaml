@@ -1,0 +1,127 @@
+---
+termid: 447-05-03
+term: opening time of an output make circuit
+ara:
+  id: 447-05-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: زمن الفتح لدائرة خرج موصلة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 447-05-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Rückfallzeit eines Schließerkreises
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Rückfallzeit eines Einschaltkreises
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 447-05-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: opening time of an output make circuit
+  definition: duration between the instant when the {{characteristic quantity, IEV:447-07-01}}
+    of a {{measuring relay, IEV:447-01-02}} or {{protection equipment, IEV:447-01-49}}
+    in {{operate condition, IEV:447-02-01}} is changed beyond its {{disengage value,
+    IEV:447-02-18}}, under specified conditions, and the instant when a specified
+    {{output make circuit, IEV:447-04-08}} first opens
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-05-01T00:00:00+00:00'
+  date_amended: '2020-05-01T00:00:00+00:00'
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 447-05-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de rupture d'un circuit de sortie de travail
+    gender: m
+    plurality: singular
+  definition: durée entre l'instant où la {{grandeur caractéristique, IEV:447-07-01}}
+    d'un {{relais de mesure, IEV:447-01-02}} ou d'un {{équipement de protection, IEV:447-01-49}}
+    à l'{{état de travail, IEV:447-02-01}} est modifiée au-delà de sa {{valeur de
+    dégagement, IEV:447-02-18}}, dans des conditions spécifiées, et l'instant où un
+    {{circuit de sortie de travail, IEV:447-04-08}} spécifié s'ouvre pour la première
+    fois
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 447-05-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: メーク出力回路の開路時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 447-05-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 출력 투입회로 개방시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 447-05-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: czas otwierania obwodu wyjściowego zwiernego
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 447-05-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tempo de abertura de um circuito de saída de trabalho
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 447-05-03
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 动合输出电路的断开时间
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

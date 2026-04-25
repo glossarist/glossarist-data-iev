@@ -1,0 +1,168 @@
+---
+termid: 702-07-25
+term: return loss
+ara:
+  id: 702-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: فقد رّاجع
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 702-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Rückflussdämpfungsmaß
+    gender: n
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: Reflexionsdämpfungsmaß
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+eng:
+  id: 702-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: return loss
+  definition: the modulus of the reciprocal of the reflection factor, generally expressed
+    in decibels
+  language_code: eng
+  notes:
+  - |-
+    When impedances can be defined, the return loss is given by the formula:
+
+    stem:[- 20 lg | r | = 20 lg | ((underset(_)(Z) - underset(_)(Z)^( ' )))/((underset(_)(Z) + underset(_)(Z)^( ' ))) |]
+
+    where stem:[Z] is the characteristic impedance of a transmission line ahead of a discontinuity, or the impedance of a source, and stem:[Z]′ is the impedance after the discontinuity or the load impedance seen from the junction between the source and the load.
+  examples: []
+  entry_status: Standard
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 702-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: factor de adaptación
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 702-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur d'adaptation
+    gender: m
+    plurality: singular
+  - type: expression
+    normative_status: preferred
+    designation: affaiblissement d'adaptation
+    gender: m
+    plurality: singular
+  definition: module de l'inverse du facteur de réflexion complexe, généralement exprimé
+    en décibels
+  language_code: fra
+  notes:
+  - |-
+    Si on peut définir des impédances, le facteur d'adaptation est donné par la formule:
+
+    stem:[- 20 lg | r | = 20 lg | ((underset(_)(Z) - underset(_)(Z)^( ' )))/((underset(_)(Z) + underset(_)(Z)^( ' ))) |]
+
+    où stem:[Z] est l'impédance caractéristique d'une ligne de transmission avant une discontinuité ou l'impédance d'une source, et stem:[Z]′ est l'impédance après la discontinuité ou l'impédance de la charge vue de l'accès commun à la source et à la charge.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '1992-03-01T00:00:00+00:00'
+  date_amended: '1992-03-01T00:00:00+00:00'
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 702-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fattore d'adattamento (in riflessione)
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 702-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 反射減衰量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 702-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 반사 손실
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 702-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tłumienność niedopasowania
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 702-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: factor de adaptação (em reflexão)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 702-07-25
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: missanpassningsdämpning
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,202 @@
+---
+termid: 701-02-01
+term: transmission channel
+ara:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: قناة (إرسال)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2021-01-01T00:00:00+00:00'
+  date_amended: '2021-01-01T00:00:00+00:00'
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Übertragungskanal
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Kanal
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transmission channel
+  definition: means of {{transmission, IEV:701-01-03}} of {{signals, IEV:101-12-02}}
+    in one direction between two points
+  language_code: eng
+  notes:
+  - 'Several transmission channels can share a common path: for example, where each
+    transmission channel is allocated a particular {{frequency band, IEV:103-09-01}}
+    or a particular {{time-slot, IEV:704-13-08}}.'
+  - The adjective "transmission" can be replaced by an adjective indicating the nature
+    of the transmitted signals, or the {{frequency bandwidth, IEV:702-01-03}}, or
+    the {{digit rate, IEV:702-05-23}}; for example, telephone channel, {{telegraph
+    channel, IEV:721-11-01}}, {{data channel, IEV:714-12-01}}, 10 MHz channel, 34
+    Mbit/s channel.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2016-12-01T00:00:00+00:00'
+  date_amended: '2016-12-01T00:00:00+00:00'
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 701-02-01:1988
+spa:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: canal (de transmisión)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: kanava
+  - type: expression
+    designation: siirtokanava
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: voie de transmission
+    gender: f
+    plurality: singular
+  definition: ensemble des moyens nécessaires pour assurer la {{transmission, IEV:701-01-03}}
+    de {{signaux, IEV:101-12-02}} dans un seul sens entre deux points
+  language_code: fra
+  notes:
+  - Plusieurs voies de transmission peuvent partager un support commun; par exemple,
+    une {{bande de fréquences, IEV:103-09-01}} particulière ou bien un {{créneau temporal,
+    IEV:704-13-08}} particulier est réservé à chaque voie de transmission.
+  - L'adjectif "de transmission" peut être remplacé par un adjectif indiquant la nature
+    des signaux transmis, par la {{largeur de bande de fréquences, IEV:702-01-03}}
+    ou le {{débit numérique, IEV:702-05-23}}; par exemple, voie téléphonique, {{voie
+    télégraphique, IEV:721-11-01}}, {{voie de données, IEV:714-12-01}}, voie de 10
+    MHz, voie à 34 Mbit/s.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: via (di trasmissione) unidirezionale
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 伝送チャネル
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 전송 채널
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: kanał transmisyjny
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: kanał
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: canal de transmissão
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+srp:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: преносни канал
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transmissionskanal
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 701-02-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 传输信道
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

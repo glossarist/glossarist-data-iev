@@ -1,0 +1,205 @@
+---
+termid: 802-01-10
+term: instantaneous intensity
+ara:
+  id: 802-01-10
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: شدة الكثافة اللحظية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 802-01-10
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Augenblickswert der Intensität
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 802-01-10
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instantaneous intensity
+  - type: symbol
+    designation: stem:[I(t)]
+    international: true
+  definition: acoustic energy flow rate in the direction of propagation per unit area
+    normal to the direction of propagation
+  language_code: eng
+  notes:
+  - |-
+    Instantaneous intensity is the product of instantaneous acoustic pressure and instantaneous particle velocity. It is difficult to measure intensity in the ultrasound frequency range. For measurement purposes and if it is reasonable to assume that the instantaneous acoustic pressure and instantaneous particle velocity are substantially in phase along the beam(-alignment) axis for a given frequency, than the instantaneous intensity, [stem:[I(t)]], is approximated as
+
+    stem:[p(t)]^2^/stem:[ρc]
+
+    where
+
+    stem:[p(t)] is the instantaneous acoustic pressure;
+
+    stem:[ρ] is the density of the medium;
+
+    stem:[c] is the velocity of sound in the medium.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 62127-1
+    clause: '3.34'
+    link: https://webstore.iec.ch/publication/6486
+    relationship:
+      :type: :modified
+    original: definition 3.34 of IEC 62127-1 MOD
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 802-01-10
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intensidad instantánea
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 802-01-10
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intensité instantanée
+    gender: f
+    plurality: singular
+  definition: débit de l’énergie acoustique dans le sens de propagation par unité
+    d’aire perpendiculaire au sens de propagation
+  language_code: fra
+  notes:
+  - |-
+    L’intensité instantanée est le produit de la pression acoustique instantanée et de la vitesse acoustique instantanée des particules. Il est difficile de mesurer l’intensité dans la plage de fréquences ultrasoniques. À des fins de mesure et s’il est raisonnable de prendre pour hypothèse que la pression acoustique instantanée et la vitesse instantanée des particules sont substantiellement en phase le long de l’axe (d’alignement) du faisceau pour une fréquence donnée, alors l’intensité instantanée, [stem:[I(t)]], est approchée comme suit
+
+    stem:[p(t)]^2^/stem:[ρc]
+
+    où
+
+    stem:[p(t)] est la pression acoustique instantanée;
+
+    stem:[ρ]  est la densité du milieu;
+
+    stem:[c]  est la vitesse du son dans le milieu.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 62127-1
+    clause: '3.34'
+    link: https://webstore.iec.ch/publication/6486
+    relationship:
+      :type: :modified
+    original: définition 3.34 de la CEI 62127-1 MOD
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 802-01-10
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 瞬時強度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 802-01-10
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 순시 강도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 802-01-10
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: natężenie chwilowe fali (ultradźwiękowej)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 802-01-10
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intensidade instantânea
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+srp:
+  id: 802-01-10
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: тренутни интензитет
+  language_code: srp
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 802-01-10
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 瞬时声强
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2011-01-01T00:00:00+00:00'
+  date_amended: '2011-01-01T00:00:00+00:00'
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published

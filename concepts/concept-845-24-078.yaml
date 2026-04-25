@@ -1,0 +1,152 @@
+---
+termid: 845-24-078
+term: radiance coefficient
+ara:
+  id: 845-24-078
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: معامل الإشعاعية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-24-078
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Strahldichtekoeffizient
+    gender: m
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-24-078
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance coefficient
+  - type: symbol
+    designation: |-
+      stem:[q]~e~
+      stem:[q]
+    international: true
+  definition: |-
+    quotient of the <a href="IEV845-21-049">radiance</a> at a surface element of a medium in a given direction and the <a href="IEV845-21-053">irradiance</a> on the medium
+
+    stem:[q_e = ((L_e))/((E_e))]
+
+    where stem:[L]~e~ is radiance and stem:[E]~e~ is irradiance
+  language_code: eng
+  notes:
+  - The bi-directional reflectance distribution function (BRDF) is similar to the
+    radiance coefficient except that it is defined for directional incident radiation.
+  - The radiance coefficient is expressed in steradian to the power minus one (sr^−1^).
+  - This entry was numbered 845-04-70 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-24-078
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coefficient de luminance énergétique
+    gender: m
+    plurality: singular
+  definition: |-
+    quotient de la <a href="IEV845-21-049">luminance énergétique</a> à un élément de surface d'un milieu dans une direction donnée par l'<a href="IEV845-21-053">éclairement énergétique</a> du milieu
+
+    stem:[q_e = ((L_e))/((E_e))]
+
+    où stem:[L]~e~ est la luminance énergétique and stem:[E]~e~ est l'éclairement énergétique
+  language_code: fra
+  notes:
+  - La fonction de répartition bidirectionnelle du facteur de réflexion (BRDF ou bi-directional
+    reflectance distribution function en anglais) est similaire au coefficient de
+    luminance énergétique sauf qu'elle est définie pour un rayonnement incident directionnel.
+  - Le coefficient de luminance énergétique est exprimé en stéradian à la puissance
+    moins un (sr^−1^).
+  - Cet article était numéroté 845-04-70 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ita:
+  id: 845-24-078
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coefficiente di radianza
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-24-078
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 放射輝度係数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-24-078
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 방사 휘도 계수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-24-078
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wskaźnik luminancji energetycznej
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-24-078
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coeficiente de radiância
+  - type: expression
+    designation: coeficiente de luminância energética
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-24-078
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 辐射亮度系数
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

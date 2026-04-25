@@ -1,0 +1,186 @@
+---
+termid: 192-13-08
+term: stem:[p]-fractile
+ara:
+  id: 192-13-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: توزيع إحتمالى كسرى
+  - type: expression
+    designation: توزيع إحتمالى كمى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ces:
+  id: 192-13-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: rozdělení pravděpodobnosti
+    designation: p-kvantil
+  language_code: ces
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 192-13-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: einer Wahrscheinlichkeitsverteilung
+    designation: stem:[p]-Quantil
+    gender: n
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 192-13-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: of a probability distribution
+    designation: stem:[p]-fractile
+  - type: expression
+    usage_info: of a probability distribution
+    designation: stem:[p]-quantile
+  definition: for a number stem:[p] between 0 and 1, value of a random variable for
+    which the distribution function equals stem:[p] or jumps from a value less than
+    or equal to stem:[p] to a value greater than stem:[p]
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-103
+    clause: 103-08-14
+    link: https://webstore.iec.ch/publication/161
+    relationship:
+      :type: :identical
+    original: 'IEC 60050-103: 2009, 103-08-14'
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 192-13-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cuantil de orden p
+  - type: expression
+    designation: fractil de orden p
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 192-13-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: d’une loi de probabilité
+    designation: fractile d’ordre stem:[p]
+    gender: m
+    plurality: singular
+  - type: expression
+    usage_info: d’une loi de probabilité
+    designation: quantile d’ordre stem:[p]
+    gender: m
+    plurality: singular
+  definition: pour un nombre stem:[p] compris entre 0 et 1, valeur d'une variable
+    aléatoire pour laquelle la fonction de répartition prend une valeur stem:[p] ou
+    saute d'une valeur inférieure ou égale à stem:[p] à une valeur supérieure à stem:[p]
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: IEC 60050-103
+    clause: 103-08-14
+    link: https://webstore.iec.ch/publication/161
+    relationship:
+      :type: :identical
+    original: 'IEC 60050-103: 2009, 103-08-14'
+  review_decision_event: published
+jpn:
+  id: 192-13-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 確率分布の
+    designation: p-分位点
+  - type: expression
+    usage_info: 確率分布の
+    designation: p-分位数
+  - type: expression
+    usage_info: 確率分布の
+    designation: p-分点
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 192-13-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 확률분포
+    designation: stem:[p] 분위값
+  - type: expression
+    designation: stem:[p] 변위값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 192-13-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: rozkładu prawdopodobieństwa
+    designation: kwantyl rzędu p
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 192-13-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: de uma distribuição de probabilidade
+    designation: quantil de ordem p de …
+  - type: expression
+    usage_info: de uma distribuição de probabilidade
+    designation: quantil-p de…
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 192-13-08
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 概率分布的
+    designation: p分位值
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

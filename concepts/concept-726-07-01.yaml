@@ -1,0 +1,200 @@
+---
+termid: 726-07-01
+term: characteristic impedance
+ara:
+  id: 726-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: معاوقة مميزة (لخط نقل أو دليل موجة)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2021-01-01T00:00:00+00:00'
+  date_amended: '2021-01-01T00:00:00+00:00'
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+deu:
+  id: 726-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: einer Übertragungsleitung oder eines Wellenleiters
+    designation: Leitungswellenimpedanz
+    gender: f
+    plurality: singular
+  - type: expression
+    usage_info: einer Übertragungsleitung oder eines Wellenleiters
+    designation: Wellenimpedanz
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 726-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: characteristic impedance
+  definition: |-
+    a quantity defined for a mode of propagation at a given frequency in a specific uniform transmission line or uniform waveguide by one of the three following relations:
+
+    <u>stem:[Z]</u>~1~ = <u>stem:[S]</u>/ |<u>stem:[I]</u>|^2^
+
+    <u>stem:[Z]</u>~2~ = |<u>stem:[U]</u>|^2^ / <u>stem:[S]</u>
+
+    <u>stem:[Z]</u>~3~ = <u>stem:[U]</u> / <u>stem:[I]</u>
+
+    where <u>stem:[Z]</u> is the complex characteristic impedance, <u>stem:[S]</u> the complex power and <u>stem:[U]</u> and <u>stem:[I]</u> are the values, usually complex, respectively of a voltage and a current conventionally defined for each type of mode by analogy with transmission line equations
+
+    Examples:
+
+    1. — For a parallel-wire transmission line, <u>stem:[U]</u> and <u>stem:[I]</u> can be uniquely defined and the three equations are consistent. If the transmission line is lossless, the characteristic impedance is real.
+
+    2. — For a waveguide, the conventional definitions for <u>stem:[U]</u> and <u>stem:[I]</u> depend on the type of mode and generally lead to three different values of the characteristic impedance.
+
+    3. — For a circular waveguide in the dominant mode stem:[ТЕ]~11~, stem:[U] = r.m.s. voltage along the diameter where the magnitude of the electric field strength vector is a maximum, stem:[I] = the r.m.s. longitudinal current.
+
+    4. — For a rectangular waveguide in the dominant mode stem:[TE]~10~, stem:[U] = the r.m.s. voltage between midpoints of the two conductor faces normal to the electric field strength vector, stem:[I] = the r.m.s. longitudinal current following on one surface normal to the electric field strength vector.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2021-01-01T00:00:00+00:00'
+  date_amended: '2021-01-01T00:00:00+00:00'
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+spa:
+  id: 726-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: impedancia característica (de una línea de transmisión o de una guíaonda)
+  language_code: spa
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fin:
+  id: 726-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ominaisimpedanssi
+  language_code: fin
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+fra:
+  id: 726-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: impédance caractéristique
+    gender: f
+    plurality: singular
+  definition: |-
+    grandeur, déterminée pour un mode de propagation, à une fréquence donnée dans un type spécifié de ligne de transmission uniforme ou de guide d'ondes uniforme par l'une des trois relations suivantes:
+
+    <u>stem:[Z]</u>~1~ = <u>stem:[S]</u>/ |<u>stem:[I]</u>|^2^
+
+    <u>stem:[Z]</u>~2~ = |<u>stem:[U]</u>|^2^ / <u>stem:[S]</u>
+
+    <u>stem:[Z]</u>~3~ = <u>stem:[U]</u> / <u>stem:[I]</u>
+
+    où <u>stem:[Z]</u> est l'impédance caractéristique complexe, <u>stem:[S]</u> la puissance complexe et <u>stem:[U]</u> et <u>stem:[I]</u> sont les valeurs, habituellement complexes, respectivement d'une tension et d'un courant, déterminés conventionnellement, pour chaque type de mode, par analogie avec les équations des lignes
+
+    Exemples:
+
+    1. — Pour une ligne de transmission à fils parallèles, <u>stem:[U]</u> et <u>stem:[I]</u> peuvent être définis d'une façon unique et les trois équations sont équivalentes; si la ligne est sans pertes, l'impédance caractéristique est réelle.
+
+    2. — Pour les guides d'ondes, les conventions à adopter pour stem:[U] et stem:[I] dépendent essentiellement du type de mode et conduisent généralement à trois valeurs différentes de l'impédance caractéristique.
+
+    3. — Pour un guide circulaire en mode fondamental stem:[ТЕ]~11~, stem:[U] est la tension efficace entre les extrémités du diamètre où le vecteur champ électrique atteint son module maximal, stem:[I] est le courant efficace longitudinal.
+
+    4. — Pour un guide rectangulaire en mode fondamental stem:[ТЕ]~10~ stem:[U] est la tension efficace entre les points au milieu des parois normales au vecteur champ électrique, stem:[I] est le courant efficace longitudinal dans une paroi, normal au vecteur induction électrique.
+  language_code: fra
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2021-01-01T00:00:00+00:00'
+  date_amended: '2021-01-01T00:00:00+00:00'
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+ita:
+  id: 726-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: impedenza caratteristica (di una linea di trasmissione o di una guida
+      d'onda)
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 726-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 特性インピーダンス
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 726-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    usage_info: 전송선로 또는 도파관
+    designation: 특성 임피던스
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 726-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: impedancja charakterystyczna (linii przesyłowej lub falowodu)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 726-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: impedância característica (de uma linha de transmissão ou de um guia
+      de ondas)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+swe:
+  id: 726-07-01
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: karakteristisk impedans
+  language_code: swe
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

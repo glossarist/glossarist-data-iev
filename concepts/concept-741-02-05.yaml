@@ -1,0 +1,158 @@
+---
+termid: 741-02-05
+term: IoT domain
+ara:
+  id: 741-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: نطاق خاص بشبكة الإنترنت
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 741-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IoT-Domäne
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 741-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IoT domain
+  definition: major functional group of an {{IoT system, IEV:741-02-07}}
+  language_code: eng
+  notes:
+  - Every {{entity, IEV:741-01-18}} in an IoT system participates in one or more IoT
+    domains and is said to be included or contained by that domain.
+  - |-
+    The IoT domain consists of six domains: user domain (UD), operation &amp; management domain (OMD), {{application, IEV:741-01-02}} &amp; {{service, IEV:741-01-28}} domain (ASD), resource access &amp; interchange domain (RAID), sensing &amp; controlling domain (SCD), {{physical entity, IEV:741-01-26}} domain (PED).
+
+    image::/assets/images/parts/741/741-02-05-fig1-en.png[]
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: ISO/IEC 20924:2018
+    clause: 3.2.5
+    link: https://www.iso.org/standard/69470.html
+    relationship:
+      :type: :identical
+    original: ISO/IEC 20924:2018, 3.2.5
+  date_accepted: '2020-04-01T00:00:00+00:00'
+  date_amended: '2020-04-01T00:00:00+00:00'
+  review_date: '2020-04-01T00:00:00+00:00'
+  review_decision_date: '2020-04-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 741-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: domaine IdO
+    gender: m
+    plurality: singular
+  definition: groupe fonctionnel principal d'un {{système IdO, IEV:741-02-07}}
+  language_code: fra
+  notes:
+  - Chaque {{entité, IEV:741-01-18}} au sein d'un système IdO est active dans un ou
+    plusieurs domaines IdO et elle est réputée être incluse dans ledit domaine ou
+    contenue par celui-ci.
+  - |-
+    Le domaine IdO est constitué de six domaines: le domaine de l'utilisateur (UD), le domaine exploitation &amp; gestion (OMD), le domaine {{application, IEV:741-01-02}} &amp; {{service, IEV:741-01-28}} (ASD), le domaine accès aux ressources &amp; échange (RAID), le domaine détection &amp; commande (SCD), le domaine {{entité physique, IEV:741-01-26}} (PED).
+
+    image::/assets/images/parts/741/741-02-05-fig1-fr.png[]
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+  - ref: ISO/IEC 20924:2018
+    clause: 3.2.5
+    link: https://www.iso.org/standard/69470.html
+    relationship:
+      :type: :identical
+    original: ISO/IEC 20924:2018, 3.2.5
+  review_decision_event: published
+ita:
+  id: 741-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dominio di Internet delle Cose
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 741-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IoTドメイン
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 741-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 사물인터넷 영역
+  - type: expression
+    designation: IoT 영역
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 741-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: domena IR
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: obszar IR
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 741-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: domínio stem:[IoT]
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 741-02-05
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 物联网域
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

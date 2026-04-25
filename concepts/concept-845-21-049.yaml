@@ -1,0 +1,213 @@
+---
+termid: 845-21-049
+term: radiance
+ara:
+  id: 845-21-049
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: كثافة شدة الإشعاع
+  - type: expression
+    designation: الإشعاعية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+deu:
+  id: 845-21-049
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Strahldichte
+    gender: f
+    plurality: singular
+  language_code: deu
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 845-21-049
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance
+  - type: symbol
+    designation: |-
+      stem:[L]~e~
+      stem:[L]
+    international: true
+  definition: |-
+    density of radiant intensity with respect to projected area in a specified direction at a specified point on a real or imaginary surface
+
+    stem:[L_e = ((d I_e))/((d A)) (1)/((cos alpha))]
+
+    where stem:[I]~e~ is radiant intensity, stem:[A] is area, and stem:[α] is the angle between the normal to the surface at the specified point and the specified direction
+  language_code: eng
+  notes:
+  - |-
+    In a practical sense, the definition of radiance can be thought of as dividing a real or imaginary surface into an infinite number of infinitesimally small surfaces which can be considered as <a href="IEV845-21-033"> point sources</a>, each of which has a specific radiant intensity, stem:[I]~e~, in the specified direction. The radiance of the surface is then the integral of these radiance elements over the whole surface.
+
+    The equation in the definition can mathematically be interpreted as a derivative (i.e. a rate of change of radiant intensity with projected area) and could alternatively be rewritten in terms of the average radiant intensity, stem:[bar I_e], as:
+
+    stem:[L_e = underset((A -&gt; 0))((lim)) ((bar I_e))/(A) (1)/((cos alpha))].
+
+    Hence, radiance is often considered as a quotient of averaged quantities; the area, stem:[A], should be small enough so that uncertainties due to variations in radiant intensity within that area are negligible; otherwise, the quotient stem:[bar L_e = ((bar I_e))/(A) (1)/((cos alpha))] gives the average radiance and the specific measurement conditions have to be reported with the result.
+  - For a surface being irradiated, an equivalent formula in terms of irradiance,
+    stem:[E]~e~, and solid angle, stem:[Ω], is stem:[L_e = ((d E_e))/((d omega)) (1)/((cos
+    theta))], where stem:[θ] is the angle between the normal to the surface being
+    irradiated and the direction of irradiation. This form is useful when the source
+    has no surface (e.g. the sky, the plasma of a discharge).
+  - An equivalent formula is stem:[L_e = ((d Phi_e))/((d G))], where stem:[Φ]~e~ is
+    radiant flux and stem:[G] is geometric extent.
+  - 'Radiant flux can be obtained by integrating radiance over projected area, stem:[A]·cos
+    stem:[α], and solid angle, stem:[Ω]: stem:[Phi_e = ​ ∬ L_e * cos alpha d A d omega].'
+  - Since the <a href="IEV845-21-048">optical extent</a>, expressed by stem:[G·n]^2^,
+    where stem:[G] is geometric extent and stem:[n] is refractive index, is invariant,
+    the quantity expressed by stem:[L]~e~stem:[·n]^−2^ is also invariant along the
+    path of the beam if the losses by absorption, reflection and diffusion are taken
+    as 0. That quantity is called "basic radiance".
+  - |-
+    The equation in the definition can also be described as a function of radiant flux, stem:[Φ]~e~. In this case, it is mathematically interpreted as a second partial derivative of the radiant flux at a specified point (stem:[x], stem:[y]) in space in a specified direction (stem:[ϑ], stem:[φ]) with respect to projected area, stem:[A]·cos stem:[α], and solid angle, stem:[Ω]:
+
+    stem:[L_e ( x , y , vartheta , phi ) = ((del^2 Phi_e ( x , y , vartheta , phi )))/((del A ( x , y ) * cos alpha * del omega ( vartheta , phi )))]
+
+    where stem:[α] is the angle between the normal to that area at the specified point and the specified direction.
+  - The corresponding photometric quantity is "luminance". The corresponding quantity
+    for photons is "photon radiance".
+  - The radiance is expressed in watt per square metre per steradian (W·m^−2^·sr^−1^).
+  - This entry was numbered 845-01-34 in IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2020-12-01T00:00:00+00:00'
+  date_amended: '2020-12-01T00:00:00+00:00'
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+fra:
+  id: 845-21-049
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance énergétique
+    gender: f
+    plurality: singular
+  - type: expression
+    normative_status: admitted
+    designation: radiance
+    gender: f
+    plurality: singular
+  definition: |-
+    densité d'intensité énergétique par rapport à l'aire projetée dans une direction spécifiée en un point spécifié sur une surface réelle ou fictive
+
+    stem:[L_e = ((d I_e))/((d A)) (1)/((cos alpha))]
+
+    où stem:[I]~e~ est l'intensité énergétique, stem:[A] est l'aire, et stem:[α] est l'angle entre la perpendiculaire à la surface au point spécifié et la direction spécifiée
+  language_code: fra
+  notes:
+  - |-
+    Dans une acception pratique, la luminance énergétique ou radiance peut être observée comme divisant une surface réelle ou fictive en un nombre infini de surfaces infinitésimalement petites qui peuvent être considérées comme des <a href="IEV845-21-033">sources ponctuelles</a>, chacune de ces sources ayant une intensité énergétique spécifique, stem:[I]~e~, dans la direction spécifiée. La luminance énergétique ou radiance de la surface est alors l'intégrale de ces éléments de radiance sur toute la surface.
+
+    L'équation dans la définition peut être interprétée mathématiquement comme une dérivée (c'est-à-dire un taux de variation de l'intensité énergétique avec l'aire projetée) et peut en variante être reformulée en tant qu'intensité énergétique moyenne stem:[bar I_e] sous la forme stem:[L_e = underset((A -&gt; 0))((lim)) ((bar I_e))/(A) (1)/((cos alpha))].
+
+    De fait, la radiance est souvent considérée comme un quotient des grandeurs moyennées; il convient que l'aire, stem:[A], soit suffisamment petite de sorte que les incertitudes dues aux variations de l'intensité énergétique dans cette surface soient négligeables; à défaut, le quotient stem:[bar L_e = ((bar I_e))/(A) (1)/((cos alpha))] donne la radiance moyenne et les conditions de mesure spécifiques doivent être consignées avec le résultat.
+  - Pour une surface irradiée, une formule équivalente en matière d'éclairement, stem:[E]~e~,
+    et d'angle solide, stem:[Ω], est stem:[L_e = ((d E_e))/((d omega)) (1)/((cos theta))],
+    où stem:[θ] est l'angle entre la perpendiculaire à la surface irradiée et la direction
+    d'irradiation. Cette forme est utile lorsque la source n'a pas de surface (par
+    exemple, le ciel, le plasma d'une décharge).
+  - Une formule équivalente est stem:[L_e = ((d Phi_e))/((d G))], où stem:[Φ]~e~ est
+    le flux énergétique et stem:[G] est l'étendue géométrique.
+  - 'Le flux énergétique peut être obtenu par intégration de la radiance dans une
+    surface projetée, stem:[A]·cos stem:[α], et l''angle solide, stem:[Ω]: stem:[Phi_e
+    = ​ ∬ L_e * cos alpha d A d omega].'
+  - Puisque l'<a href="IEV845-21-048">étendue optique</a>, exprimée par stem:[G]·stem:[n]^2^,
+    où stem:[G] est l'étendue et stem:[n] est l'indice de réfraction, est un invariant,
+    la grandeur exprimée par stem:[L]~e~stem:[·n]^−2^ est également un invariant le
+    long du trajet du faisceau si les pertes par absorption, réflexion et diffusion
+    sont considérées comme nulles. Cette grandeur est appelée "luminance réduite".
+  - |-
+    L'équation dans la définition peut également être décrite en fonction du flux énergétique, Φ~e~. Dans ce cas, elle est mathématiquement interprétée comme une dérivée partielle seconde du flux énergétique en un point spécifié (stem:[x], stem:[y]) dans l'espace dans une direction spécifiée (stem:[ϑ], stem:[φ]) par rapport à l'aire projetée, stem:[A]·cos stem:[α], et l'angle solide, stem:[Ω]:
+
+    stem:[L_e ( x , y , vartheta , phi ) = ((del^2 Phi_e ( x , y , vartheta , phi )))/((del A ( x , y ) * cos alpha * del omega ( vartheta , phi )))]
+
+    où stem:[α] est l'angle entre la perpendiculaire à cette surface au point spécifié et dans la direction spécifiée.
+  - La grandeur photométrique correspondante est la "luminance". La grandeur correspondante
+    pour les photons est la "luminance photonique".
+  - La radiance est exprimée en watt par mètre carré par stéradian (W·m^−2^·sr^−1^).
+  - Cet article était numéroté 845-01-34 dans l'IEC 60050-845:1987.
+  examples: []
+  entry_status: Standard
+  classification: Admitted
+  review_decision_event: published
+ita:
+  id: 845-21-049
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radianza
+  language_code: ita
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 845-21-049
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 放射輝度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 845-21-049
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 방사 휘도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 845-21-049
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminancja energetyczna
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 845-21-049
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiância l
+  - type: expression
+    designation: luminância energética
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+zho:
+  id: 845-21-049
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 辐射亮度
+  language_code: zho
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
