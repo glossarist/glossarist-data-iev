@@ -1,0 +1,45 @@
+name: publish-gcr
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'concepts/**'
+
+permissions:
+  contents: write
+
+jobs:
+  publish-gcr:
+    runs-on: ubuntu-latest
+    if: hashFiles('concepts/*.yaml') != ''
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Checkout vocabulary-browser
+        uses: actions/checkout@v4
+        with:
+          repository: glossarist/vocabulary-browser
+          ref: main
+          path: vocabulary-browser
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: vocabulary-browser/package-lock.json
+
+      - run: npm ci
+        working-directory: vocabulary-browser
+
+      - name: Build GCR package
+        run: node scripts/package-dataset.mjs "$GITHUB_WORKSPACE" --id iev -o "$GITHUB_WORKSPACE/../iev.gcr"
+        working-directory: vocabulary-browser
+
+      - name: Update gcr-latest release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: gcr-latest
+          name: "GCR Package (latest)"
+          body: "Auto-generated GCR package with harmonized concepts."
+          files: ../iev.gcr
