@@ -8,6 +8,19 @@ This repository is managed using the
 https://github.com/glossarist/iev[iev-termbase] toolkit and is built into
 the https://github.com/geolexica/iev.geolexica.org[IEV Geolexica website].
 
+=== Source data
+
+The concepts are generated from the IEV export spreadsheet:
+
+* Source file: `iev-data/data/20201217-iev-export.xlsx`
+  (https://github.com/glossarist/iev-data[iev-data] repository)
+* Generation command:
++
+[source,bash]
+----
+bundle exec iev export ../iev-data/data/20201217-iev-export.xlsx -o .
+----
+
 === Data format
 
 Each concept is stored as a single YAML file in the `concepts/` directory,
@@ -27,12 +40,13 @@ eng:
   - type: expression
     normative_status: preferred
     designation: functional
-  definition: function for which the argument is a function and the value a number
+  definition:
+  - content: function for which the argument is a function and the value a number
   language_code: eng
   notes:
-  - An example of a functional...
+  - content: An example of a functional...
   examples: []
-  entry_status: Standard
+  entry_status: valid
   ...
 ----
 
@@ -41,10 +55,10 @@ eng:
 Each language section may contain:
 
 * `terms` — array of term designations (preferred, synonyms, deprecated)
-* `definition` — the definition text
+* `definition` — array of `{content: ...}` objects
 * `notes` — notes to entry
 * `examples` — examples
-* `entry_status` — publication status (e.g., "Standard")
+* `entry_status` — publication status (`valid`, `superseded`, `withdrawn`, `draft`)
 * `date_accepted`, `date_amended` — dates
 * `review_date`, `review_decision_date` — review tracking
 * `language_code` — ISO 639-3 language code
