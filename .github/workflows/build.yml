@@ -25,25 +25,24 @@ jobs:
       - name: Validate with glossarist
         run: glossarist validate .
 
-  build-release:
-    name: Build and release
-    needs: validate
-    uses: geolexica/ci/.github/workflows/glossary-build.yml@main
-    if: github.ref_type == 'tag'
-
-  package-release:
-    name: Package and upload
+  test-package:
+    name: Test GCR package
     needs: validate
     runs-on: ubuntu-latest
-    if: startsWith(github.ref, 'refs/tags/v')
     steps:
       - uses: actions/checkout@v4
 
-      - name: Package concepts
-        run: zip -9 -r concepts.zip concepts/
-
-      - name: Create Release
-        uses: softprops/action-gh-release@v2
+      - uses: ruby/setup-ruby@v1
         with:
-          files: concepts.zip
-          generate_release_notes: true
+          ruby-version: '3.3'
+
+      - run: gem install glossarist
+
+      - name: Test package build
+        run: |
+          glossarist package . -o test-iev.gcr \
+            --shortname iev \
+            --version "0.0.0-test"
+
+      - name: Verify package
+        run: test -f test-iev.gcr && echo "Package built successfully"
