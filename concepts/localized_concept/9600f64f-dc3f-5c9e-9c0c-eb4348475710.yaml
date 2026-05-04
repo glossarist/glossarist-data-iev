@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: vector *grad* stem:[f] associated at each point of a given space region
+      with a scalar stem:[f], having a direction normal to the surface on which the
+      scalar field has a constant value, in the sense of increasing value of stem:[f],
+      and a magnitude equal to the absolute value of the derivative of stem:[f] with
+      respect to distance in this normal direction
+  examples: []
+  id: 102-05-19
+  notes:
+  - content: The gradient expresses the variation of the scalar field quantity from
+      the given point to a point at an infinitesimal distance stem:[rm(d) s] in the
+      direction of a given unit vector *stem:[e]* by the scalar product dstem:[f]
+      = *grad* stem:[f] ⋅ *stem:[e]* dstem:[s].
+  - content: 'In orthonormal Cartesian coordinates, the three coordinates of the gradient
+      are: stem:[frac(del " " f)(del " " x) " " " " " " , " " " " " " " " frac(del
+      " " f)(del " " y) " " " " " " , " " " " " " " " frac(del " " f)(del " " z)].'
+  - content: The gradient of the scalar field stem:[f] is denoted *grad* stem:[f]
+      or stem:[mathbf(nabla) " " f].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gradient
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: 9600f64f-dc3f-5c9e-9c0c-eb4348475710

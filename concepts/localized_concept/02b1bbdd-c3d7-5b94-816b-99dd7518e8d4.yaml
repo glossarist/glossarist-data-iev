@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2011-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: scalar quantity equal to the scalar line integral of a force *stem:[F]*
+      acting on a particle along a given path C, thus stem:[W] &equals; ∫~C~ *stem:[F]* ⋅ d*stem:[r]*,
+      where d*stem:[r]* is vector line element
+  examples: []
+  id: 113-03-44
+  notes:
+  - content: Work is energy transferred in a special manner and thus is a process
+      quantity ({{113-04-10, urn:iec:std:iec:60050-113-04-10}}). Work stem:[W] changes
+      the internal energy stem:[E] ({{113-04-20, urn:iec:std:iec:60050-113-04-20}})
+      of a body for Δstem:[E] = stem:[W], where stem:[E] is a state quantity ({{113-04-09,
+      urn:iec:std:iec:60050-113-04-09}}).
+  - content: 'In applications, work is often calculated as the time integral of power
+      stem:[P]: stem:[W = int_(t_(1))^(t_(2)) P d t].'
+  - content: The coherent SI unit of work is joule, J.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: work
+  - designation: |-
+      stem:[W]
+      stem:[A]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-04-01T00:00:00+00:00'
+id: 02b1bbdd-c3d7-5b94-816b-99dd7518e8d4

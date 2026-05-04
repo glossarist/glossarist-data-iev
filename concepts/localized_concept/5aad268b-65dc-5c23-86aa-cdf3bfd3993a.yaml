@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2016-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: time interval from fault inception until the end of the break-time of
+      the circuit-breaker
+  examples: []
+  id: 614-02-25
+  notes:
+  - content: The fault current interruption time is composed of the protection operating
+      time and the circuit-breaker break-time.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 448-13-14
+      original: IEV 448-13-14
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault current interruption time
+  - type: expression
+    geographical_area: US
+    designation: interruption time
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-02-01T00:00:00+00:00'
+  review_decision_date: '2016-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-02-01T00:00:00+00:00'
+id: 5aad268b-65dc-5c23-86aa-cdf3bfd3993a

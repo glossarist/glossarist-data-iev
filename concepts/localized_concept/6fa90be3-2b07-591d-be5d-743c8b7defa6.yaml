@@ -1,0 +1,219 @@
+---
+data:
+  dates:
+  - date: '1998-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ensemble continu des fréquences comprises entre deux fréquences limites
+      spécifiées
+  examples: []
+  id: 713-06-01
+  notes:
+  - content: Une bande de fréquences est caractérisée par deux valeurs qui déterminent
+      sa position dans le spectre des fréquences, par exemple ses limites inférieure
+      et supérieure, contrairement à la largeur de bande qui est déterminée par une
+      seule valeur.
+  - content: La nomenclature des bandes de fréquences et de longueurs d'onde utilisées
+      en télécommunication, figure dans le tableau I complété par les notes a, b,
+      c et d.
+  - content: "Certaines parties du spectre des fréquences sont parfois désignées par
+      des symboles littéraux constitués de lettres majuscules, avec quelquefois une
+      lettre minuscule en indice. Ces symboles ne désignent pas des bandes bien définies
+      mais sont utilisés par certains services de radiocommunication pour désigner
+      les bandes de fréquences qui leur sont attribuées et qui sont situées approximativement
+      dans ces parties du spectre. Le tableau II donne à titre d'information les limites
+      nominales de ces parties et les bandes usuelles dans le cas du radar et des
+      radiocommunications spatiales. Il convient de préciser, à la première utilisation
+      dans un texte, les limites mêmes approximatives de la bande considérée ou au
+      moins une fréquence nominale de cette bande.\n\n<strong>713-06-01: Tableau I
+      – Nomenclature des bandes de fréquences et de longueurs d'onde </strong>\r\n<table
+      cellpadding=\"2\" border=\"solid\">\r\n<tbody>\r\n<tr>\r\n<td style=\"text-align:
+      center;\" width=\"64\">\n\nNUMÉRO\n\nde la bande\n\n(note a)\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\nABRÉVIATION\n\nanglaise\n\n(déconseillée\n\nen
+      français)\r\n</td>\r\n<td style=\"text-align: center;\" width=\"140\">\n\nGAMME
+      DE\n\nFRÉQUENCES\n\n(limite inférieure exclue,\n\nlimite supérieure incluse)\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"113\">\n\nQUALIFICATIF\n\nMÉTRIQUE\n\n(note
+      d)\r\n</td>\r\n<td style=\"text-align: center;\" width=\"95\">\n\nABRÉVIATION\n\nMÉTRIQUE\n\nde
+      la bande\n\n(note c)\r\n</td>\r\n<td style=\"text-align: center;\" width=\"132\">\n\nGAMME
+      DES\n\nLONGUEURS D'ONDE\n\n(limite inférieure incluse,\n\nlimite supérieure
+      exclue)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align: center;\" width=\"64\">\n\n–1\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\n(note b)\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"140\">\n\n  0,03 à  0,3  Hz\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"113\">\n\ngigamétrique\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"95\">\n\nB.Gm\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"132\">\n\n  1  à  10  Gm\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:
+      center;\" width=\"64\">\n\n0\r\n</td>\r\n<td style=\"text-align: center;\" width=\"95\">\n\n(note
+      b)\r\n</td>\r\n<td style=\"text-align: center;\" width=\"140\">\n\n  0,3  à 
+      3  Hz\r\n</td>\r\n<td style=\"text-align: center;\" width=\"113\">\n\nhectomégamétrique\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\nB.hMm\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n100  à  1000  Mm\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"text-align: center;\" width=\"64\">\n\n1\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"95\">\n\n(note b)\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"140\">\n\n  3  à  30  Hz\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"113\">\n\ndécamégamétrique\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"95\">\n\nB.daMm\r\n</td>\r\n<td style=\"text-align: center;\" width=\"132\">\n\n 
+      10  à  100  Mm\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align: center;\"
+      width=\"64\">\n\n2\r\n</td>\r\n<td style=\"text-align: center;\" width=\"95\">\n\n(note
+      b)\r\n</td>\r\n<td style=\"text-align: center;\" width=\"140\">\n\n  30  à 
+      300  Hz\r\n</td>\r\n<td style=\"text-align: center;\" width=\"113\">\n\nmégamétrique\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\nB.Mm\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n  1  à  10  Mm\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"text-align: center;\" width=\"64\">\n\n3\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"95\">\n\nULF\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"140\">\n\n  300  à  3000  Hz\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"113\">\n\nhectokilométrique\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"95\">\n\nB.hkm\r\n</td>\r\n<td style=\"text-align: center;\" width=\"132\">\n\n100 
+      à  1000  km\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align: center;\" width=\"64\">\n\n4\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\nVLF\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"140\">\n\n  3  à  30  kHz\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"113\">\n\nmyriamétrique\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"95\">\n\nB.Mam\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"132\">\n\n  10  à  100  km\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:
+      center;\" width=\"64\">\n\n5\r\n</td>\r\n<td style=\"text-align: center;\" width=\"95\">\n\nLF\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"140\">\n\n  30  à  300  kHz\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"113\">\n\nkilométrique\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\nB.km\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n  1  à  10  km\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"text-align: center;\" width=\"64\">\n\n6\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"95\">\n\nMF\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"140\">\n\n  300  à  3000  kHz\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"113\">\n\nhectométrique\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"95\">\n\nB.hm\r\n</td>\r\n<td style=\"text-align: center;\" width=\"132\">\n\n100 
+      à  1000  m\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align: center;\" width=\"64\">\n\n7\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\nHF\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"140\">\n\n  3  à  30  MHz\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"113\">\n\ndécamétrique\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"95\">\n\nB.dam\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"132\">\n\n  10  à  100  m\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:
+      center;\" width=\"64\">\n\n8\r\n</td>\r\n<td style=\"text-align: center;\" width=\"95\">\n\nVHF\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"140\">\n\n  30  à  300  MHz\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"113\">\n\nmétrique\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"95\">\n\nB.m\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"132\">\n\n  1  à  10  m\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:
+      center;\" width=\"64\">\n\n9\r\n</td>\r\n<td style=\"text-align: center;\" width=\"95\">\n\nUHF\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"140\">\n\n  300  à  3000  MHz\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"113\">\n\ndécimétrique\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\nB.dm\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n100  à  1000  mm\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"text-align: center;\" width=\"64\">\n\n10\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"95\">\n\nSHF\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"140\">\n\n  3  à  30  GHz\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"113\">\n\ncentimétrique\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"95\">\n\nB.cm\r\n</td>\r\n<td style=\"text-align: center;\" width=\"132\">\n\n 
+      10  à  100  mm\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align: center;\"
+      width=\"64\">\n\n11\r\n</td>\r\n<td style=\"text-align: center;\" width=\"95\">\n\nEHF\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"140\">\n\n  30  à  300  GHz\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"113\">\n\nmillimétrique\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\nB.mm\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n  1  à  10  mm\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"text-align: center;\" width=\"64\">\n\n12\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"95\">\n\n \r\n</td>\r\n<td style=\"text-align: center;\" width=\"140\">\n\n 
+      300  à  3000  GHz\r\n</td>\r\n<td style=\"text-align: center;\" width=\"113\">\n\ndécimillimétrique\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\nB.dmm\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n100  à  1000  µm \r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"text-align: center;\" width=\"64\">\n\n13\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"95\">\n\n \r\n</td>\r\n<td style=\"text-align: center;\" width=\"140\">\n\n 
+      3  à  30  THz\r\n</td>\r\n<td style=\"text-align: center;\" width=\"113\">\n\ncentimillimétrique\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\nB.cmm\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n  10  à  100  µm\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"text-align: center;\" width=\"64\">\n\n14\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"95\">\n\n \r\n</td>\r\n<td style=\"text-align: center;\" width=\"140\">\n\n 
+      30  à  300  THz\r\n</td>\r\n<td style=\"text-align: center;\" width=\"113\">\n\nmicrométrique\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\nB.µm\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n  1  à  10  µm\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"text-align: center;\" width=\"64\">\n\n15\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"95\">\n\n \r\n</td>\r\n<td style=\"text-align: center;\" width=\"140\">\n\n 
+      300  à  3000  THz\r\n</td>\r\n<td style=\"text-align: center;\" width=\"113\">\n\ndécimicrométrique\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"95\">\n\nB.dµm\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n  0,1  à  1  µm\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      colspan=\"6\" width=\"639\">\n\n<em>Notes</em>\n\n(a)  La «bande N» s'étend
+      de 0,3 × 10^N^ à 3 × 10^N^ Hz.\n\n(b)  L'abréviation EBF, extrêmement basse
+      fréquence, désigne l'ensemble des bandes –1 à 2.\n\n(c)  On emploie parfois
+      en français les abréviations formées avec O (Ondes, ainsi O.km : Ondes kilométriques)
+      au lieu des abréviations formées avec B (bande) indiquées dans la colonne «abréviation
+      métrique» du tableau.\n\n(d)  Les abréviations et qualificatifs métriques ne
+      sont pas des noms ou des symboles d'unité, ce qui explique la combinaison de
+      préfixes pour certains.\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\n\n<strong>713-06-01:
+      Tableau II (informatif) – Désignation de bandes de fréquences par des symboles
+      littéraux </strong>\r\n<table cellpadding=\"2\" border=\"solid\">\r\n<tbody>\r\n<tr>\r\n<td
+      rowspan=\"2\" style=\"text-align: center;\" width=\"76\">\n\nSymbole\n\nlittéral\r\n</td>\r\n<td
+      colspan=\"2\" style=\"text-align: center;\" width=\"265\">\n\nUtilisation pour
+      radar (en GHz)\r\n</td>\r\n<td colspan=\"2\" style=\"text-align: center;\" width=\"272\">\n\nUtilisation
+      pour radiocommunications spatiales\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\nParties du spectre\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\nLimites usuelles\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"150\">\n\nDésignation nominale\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"122\">\n\nLimites usuelles (en GHz)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"text-align: center;\" width=\"76\">\n\nL\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n1 - 2\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"132\">\n\n1,215 - 1,4\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"150\">\n\nBande des 1,5 GHz\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"122\">\n\n1,525 - 1,710\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:
+      center;\" width=\"76\">\n\nS\r\n</td>\r\n<td style=\"text-align: center;\" width=\"132\">\n\n2
+      - 4\r\n</td>\r\n<td style=\"text-align: center;\" width=\"132\">\n\n2,3 - 2,5\n\n2,7
+      - 3,4\r\n</td>\r\n<td style=\"text-align: center;\" width=\"150\">\n\nBande
+      des 2,5 GHz\r\n</td>\r\n<td style=\"text-align: center;\" width=\"122\">\n\n2,5
+      - 2,690\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align: center;\" width=\"76\">\n\nC\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"132\">\n\n4 - 8\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n5,25 - 5,55\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"150\">\n\nBande des 4/6 GHz\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"122\">\n\n3,4 - 4,2\n\n4,5 - 4,8\n\n5,85 - 7,075\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"text-align: center;\" width=\"76\">\n\nX\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n8 - 12\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"132\">\n\n8,5 - 10,5\r\n</td>\r\n<td style=\"text-align: center;\" width=\"150\">\n\n–\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"122\">\n\n \r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"text-align: center;\" width=\"76\">\n\nKu\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n12 - 18\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"132\">\n\n13,4 - 14,0\n\n15,3 - 17,3\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"150\">\n\nBande des 11/14 GHz\n\nBande des 12/14 GHz\r\n</td>\r\n<td
+      style=\"text-align: center;\" width=\"122\">\n\n10,7 - 13,25\n\n14,0 - 14,5\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"text-align: center;\" width=\"76\">\n\nK\r\n</td>\r\n<td style=\"text-align:
+      center;\" width=\"132\">\n\n18 - 27\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"132\">\n\n24,05 - 24,25\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"150\">\n\nBande des 20 GHz\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"122\">\n\n17,7 - 20,2\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:
+      center;\" width=\"76\">\n\nKa\r\n</td>\r\n<td style=\"text-align: center;\"
+      width=\"132\">\n\n27 - 40\r\n</td>\r\n<td style=\"text-align: center;\" width=\"132\">\n\n33,4
+      - 36,0\r\n</td>\r\n<td style=\"text-align: center;\" width=\"150\">\n\nBande
+      des 30 GHz\r\n</td>\r\n<td style=\"text-align: center;\" width=\"122\">\n\n27,5
+      - 30,0\r\n</td>\r\n</tr>\r\n<tr>\r\n<td colspan=\"5\" width=\"612\">\n\n<em>Note.
+      –</em> Dans les radiocommunications spatiales, les bandes K et Ka sont souvent
+      désignées par le seul symbole K~a~.\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 702-01-02
+      original: 702-01-02 MOD
+    status: modified
+    type: authoritative
+  - origin:
+      ref: ITU-R Recommendation 431
+      original: UIT-R Rec. 431 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bande de fréquences
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1998-04-01T00:00:00+00:00'
+  review_decision_date: '1998-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-04-01T00:00:00+00:00'
+id: 6fa90be3-2b07-591d-be5d-743c8b7defa6

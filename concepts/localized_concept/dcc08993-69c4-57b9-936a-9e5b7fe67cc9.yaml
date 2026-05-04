@@ -1,0 +1,48 @@
+---
+data:
+  dates:
+  - date: '1994-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '1994-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: niveau de la limite du rapport d'une grandeur spécifiée répartie dans
+      une bande de fréquences à la largeur de cette bande, quand la largeur de la
+      bande tend vers zéro
+  examples: []
+  id: 801-22-13
+  notes:
+  - content: 'La grandeur considérée doit êtrе précisée; exemple: niveau de densité
+      spectrale du carré de la pression acoustique.'
+  - content: "Puisque les filtres utilisés ont des largeurs de bande finies, le niveau
+      de densité spectrale stem:[L]~ps~ du carré de la pression acoustique est pratiquement
+      obtenues pour la fréquence médiane de cette bande par la formule:\r\nstem:[L_(\"ps\")
+      = 10 \" \" \" \" \"log\"_(10) frac((p^(2) / B))((p_(0)^(2) / B_(0))) \" \" \"dB\"]\n\nstem:[p]
+      et stem:[p]~0~ étant respectivement la valeur de la grandeur de champ considérée
+      et la valeur de référence de cette grandeur; stem:[B] et stem:[B]~0~ étant respectivement
+      la largeur de bande effective du filtre et la bande de référence de 1 Hz.\r\nLorsque
+      stem:[L]~p~ est le niveau de pression acoustique mesuré dans la bande correspondant
+      au filtre, la relation ci-dessus se réduit à\n\nstem:[L_(\"ps\") = L_(\"p\")
+      - \"log\"_(10) (B / B_(0)) \" \" \"dB\"]"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: niveau de densité spectrale
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1994-07-01T00:00:00+00:00'
+id: dcc08993-69c4-57b9-936a-9e5b7fe67cc9

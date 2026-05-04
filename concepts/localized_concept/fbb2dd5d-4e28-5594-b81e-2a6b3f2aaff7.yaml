@@ -1,0 +1,46 @@
+---
+data:
+  definition:
+  - content: aptitude d’une entité à effectuer une fonction requise pendant un intervalle
+      de temps donné dans des conditions de fonctionnement spécifiées
+  examples: []
+  id: 395-07-131
+  notes:
+  - content: On suppose généralement que l’entité est en état d’effectuer la  fonction
+      requise au début de l’intervalle de temps.
+  - content: La fiabilité d’une entité est généralement quantifiée par des mesures
+      appropriées. Dans certaines applications; une de ces mesures est une probabilité,
+      appelée aussi fiabilité.
+  sources:
+  - origin:
+      ref: IEC 61513:2011
+      locality:
+        type: clause
+        reference_from: '3.43'
+      original: CEI 61513:2011, 3.43, modifiée
+    status: modified
+    type: authoritative
+  - origin:
+      ref: IAEA 2
+      original: AIEA 2
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fiabilité
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: fbb2dd5d-4e28-5594-b81e-2a6b3f2aaff7

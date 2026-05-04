@@ -1,0 +1,54 @@
+---
+data:
+  definition:
+  - content: quotient de l'énergie lumineuse au-dessus de la moyenne par l'énergie
+      lumineuse totale pendant une durée donnée
+  examples: []
+  id: 845-22-094
+  notes:
+  - content: L'énergie lumineuse au-dessus de la moyenne est l'{{luminous energy,
+      urn:iec:std:iec:60050-845-21-037}} calculée sur la base du niveau de dépassement
+      du flux lumineux moyen par le flux lumineux instantané. Lorsque le flux lumineux
+      instantané est inférieur au flux lumineux moyen, l'énergie lumineuse au-dessus
+      de la moyenne est nulle, c'est-à-dire qu'elle ne s'ajoute pas de manière négative.
+  - content: Pour la région située sous la courbe d'un graphique du flux lumineux
+      instantané par rapport au temps, l'indice de papillotement est équivalent au
+      rapport de la surface située au-dessus du flux lumineux moyen sur la surface
+      totale. Cet indice est exprimé mathématiquement sous la forme stem:[I_("F")
+      = " " frac(A_("1"))(A_("1") + A_("2"))], où stem:[A]~1~ est la surface située
+      au-dessus du flux lumineux moyen et stem:[A]~2~ est la surface située sous le
+      flux lumineux moyen comme l'indique la figure suivante:image::/assets/images/parts/845/[]
+  - content: L'indice de papillotement doit être calculé sur un nombre intégral de
+      périodes pendant lesquelles le signal est répétitif. Pour les sources qui fonctionnent
+      à une {{fréquence, urn:iec:std:iec:60050-103-06-02}} de 50 Hz, cet indice est
+      normalement de 20 ms, 40 ms ou 60 ms, etc., alors que pour les sources qui fonctionnent
+      à une fréquence de 60 Hz, cet indice est normalement de 16,67 ms, 33,33 ms ou
+      50 ms, etc.
+  - content: Bien que l'indice de papillotement soit défini par rapport à l'énergie
+      lumineuse de la source, il peut également être obtenu par les mesurages d'autres
+      grandeurs lumineuses telles que l'intensité lumineuse, l'éclairement et la luminance.
+  - content: L'indice de papillotement ne tient pas compte de l'effet de la fréquence
+      de modulation et de l'effet de fréquences multiples dans le cas de modulations
+      de formes d'ondes lumineuses plus complexes. Voir aussi CIE TN 006:2016, _Visual
+      Aspects of Time-Modulated Lighting Systems – Definitions and Measurement Models_.
+  - content: L'unité d'indice de papillotement est un.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indice de papillotement
+    usage_info: d'une source fonctionnant sous courant alternatif
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: f386d258-eb89-553b-b9cf-f554f8759a30

@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient du nombre d'{{éléments numériques, urn:iec:std:iec:60050-702-05-02}}
+      transmis pendant un {{intervalle de temps, urn:iec:std:iec:60050-113-01-10}}
+      par la {{durée, urn:iec:std:iec:60050-113-01-13}} de cet intervalle
+  examples: []
+  id: 702-05-23
+  notes:
+  - content: 'Le terme "débit numérique" peut être particularisé, par exemple: "{{débit
+      binaire, urn:iec:std:iec:60050-704-16-07}}", "{{débit ternaire, urn:iec:std:iec:60050-704-16-08}}",
+      "{{débit stem:[n]-aire, urn:iec:std:iec:60050-704-16-09}}" lorsque la {{valence,
+      urn:iec:std:iec:60050-702-05-22}} est respectivement de deux, trois, stem:[n].'
+  - content: Le terme "débit numérique" ne doit pas être employé pour désigner le
+      débit d'un {{signal en ligne, urn:iec:std:iec:60050-704-04-13}} au lieu du terme
+      correct "{{rapidité de modulation, urn:iec:std:iec:60050-704-17-03}}" ou de
+      son synonyme "débit en ligne".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: débit numérique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: 0ecaee29-e551-5ee6-a960-81293de61293

@@ -1,0 +1,50 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{quantity, urn:iec:std:iec:60050-112-01-01}} which can be represented
+      by a {{vector, urn:iec:std:iec:60050-102-03-04}} multiplied by a {{scalar quantity,
+      urn:iec:std:iec:60050-102-02-19}}"
+  examples: []
+  id: 102-03-21
+  notes:
+  - content: 'The vector defining a vector quantity is generally a unit vector in
+      the usual two- or three-dimensional geometrical space. A vector quantity can
+      then be represented as an oriented line segment characterized by its point of
+      acting, its direction and its magnitude, where the magnitude is a non-negative
+      number multiplied by a unit of measurement. The components are also the product
+      of a numerical value and the unit. Examples of vector quantities are: velocity,
+      force, electric field strength.'
+  - content: A vector quantity may be considered either as attached to a point of
+      acting (localized or bound vector), or as having any point of acting on a straight
+      line parallel to it (sliding vector), or as having any point of acting in the
+      space (free vector).
+  - content: Operations defined for vectors apply to vector quantities. For example,
+      the product of a scalar quantity stem:[p] and the vector quantity stem:[Q =
+      q e] is the vector quantity stem:[p Q = p q e], where *stem:[e]* is a unit vector.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vector quantity
+  - type: expression
+    normative_status: preferred
+    designation: vector
+    usage_info: quantity
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 102-03-21
+      version: 2007-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: f7b1f133-d8a3-5208-a3fe-81690b3fb535
+classification: preferred

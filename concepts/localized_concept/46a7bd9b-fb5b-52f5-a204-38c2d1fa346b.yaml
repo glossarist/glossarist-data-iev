@@ -1,0 +1,26 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{character, urn:iec:std:iec:60050-702-05-10}} or {{string, urn:iec:std:iec:60050-171-02-26}}
+      of characters, used to identify or name a {{data item, urn:iec:std:iec:60050-171-01-02}}"
+  examples:
+  - content: "{{Key, urn:iec:std:iec:60050-171-02-36}}, {{label, urn:iec:std:iec:60050-171-02-37}}."
+  id: 171-02-35
+  notes:
+  - content: An identifier can also indicate certain properties of the data item.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: identifier
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 46a7bd9b-fb5b-52f5-a204-38c2d1fa346b

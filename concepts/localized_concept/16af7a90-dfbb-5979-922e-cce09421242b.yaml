@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: scalar div *stem:[U]* associated at each point of a given space region
+      with a vector *stem:[U]*, equal to the limit of the flux of the vector which
+      emerges from a closed surface S, divided by the volume of the interior of the
+      surface when all its geometrical dimensions become infinitesimal stem:[rm(div)
+      mathbf(U) = underset(V vec 0)(lim) frac(1)(V) "P{oiint}"_("S") mathbf(U) * mathbf(e)_(n)
+      rm(d) A] where *stem:[e]*~n~dstem:[A] is the vector surface element oriented
+      outwards and stem:[V] is the volume
+  examples: []
+  id: 102-05-20
+  notes:
+  - content: 'In orthonormal Cartesian coordinates, the divergence is: stem:[rm(div)
+      mathbf(U) = frac(del U_(x))(del x) + frac(del U_(y))(del y) + frac(del U_(z))(del
+      z)]'
+  - content: The divergence of the vector field *stem:[U]* is denoted div *stem:[U]*
+      or *∇* ⋅ *stem:[U]*.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: divergence
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 102-05-20
+      version: 2007-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: 16af7a90-dfbb-5979-922e-cce09421242b

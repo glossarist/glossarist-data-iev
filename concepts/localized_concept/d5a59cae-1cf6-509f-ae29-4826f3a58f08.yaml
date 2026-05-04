@@ -1,0 +1,30 @@
+---
+data:
+  definition:
+  - content: |-
+      durée entre l'instant de la modification spécifiée de la ou des valeurs des {{grandeurs d'alimentation d'entrée, urn:iec:std:iec:60050-447-03-02}} qui vont entraîner le déclenchement du {{relais de mesure, urn:iec:std:iec:60050-447-01-02}} ou de l'{{équipement de protection, urn:iec:std:iec:60050-447-01-49}} en {{état initial, urn:iec:std:iec:60050-447-02-03}} et l'instant où le relais ou le dispositif {{fonctionne, urn:iec:std:iec:60050-447-02-04}}<simg usemap="#1-60050-447-Ed2-IS-CDV-Fig1-fr-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig1-fr-4web"> <area title="fonctionner" href="IEV447-02-04" shape="rect" coords="297,16,372,47" target="_self" alt="fonctionner"> <area title="état initial" href="IEV447-02-03" shape="rect" coords="203,69,261,87" target="_self" alt="état initial"> <area title="grandeur caractéristique (pour relais à minimum de ...)" href="IEV447-01-24" shape="rect" coords="5,109,171,152" target="_self" alt="grandeur caractéristique minimum"> <area title="grandeur caractéristique (pour relais à maximum de ...)" href="IEV447-01-23" shape="rect" coords="3,263,176,298" target="_self" alt="grandeur caractéristique maximum"> <area title="operate signal" href="IEV447-04-14" shape="rect" coords="34,362,167,382" target="_self" alt="operate signal"> <area title="valeur de fonctionnement" href="IEV447-02-10" shape="rect" coords="186,158,272,188" target="_self" alt="valeur de fonctionnement"> <area title="valeur de fonctionnement" href="IEV447-02-10" shape="rect" coords="187,222,273,249" target="_self" alt="valeur de fonctionnement"> <area title="temps de fonctionnement" href="IEV447-05-05" shape="rect" coords="348,433,255,403" target="_self" alt="temps de fonctionnement"> <area title="dégager" href="IEV447-02-17" shape="rect" coords="502,19,562,41" target="_self" alt="dégager"> <area title="état de travail" href="IEV447-02-01" shape="rect" coords="364,73,442,87" target="_self" alt="état de travail"> <area title="état de dégagement" href="IEV447-02-20" shape="rect" coords="536,68,648,86" target="_self" alt="état de dégagement"> <area title="valeur de dégagement" href="IEV447-02-18" shape="rect" coords="341,152,466,170" target="_self" alt="valeur de dégagement"> <area title="valeur de dégagement" href="IEV447-02-18" shape="rect" coords="342,237,466,255" target="_self" alt="valeur de dégagement"> <area title="hystérésis de dégagement" href="IEV447-07-14" shape="rect" coords="538,159,682,178" target="_self" alt="hystérésis de dégagement"> <area title="hystérésis de dégagement" href="IEV447-07-14" shape="rect" coords="538,231,683,250" target="_self" alt="hystérésis de dégagement"> <area title="temps de dégagement" href="IEV447-05-10" shape="rect" coords="471,403,547,433" target="_self" alt="temps de dégagement"></map>
+
+      Figure 1 – Diagramme explicatif de l'état de travail</b></p></simg>
+  examples: []
+  id: 447-05-05
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de fonctionnement
+    usage_info: d'un relais de mesure ou d'un dispositif de protection
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: d5a59cae-1cf6-509f-ae29-4826f3a58f08

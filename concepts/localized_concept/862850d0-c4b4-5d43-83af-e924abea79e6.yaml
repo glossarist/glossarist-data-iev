@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: absolute value of the difference between the limiting frequencies of
+      a {{frequency band, urn:iec:std:iec:60050-103-09-01}}
+  examples: []
+  id: 103-09-02
+  notes:
+  - content: The bandwidth is the range of the frequency band, characterized by a
+      single value. It does not depend on the position of the band in the frequency
+      spectrum.
+  - content: The term “bandwidth” is usually associated with a qualification; for
+      example, baseband bandwidth, necessary bandwidth, bandwidth of an amplifier
+      or other device.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bandwidth
+  - type: expression
+    normative_status: preferred
+    designation: frequency bandwidth
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 103-09-02
+      version: 2009-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: 862850d0-c4b4-5d43-83af-e924abea79e6
+classification: preferred

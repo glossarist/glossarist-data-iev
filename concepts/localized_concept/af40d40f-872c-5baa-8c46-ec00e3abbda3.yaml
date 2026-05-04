@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '1998-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: the ratio, generally expressed in decibels, of the radiation intensity
+      produced by an antenna in a given direction to the radiation intensity that
+      would be obtained if the power accepted by the antenna were radiated equally
+      in all directions
+  examples: []
+  id: 713-09-21
+  notes:
+  - content: If no direction is specified, the direction of maximum radiation intensity
+      from the given antenna is implied.
+  - content: When the absolute gain is expressed in decibels, the notation dBi is
+      recommended by the International Telecommunication Union as a unit symbol.
+  - content: The radiation intensity from an antenna in a given direction is the power
+      radiated per unit solid angle.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 712-02-43
+      original: 712-02-43 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(absolute) gain"
+  - type: expression
+    designation: isotropic gain
+  language_code: eng
+  entry_status: valid
+  review_date: '1998-04-01T00:00:00+00:00'
+  review_decision_date: '1998-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-04-01T00:00:00+00:00'
+id: af40d40f-872c-5baa-8c46-ec00e3abbda3

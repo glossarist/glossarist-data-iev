@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ratio of the RMS value of the alternating component of a {{pulsating,
+      urn:iec:std:iec:60050-103-06-07}} quantity to the RMS value of the quantity
+      itself
+  examples: []
+  id: 103-06-11
+  notes:
+  - content: For a pulsating quantity stem:[x] with RMS value stem:[X_("e" "f" "f")]
+      and alternating component stem:[x_("P{sim}")], the pulsating factor is stem:[s
+      = X_("P{sim}") _("eff") / X_("eff")].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pulsating factor
+  - designation: stem:[s]
+    international: true
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 103-06-11
+      version: 2009-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: 5dd84a67-bc94-52a7-8954-1f97e52462c8

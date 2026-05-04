@@ -1,0 +1,35 @@
+---
+data:
+  definition:
+  - content: pseudo-scalaire, noté (*stem:[U]*,*stem:[V]*,*stem:[W]*), attribué à
+      un ensemble ordonné de trois vecteurs *stem:[U]*, *stem:[V]*, *stem:[W]* dans
+      l'espace euclidien à trois dimensions, égal au produit scalaire stem:[U * (
+      V xx W )]
+  examples: []
+  id: 102-03-38
+  notes:
+  - content: 'Le produit mixte de trois vecteurs *stem:[U]*, *stem:[V]*, *stem:[W]*
+      est le déterminant des vecteurs par rapport à une base orthonormée donnée: stem:[(U
+      , "​" " " " " V , " " W) = |[U_("1"), U_("2"), U_("3")], [V_("1"), V_("2"),
+      V_("3")], [W_("1"), W_("2"), W_("3")]|]'
+  - content: Le produit mixte de trois rayons vecteurs est le volume du parallélépipède
+      construit sur les vecteurs avec un signe qui dépend de l'orientation de l'espace.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: produit mixte
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: d71174a8-b508-5062-a219-1f51c27484b2

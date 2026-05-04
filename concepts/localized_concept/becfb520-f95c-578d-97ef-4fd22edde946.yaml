@@ -1,0 +1,45 @@
+---
+data:
+  dates:
+  - date: '1982-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '1982-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "graphical representation in polar coordinates of the amplitude reflection
+      factor stem:[<u>r</u>] for a lossless uniform transmission line with characteristic
+      impedance stem:[Z]~0~:\r\nstem:[underline(r) = frac(underline(Z) - Z_(0))(underline(Z)
+      + Z_(0)) = frac(underline(Z) / Z_(0) - 1)(underline(Z) / Z_(0) + 1)]\r\nin terms
+      of the complex impedance stem:[<u>Z</u>] by two families of orthogonal circles
+      on each of which either the resistance stem:[R] or the reactance stem:[X] has
+      a constant value, where stem:[<u>Z</u>] = stem:[R] + jstem:[X] is the complex
+      impedance in the direction of propagation of the incident wave at the point
+      at which the amplitude reflection factor is evaluated"
+  examples: []
+  id: 726-19-01
+  notes:
+  - content: The Smith chart may be used with impedances stem:[<u>Z</u>], admittances
+      stem:[underline(Y) = frac(1)(underline(Z))], normalized impedances stem:[frac(underline(Z))(Z_(0))]
+      or normalized admittances stem:[frac(underline(Y))(Y_("0")) = frac(Z_("0"))(underline(Z))]
+  - content: The Smith chart is usually restricted to positive values of stem:[R],
+      in which case it is bounded by an outer circle where the magnitude of the amplitude
+      reflection factor is unity.
+  - content: The Smith chart allows the conversion by direct reading of the amplitude
+      reflection factor into the real and imaginary parts of the impedance or admittance
+      and vice versa; the representation also simplifies the transformation of impedance
+      or admittance from one point to another on the same transmission line.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Smith chart
+  - type: expression
+    normative_status: preferred
+    designation: Smith diagram
+  language_code: eng
+  entry_status: valid
+  review_date: '1982-01-01T00:00:00+00:00'
+  review_decision_date: '1982-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1982-01-01T00:00:00+00:00'
+id: becfb520-f95c-578d-97ef-4fd22edde946
+classification: preferred

@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ratio of the {{entropy, urn:iec:std:iec:60050-171-07-15}} stem:[H] to
+      the {{decision content, urn:iec:std:iec:60050-171-07-10}} stem:[H]~0~ stem:[H]~r~
+      &equals;  stem:[H]/stem:[H]~0~
+  examples:
+  - content: 'Let stem:[{a , b , c}] be a set of three events and let stem:[p ( a
+      ) = 0,5], stem:[p ( b ) = 0,25] and stem:[p ( c ) = 0,25] be the probabilities
+      of their occurrences. The relative entropy of this set is: stem:[H_("r") = 1,5
+      Sh / 1,585 " " Sh approx 0,95].'
+  id: 171-07-17
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-27
+      original: IEC 80000-13:2008, 13-27, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative entropy
+  - designation: stem:[H]~r~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 84101e7b-52b7-5d68-8e57-8f36aebed040

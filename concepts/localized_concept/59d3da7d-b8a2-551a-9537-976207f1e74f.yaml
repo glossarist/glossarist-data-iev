@@ -1,0 +1,29 @@
+---
+data:
+  definition:
+  - content: "{{caractère, urn:iec:std:iec:60050-702-05-10}} ou {{chaîne, urn:iec:std:iec:60050-171-02-26}}
+      de caractères employé pour identifier ou désigner une {{donnée, urn:iec:std:iec:60050-171-01-02}}"
+  examples:
+  - content: "{{Clé, urn:iec:std:iec:60050-171-02-36}}, {{étiquette, urn:iec:std:iec:60050-171-02-37}}."
+  id: 171-02-35
+  notes:
+  - content: Un identificateur peut aussi indiquer certaines propriétés de la donnée.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: identificateur
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 59d3da7d-b8a2-551a-9537-976207f1e74f

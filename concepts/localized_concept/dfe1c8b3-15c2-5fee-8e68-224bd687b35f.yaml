@@ -1,0 +1,29 @@
+---
+data:
+  dates:
+  - date: '2020-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{single cell, urn:iec:std:iec:60050-485-05-02}} or {{fuel cell stack,
+      urn:iec:std:iec:60050-485-06-01}} configuration, characterized by the absence
+      of a fuel outlet port, an oxidant outlet port or both"
+  examples: []
+  id: 485-06-20
+  notes:
+  - content: In dead-end operation, almost 100 % of the reactant fed to the cell or
+      fuel cell stack is consumed. A small fraction of reactants can be vented out
+      from {{fuel cell power systems, urn:iec:std:iec:60050-485-09-01}}, which requires
+      periodic purging of the {{electrode, urn:iec:std:iec:60050-485-02-01}} compartment(s).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dead-end flow
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-02-01T00:00:00+00:00'
+  review_decision_date: '2020-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-02-01T00:00:00+00:00'
+id: dfe1c8b3-15c2-5fee-8e68-224bd687b35f

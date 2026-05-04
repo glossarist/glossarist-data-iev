@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: reciprocal of the {{period, urn:iec:std:iec:60050-103-06-01}}
+  examples: []
+  id: 103-06-02
+  notes:
+  - content: The symbol stem:[f] is mainly used when the period is a time. The symbol
+      stem:[ν] (nu) is mainly used in optics.
+  - content: The coherent SI unit of frequency is the {{hertz, urn:iec:std:iec:60050-103-06-18}},
+      Hz.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: frequency
+  - designation: |-
+      stem:[f]
+      stem:[v]
+    international: true
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 103-06-02
+      version: 2009-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: 5bb30e7c-ff3e-5242-8933-d24be13453b2

@@ -1,0 +1,41 @@
+---
+data:
+  definition:
+  - content: état d'une image associé aux données d'images qui représentent les coordonnées
+      d'espace chromatique des éléments d'une {{copie papier, urn:iec:std:iec:60050-845-32-045}}
+      ou d'une {{image d'écran, urn:iec:std:iec:60050-845-32-046}}, englobant à la
+      fois les données d'images en référence à l'original et les données d'images
+      en référence à la sortie
+  examples: []
+  id: 845-32-053
+  notes:
+  - content: Lorsque l'expression "en référence à la prise de vue" est utilisée comme
+      qualificatif d'un objet, elle implique que l'état de cet objet est un état d'image
+      en référence à la prise de vue. Par exemple, les données d'images en référence
+      à la prise de vue sont des données d'images dont l'état est un état en référence
+      à la prise de vue.
+  - content: Les données d'images en référence à la prise de vue sont généralement
+      soumises au rendu des couleurs pour un support de formation d'image réel ou
+      virtuel et des conditions d'observation spécifiques.
+  - content: Les données d'images en référence à la prise de vue peuvent inclure des
+      données d'images qui ne proviennent pas d'une scène d'origine, telle qu'un texte,
+      un dessin au trait, un graphique vectoriel et d'autres formes d'œuvre originale.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: état d'une image en référence à la prise de vue
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 012f261e-127a-5ffa-9f56-371c05de02d6

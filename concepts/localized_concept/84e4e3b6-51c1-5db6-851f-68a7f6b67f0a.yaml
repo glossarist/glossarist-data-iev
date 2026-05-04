@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: fault that disappears without intervention
+  examples: []
+  id: 192-04-05
+  notes:
+  - content: The disappearance may be due to self-recovery.
+  - content: In IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015),
+      this concept was termed "intermittent fault", with "volatile fault" and "transient
+      fault" as synonyms, but not all transient faults are intermittent faults ({{192-04-06,
+      urn:iec:std:iec:60050-192-04-06}}).
+  - content: IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015) identified
+      “volatile fault” as a synonym, which is deprecated as it is not true in all
+      applications.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transient fault
+    usage_info: of an item
+  - type: expression
+    normative_status: deprecated
+    designation: volatile fault
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: 84e4e3b6-51c1-5db6-851f-68a7f6b67f0a
+classification: deprecated

@@ -1,0 +1,48 @@
+---
+data:
+  definition:
+  - content: "{{polarisation, urn:iec:std:iec:60050-485-15-01}} causée par la résistance
+      du flux d'ions dans l'{{électrolyte, urn:iec:std:iec:60050-485-03-01}} et du
+      flux d'électrons dans les {{électrodes, urn:iec:std:iec:60050-485-02-01}}, les
+      {{plaques bipolaires, urn:iec:std:iec:60050-485-06-04}} et les {{collecteurs
+      de courant, urn:iec:std:iec:60050-485-06-07}}"
+  examples: []
+  id: 485-15-03
+  notes:
+  - content: Le terme "ohmique" fait référence au fait que la chute de tension suit
+      la {{loi d'Ohm, urn:iec:std:iec:60050-131-15-08}}, c'est-à-dire qu'elle est
+      proportionnelle au courant avec une résistance ohmique (appelée "{{résistance
+      interne, urn:iec:std:iec:60050-485-15-04}}" de la pile) comme constante de proportionnalité.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: polarisation ohmique
+    usage_info: dans les piles à combustible
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: perte IR
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: ed261bd7-5444-534a-b40c-fad2ea1343c6

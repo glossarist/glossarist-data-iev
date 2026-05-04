@@ -1,0 +1,55 @@
+---
+data:
+  definition:
+  - content: pour un champ vectoriel *stem:[U]* qui est donné en tout point d'une
+      surface S délimitée par une courbe fermée orientée C, théorème énonçant que
+      l’intégrale de surface étendue à S du rotationnel du champ *stem:[U]* est égal
+      à l’intégrale curviligne de ce champ le long de la courbe Cstem:["P{iint}"_("S")
+      rot " " U * e_("n") rm(d) A = oint_("C") U * rm(d) r] où *stem:[e]*~n~dstem:[A]
+      est l’élément vectoriel de surface et d*stem:[r]* est l’élément vectoriel d’arc
+  examples: []
+  id: 102-05-31
+  notes:
+  - content: L'orientation de la surface S par rapport à la courbe C est choisie de
+      façon que, en tout point de la courbe, l'élément vectoriel d'arc, le vecteur
+      unité normal à la surface qui détermine son orientation, et le vecteur unité
+      normal à ces deux vecteurs et orienté vers l'extérieur de la courbe, forment
+      un trièdre direct ou rétrograde selon l'orientation de l'espace.
+  - content: Le théorème de Stokes peut être généralisé à l'espace euclidien à stem:[n]
+      dimensions.
+  - content: En magnétostatique, le théorème de Stokes est appliqué pour exprimer
+      que le flux magnétique à travers la surface S est égal à l'intégrale curviligne
+      du potentiel vecteur magnétique le long de la courbe C. Cette intégrale curviligne
+      définit le flux totalisé. Voir {{IEV 121-11-24, urn:iec:std:iec:60050-121-11-24}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: théorème de Stokes
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: théorème d'Ampère-Stokes
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: a4d87878-d2b7-52ea-a95c-58ce53702c21

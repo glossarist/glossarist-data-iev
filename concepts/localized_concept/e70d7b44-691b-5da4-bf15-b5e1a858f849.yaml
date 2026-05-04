@@ -1,0 +1,48 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a time-dependent quantity, positive square root of the mean value
+      of the square of the quantity taken over a given time interval
+  examples: []
+  id: 103-02-03
+  notes:
+  - content: The root-mean-square value of a periodic quantity is usually taken over
+      an integration interval the range of which is the period multiplied by a natural
+      number.
+  - content: For a sinusoidal quantity stem:[a ( t ) = hat(A) cosomega " " t + vartheta_(0)
+      )], the root-mean-square value is stem:[A_("eff") = hat(A) / sqrt(2)].
+  - content: The root-mean-square value of a quantity may be denoted by adding one
+      of the subscripts eff or rms to the symbol of the quantity.
+  - content: In electrical technology, the root-mean-square values of electric current
+      stem:[i ( t )] and voltage stem:[u ( t )] are usually denoted stem:[I] and stem:[U],
+      respectively.
+  - content: The abbreviation RMS was formerly denoted as r.m.s. or rms, but these
+      notations are now deprecated.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: RMS value
+    usage_info: for a time-dependent quantity
+  - type: expression
+    designation: root-mean-square value
+    usage_info: for a time-dependent quantity
+  - type: expression
+    designation: effective value
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 103-02-03
+      version: 2009-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: e70d7b44-691b-5da4-bf15-b5e1a858f849

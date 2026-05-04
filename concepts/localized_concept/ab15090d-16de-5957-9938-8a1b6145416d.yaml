@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: self-acting artificial system the behaviour of which is governed either
+      in a stepwise manner by given decision rules or continuously in time by defined
+      relationships, while the output variables of which are created from its input
+      and state variables
+  examples:
+  - content: 'In a vending machine the program is started by inserting a coin. The
+      program can respond in two ways: either accept the coin and release the article
+      or return the coin with the article output remaining blocked. The decision is
+      made based on the result of the check of the inserted coin and the article stock.'
+  - content: 'A machine tool which automatically executes operations under program
+      control is an automaton. Examples: automatic lathe, milling machine.'
+  - content: In a temperature controller a reference variable is set, which will be
+      compared with the feedback variable. Based on the result of the comparison the
+      controller drives the final controlling equipment. In other words, based on
+      the difference between the reference variable and the feedback variable (representing
+      the temperature as controlled variable) the controller and the final controlling
+      equipment influence the temperature via the manipulated variable (output variable).
+  id: 351-42-32
+  notes:
+  - content: An essential characteristic of a program controlled automaton is the
+      existence of at least one branching in the program, offering different alternatives
+      of control actions between which a decision is made based on external inputs
+      or inner states. Deactivation, too, is an alternative branch of the program.
+      The program sequence is triggered or controlled by an external stimulus which
+      is part of an external input or the input itself.
+  - content: A controller, governed by the defined relationships in a control loop
+      is an automaton.
+  - content: This entry was numbered 351-21-42 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automaton
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: ab15090d-16de-5957-9938-8a1b6145416d

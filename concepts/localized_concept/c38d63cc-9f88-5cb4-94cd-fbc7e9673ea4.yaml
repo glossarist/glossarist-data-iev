@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a non-zero complex number stem:[c], the real number stem:[φ] restricted
+      to stem:[- pi lt phi le pi], such that stem:[c = |c| e^(rm(j) phi)]
+  examples: []
+  id: 102-02-17
+  notes:
+  - content: |-
+      The argument stem:[arg " " c] of the complex number stem:[c = a + rm(j) b = |c| e^(rm(j) phi)] is equal to:
+       if stem:[b ge 0] and  if stem:[b lt 0], where stem:[0 le arccos" " x le pi].
+      It is not defined if stem:[a = b = 0].
+  - content: The concept of argument may be applied to complex scalar quantities.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: argument
+    usage_info: of a complex number
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: c38d63cc-9f88-5cb4-94cd-fbc7e9673ea4

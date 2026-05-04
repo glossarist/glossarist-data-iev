@@ -1,0 +1,54 @@
+---
+data:
+  definition:
+  - content: "quotient de la somme des durées de toutes les {{interruptions de fourniture,
+      urn:iec:std:iec:60050-692-07-01}} d'énergie électrique à des clients individuels
+      pendant un intervalle de temps, par le produit de la durée de cet intervalle
+      de temps et du nombre de clients affectésNote 1 à l’article: Si sur un intervalle
+      de temps de durée stem:[T], stem:[t]~stem:[ij]~ est la durée de la stem:[i]ème
+      interruption subie par le client stem:[j], et stem:[N]~NS~ le nombre de clients
+      affectés, alors, l’indisponibilité par client coupé est donnée parstem:[U_(\"CI\")
+      = frac(sum_(i) sum_(j) t_(i j))(N_(\"NS\") T)]\r\nNote 2 à l’article: Seules
+      les {{interruptions longues, urn:iec:std:iec:60050-692-07-02}} sont prises en
+      compte. Note 3 à l’article: Le terme \"client\" désigne l’utilisateur final
+      et non un réseau ou une compagnie de distribution intermédiaire. Note 4 à l’article:
+      L’indisponibilité par client coupé peut être utilisée pour décrire des performances
+      réalisées, ou pour estimer les performances futures attendues. Note 5 à l’article:
+      Cet article portait le numéro 191-27-04 dans l’IEC 60050-191:1990."
+  examples: []
+  id: 692-08-04
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indisponibilité par client coupé
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: indice d’interruption par client coupé
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 202c117a-21c0-5193-ad93-3311804e2197
+classification: preferred

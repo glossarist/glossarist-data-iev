@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2013-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a linear two-terminal element or two-terminal circuit, under sinusoidal
+      conditions, quantity equal to the product of the apparent power stem:[S] and
+      the sine of the displacement angle stem:[φ]   stem:[Q = S sinphi]
+  examples: []
+  id: 131-11-44
+  notes:
+  - content: The reactive power is the imaginary part of the complex power stem:[underline(S)],
+      thus stem:[Q = " " Im " " underline(S)]. Its absolute value is equal to the
+      non-active power, thus stem:[|Q| = Q_("P{sim}")].
+  - content: The coherent SI unit for reactive power is voltampere, VA. The special
+      name var and its symbol var are also used. See {{131-11-45, urn:iec:std:iec:60050-131-11-45}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reactive power
+  - designation: stem:[Q]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-08-01T00:00:00+00:00'
+  review_decision_date: '2013-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-08-01T00:00:00+00:00'
+id: 79f0d2a8-a57a-5a1b-9fab-ef7f0733121f

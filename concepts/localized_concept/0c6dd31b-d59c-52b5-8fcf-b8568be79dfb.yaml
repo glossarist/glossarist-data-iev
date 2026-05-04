@@ -1,0 +1,55 @@
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2010-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: unité de mesure adoptée par convention pour une grandeur de base
+  examples: []
+  id: 112-01-18
+  notes:
+  - content: Dans chaque système cohérent d'unités, il y a une seule unité de base
+      pour chaque grandeur de base. Dans le SI par exemple, le mètre est l'unité de
+      base de longueur. Le centimètre et le kilomètre sont aussi des unités de longueur,
+      mais ils ne sont pas des unités de base dans le SI. Cependant, dans les systèmes
+      CGS, le centimètre est l'unité de base de longueur.
+  - content: Une unité de base peut aussi servir pour une grandeur dérivée de même
+      dimension. Par exemple, la hauteur de pluie, définie comme un volume surfacique
+      (volume par aire) a le mètre comme unité dérivée cohérente dans le SI. L’ampère,
+      unité de base de courant électrique, est aussi l’unité dérivée cohérente de
+      potentiel magnétique scalaire.
+  - content: Pour la grandeur «nombre d'entités», on peut considérer le nombre un,
+      de symbole 1, comme une unité de base dans tout système d'unités.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 99:2007
+      locality:
+        type: clause
+        reference_from: '1.10'
+      original: ISO/IEC GUIDE 99:2007 1.10
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unité de base
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2010-01-01T00:00:00+00:00'
+id: 0c6dd31b-d59c-52b5-8fcf-b8568be79dfb

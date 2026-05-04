@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '2014-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2014-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: electric field which does not have an essentially constant voltage gradient
+      between electrodes
+  examples: []
+  id: 442-09-03
+  notes:
+  - content: The inhomogeneous field condition of a point-plane electrode configuration
+      is the worst case with regard to voltage withstand capability and is referred
+      to as case A in IEC 60664-1. It is represented by a point electrode having a
+      30 stem:[mu]m radius and a plane of 1 m &times; 1 m.
+  - content: For frequencies exceeding 30 kHz, the field is considered to be inhomogeneous
+      when the radius of curvature of the conductive parts is less than 20 % of the
+      clearance.
+  sources:
+  - origin:
+      ref: IEC 60664-1:2007
+      locality:
+        type: clause
+        reference_from: '3.15'
+      original: IEC 60664-1:2007, 3.15
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inhomogeneous electric field
+  - type: expression
+    normative_status: preferred
+    designation: non-uniform electric field
+  language_code: eng
+  entry_status: valid
+  review_date: '2014-11-01T00:00:00+00:00'
+  review_decision_date: '2014-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2014-11-01T00:00:00+00:00'
+id: 79b51b93-7642-5c7c-ac9e-f2641b783d98
+classification: preferred

@@ -1,0 +1,61 @@
+---
+data:
+  dates:
+  - date: '2002-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: rapport du phaseur représentant la tension réfléchie au phaseur représentant
+      la tension incidente à un accès d'un réseau électrique ou en un point proche
+      d'une discontinuité d'une ligne de transmission
+  examples: []
+  id: 131-15-33
+  notes:
+  - content: À un accès d'un réseau électrique, le facteur de réflexion complexe en
+      tension est par convention l'opposé du facteur de réflexion complexe du courant.
+  - content: |-
+      Si on peut définir des impédances, le facteur de réflexion complexe en tension est égal à
+
+      stem:[underline(r) = frac(underline(Z) prime - underline(Z))(underline(Z) prime + underline(Z))]
+
+      où <u>stem:[Z]</u> est l'impédance caractéristique de la ligne avant la discontinuité ou l'impédance de la source, et <u>stem:[Z]</u>′ est l'impédance après la discontinuité ou l'impédance de la charge vue de l'accès commun à la source et à la charge.
+  - content: Dans un contexte approprié, on peut abréger le terme "facteur de réflexion
+      complexe en tension" par omission de "complexe", de "en tension", ou des deux.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de réflexion complexe en tension
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: coefficient de réflexion complexe en tension
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-06-01T00:00:00+00:00'
+id: e34e711f-7850-54f6-80ae-665df17e5469
+classification: preferred

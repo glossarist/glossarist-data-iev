@@ -1,0 +1,52 @@
+---
+data:
+  dates:
+  - date: '2019-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: supplements a {{quantity name, urn:iec:std:iec:60050-112-01-02}} for
+      a quantity expressing a flux or a current within three-dimensional space to
+      indicate the quotient of such a quantity by the area of a surface
+  examples:
+  - content: "{{density of heat flow rate, urn:iec:std:iec:60050-113-04-37}} or areic
+      heat flow rate, electric current density (see {{IEV 121-11-11, urn:iec:std:iec:60050-121-11-11}}),
+      {{magnetic flux density, urn:iec:std:iec:60050-121-11-19}}."
+  id: 112-03-13
+  notes:
+  - content: In English, "density" also, and more commonly, means specific mass. In
+      French, the term "densité" means relative mass density (or relative density).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: density of …
+  - type: expression
+    normative_status: preferred
+    designation: "… density"
+    usage_info: for flux or current
+  - type: expression
+    normative_status: preferred
+    designation: areic
+    usage_info: for flux or current
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 112-03-13
+      version: 2010-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-01-01T00:00:00+00:00'
+  review_decision_date: '2019-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-01-01T00:00:00+00:00'
+id: 8f3a37b0-fbe6-5946-a02c-3b5ae9d2cbc3
+classification: preferred

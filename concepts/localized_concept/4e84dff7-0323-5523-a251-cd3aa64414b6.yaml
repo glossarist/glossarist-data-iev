@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2016-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: means of {{transmission, urn:iec:std:iec:60050-701-01-03}} of {{signals,
+      urn:iec:std:iec:60050-101-12-02}} in one direction between two points
+  examples: []
+  id: 701-02-01
+  notes:
+  - content: 'Several transmission channels can share a common path: for example,
+      where each transmission channel is allocated a particular {{frequency band,
+      urn:iec:std:iec:60050-103-09-01}} or a particular {{time-slot, urn:iec:std:iec:60050-704-13-08}}.'
+  - content: The adjective "transmission" can be replaced by an adjective indicating
+      the nature of the transmitted signals, or the {{frequency bandwidth, urn:iec:std:iec:60050-702-01-03}},
+      or the {{digit rate, urn:iec:std:iec:60050-702-05-23}}; for example, telephone
+      channel, {{telegraph channel, urn:iec:std:iec:60050-721-11-01}}, {{data channel,
+      urn:iec:std:iec:60050-714-12-01}}, 10 MHz channel, 34 Mbit/s channel.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transmission channel
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 701-02-01
+      version: '1988'
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-12-01T00:00:00+00:00'
+id: 4e84dff7-0323-5523-a251-cd3aa64414b6

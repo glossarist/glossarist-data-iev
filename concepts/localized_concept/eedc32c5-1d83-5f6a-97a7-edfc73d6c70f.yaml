@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: probability that a given maintenance action, performed under stated conditions
+      and using specified procedures and resources, can be completed within the time
+      interval (stem:[t]~1~, stem:[t]~2~) given that the action started at stem:[t]
+      = 0
+  examples: []
+  id: 192-07-01
+  notes:
+  - content: When stem:[t]~1~ = 0 and stem:[t]~2~ = stem:[t], then stem:[M](0, stem:[t])
+      is denoted simply as stem:[M](stem:[t]) and termed the maintainability function.
+  - content: See also maintainability <of an item> ({{192-01-27, urn:iec:std:iec:60050-192-01-27}}).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maintainability
+    usage_info: measure
+  - designation: stem:[M](stem:[t]~1~, stem:[t]~2~)
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: eedc32c5-1d83-5f6a-97a7-edfc73d6c70f

@@ -1,0 +1,57 @@
+---
+data:
+  definition:
+  - content: chacun des éléments d'un ensemble de vecteurs linéairement indépendants
+      dont la somme est égale à un vecteur donné
+  examples:
+  - content: "* pour un vecteur donné    U= U 1   a 1  + U 2   a 2  +...+ U n   a
+      n   MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahwfacqGH9aqpca
+      WGvbWaaSbaaSqaaGqaaKqzGdGaa8xmaaWcbeaakiaahggadaWgaaWc baqcLboacaWFXaaaleqaaOGaey4kaSIaamyvamaaBaaaleaajug4ai
+      aa=jdaaSqabaGccaWHHbWaaSbaaSqaaKqzGdGaa8NmaaWcbeaakiab gUcaRiaac6cacaGGUaGaaiOlaiabgUcaRiaadwfadaWgaaWcbaqcLb
+      qacaWGUbaaleqaaOGaaCyyamaaBaaaleaajugabiaad6gaaSqabaaa aa@5104@   , où     U
+      1  ,  U 2  , ...,  U n   MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaadwfadaWgaaWcba
+      acbaqcLboacaWFXaaaleqaaOGaaeilaiaaysW7caWGvbWaaSbaaSqa aKqzGdGaa8NmaaWcbeaakiaabYcacaaMe8UaaeOlaiaab6cacaqGUa
+      GaaeilaiaaysW7caWGvbWaaSbaaSqaaKqzaeGaamOBaaWcbeaaaaa@4A47@    sont les coordonnées
+      de U et     a 1  ,  a 2  , ...,  a n   MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahggadaWgaaWcba
+      acbaqcLboacaWFXaaaleqaaOGaaeilaiaaysW7caWHHbWaaSbaaSqa aKqzGdGaa8NmaaWcbeaakiaabYcacaaMe8UaaeOlaiaab6cacaqGUa
+      GaaeilaiaaysW7caWHHbWaaSbaaSqaaKqzaeGaamOBaaWcbeaaaaa@4A77@    sont les vecteurs
+      de base, chacun des vecteurs     U 1   a 1  ,  U 2   a 2  , ...,  U n   a n
+      \  MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaadwfadaWgaaWcba
+      acbaqcLboacaWFXaaaleqaaOGaaCyyamaaBaaaleaajug4aiaa=fda aSqabaGccaqGSaGaaeiiaiaadwfadaWgaaWcbaqcLboacaWFYaaale
+      qaaOGaaCyyamaaBaaaleaajug4aiaa=jdaaSqabaGccaqGSaGaaeii aiaac6cacaGGUaGaaiOlaiaabYcacaqGGaGaamyvamaaBaaaleaaju
+      gabiaad6gaaSqabaGccaWHHbWaaSbaaSqaaKqzaeGaamOBaaWcbeaa aaa@5070@   ,* les projections
+      d'un vecteur normalement et tangentiellement à une surface (composante normale
+      et composante tangentielle)."
+  id: 102-03-10
+  notes:
+  - content: En anglais, le terme "component vector" peut être employé si le terme
+      "component" est employé au sens de "coordonnée" (voir la Note 2 à l’article
+      dans {{IEV 102-03-09, urn:iec:std:iec:60050-102-03-09}}).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: composante
+    usage_info: d'un vecteur
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: d31c40f2-5dc8-5a2d-8cf9-9349f5c14143

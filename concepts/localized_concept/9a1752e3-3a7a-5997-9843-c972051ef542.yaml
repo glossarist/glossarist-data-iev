@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2017-12-15T00:00:00+00:00'
+    type: accepted
+  - date: '2017-12-15T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{stable state, urn:iec:std:iec:60050-692-02-02}} in which a {{credible
+      event, urn:iec:std:iec:60050-692-01-08}} can cause {{loss of load, urn:iec:std:iec:60050-692-01-16}},
+      over-stressing of components, bus voltages and system frequency outside tolerances,
+      {{cascade tripping, urn:iec:std:iec:60050-692-03-08}} and/or instabilityimage::/assets/images/parts/692/692-fig2-en.png[Figure
+      2 - Electric power system states]image::/assets/images/parts/692/692-fig3-en.png[]"
+  examples: []
+  id: 692-02-07
+  notes:
+  - content: The arrows indicate the most important state transitions caused by credible
+      events. Recovery transitions, in opposite directions, are effected by operator
+      intervention.*Figure 3 – Examples of transitions within electric power system
+      states*image::/assets/images/parts/692/692-fig6-en.png[Figure 6 - Examples of
+      electric power system states and corresponding system operation status]
+  - content: When in the alert state, a further credible event can result in an {{unstable
+      state, urn:iec:std:iec:60050-692-02-03}}.
+  - content: This entry was numbered 191-22-06 in IEC 60050-191:1990.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: alert state
+    usage_info: of an electric power system
+  - type: expression
+    normative_status: preferred
+    designation: vulnerable state
+    usage_info: of an electric power system
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-12-15T00:00:00+00:00'
+  review_decision_date: '2017-12-15T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-12-15T00:00:00+00:00'
+id: 9a1752e3-3a7a-5997-9843-c972051ef542
+classification: preferred

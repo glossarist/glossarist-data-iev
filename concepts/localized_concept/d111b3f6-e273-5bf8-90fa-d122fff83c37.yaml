@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{multiplexing, urn:iec:std:iec:60050-701-03-09}} in which several independent
+      {{signals, urn:iec:std:iec:60050-701-01-02}} are allotted separate {{frequency
+      bands, urn:iec:std:iec:60050-103-09-01}} for {{transmission, urn:iec:std:iec:60050-701-01-03}}
+      over a common {{transmission channel, urn:iec:std:iec:60050-701-02-01}}"
+  examples: []
+  id: 704-08-05
+  notes:
+  - content: "{{Wavelength division multiplexing, urn:iec:std:iec:60050-704-08-06}}
+      is a form of frequency division multiplexing."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: frequency division multiplexing
+  - type: expression
+    normative_status: preferred
+    designation: FDM
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 704-08-05
+      version: 1993-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: d111b3f6-e273-5bf8-90fa-d122fff83c37
+classification: preferred

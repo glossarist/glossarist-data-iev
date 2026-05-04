@@ -1,0 +1,50 @@
+---
+data:
+  definition:
+  - content: rapport de la puissance du {{signal utile, urn:iec:std:iec:60050-702-08-01}}
+      à la puissance totale des {{signaux brouilleurs, urn:iec:std:iec:60050-161-01-04}}
+      et des {{bruits, urn:iec:std:iec:60050-702-08-03}}, évalué dans des conditions
+      spécifiées en un point spécifié d'une {{voie de transmission, urn:iec:std:iec:60050-701-02-01}}
+  examples: []
+  id: 702-08-63
+  notes:
+  - content: Le rapport signal sur brouillage est généralement exprimé en {{décibels,
+      urn:iec:std:iec:60050-702-07-02}}.
+  - content: "Les conditions déterminées comprennent entre autres:\r\n* la nature
+      et les caractéristiques du signal utile,* la nature et les caractéristiques
+      des signaux brouilleurs et des bruits,* les caractéristiques du récepteur, en
+      particulier la largeur de bande."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rapport signal sur brouillage
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: rapport signal/brouillage
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 4b79bfff-5246-55db-80b7-7aa10413acd9
+classification: preferred

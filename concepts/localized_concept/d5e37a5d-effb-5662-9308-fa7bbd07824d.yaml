@@ -1,0 +1,57 @@
+---
+data:
+  definition:
+  - content: tension aux {{bornes de la pile, urn:iec:std:iec:60050-485-06-08}} d'une
+      {{cellule élémentaire à combustible, urn:iec:std:iec:60050-485-08-01}} en présence
+      de combustible et d'oxydant et en l'absence de courant extérieur
+  examples: []
+  id: 485-13-02
+  notes:
+  - content: La tension en circuit ouvert est exprimée en V.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tension en circuit ouvert
+    usage_info: piles à combustible
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: OCV
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: tension à vide
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: d5e37a5d-effb-5662-9308-fa7bbd07824d

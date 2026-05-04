@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '2018-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: change in effect on an object's behaviour or properties caused by a change
+      in one or more of the object's dimensions
+  examples: []
+  id: 523-02-01
+  notes:
+  - content: The volume of an object is proportional to the third power of its length
+      dimensions, while the surface area is proportional to the second power. As a
+      result, the effect of surface force becomes larger than that of the body force
+      in the microscopic world. For example, the dominant force in the motion of a
+      microscopic object is not the inertial force, but the electrostatic force or
+      viscous force. Material properties of microscopic objects are also affected
+      by the internal material structure and surface, and, as a result, characteristic
+      values are sometimes different from those of bulks. Frictional properties in
+      the microscopic world also differ from those in the macroscopic world. Therefore,
+      those effects must be considered carefully while designing a {{micromachine,
+      urn:iec:std:iec:60050-523-01-03}}.
+  sources:
+  - origin:
+      ref: IEC 62047-1:2016
+      locality:
+        type: clause
+        reference_from: 2.2.2
+      original: IEC 62047-1:2016, 2.2.2
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale effect
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-12-01T00:00:00+00:00'
+id: 2909d216-a201-576c-9530-9d61273a155c

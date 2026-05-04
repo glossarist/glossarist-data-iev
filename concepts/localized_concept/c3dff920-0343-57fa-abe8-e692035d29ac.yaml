@@ -1,0 +1,35 @@
+---
+data:
+  definition:
+  - content: borne supérieure, si elle existe, des longueurs de toutes les courbes
+      polygonales déterminées par des point successifs de la courbe entre les deux
+      points correspondant aux valeurs limites de l'intervalle du paramètre
+  examples: []
+  id: 102-04-18
+  notes:
+  - content: Pour une courbe de A à B définie par le rayon vecteur stem:[r = f ( u
+      )] en fonction du paramètre stem:[u] dans l'intervalle &amp;lsqb;stem:[a], stem:[b]&amp;rsqb;
+      où stem:[a le b], la longueur de la courbe est l'intégrale curviligne stem:[int_("A")^("B")
+      |rm(d) r| = int_(a)^(b) |frac(rm(d) f)(rm(d) u)| rm(d) u].
+  - content: Dans l'espace géométrique usuel, la longueur d'une courbe est une grandeur
+      ayant la dimension d'une longueur.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: longueur
+    usage_info: d'une courbe
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: c3dff920-0343-57fa-abe8-e692035d29ac

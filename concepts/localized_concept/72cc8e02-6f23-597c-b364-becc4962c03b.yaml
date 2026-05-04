@@ -1,0 +1,45 @@
+---
+data:
+  definition:
+  - content: "{{norme, urn:iec:std:iec:60050-901-02-02}} qui spécifie les {{exigence,
+      urn:iec:std:iec:60050-901-05-05}}s auxquelles doit satisfaire un produit ou
+      un groupe de produits pour assurer son/leur {{aptitude à l'emploi, urn:iec:std:iec:60050-901-01-12}}"
+  examples: []
+  id: 901-02-17
+  notes:
+  - content: Une norme de produit peut comporter, outre les exigences d'aptitude à
+      l'emploi, soit directement, soit par référence, des éléments relatifs à la terminologie,
+      à l'{{échantillonnage, urn:iec:std:iec:60050-902-03-01}}, à l'{{essai, urn:iec:std:iec:60050-902-03-02}},
+      à l'emballage, à l'étiquetage et parfois des exigences de procédé.
+  - content: Une norme de produit peut être complète ou non, selon qu'elle spécifie
+      les exigences nécessaires en totalité ou en partie. En l'occurrence, on peut
+      établir une distinction entre les normes telles que les normes dimensionnelles,
+      les normes relatives aux matériaux ou les normes techniques de livraison.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: '5.4'
+      original: Guide ISO/CEI 2:2004, 5.4
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: norme de produit
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 72cc8e02-6f23-597c-b364-becc4962c03b

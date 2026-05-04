@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2002-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "for a set of stem:[n] magnetic circuit elements forming a magnetic circuit,
+      matrix expressing the magnetic fluxes stem:[Φ]~stem:[i]~ in the elements in
+      terms of the current linkages stem:[Ө]~stem:[j]~ of the elements:\r\nstem:[([Phi_(1)],
+      [Phi_(2)], [vdots], [Phi_(n)]) = ([Lambda_(11), Lambda_(12), ..., Lambda_(1
+      n)], [Lambda_(21), , , vdots], [vdots, , , vdots], [Lambda_(n 1), ..., ...,
+      Lambda_(n n)]) * ([Theta_(1)], [Theta_(2)], [vdots], [Theta_(n)])]"
+  examples: []
+  id: 131-12-37
+  notes:
+  - content: A permeance matrix is always symmetric and positive definite.
+  - content: In electromagnetism, the permeance matrix can be defined, for a set of
+      closed paths, as the matrix expressing linear relations between the magnetic
+      fluxes through the surfaces bounded by the paths and the current linkages in
+      the paths.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permeance matrix
+  - designation: stem:[*Λ*]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-06-01T00:00:00+00:00'
+id: 5ff6c47d-26f1-5803-8f73-61d7e776688f

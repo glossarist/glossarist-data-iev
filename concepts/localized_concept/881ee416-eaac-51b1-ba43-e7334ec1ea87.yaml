@@ -1,0 +1,32 @@
+---
+data:
+  definition:
+  - content: pour un nombre complexe non nul stem:[c], nombre réel stem:[φ] de l'intervalle
+      stem:[- pi lt phi le pi] tel que stem:[c = |c| e^(rm(j) phi)]
+  examples: []
+  id: 102-02-17
+  notes:
+  - content: |-
+      L'argument stem:[arg " " c] du nombre complexe stem:[c = a + rm(j) b = |c| e^(rm(j) phi)] est égal à:
+       si stem:[b ge 0] et  si stem:[b lt 0], où stem:[0 le arccos" " x le pi]. Il n'est pas défini si stem:[a = b = 0].
+  - content: Le concept d'argument peut s'appliquer aux grandeurs scalaires complexes.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: argument
+    usage_info: d'un nombre complexe
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 881ee416-eaac-51b1-ba43-e7334ec1ea87

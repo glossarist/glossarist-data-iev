@@ -1,0 +1,41 @@
+---
+data:
+  definition:
+  - content: dispositif sur un bus
+  examples: []
+  id: 811-37-31
+  notes:
+  - content: Une adresse de dispositif est codée sur 8 bits sur le bus de train filaire,
+      les 6 bits de poids faible correspondant à l’adresse de nœud.
+  - content: Un dispositif connecté à plusieurs bus peut avoir une adresse de dispositif
+      différente pour chaque bus.
+  - content: Des dispositifs particuliers comme les répéteurs participent uniquement
+      à la couche physique et n’ont pas d’adresse de dispositif.
+  sources:
+  - origin:
+      ref: IEC 61375-2-1:2012
+      locality:
+        type: clause
+        reference_from: 3.1.43
+      original: IEC 61375-2-1:2012, 3.1.43
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adresse de dispositif
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: a49eb87d-e028-57a6-8a93-3b6ded76b6a9

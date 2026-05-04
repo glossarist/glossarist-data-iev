@@ -1,0 +1,52 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: factor by which the readings of a physical photometer can be multiplied
+      in order to correct for the error caused by differences between the relative
+      spectral responsivity of the photometer and the {{spectral luminous efficiency,
+      urn:iec:std:iec:60050-845-21-035}} for photopic vision, stem:[V](stem:[λ]),
+      that it is intended to simulate when the photometer is used to measure a source
+      having a {{relative spectral distribution, urn:iec:std:iec:60050-845-21-030}}
+      different from that of the source with which the photometer was calibrated
+  examples: []
+  id: 845-25-115
+  notes:
+  - content: Most photometers are designed to simulate the spectral luminous efficiency
+      for photopic vision, stem:[V](stem:[λ]), and are calibrated using a source corresponding
+      to {{CIE standard illuminant, urn:iec:std:iec:60050-845-23-021}} A. For such
+      a photometer, the spectral mismatch correction factor can be calculated using
+      the equation:stem:[F^(*) = frac(int_(lambda) S ( lambda ) V ( lambda ) "d" lambda)(int_(lambda)
+      S ( lambda ) s_("rel") ( lambda ) "d" lambda) frac(int_(lambda) S_("A") ( lambda
+      ) s_("rel") ( lambda ) "d" lambda)(int_(lambda) S_("A") ( lambda ) V ( lambda
+      ) "d" lambda)]where stem:[s]~rel~(stem:[λ]) is the relative spectral responsivity
+      of the photometer and stem:[S](stem:[λ]) and stem:[S]~A~(stem:[λ]) are the respective
+      relative spectral power distributions of the source to be measured and CIE standard
+      illuminant A.
+  - content: The term "colour correction factor" is no longer used.
+  - content: The term spectral mismatch correction factor can also be applied to other
+      detectors whose response is intended to simulate a particular observer function,
+      such as actinic radiometers.
+  - content: The spectral mismatch correction factor has unit one.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral mismatch correction factor
+    usage_info: for a photometer
+  - type: expression
+    normative_status: deprecated
+    designation: colour correction factor
+  - designation: stem:[F]^*^
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 18ced274-3a17-5d3d-8937-e73d5cf6add8
+classification: deprecated

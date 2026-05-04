@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2014-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2014-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{home network, urn:iec:std:iec:60050-732-10-01}} together with all
+      the devices attached to it, including the rules for {{control, urn:iec:std:iec:60050-351-42-19}},
+      for {{communication, urn:iec:std:iec:60050-701-01-04}} and for management among
+      application processes"
+  examples: []
+  id: 732-10-02
+  notes: []
+  sources:
+  - origin:
+      ref: IEC Guide 110:1996
+      locality:
+        type: clause
+        reference_from: '2.2'
+      original: IEC Guide 110:1996, 2.2
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: home control system
+  language_code: eng
+  entry_status: valid
+  review_date: '2014-01-01T00:00:00+00:00'
+  review_decision_date: '2014-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2014-01-01T00:00:00+00:00'
+id: 150eef46-dc8e-59bf-849a-d885d866d527

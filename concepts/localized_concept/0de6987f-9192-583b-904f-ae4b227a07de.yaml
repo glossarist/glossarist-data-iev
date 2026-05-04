@@ -1,0 +1,45 @@
+---
+data:
+  definition:
+  - content: chacune des stem:[n] grandeurs scalaires stem:[Q_(1) ", " Q_(2) ", "
+      ... ", " Q_(n)] dans la représentation d'une grandeur vectorielle *stem:[Q]*
+      comme la combinaison linéaire stem:[Q_(1) a_(1) + Q_(2) a_(2) + ... + Q_(n)
+      a_(n)] des vecteurs de base stem:[a_(1) ", " a_(2) ", " ... ", " a_(n)]
+  examples: []
+  id: 102-03-22
+  notes:
+  - content: Au lieu de traiter chaque coordonnée comme une grandeur (c'est-à-dire
+      la produit de sa valeur numérique par l'unité de mesure), on peut exprimer la
+      grandeur vectorielle *stem:[Q]* comme le produit d'un vecteur de valeurs numériques
+      par l'unité:stem:[Q = {Q_(1)} " " &amp;lsqb; Q &amp;rsqb; " " e_(1) + {Q_(2)}
+      " " &amp;lsqb; Q &amp;rsqb; " " e_(2) + {Q_(3)} " " &amp;lsqb; Q &amp;rsqb;
+      " " e_(3) = ({Q_(1)} " " e_(1) + {Q_(2)} " " e_(2) + {Q_(3)} " " e_(3)) " "
+      &amp;lsqb; Q &amp;rsqb;] où stem:[{Q_(1)} , " " {Q_(2)} , " " {Q_(3)}] sont
+      des valeurs numériques, stem:[&amp;lsqb; Q &amp;rsqb;] est l'unité et stem:[e_(1)
+      ", " e_(2) ", " e_(3) " "] sont les vecteurs unitaires. Les grandeurs tensorielles
+      peuvent être traitées de manière analogue.
+  - content: Les composantes d'une grandeur vectorielle sont transformées par un changement
+      de coordonnées de la même manière que les coordonnées d'un rayon vecteur.
+  - content: Le terme «coordonnée» est généralement employé lorsque la grandeur vectorielle
+      est un rayon vecteur. Cet usage est compatible avec la définition des coordonnées
+      d'un vecteur en mathématiques ({{IEV 102-03-09, urn:iec:std:iec:60050-102-03-09}}).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: composante
+    usage_info: d'une grandeur vectorielle
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 0de6987f-9192-583b-904f-ae4b227a07de

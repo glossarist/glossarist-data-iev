@@ -1,0 +1,58 @@
+---
+data:
+  definition:
+  - content: énergie des ondes électromagnétiques pondérées par l'{{efficacité lumineuse
+      relative spectrale, urn:iec:std:iec:60050-845-21-035}}, multipliée par l'efficacité
+      lumineuse maximale d'une condition photométrique spécifiée
+  examples: []
+  id: 845-21-037
+  notes:
+  - content: L'énergie lumineuse pour la vision photopique est exprimée parstem:[Q_("v")
+      = K_("m") int_(0)^(oo) Q_("e" "," lambda) ( lambda ) " " V ( lambda ) " " "d"
+      lambda]où stem:[Q]~e,stem:[λ]~(stem:[λ]) est l'énergie rayonnante spectrale
+      à la longueur d'onde stem:[λ], stem:[V](stem:[λ]) est l'efficacité lumineuse
+      spectrale, et stem:[K]~m~ est l'efficacité lumineuse maximale.
+  - content: Le terme "quantité de lumière" n'est plus usité.
+  - content: L'énergie lumineuse peut être émise, transférée ou reçue.
+  - content: L'énergie lumineuse peut être exprimée par l'intégrale par rapport au
+      temps du flux lumineux, stem:[Φ]~v~, pendant une durée donnée, Δstem:[t]:stem:[Q_("v")
+      = int_(Delta t) Phi_("v") " " "d" t]
+  - content: La grandeur radiométrique correspondante est l'"énergie rayonnante".
+      La grandeur correspondante pour les photons est l'"énergie photonique".
+  - content: L'énergie lumineuse est exprimée en lumen seconde (lm&middot;s) ou lumen
+      heure (lm&middot;h).
+  - content: Cet article était numéroté 845-01-28 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: énergie lumineuse
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: quantité de lumière
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 74480ef2-7fa7-5bdc-9b04-1b12cdc10fe6
+classification: deprecated

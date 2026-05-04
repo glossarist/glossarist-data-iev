@@ -1,0 +1,37 @@
+---
+data:
+  definition:
+  - content: 'grandeur stem:[Q] qui peut être représentée comme le produit d''un tenseur
+      du deuxième ordre stem:[T] par une grandeur scalaire stem:[q]: stem:[Q = q T]'
+  examples: []
+  id: 102-03-40
+  notes:
+  - content: Une grandeur tensorielle décrit souvent une transformation linéaire d'une
+      grandeur vectorielle *stem:[U]* en une grandeur vectorielle *stem:[V]*stem:[V_(i)
+      = sum_(j) Q_(i j) U_(j)]
+  - content: La représentation des grandeurs tensorielles en fonction de leurs composantes
+      est analogue à celle des grandeurs vectorielles (voir la Note 1 à l’article
+      dans {{IEV 102-03-22, urn:iec:std:iec:60050-102-03-22}}). Des exemples de grandeurs
+      tensorielles sont la permittivité et la perméabilité dans les milieux anisotropes
+      (voir IEC 60050-121).
+  - content: Les opérations définies pour les tenseurs s'appliquent aux grandeurs
+      tensorielles.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur tensorielle
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: a39c3a50-ac3e-52b0-8767-a3a9fe55bf3e

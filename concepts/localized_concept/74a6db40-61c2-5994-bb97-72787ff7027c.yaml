@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2016-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: process in which a {{signal, urn:iec:std:iec:60050-701-01-02}} is sampled
+      and the difference between each {{sample, urn:iec:std:iec:60050-702-04-06}}
+      and its predicted value derived from the succession of previous samples or quantized
+      values is {{quantized, urn:iec:std:iec:60050-351-41-13}}, and the resulting
+      succession of quantized values is converted by {{encoding, urn:iec:std:iec:60050-702-05-13}}
+      into a {{digital signal, urn:iec:std:iec:60050-702-04-05}}
+  examples: []
+  id: 702-06-60
+  notes:
+  - content: Differential pulse code modulation is an example of {{differential coding,
+      urn:iec:std:iec:60050-723-10-47}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: differential pulse code modulation
+  - type: expression
+    normative_status: preferred
+    designation: DPCM
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 702-06-60
+      version: 1992-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-12-01T00:00:00+00:00'
+id: 74a6db40-61c2-5994-bb97-72787ff7027c
+classification: preferred

@@ -1,0 +1,51 @@
+---
+data:
+  dates:
+  - date: '2018-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: microscope that uses a {{probe, urn:iec:std:iec:60050-313-09-11}} with
+      a tip of atomic scale and scans it in a {{raster, urn:iec:std:iec:60050-531-14-20}}
+      pattern close to the specimen for measuring physical quantities between the
+      probe and the surface to obtain an image
+  examples: []
+  id: 523-07-01
+  notes:
+  - content: By approaching a sharply pointed probe tip to the surface of the specimen,
+      various physical forces that work between the probe and the specimen can be
+      measured at the resolution of an atomic scale. In general, the probe is moved
+      over the surface of the specimen in a raster pattern while maintaining the measured
+      physical quantity at a constant value, and the {{displacement, urn:iec:std:iec:60050-113-01-29}}
+      of the probe in so doing is used as the data for drawing a fine image of the
+      specimen. This is the common principle of different types of scanning probe
+      microscope, i.e. the scanning tunnel microscope, {{atomic force microscope,
+      urn:iec:std:iec:60050-523-07-02}}, electrostatic force microscope, scanning
+      ion microscope, scanning magnetic field microscope, scanning temperature microscope,
+      and scanning friction force microscope.
+  - content: This note applies to the French language only.
+  sources:
+  - origin:
+      ref: IEC 62047-1:2016
+      locality:
+        type: clause
+        reference_from: 2.7.1
+      original: IEC 62047-1:2016, 2.7.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scanning probe microscope
+  - type: expression
+    normative_status: preferred
+    designation: SPM
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-12-01T00:00:00+00:00'
+id: 44532e19-45d2-5883-9980-ce0a190f127e
+classification: preferred

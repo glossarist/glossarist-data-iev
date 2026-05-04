@@ -1,0 +1,27 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: transformation of {{data, urn:iec:std:iec:60050-171-01-02}} in order
+      to hide their semantic content using {{cryptography, urn:iec:std:iec:60050-171-08-08}}
+  examples: []
+  id: 171-08-09
+  notes:
+  - content: The reverse process is called {{decryption, urn:iec:std:iec:60050-171-08-10}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: encryption
+  - type: expression
+    designation: encipherment
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 84a9def3-0ecd-574b-b8c3-1dc8462500e8

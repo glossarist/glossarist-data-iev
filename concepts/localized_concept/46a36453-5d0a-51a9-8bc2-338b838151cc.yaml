@@ -1,0 +1,53 @@
+---
+data:
+  dates:
+  - date: '2019-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: value of the current corresponding to the intersection between the total
+      time–current characteristic of the protective device on the load side and the
+      pre-arcing (for fuses) or tripping (for circuit-breakers) time–current characteristic
+      of the other protective device
+  examples: []
+  id: 442-05-60
+  notes:
+  - content: The selectivity-limit current is a limiting value of current:* below
+      which, in the presence of two overcurrent protective devices in series, the
+      protective device on the load side completes its breaking operation in time
+      to prevent the other protective device from starting its operation (i.e. selectivity
+      is ensured);* above which, in the presence of two overcurrent protective devices
+      in series, the protective device on the load side could not complete its breaking
+      operation in time to prevent the other protective device from starting its operation
+      (i.e. selectivity is not ensured).
+  - content: "{{stem:[I]^2^stem:[t] characteristics, urn:iec:std:iec:60050-442-05-59}}
+      can be used instead of time–current characteristics."
+  sources:
+  - origin:
+      ref: IEC 62873-2:2016
+      locality:
+        type: clause
+        reference_from: 3.6.1
+      original: IEC 62873-2:2016, 3.6.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: selectivity-limit current
+  - designation: stem:[I]~s~
+    international: true
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 442-05-60
+      version: 1998-11
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-05-01T00:00:00+00:00'
+  review_decision_date: '2019-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-05-01T00:00:00+00:00'
+id: 46a36453-5d0a-51a9-8bc2-338b838151cc

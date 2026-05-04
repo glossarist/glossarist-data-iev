@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2016-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: frequency of an electromagnetic disturbance causing an unintended response
+      from a given equipment
+  examples: []
+  id: 161-06-06
+  notes:
+  - content: "In the case of a receiver tuned to frequency stem:[f]~0~, many spurious
+      frequencies stem:[f]~s~ can be found from the following formulae:\r\nstem:[f_(\"s\")
+      = frac(1)(m) (n f_(\"L\") pm f_(\"I\"))]\r\nor\n\nstem:[f_(\"s\") = frac(f_(0))(h)]\r\nwhere
+      \r\nstem:[f]~L~ is the local oscillator frequency,\n\nstem:[f]~I~ is the intermediate
+      frequency,\n\nstem:[m], stem:[n], and stem:[h] are integers."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spurious frequency
+  - designation: stem:[f]~s~
+    international: true
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 161-06-06
+      version: 1990-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-07-01T00:00:00+00:00'
+  review_decision_date: '2016-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-07-01T00:00:00+00:00'
+id: be5ebc9b-cea1-59c7-bcfb-dccda0887d6e

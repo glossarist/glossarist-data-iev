@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2017-11-20T00:00:00+00:00'
+    type: accepted
+  - date: '2017-11-20T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: automation level of train operation, in which urban guided transport
+      (UGT) can be operated, resulting from sharing responsibility for given basic
+      functions of train operation between the operations staff and the urban guided
+      transport management and command/control system (UGTMS)
+  examples: []
+  id: 821-01-58
+  notes:
+  - content: 'The following grades of automation are defined: GOA0 on-sight train
+      operation ({{IEV 821-09-12, urn:iec:std:iec:60050-821-09-12}}); GOA1 non-automated
+      train operation ({{IEV 821-09-11, urn:iec:std:iec:60050-821-09-11}}); GOA2 semi-automated
+      train operation ({{IEV 821-09-13, urn:iec:std:iec:60050-821-09-13}}); GOA3 driverless
+      train operation ({{IEV 821-09-10, urn:iec:std:iec:60050-821-09-10}}); GOA4 unattended
+      train operation ({{IEV 821-09-14, urn:iec:std:iec:60050-821-09-14}}).'
+  sources:
+  - origin:
+      ref: IEC 62290-1:2014
+      locality:
+        type: clause
+        reference_from: 3.1.12
+      original: IEC 62290-1:2014, 3.1.12, modified
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grade of automation
+  - type: expression
+    designation: GOA
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-11-20T00:00:00+00:00'
+  review_decision_date: '2017-11-20T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-11-20T00:00:00+00:00'
+id: 79b9c868-ec54-5f9e-8fca-8c539653f491

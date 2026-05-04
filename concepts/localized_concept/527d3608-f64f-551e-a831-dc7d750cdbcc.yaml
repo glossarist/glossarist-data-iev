@@ -1,0 +1,50 @@
+---
+data:
+  definition:
+  - content: fonction qui représente l'efficacité spectrale relative du {{rayonnement
+      optique, urn:iec:std:iec:60050-845-21-002}}, pour un effet biologique spécifié,
+      dans un système spécifié
+  examples: []
+  id: 845-26-027
+  notes:
+  - content: Le spectre d'action normalisé est la dépendance aux longueurs d'onde
+      de l'inverse de la dose de {{radiation monochromatique, urn:iec:std:iec:60050-845-21-014}}
+      exigée pour provoquer une certaine réaction (biologique); le spectre d'action
+      est couramment normalisé selon une valeur 1 à la longueur d'onde d'"action maximale",
+      c'est-à-dire lorsque la plus petite dose est suffisante pour provoquer l'effet
+      exigé.
+  - content: Cet article était numéroté 845-06-14 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectre d'action
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: fonction de pondération spectrale
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 527d3608-f64f-551e-a831-dc7d750cdbcc
+classification: admitted

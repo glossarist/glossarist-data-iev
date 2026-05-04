@@ -1,0 +1,35 @@
+---
+data:
+  definition:
+  - content: flux lumineux quittant la LED et se propageant dans un angle conique
+      donné, stem:[α], (centré par rapport à l'axe mécanique de la LED) qui est déterminé
+      par une ouverture circulaire d'un diamètre de 50 mm et la distance mesurée par
+      rapport au sommet de la LED
+  examples: []
+  id: 845-21-112
+  notes:
+  - content: Une méthode de mesure détaillée est donnée dans la norme CIE 127, _Measurement
+      of LEDs_.
+  - content: Le flux LED partiel est une grandeur qui s'applique uniquement à une
+      seule LED et qu'il convient de ne pas confondre avec le terme "{{flux lumineux
+      partiel, urn:iec:std:iec:60050-845-21-110}}".
+  - content: Le flux LED partiel est exprimé en lumen (lm).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flux LED partiel
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 888301e6-6a35-5489-9524-2baeaa90ec62

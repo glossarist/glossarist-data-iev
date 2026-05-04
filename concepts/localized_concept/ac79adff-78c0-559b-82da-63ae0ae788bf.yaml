@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{probability, urn:iec:std:iec:60050-103-08-02}} that a {{data element,
+      urn:iec:std:iec:60050-171-02-01}} is incorrectly received"
+  examples:
+  - content: Error probability for binary digits or bit error probability, stem:[P]~b~
+      or stem:[P]~bit~; block error probability, stem:[P]~bl~.
+  id: 171-06-08
+  notes:
+  - content: The measured value is designated as "{{error ratio, urn:iec:std:iec:60050-702-07-39}}",
+      whereas "error rate" is deprecated; for example, {{bit error ratio, urn:iec:std:iec:60050-704-18-04}}
+      (BER); {{block error ratio, urn:iec:std:iec:60050-721-08-13}}.
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-20
+      original: IEC 80000-13:2008, 13-20, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error probability
+  - designation: stem:[P]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: ac79adff-78c0-559b-82da-63ae0ae788bf

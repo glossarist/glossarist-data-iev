@@ -1,0 +1,46 @@
+---
+data:
+  definition:
+  - content: densité du flux lumineux par rapport à l'angle solide dans une direction
+      spécifiéestem:[I_("v") = frac("d" Phi_("v"))("d" Omega)]où stem:[Φ]~v~ est le
+      flux lumineux émis dans une direction spécifiée, et stem:[Ω] est l'angle solide
+      contenant cette direction
+  examples: []
+  id: 845-21-045
+  notes:
+  - content: Pour l'application pratique de la grandeur, la source est calculée de
+      manière approchée par une {{source ponctuelle, urn:iec:std:iec:60050-845-21-033}}.
+  - content: La répartition des intensités lumineuses en fonction de la direction
+      d'émission, par exemple, donnée par les angles polaires (stem:[ϑ], stem:[φ]),
+      permet de déterminer le flux lumineux, stem:[Φ]~v~, dans un certain angle solide,
+      stem:[Ω], d'une source:stem:[Phi_("v") = "P{iint}"_(Omega) I_("v") (vartheta
+      , phi) "sin" vartheta " d" phi " d" vartheta].
+  - content: L'intensité lumineuse peut être dérivée de la répartition de l'intensité
+      énergétique spectrale parstem:[I_("v") = \  K_("m") int_(0)^(oo) I_("e" ","
+      lambda) ( lambda ) V ( lambda ) " " "d" lambda]où stem:[K]~m~ est l'efficacité
+      lumineuse maximale, stem:[I]~e,stem:[λ]~(stem:[λ]) est l'intensité énergétique
+      spectrale à la longueur d'onde stem:[λ], et stem:[V](stem:[λ]) est l'{{efficacité
+      lumineuse spectrale, urn:iec:std:iec:60050-845-21-035}}.
+  - content: La grandeur radiométrique correspondante est l'"intensité énergétique".
+      La grandeur correspondante pour les photons est l'"intensité photonique".
+  - content: L'intensité lumineuse est exprimée en candela (cd = lm·sr^−1^).
+  - content: Cet article était numéroté 845-01-31 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intensité lumineuse
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 0ddc3042-d6cd-5929-9abd-5c2ab4854119

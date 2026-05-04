@@ -1,0 +1,50 @@
+---
+data:
+  dates:
+  - date: '2011-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: pour un corps et un axe spécifié, grandeur scalaire égale à l’intégrale
+      stem:[J] = ∫~D~ stem:[R]^2^ dstem:[m] = ∫~D~ stem:[R]^2^ stem:[ρ] dstem:[V],
+      où stem:[ρ] est la masse volumique d'un domaine D de masse dstem:[m] et de volume
+      dstem:[V] quasi-infinitésimaux, et où stem:[R] est la distance entre le domaine
+      et l'axe
+  examples: []
+  id: 113-03-21
+  notes:
+  - content: Pour un point matériel, le moment d'inertie est égal au produit de sa
+      masse stem:[m] par le carré de sa distance stem:[R] à l'axe, soit stem:[J] = stem:[mR]^2^.
+      Pour un système de particules, il est égal à la somme de leurs moments d'inertie.
+  - content: En physique non relativiste, le moment d'inertie est une grandeur additive.
+  - content: Plus généralement, le moment d'inertie peut être défini pour un corps
+      rigide par une grandeur tensorielle stem:[vec(vec(J))], où stem:[J]~stem:[xx]~ = −∫(stem:[y]^2^ + stem:[z]^2^)
+      dstem:[m], cycl., cycl. et stem:[J]~stem:[yz]~ = −∫ stem:[yz] dstem:[m], cycl.
+      cycl.
+  - content: Le moment d'inertie ne doit pas être confondu avec les moments quadratiques
+      axial et polaire d'une aire plane.
+  - content: L'unité SI cohérente de moment d'inertie est le kilogramme mètre carré,
+      kg·m^2^.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: moment d’inertie
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-04-01T00:00:00+00:00'
+id: cfa09430-c6a7-5056-b0c7-3edb40418710

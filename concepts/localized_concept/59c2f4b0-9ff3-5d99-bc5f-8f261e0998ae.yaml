@@ -1,0 +1,44 @@
+---
+data:
+  definition:
+  - content: "{{entropie conditionnelle, urn:iec:std:iec:60050-171-07-23}} d'un ensemble
+      déterminé stem:[X] de messages émis par une source de messages lorsque l'on
+      connaît un ensemble déterminé stem:[Y] de messages reçus par un collecteur de
+      messages relié à la source par un canal déterminéNote 1 à l’article: L'équivoque
+      est la moyenne par message de la {{quantité d'information, urn:iec:std:iec:60050-171-07-14}}
+      supplémentaire qui doit être fournie à la source de messages pour corriger les
+      messages reçus après leur altération par un canal affecté de bruit."
+  examples: []
+  id: 171-07-24
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-33
+      original: IEC 80000-13:2008, 13-33, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+    status: modified
+    type: authoritative
+    modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+      aux règles de l’IEV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: équivoque
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 59c2f4b0-9ff3-5d99-bc5f-8f261e0998ae

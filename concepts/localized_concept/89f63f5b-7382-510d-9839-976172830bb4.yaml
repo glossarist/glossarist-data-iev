@@ -1,0 +1,39 @@
+---
+data:
+  definition:
+  - content: pont MAC tel que défini dans l’IEEE 802.1D
+  examples: []
+  id: 811-37-101
+  notes:
+  - content: MAC signifie "Contrôle d’Accès au Support" (de l’anglais Medium Access
+      Control), sous-couche au sein de la couche liaison décidant quel dispositif
+      est autorisé à émettre vers lebus.
+  sources:
+  - origin:
+      ref: IEC 61375-1:2012
+      locality:
+        type: clause
+        reference_from: 3.1.58
+      original: IEC 61375-1:2012, 3.1.58, modifié
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: commutateur
+    usage_info: dans un réseau embarqué de train
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 89f63f5b-7382-510d-9839-976172830bb4

@@ -1,0 +1,57 @@
+---
+data:
+  definition:
+  - content: "{{état stable, urn:iec:std:iec:60050-692-02-02}} dans lequel certains
+      éléments de réseau fonctionnent au-delà de leurs caractéristiques assignées,
+      ou dans lequel les tensions de certains jeux de barres ou la fréquence du réseau
+      sont hors des plages de tolérancesimage::/assets/images/parts/692/692-fig2-fr.png[Figure
+      2 - États d’un réseau d’énergie électrique]image::/assets/images/parts/692/692-fig3-fr.png[]"
+  examples: []
+  id: 692-02-06
+  notes:
+  - content: 'Les flèches indiquent les transitions d’état les plus importantes induites
+      par des événements plausibles. Les transitions de récupération, dans les directions
+      opposées, résultent des interventions des opérateurs.*Figure 3 – Exemples de
+      transitions internes aux états d’un réseau d’énergie électrique*image::/assets/images/parts/692/692-fig6-fr.png[Figure
+      6 - Exemples d’états d’un réseau d’énergie électrique et de la situation de
+      fonctionnement correspondante]Note 1 à l’article: Un état d’urgence exige des
+      actions urgentes (telles que délestage de charge, réduction de tension et démarrage
+      de générateurs de secours) pour éviter un endommagement des matériels ou une
+      dégradation supplémentaire de l''état du système. Note 2 à l’article: La {{perte
+      de charge, urn:iec:std:iec:60050-692-01-16}}, bien qu’elle puisse se produire,
+      n’est pas un critère pour un état d’urgence. Note 3 à l’article: Cet article
+      portait le numéro 191-22-05 dans l’IEC 60050-191:1990.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: état d’urgence
+    usage_info: d’un réseau d’énergie électrique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: état inadéquat
+    usage_info: d’un réseau d’énergie électrique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 2373c335-78ca-5abd-ab80-ef5dc89a34f9

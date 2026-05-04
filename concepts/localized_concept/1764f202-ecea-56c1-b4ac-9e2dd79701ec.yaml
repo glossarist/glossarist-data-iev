@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '2013-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: potential source of {{harm, urn:iec:std:iec:60050-903-01-01}}
+  examples: []
+  id: 903-01-02
+  notes:
+  - content: In English, the term “hazard” can be qualified in order to define the
+      origin of the hazard or the nature of the expected harm (e.g. “electric shock
+      hazard”, “crushing hazard”, “cutting hazard”, “toxic hazard”, “fire hazard”,
+      “drowning hazard”).
+  - content: In French, the synonym “risque” is used together with a qualifier or
+      a complement to define the origin of the hazard or the nature of the expected
+      harm (e.g. “risque de choc électrique”, “risque d'écrasement”, “risque de coupure”,
+      “risque toxique”, “risque d'incendie”, “risque de noyade”).
+  - content: In French, the term “risque” also denotes the combination of the probability
+      of occurrence of harm and the severity of that harm, in English “risk” (see
+      {{903-01-07, urn:iec:std:iec:60050-903-01-07}}).
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 51:1999
+      locality:
+        type: clause
+        reference_from: '3.5'
+      original: ISO/IEC Guide 51:1999, definition 3.5, modified – The information
+        in the note has been enlarged to clarify the use of the terms “hazard” in
+        English and “risque” in French.
+    status: modified
+    type: authoritative
+    modification: The information in the note has been enlarged to clarify the use
+      of the terms “hazard” in English and “risque” in French.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hazard
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-06-01T00:00:00+00:00'
+  review_decision_date: '2013-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-06-01T00:00:00+00:00'
+id: 1764f202-ecea-56c1-b4ac-9e2dd79701ec

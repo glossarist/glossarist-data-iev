@@ -1,0 +1,61 @@
+---
+data:
+  definition:
+  - content: relation stem:[f] telle que, pour toute entité stem:[a], il y a exactement
+      une entité stem:[b] à laquelle stem:[a] est reliée par stem:[f]
+  examples: []
+  id: 102-01-10
+  notes:
+  - content: 'Si stem:[a] est reliée à stem:[b] par la fonction stem:[f]: * on dit
+      que f est définie pour a,* a est un argument de la fonction f, * b est une valeur
+      de la fonction f, généralement notée f(a). L’argument peut être une entité élémentaire,
+      telle qu’un nombre, ou un ensemble ordonné d’entités élémentaires, et de même
+      pour la valeur.'
+  - content: 'Si stem:[A] est l''ensemble de tous les arguments de la fonction stem:[f]
+      et stem:[B] est un ensemble contenant toutes les valeurs: * on dit que f est
+      une application de A dans B,* A est le domaine de définition ou domaine de la
+      fonction, * B est le domaine but ou codomaine de la fonction.'
+  - content: Le terme «fonction» peut être qualifié selon la nature de la valeur,
+      par exemple fonction réelle, fonction complexe, fonction vectorielle, ou selon
+      la nature de la relation, par exemple, fonction algébrique, fonction trigonométrique,
+      fonction hyperbolique.
+  - content: Le terme «opération» est employé dans le langage courant pour des fonctions
+      élémentaires telles que addition, soustraction, multiplication, division, ainsi
+      que pour des fonctions logiques.
+  - content: Le terme «opération» a d’autres sens en {{IEV 151-11-28, urn:iec:std:iec:60050-151-11-28}}
+      et {{IEV 151-11-30, urn:iec:std:iec:60050-151-11-30}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fonction
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: opération
+    usage_info: mathématiques
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 03ba4d00-bf3f-52dc-bb0e-2ab33013adb5
+classification: preferred

@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: file format and encoding used to store transforms that relate one colour
+      encoding with another, in a form defined by the International Color Consortium
+      (ICC)
+  examples: []
+  id: 845-32-048
+  notes:
+  - content: For example, the ICC file format can be used to store the transforms
+      used to convert device colour image data to colorimetrically equivalent colour
+      image data, encoded in one of the ICC profile connection colour spaces, as part
+      of a colour management system. The ICC file format specifies a number of transforms
+      to be in each ICC profile file.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ICC file format
+  - type: expression
+    designation: ICC profile format
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: a9ca3ee9-a60f-5617-a554-54d010815aca

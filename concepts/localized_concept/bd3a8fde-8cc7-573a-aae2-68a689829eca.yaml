@@ -1,0 +1,27 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: part of a {{processor, urn:iec:std:iec:60050-171-04-01}} that retrieves
+      {{instructions, urn:iec:std:iec:60050-171-05-08}} from the {{main storage, urn:iec:std:iec:60050-171-04-21}},
+      {{interprets, urn:iec:std:iec:60050-171-05-28}} each instruction, and applies
+      signals to the {{arithmetic and logic unit, urn:iec:std:iec:60050-171-04-03}}
+      and other parts of the processor in accordance with this interpretation
+  examples: []
+  id: 171-04-02
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instruction control unit
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: bd3a8fde-8cc7-573a-aae2-68a689829eca

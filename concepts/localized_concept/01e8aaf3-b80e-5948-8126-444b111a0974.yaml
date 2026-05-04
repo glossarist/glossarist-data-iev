@@ -1,0 +1,48 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quantitative measure of {{information, urn:iec:std:iec:60050-171-07-03}}
+      about the occurrence of an event stem:[x] of definite probability stem:[p](stem:[x]),
+      equal to the logarithm of the reciprocal of this probability stem:[I ( x ) =
+      log frac(1)(p ( x )) = - log p ( x )]
+  examples:
+  - content: 'Let stem:[{a , b , c}] be a set of three events and let stem:[p ( a
+      ) = 0,5], stem:[p ( b ) = 0,25] and stem:[p ( c ) = 0,25] be the probabilities
+      of their occurrences. The information contents of these events are: stem:[I
+      ( a ) = lb frac(1)(0,50) Sh = 1 " " Sh], stem:[I ( b ) = lb frac(1)(0,25) Sh
+      = 2 " " Sh], stem:[I ( c ) = lb frac(1)(0,25) Sh = 2 " " Sh].'
+  id: 171-07-14
+  notes:
+  - content: For a set of equiprobable events, the information content of each event
+      is equal to the {{decision content, urn:iec:std:iec:60050-171-07-10}} of the
+      set.
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-24
+      original: IEC 80000-13:2008, 13-24, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: information content
+  - designation: stem:[I](stem:[x])
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 01e8aaf3-b80e-5948-8126-444b111a0974

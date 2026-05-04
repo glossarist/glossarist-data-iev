@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{instruction, urn:iec:std:iec:60050-171-05-08}} in a {{source language,
+      urn:iec:std:iec:60050-171-05-18}} that is to be replaced by a defined sequence
+      of instructions in the same source language"
+  examples: []
+  id: 171-05-49
+  notes:
+  - content: A macroinstruction can also specify values for parameters in the instructions
+      that are to replace it.
+  - content: Not all source languages support macroinstructions.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: macroinstruction
+  - type: expression
+    designation: macro
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 171b5475-2f6a-5e5b-a24e-7506ef4f8730

@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '1995-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '1995-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: a designated part of the information transfer capability, having specified
+      characteristics, provided at the user-network interface
+  examples: []
+  id: 716-04-02
+  notes:
+  - content: In English, the term "transmission channel" is well understood to imply
+      unidirectional working only, and then is commonly abbreviated to "channel".
+      To avoid confusion with this usage, the term "access channel", which encompasses
+      bidirectional working through the user-network interface must not be abbreviated
+      to "channel".
+  - content: An "access channel" may be qualified, for example, by H, B or D, in which
+      case it is appropriate to call it an H-channel, a B-channel or a D-channel.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 704-14-02
+      original: 704-14-02
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: access channel
+  - type: expression
+    designation: channel
+  language_code: eng
+  entry_status: valid
+  review_date: '1995-09-01T00:00:00+00:00'
+  review_decision_date: '1995-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1995-09-01T00:00:00+00:00'
+id: bf447dab-9ae3-5b9b-abd9-fc2310ec0576

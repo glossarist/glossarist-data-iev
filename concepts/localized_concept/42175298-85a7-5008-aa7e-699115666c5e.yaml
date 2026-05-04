@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '1995-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '1995-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "a complex vector stem:[vec(underline(K)) = vec(K^(prime)) + \"j\" vec(K^(dprime))]
+      which characterizes a sinusoidal electromagnetic wave relative to a point in
+      space when each of the electromagnetic field vectors can be represented, in
+      a domain of space in the neighbourhood of this point, by an expression such
+      as:\r\nstem:[vec(underline(V)_(\"i\")) = vec(underline(V)_(\"oi\")) \" \" \"e\"^(\"j\"
+      (omega t - vec(underline(K)) * vec(r)))]\n\nin which:\r\n- vectors stem:[vec(underline(V)_(\"oi\"))
+      \" \"], generally complex, are independent of time and practically constant
+      in the domain considered,\n\n- stem:[vec(underline(K))] vector is practically
+      constant in the domain considered,\n\n- stem:[ω] is the angular frequency,\n\n-
+      stem:[t] is time,\n\n- stem:[vec(r)] is the vector joining the origin of coordinates
+      to the point of interest in the domain"
+  examples: []
+  id: 705-01-28
+  notes:
+  - content: If the wave can be characterized by a wave vector at every point in a
+      domain, there exists a wavefront containing the point and orthogonal to the
+      real part stem:[vec(K^(prime))] of the wave vector. The magnitude of stem:[vec(underline(K))]
+      is 2π divided by the wavelength.
+  - content: The wave has an elliptical polarization if the imaginary part of each
+      vector stem:[vec(underline(V)_("oi")) " "] is neither zero nor collinear with
+      its real part; the wave has a linear polarization in the other cases.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wave vector
+  language_code: eng
+  entry_status: valid
+  review_date: '1995-09-01T00:00:00+00:00'
+  review_decision_date: '1995-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1995-09-01T00:00:00+00:00'
+id: 42175298-85a7-5008-aa7e-699115666c5e

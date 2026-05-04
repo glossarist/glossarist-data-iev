@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2008-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "for a resistive two-terminal element or two-terminal circuit with terminals
+      A and B, derivative of the voltage stem:[u]~AB~ &amp;lsqb;{{131-11-56, urn:iec:std:iec:60050-131-11-56}}&amp;rsqb;
+      between the terminals with respect to the electric current stem:[i] in the element
+      or circuit:\r\nstem:[R_(rm(d)) = frac(rm(d) u_(rm(AB)))(rm(d) i)]   \r\nwhere
+      the electric current is taken as positive if its direction is from A to B and
+      negative in the opposite case"
+  examples: []
+  id: 131-12-05
+  notes:
+  - content: For an ideal resistor, the differential resistance stem:[R]~d~ is equal
+      to its resistance stem:[R].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: differential resistance
+  - designation: stem:[R]~d~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-09-01T00:00:00+00:00'
+id: ce01a056-f9e7-5585-bac4-60c5073a5377

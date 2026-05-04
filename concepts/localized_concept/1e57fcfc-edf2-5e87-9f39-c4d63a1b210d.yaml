@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2018-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: lowest value of the applied {{displacement, urn:iec:std:iec:60050-113-01-29}}
+      in a {{cycle, urn:iec:std:iec:60050-103-05-08}}
+  examples: []
+  id: 523-03-05
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62047-6:2009
+      locality:
+        type: clause
+        reference_from: '3.10'
+      original: IEC 62047-6:2009, 3.10
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum displacement
+  - designation: stem:[δ]~min~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-12-01T00:00:00+00:00'
+id: 1e57fcfc-edf2-5e87-9f39-c4d63a1b210d

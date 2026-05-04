@@ -1,0 +1,50 @@
+---
+data:
+  definition:
+  - content: "{{dispositif, urn:iec:std:iec:60050-151-11-20}} mécanique qui saisit
+      des objets microscopiques\r\nNote 1 à l’article: Les micropinces ont deux rôles.
+      Elles peuvent être utilisées comme outils pour assembler des {{micromachines,
+      urn:iec:std:iec:60050-523-01-03}} ou comme les mains des microrobots, etc. Dans
+      l’un ou l’autre cas, la micropince comporte des doigts pour saisir des objets
+      et un {{actionneur, urn:iec:std:iec:60050-151-13-49}} pour les manipuler. Comparées
+      à une main de microrobot, les micropinces possèdent une grande structure, mais
+      nécessitent un dispositif de commande précis. Comme la fonction d’une micropince
+      est simplement de saisir un objet, une préhension autorisant plusieurs degrés
+      de liberté nécessite la combinaison de manipulateurs adaptés. Comparée à une
+      manipulation de type sans contact utilisant un faisceau laser, la manipulation
+      de type à contact fondée sur une micropince ou un dispositif analogue autorise
+      une meilleure commande d’orientation de l’objet. Cependant, si la taille de
+      l’objet à manipuler est inférieure à plusieurs dizaines de micromètres, les
+      forces d’attraction entre les surfaces des doigts de la micropince et l’objet
+      manipulé rendent la manipulation difficile."
+  examples: []
+  id: 523-04-15
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62047-1:2016
+      locality:
+        type: clause
+        reference_from: 2.4.23
+      original: IEC 62047-1:2016, 2.4.23
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: micropince
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: e3ff0aeb-e77a-5e99-b19d-7df1c51a2c26

@@ -1,0 +1,57 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: one of a set of linearly independent vectors, the sum of which is equal
+      to a given vector
+  examples:
+  - content: "* for a given vector    U= U 1   a 1  + U 2   a 2  +...+ U n   a n   MathType@MTEF@5@5@+=
+      feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe
+      aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe
+      WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahwfacqGH9aqpca WGvbWaaSbaaSqaaGqaaKqzGdGaa8xmaaWcbeaakiaahggadaWgaaWc
+      baqcLboacaWFXaaaleqaaOGaey4kaSIaamyvamaaBaaaleaajug4ai aa=jdaaSqabaGccaWHHbWaaSbaaSqaaKqzGdGaa8NmaaWcbeaakiab
+      gUcaRiaac6cacaGGUaGaaiOlaiabgUcaRiaadwfadaWgaaWcbaqcLb qacaWGUbaaleqaaOGaaCyyamaaBaaaleaajugabiaad6gaaSqabaaa
+      aa@5104@   , where     U 1  ,  U 2  , ...,  U n   MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaadwfadaWgaaWcba
+      acbaqcLboacaWFXaaaleqaaOGaaeilaiaaysW7caWGvbWaaSbaaSqa aKqzGdGaa8NmaaWcbeaakiaabYcacaaMe8UaaeOlaiaab6cacaqGUa
+      GaaeilaiaaysW7caWGvbWaaSbaaSqaaKqzaeGaamOBaaWcbeaaaaa@4A47@    are the coordinates
+      of U and     a 1  ,  a 2  , ...,  a n   MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahggadaWgaaWcba
+      acbaqcLboacaWFXaaaleqaaOGaaeilaiaaysW7caWHHbWaaSbaaSqa aKqzGdGaa8NmaaWcbeaakiaabYcacaaMe8UaaeOlaiaab6cacaqGUa
+      GaaeilaiaaysW7caWHHbWaaSbaaSqaaKqzaeGaamOBaaWcbeaaaaa@4A77@    are the base
+      vectors, any of the vectors     U 1   a 1  ,  U 2   a 2  , ...,  U n   a n   MathType@MTEF@5@5@+=
+      feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe
+      aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe
+      WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaadwfadaWgaaWcba acbaqcLboacaWFXaaaleqaaOGaaCyyamaaBaaaleaajug4aiaa=fda
+      aSqabaGccaqGSaGaaeiiaiaadwfadaWgaaWcbaqcLboacaWFYaaale qaaOGaaCyyamaaBaaaleaajug4aiaa=jdaaSqabaGccaqGSaGaaeii
+      aiaac6cacaGGUaGaaiOlaiaabYcacaqGGaGaamyvamaaBaaaleaaju gabiaad6gaaSqabaGccaWHHbWaaSbaaSqaaKqzaeGaamOBaaWcbeaa
+      aaa@5070@   ,* the projections of a vector normal and tangential to a surface
+      (normal component and tangential component)."
+  id: 102-03-10
+  notes:
+  - content: In English, the term "component vector" may be used if "component" is
+      used in the sense of "coordinate" (see Note 2 to entry in {{IEV 102-03-09, urn:iec:std:iec:60050-102-03-09}}).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: component
+    usage_info: of a vector
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 102-03-10
+      version: 2007-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: 82a15870-709a-59cc-ac58-616643de1dea

@@ -1,0 +1,53 @@
+---
+data:
+  definition:
+  - content: quotient de la {{répartition spectrale, urn:iec:std:iec:60050-845-21-029}}
+      énergétique due à la fluorescence à la longueur d'onde stem:[λ], par la somme
+      des valeurs tabulées de cette répartition dans la bande de fluorescence
+  examples: []
+  id: 845-21-031
+  notes:
+  - content: La fluorescence comprend à la fois des phénomènes fluorescents et phosphorescents
+      dont les constantes de temps sont suffisamment courtes pour ne pas être prises
+      en compte pour l'application.
+  - content: La répartition spectrale relative de fluorescence, stem:[F](stem:[λ]),
+      lorsqu'elle est multipliée par le rendement énergétique externe spectral de
+      l'éprouvette fluorescente, stem:[Q], pour une excitation à la longueur d'onde
+      stem:[μ], donne le facteur de luminance énergétique par luminescence bispectrale,
+      stem:[β]~L,~stem:[~λ~](stem:[μ]), d'un {{matériau photoluminescent, urn:iec:std:iec:60050-845-24-040}}
+      selon:stem:[β]~L,~stem:[~λ~](stem:[μ]) = stem:[F](stem:[λ])·stem:[Q](stem:[μ])
+  - content: L'unité de répartition spectrale relative de fluorescence est un.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: répartition spectrale relative de fluorescence
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: spectre de fluorescence relative
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 8c91603e-fa91-5b25-b983-7714645c84e8
+classification: admitted

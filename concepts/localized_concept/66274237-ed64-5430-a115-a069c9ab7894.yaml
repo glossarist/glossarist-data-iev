@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of the {{optical thickness, urn:iec:std:iec:60050-845-29-106}}
+      of the atmosphere at angle stem:[ε] to the vertical, stem:[δ](stem:[ε]), and
+      the vertical optical thickness, stem:[δ](0°), of the atmospherestem:[m = frac(delta
+      ( epsilon ))(delta ( 0 "P{degree}" ))]
+  examples: []
+  id: 845-29-109
+  notes:
+  - content: See also "{{optical thickness, urn:iec:std:iec:60050-845-29-106}}".
+  - content: Several equations are available to express this concept. Usually the
+      Kasten–Young formula is used:stem:[m = frac(1)(&amp;lsqb; "sin " gamma_("s")
+      \  + \  0, "5" 0 "5 72" (gamma_("s") \  + \  "6" ,0 "79 95")^(- "1" , "636"
+      " " "4") &amp;rsqb;)]where stem:[γ]~s~ (= 90° − stem:[ε]) is solar altitude
+      (complementary angle of zenith angle, stem:[ε]) in degree.
+  - content: When the curvature of the atmosphere and atmospheric refraction are neglected:stem:[m
+      = frac(1)(cosepsilon)].
+  - content: The relative optical air mass has unit one.
+  - content: This entry was numbered 845-09-88 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relative optical air mass
+  - designation: stem:[m]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 66274237-ed64-5430-a115-a069c9ab7894

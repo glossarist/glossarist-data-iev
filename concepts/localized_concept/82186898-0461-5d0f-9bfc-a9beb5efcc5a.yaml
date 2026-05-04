@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{group delay, urn:iec:std:iec:60050-702-02-20}} of the significant
+      {{spectral components, urn:iec:std:iec:60050-702-04-41}} of a {{signal, urn:iec:std:iec:60050-101-12-02}}
+      assuming that this delay is substantially the same for all these significant
+      components"
+  examples: []
+  id: 702-02-21
+  notes:
+  - content: The concept of envelope delay is meaningful only if the {{amplitude,
+      urn:iec:std:iec:60050-702-04-54}} of the signal is relatively undistorted by
+      the transmission medium.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: envelope delay
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 702-02-21
+      version: 1992-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: 82186898-0461-5d0f-9bfc-a9beb5efcc5a

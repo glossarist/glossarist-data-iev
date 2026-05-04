@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2011-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: maximum of the absolute value of the negative portions of the instantaneous
+      acoustic pressure waveform in an acoustic field or in a specified plane during
+      an acoustic pulse-repetition period
+  examples: []
+  id: 802-01-25
+  notes:
+  - content: Peak-rarefactional acoustic pressure is expressed as a positive number.
+  sources:
+  - origin:
+      ref: IEC 62127-1
+      locality:
+        type: clause
+        reference_from: '3.44'
+      original: definition 3.44 of IEC 62127-1 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: peak-rarefactional acoustic pressure
+  - type: expression
+    normative_status: preferred
+    designation: peak-negative acoustic pressure
+  - designation: stem:[p]~–~, stem:[p]~r~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-01-01T00:00:00+00:00'
+id: 9889dd14-2d3b-508c-9267-449e82c00b9d
+classification: preferred

@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2020-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: value that can be used to identify an {{endpoint, urn:iec:std:iec:60050-741-01-17}},
+      which can designate the originating source or destination of data &lsqb;ISO
+      14641:2018, 3.10&rsqb; being transmitted
+  examples: []
+  id: 741-01-01
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/IEC 20924:2018
+      locality:
+        type: clause
+        reference_from: 3.1.1
+      original: ISO/IEC 20924:2018, 3.1.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: address
+    usage_info: endpoint
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-04-01T00:00:00+00:00'
+  review_decision_date: '2020-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-04-01T00:00:00+00:00'
+id: affaeca1-1491-5728-a38f-b5f0880cf60b

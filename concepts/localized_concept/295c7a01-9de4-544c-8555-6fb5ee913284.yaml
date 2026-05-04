@@ -1,0 +1,55 @@
+---
+data:
+  definition:
+  - content: "{{état stable, urn:iec:std:iec:60050-692-02-02}} dans lequel un {{événement
+      plausible, urn:iec:std:iec:60050-692-01-08}} peut occasionner des {{pertes de
+      charge, urn:iec:std:iec:60050-692-01-16}}, des fonctionnements d'éléments au-delà
+      de leurs caractéristiques assignées, des tensions de jeux de barres ou la fréquence
+      du réseau hors des plages de tolérances, des {{déclenchements en cascade, urn:iec:std:iec:60050-692-03-08}}
+      ou de l’instabilitéimage::/assets/images/parts/692/692-fig2-fr.png[Figure 2
+      - États d’un réseau d’énergie électrique]image::/assets/images/parts/692/692-fig3-fr.png[]"
+  examples: []
+  id: 692-02-07
+  notes:
+  - content: 'Les flèches indiquent les transitions d’état les plus importantes induites
+      par des événements plausibles. Les transitions de récupération, dans les directions
+      opposées, résultent des interventions des opérateurs.*Figure 3 – Exemples de
+      transitions internes aux états d’un réseau d’énergie électrique*image::/assets/images/parts/692/692-fig6-fr.png[Figure
+      6 - Exemples d’états d’un réseau d’énergie électrique et de la situation de
+      fonctionnement correspondante]Note 1 à l’article: En état d’alerte, un événement
+      plausible supplémentaire peut entraîner un {{état instable, urn:iec:std:iec:60050-692-02-03}}.
+      Note 2 à l’article: Cet article portait le numéro 191-22-06 dans l’IEC 60050-191:1990.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: état d’alerte
+    usage_info: d’un réseau d’énergie électrique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: état vulnérable
+    usage_info: d’un réseau d’énergie électrique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 295c7a01-9de4-544c-8555-6fb5ee913284

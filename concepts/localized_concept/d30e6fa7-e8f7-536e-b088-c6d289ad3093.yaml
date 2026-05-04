@@ -1,0 +1,39 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: density of incident luminous flux with respect to area at a point on
+      a real or imaginary surfacestem:[E_("v") = frac("d" Phi_("v"))("d" A)]where
+      stem:[Φ]~v~ is luminous flux and stem:[A] is the area on which the luminous
+      flux is incident
+  examples: []
+  id: 845-21-060
+  notes:
+  - content: Illuminance can be derived from the spectral irradiance distribution
+      bystem:[E_("v") \  = \  K_("m") int_(0)^(oo) E_("e" "," lambda) ( lambda ) " "
+      V ( lambda ) " " "d" lambda]where stem:[K]~m~ is maximum luminous efficacy,
+      stem:[E]~e,stem:[λ]~(stem:[λ]) is the spectral irradiance at wavelength stem:[λ]
+      and stem:[V](stem:[λ]) is {{spectral luminous efficiency, urn:iec:std:iec:60050-845-21-035}}.
+  - content: The corresponding radiometric quantity is "irradiance". The corresponding
+      quantity for photons is "photon irradiance".
+  - content: The illuminance is expressed in lux (lx = lm·m^−2^).
+  - content: This entry was numbered 845-01-38 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: illuminance
+  - designation: |-
+      stem:[E]~v~
+      stem:[E]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: d30e6fa7-e8f7-536e-b088-c6d289ad3093

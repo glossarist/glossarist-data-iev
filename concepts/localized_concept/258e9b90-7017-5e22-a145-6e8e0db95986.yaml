@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a proportional plus derivative element the input and output variable
+      of which are of the same kind the duration of the time interval required by
+      the ramp response to reach twice the value that occurred immediately after the
+      ramp was applied
+  examples: []
+  id: 351-50-17
+  notes:
+  - content: "The rate time is given bystem:[T_(\"d\") \"=\" frac(K_(\"D\"))(K_(\"Ρ\"))]where<table>\r\n<tr>\n<td>\nstem:[K]~D~\n</td>\n<td>is
+      the derivative action coefficient;</td>\n</tr>\r\n<tr>\n<td>\nstem:[K]~P~\n</td>\n<td>is
+      the proportional action coefficient;</td>\n</tr>\r\n<tr>\n<td>\nstem:[T]~d~\n</td>\n<td>is
+      the rate time.</td>\n</tr>\r\n</table>"
+  - content: This entry was numbered 351-28-28 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rate time
+  - designation: stem:[T]~d~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 258e9b90-7017-5e22-a145-6e8e0db95986

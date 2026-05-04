@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2017-11-17T00:00:00+00:00'
+    type: accepted
+  - date: '2017-11-17T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: device which spontaneously sends information on a bus to a number of
+      slave devices
+  examples: []
+  id: 811-37-62
+  notes:
+  - content: The master can give a slave the right to transmit for one slave frame
+      only within a limited time.
+  sources:
+  - origin:
+      ref: IEC 61375-2-1:2012
+      locality:
+        type: clause
+        reference_from: 3.1.94
+      original: IEC 61375-2-1:2012, 3.1.94
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: master
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-11-17T00:00:00+00:00'
+  review_decision_date: '2017-11-17T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-11-17T00:00:00+00:00'
+id: 8c2ee3db-fe82-5bd6-a5d6-9f1a0db4f9c1

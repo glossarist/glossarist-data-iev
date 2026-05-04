@@ -1,0 +1,58 @@
+---
+data:
+  dates:
+  - date: '1998-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: système d'équations reliant les quatre grandeurs vectorielles qui déterminent
+      le champ électromagnétique dans un milieu matériel ou dans le vide et les deux
+      grandeurs densité de courant électrique et charge électrique volumique
+  examples: []
+  id: 121-11-62
+  notes:
+  - content: "Les équations de Maxwell, sous leur forme différentielle, sont:\n\nstem:[mathbf(rot)
+      \" \" E = - \" \" frac(del \" \" B)(del \" \" t)]\n\nstem:[\"div\" \" \" \" \"
+      D = rho]\n\nstem:[mathbf(rot) \" \" H = J + \" \" frac(del \" \" D)(del \" \"
+      t)]\n\nstem:[\"div\" \" \" \" \" B = 0]\r\noù *rot* et div désignent respectivement
+      le rotationnel et la divergence, stem:[*E*] , stem:[*D*] , stem:[*H*]  et stem:[*B*]
+      \ sont les quatre grandeurs vectorielles déterminant le champ électromagnétique,
+      \ stem:[*J*] est la densité de courant électrique, stem:[ρ]  la charge électrique
+      volumique et stem:[t]  le temps."
+  - content: Les équations de Maxwell ne déterminent entièrement le champ électromagnétique
+      dans un milieu donné que si on leur adjoint les relations spécifiques du milieu,
+      appelées souvent relations constitutives; dans le cas d'un milieu linéaire,
+      ces relations font intervenir la permittivité, la perméabilité et la conductivité
+      du milieu.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 705-01-08
+      original: 705-01-08 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: équations de Maxwell
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-08-01T00:00:00+00:00'
+id: 8e5f4a32-f494-588c-95ee-9505eb54bf51

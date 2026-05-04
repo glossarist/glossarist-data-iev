@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '2009-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2009-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a real or complex function stem:[f](stem:[t]) of the real variable
+      stem:[t], complex function stem:[F](stem:[s]) of a complex variable stem:[s],
+      given by the integral transformation  stem:[F ( s ) = int_(" " 0)^(" " + oo)
+      f ( t ) rm(e)^(- s " " t) rm(d) t]
+  examples: []
+  id: 103-04-05
+  notes:
+  - content: If stem:[t] is time, the variable stem:[s] represents complex angular
+      frequency.
+  - content: The Laplace transform of the function stem:[f] is also denoted Lstem:[f]
+      or ℒstem:[f].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Laplace transform
+  language_code: eng
+  entry_status: valid
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2009-12-01T00:00:00+00:00'
+id: e625f9e1-9575-5562-b0af-ddb67eb7407d

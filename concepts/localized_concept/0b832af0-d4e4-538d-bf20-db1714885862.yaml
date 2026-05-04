@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{binary prefix, urn:iec:std:iec:60050-112-01-27}} used to form the
+      multiple 2^60^ of a measurement unit"
+  examples:
+  - content: One exbibit = 1 Eibit = (1 024)^6^ bit.
+  id: 171-02-19
+  notes:
+  - content: The prefix exbi has for origin exabinary, (2^10^)^6^, derived from the
+      SI prefix exa, (10^3^)^6^.
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: '4'
+      original: IEC 80000-13:2008, 4, modified – Addition of information useful for
+        the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exbi
+  - designation: Ei
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 0b832af0-d4e4-538d-bf20-db1714885862

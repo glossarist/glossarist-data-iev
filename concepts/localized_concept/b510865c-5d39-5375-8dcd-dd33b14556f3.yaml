@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: linear time-invariant transfer element the transfer function of which
+      has exactly two poles with negative real parts which may be real or complex
+      conjugate and no zeros
+  examples: []
+  id: 351-50-03
+  notes:
+  - content: "The transfer function of a second-order lag element is given asstem:[frac(V
+      (s))(U (s)) = frac(K_(\"Ρ\"))((1 + T_(1) * s) * (1 + T_(2) * s))] for two real
+      polesand asstem:[frac(V (s))(U (s)) = frac(K_(\"Ρ\"))(frac(s^(2))(omega_(0)^(2))
+      + 2 * vartheta * frac(s)(omega_(0)) + 1)] for a complex conjugate pair of poleswhere<table>\r\n<tr>\n<td>\nstem:[K]~P~\n</td>\n<td>is
+      the proportional action coefficient;</td>\n</tr>\r\n<tr>\n<td>\nstem:[T]~1~,
+      stem:[T]~2~\n</td>\n<td>are the time constants;</td>\n</tr>\r\n<tr>\n<td>stem:[vartheta]</td>\n<td>is
+      the damping ratio;</td>\n</tr>\r\n<tr>\n<td>\nstem:[ω]~0~\n</td>\n<td>is the
+      characteristic angular frequency;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>is
+      the complex variable of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n<td>is
+      the input transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n<td>is
+      the output transform.</td>\n</tr>\r\n</table>"
+  - content: This entry was numbered 351-28-14 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: second-order lag element
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: b510865c-5d39-5375-8dcd-dd33b14556f3

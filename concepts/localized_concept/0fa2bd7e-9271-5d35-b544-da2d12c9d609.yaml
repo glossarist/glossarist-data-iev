@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "element of a vector *stem:[x]*(stem:[t]) in a system with the differential
+      equations<table>\r\n<tr>\n<td>stem:[overset(˙)(x) (t) = f &amp;lsqb; x (t) ,
+      \" \" \" \" u (t) &amp;rsqb;]</td>\n<td>state equation</td>\n</tr>\r\n<tr>\n<td>stem:[v
+      (t) = g &amp;lsqb; x (t) , \" \" \" \" u (t) &amp;rsqb;]</td>\n<td>output equation,</td>\n</tr>\r\n</table>and
+      for linear systems<table>\r\n<tr>\n<td>stem:[overset(˙)(x) (t) = A * x (t) +
+      B * u (t)]</td>\n<td>state equation</td>\n</tr>\r\n<tr>\n<td>stem:[v (t) = C
+      * x (t) + D * u (t)]</td>\n<td>output equation,</td>\n</tr>\r\n</table>from
+      which for known initial values of the vector elements at any given instant stem:[t]~0~
+      (often with stem:[t]~0~ = 0) and known course of the elements of the input vector
+      *stem:[u]*(stem:[t]) the course of the elements of the output vector *stem:[v]*(stem:[t])
+      may be calculated starting at stem:[t]~0~ SEE: Figure 3."
+  examples: []
+  id: 351-41-08
+  notes:
+  - content: "In case of discrete-time variables the describing equations are<table>\r\n<tr>\n<td>\n\nstem:[x]~stem:[i]+1~
+      =\n\nstem:[f] (\n\nstem:[x]~stem:[i]~,\n\nstem:[u]~stem:[i]~)</td>\n<td>state
+      equation</td>\n</tr>\r\n<tr>\n<td>\n\nstem:[v]~stem:[i]~ =\n\nstem:[g] (\n\nstem:[x]~stem:[i]~,\n\nstem:[u]~stem:[i]~)</td>\n<td>output
+      equation,</td>\n</tr>\r\n</table>and for linear systems<table>\r\n<tr>\n<td>\n\nstem:[x]~stem:[i]+1~
+      =\n\nstem:[Φ]·\n\nstem:[x]~stem:[i]~ +\n\nstem:[H]·\n\nstem:[u]~stem:[i]~\n</td>\n<td>state
+      equation</td>\n</tr>\r\n<tr>\n<td>\n\nstem:[v]~stem:[i]~ =\n\nstem:[C]·\n\nstem:[x]~stem:[i]~
+      +\n\nstem:[D]·\n\nstem:[u]~stem:[i]~\n</td>\n<td>output equation.</td>\n</tr>\r\n</table>"
+  - content: This entry was numbered 351-21-08 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: state variable
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 0fa2bd7e-9271-5d35-b544-da2d12c9d609

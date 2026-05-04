@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '2011-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: area in a specified plane perpendicular to the beam axis, consisting
+      of all points at which the pulse-pressure-squared integral is greater than a
+      specified fraction of the maximum value of the pulse-pressure-squared integral
+      in that plane
+  examples: []
+  id: 802-01-19
+  notes:
+  - content: Some commonly specified levels are 0,25 and 0,01 for the −6 dB and −20
+      dB beam areas, respectively.
+  sources:
+  - origin:
+      ref: IEC 62127-1
+      locality:
+        type: clause
+        reference_from: '3.7'
+      original: definition 3.7 of IEC 62127-1 MOD
+    status: modified
+    type: authoritative
+  - origin:
+      ref: IEC 61828
+      locality:
+        type: clause
+        reference_from: 4.2.9
+      original: adapted from 4.2.9 of IEC 61828 and 3.6 of IEC 61102
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: beam area
+  - designation: stem:[A]~b~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-01-01T00:00:00+00:00'
+id: 3263daf0-1dd1-598d-bb8e-211154b80c4a

@@ -1,0 +1,68 @@
+---
+data:
+  definition:
+  - content: état d'une image associé aux données d'images qui représentent les estimations
+      des coordonnées de l'espace chromatique des éléments d'une scène
+  examples: []
+  id: 845-32-054
+  notes:
+  - content: Lorsque l'expression "en référence à la scène" est utilisée comme qualificatif
+      d'un objet, elle implique que l'état de cet objet est un état d'image en référence
+      à la scène. Par exemple, les données d'images en référence à la scène sont des
+      données d'images dont l'état est un état en référence à la scène.
+  - content: Les données d'images en référence à la scène peuvent être déterminées
+      à partir de données d'images brutes d'un appareil photographique numérique (DSC
+      – _digital still camera_) préalablement à un rendu des couleurs. Généralement,
+      les appareils photographiques numériques ne saisissent pas de données d''images
+      en référence à la scène dans des fichiers d'images, mais certains appareils
+      peuvent toutefois le faire dans un mode particulier prévu à cet effet. Généralement,
+      les appareils DSC saisissent des données d'images normales en référence à la
+      sortie une fois le rendu des couleurs effectué.
+  - content: Les données d'images en référence à la scène représentent généralement
+      des estimations relatives de colorimétrie d'une scène. Des estimations absolues
+      de colorimétrie d'une scène peuvent être calculées au moyen d'un facteur d'échelle.
+      Le facteur d'échelle peut être déduit d'informations complémentaires telles
+      que la fonction de conversion optoélectronique (OECF), le nombre stem:[F] ou
+      la valeur d'ouverture, et les balises de valeurs de temps d'exposition et de
+      vitesse d'obturation.
+  - content: Les données d'images en référence à la scène peuvent contenir des inexactitudes
+      dues aux limites de la plage dynamique du dispositif de capture, au bruit émis
+      par diverses sources, à la quantification, au flou et à la lumière parasite
+      optiques non corrigés, ainsi qu'aux erreurs d'analyse des couleurs dues au métamérisme
+      du dispositif de capture. Dans certains cas, ces sources d'inexactitude peuvent
+      être importantes.
+  - content: La transformation de données d'images DSC brutes en données d'images
+      en référence à la scène dépend des {{blancs adoptés, urn:iec:std:iec:60050-845-32-058}}
+      relatifs choisis pour la scène et de l'espace chromatique utilisé pour le codage
+      des données d'images. Si le blanc adopté pour la scène choisie n'est pas approprié,
+      les données d'images en référence à la scène seront soumises à des erreurs supplémentaires.
+      Ces erreurs peuvent être corrigées si la transformation permettant de produire
+      les données d'images en référence à la scène est identifiée, et si la précision
+      et la plage dynamique du codage de couleur utilisé pour les données d'images
+      incorrectes en référence à la scène sont adaptées.
+  - content: La scène peut correspondre à une vue réelle du monde naturel, ou peut
+      être une scène virtuelle générée par ordinateur simulant ce type de vue. Elle
+      peut aussi correspondre à une scène modifiée déterminée par l'application de
+      modifications à une scène d'origine afin de produire une scène souhaitée quelque
+      peu différente. Il convient que ces modifications d'une scène conservent un
+      état d'image en référence à une scène et soient effectuées dans le contexte
+      d'une transformée de rendu des couleurs prévue.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: état d'une image en référence à la scène
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: b7b29f00-cb08-5ec7-8189-8f0960f86cfa

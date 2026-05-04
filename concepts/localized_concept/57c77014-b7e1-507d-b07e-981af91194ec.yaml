@@ -1,0 +1,71 @@
+---
+data:
+  dates:
+  - date: '2010-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2010-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: chaîne de caractères normalisée, qui sert à localiser une ressource de
+      l’Internet et à y accéder
+  examples: []
+  id: 732-07-07
+  notes:
+  - content: "La forme générale d’une adresse URL est la suivante (voir RFC 1738):\r\n<mode>://<utilisateur>:<motdepasse>@<hôte>:<port>/<chemin
+      URL>\r\nSelon le cas, certaines parties peuvent être omises.\r\n<mode> représente
+      le protocole d’accès, par exemple http, ftp ou news.\r\n<utilisateur>, <motdepasse>
+      et <port> sont facultatifs, et les séparateurs «:» (deux-points) et @ sont omis
+      lorsqu'ils ne sont pas nécessaires.\r\n<hôte> est une adresse IP ou un nom d'hôte
+      complet, mais est omis pour des ressources Internet locales.\r\n<port> est une
+      adresse pour des protocoles dans la couche TCP et a une valeur implicite qui
+      dépend du protocole.\r\n<chemin URL> indique l’accès à une ressource à l’intérieur
+      de l’hôte. S’il est omis, on obtient une ressource implicite.\r\nExemples d'URL
+      identifiant un site sur la Toile, un fichier ou un service:\n\n«http://www.iec.ch»
+      est l’URL du site du siège de la Commission électrotechnique internationale
+      «CEI». Dans cette URL, «ch» est le nom de domaine de premier niveau. Il est
+      à noter que cet URL contient seulement <hôte> à partir de <mode>.\n\n«http://www.iec.ch/about/mission-e.htm»
+      est l’URL de la page donnant en anglais la mission et les objectifs de la CEI.\n\n«news:comp.os.unix»
+      est l'URL d'un forum dont le nom est «comp.os.unix» et «news:XYZ123@news.iso.org»
+      pourrait être l'URL d’un article dont l'identificateur serait «XYZ123» situé
+      dans l'hôte «news.iso.org»."
+  - content: URL est le sigle du terme anglais «uniform resource locator».
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adresse universelle
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: adresse URL
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: URL
+  language_code: fra
+  entry_status: valid
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2010-06-01T00:00:00+00:00'
+id: 57c77014-b7e1-507d-b07e-981af91194ec
+classification: preferred

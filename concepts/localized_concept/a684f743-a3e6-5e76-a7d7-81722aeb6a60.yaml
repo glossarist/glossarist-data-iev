@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2001-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2001-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: impedance of the input circuit measured between the input terminals under
+      operating conditions
+  examples: []
+  id: 312-06-18
+  notes:
+  - content: The impedance can be expressed in terms of admittance.
+  - content: In certain instances, for example, sampling devices or self-balancing
+      potentiometers, the impedance can be different according to the instant when
+      it is determined, before, during or after the instant of measurement.
+  - content: When the input circuit is such that the instantaneous value of the current
+      flowing into the input terminals is a non-linear function of the instantaneous
+      value of the input voltage under specified conditions of frequency and voltage,
+      the combination of resistance and reactance which would absorb the same active
+      power and in which would flow a reactive current equal to the fundamental component
+      that is flowing in the actual input circuit, is sometimes called the "equivalent
+      input impedance".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: input impedance
+  language_code: eng
+  entry_status: valid
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2001-07-01T00:00:00+00:00'
+id: a684f743-a3e6-5e76-a7d7-81722aeb6a60

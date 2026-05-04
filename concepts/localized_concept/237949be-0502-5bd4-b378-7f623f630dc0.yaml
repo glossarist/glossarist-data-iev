@@ -1,0 +1,64 @@
+---
+data:
+  definition:
+  - content: espérance mathématique de la {{quantité d'information, urn:iec:std:iec:60050-171-07-14}}
+      des événements d'un ensemble exhaustif d'événements s'excluant mutuellement
+      stem:[H = sum_(i = 1)^(n) p ( x_(i) ) * I ( x_(i) ) = sum_(i = 1)^(n) p ( x_(i)
+      ) * log ( frac(1)(p ( x_(i) )) )] où stem:[X = {x_(1) , " " ... , " " x_(n)}]
+      est l'ensemble des événements stem:[x_(i) " " (i = 1, " " ... , " " n)], stem:[I
+      ( x_(i) )] sont leurs quantités d'information et stem:[p ( x_(i) )] leurs probabilités
+      de réalisation, avec stem:[sum_(i = 1)^(n) p ( x_(i) ) = 1]
+  examples:
+  - content: Soit stem:[{a , b , c}] un jeu de trois événements dont les probabilités
+      de réalisation sont stem:[p ( a ) = 0,5], stem:[p ( b ) = 0,25] et stem:[p (
+      c ) = 0,25]. L'entropie de ce jeu est stem:[H ( X ) = p ( a ) * I ( a ) + p
+      ( b ) * I ( b ) + p ( c ) * I ( c ) = 1,5 " " Sh].
+  id: 171-07-15
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-25
+      original: IEC 80000-13:2008, 13-25, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+    status: modified
+    type: authoritative
+    modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+      aux règles de l’IEV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entropie
+    usage_info: en théorie de l’information
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: néguentropie
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 237949be-0502-5bd4-b378-7f623f630dc0
+classification: deprecated

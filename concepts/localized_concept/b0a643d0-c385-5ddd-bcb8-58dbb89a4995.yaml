@@ -1,0 +1,31 @@
+---
+data:
+  definition:
+  - content: représentation d'une fonction réelle ou complexe stem:[f](stem:[t]) de
+      la variable réelle stem:[t] par la transformation intégrale stem:[f ( t ) =
+      frac(1)(2 pi "j") int_(" " sigma - "j" oo)^(" " sigma + "j" oo) F ( s ) "e"^(s
+      " " t) "d" s] où stem:[F ( s )] est la transformée de Laplace de la fonction
+      stem:[f](stem:[t]), stem:[σ] est supérieur ou égal à l'abscisse de convergence
+      de stem:[F ( s )] et j est l’unité imaginaire
+  examples: []
+  id: 103-04-07
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transformée inverse de Laplace
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: b0a643d0-c385-5ddd-bcb8-58dbb89a4995

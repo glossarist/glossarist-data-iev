@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2008-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "for a linear inductive stem:[m]-terminal-pair element, matrix stem:[m]
+      × stem:[m] used to express the linked fluxes stem:[Ψ]~stem:[i]~ ({{131-12-17,
+      urn:iec:std:iec:60050-131-12-17}}) between the terminals of each pair, as a
+      function of the electric currents stem:[i]~stem:[j]~ at the first terminal of
+      each pair:\r\nstem:[([Psi_(1)], [Psi_(2)], [vdots], [Psi_(i)], [vdots], [Psi_(m)])
+      = ([L_(11), L_(12), cdots, L_(1 j), cdots, L_(1 m)], [L_(21), L_(22), cdots,
+      L_(2 j), cdots, L_(2 m)], [vdots, vdots, ddots, vdots, ddots, vdots], [L_(i
+      1), L_(i 2), cdots, L_(i j), cdots, L_(i m)], [vdots, vdots, ddots, vdots, ddots,
+      vdots], [L_(m 1), L_(m 2), cdots, L_(m j), cdots, L_(m m)]) * ( [[i_(1)], [i_(2)],
+      [vdots], [i_(j)], [vdots], [i_(m)]] )]"
+  examples: []
+  id: 131-12-34
+  notes:
+  - content: An inductance matrix is always symmetric and positive definite.
+  - content: An inductance matrix can also be determined for a set of electric circuit
+      elements having inductive couplings between any pair of them.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inductance matrix
+  - designation: stem:[L]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-09-01T00:00:00+00:00'
+id: cd90192a-1628-555d-a599-3e94a6892d4c

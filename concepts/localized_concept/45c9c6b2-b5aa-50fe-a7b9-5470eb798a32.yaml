@@ -1,0 +1,49 @@
+---
+data:
+  dates:
+  - date: '2018-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{semiconductor, urn:iec:std:iec:60050-521-02-01}} {{sensor, urn:iec:std:iec:60050-151-13-48}}
+      integrating an ion-sensitive electrode with a {{field-effect transistor, urn:iec:std:iec:60050-521-04-52}}
+      (FET)"
+  examples: []
+  id: 523-04-03
+  notes:
+  - content: In the ion-sensitive electrode section, the membrane voltage changes
+      according to fluctuations in pH or carbon dioxide partial pressure in the blood,
+      for example. As the voltage amplifier, the ISFET uses a FET, a transistor controlling
+      the conductance of the current path (channels) formed by the majority carriers
+      using an {{electric field, urn:iec:std:iec:60050-121-11-67}} perpendicular to
+      the carrier flow. The ISFET is based on silicon micromachining technology integrating
+      a detector and amplifier on a silicon {{substrate, urn:iec:std:iec:60050-521-05-28}}.
+      In addition, an ISFET with mechanical {{components, urn:iec:std:iec:60050-151-11-21}}  such
+      as a valve has been developed. The ISFET is used in such fields as medical analysis
+      and environmental instrumentation.
+  - content: This note applies to the French language only.
+  sources:
+  - origin:
+      ref: IEC 62047-1:2016
+      locality:
+        type: clause
+        reference_from: 2.4.13
+      original: IEC 62047-1:2016, 2.4.13
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ISFET
+  - type: expression
+    normative_status: preferred
+    designation: ion-sensitive field-effect transistor
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-12-01T00:00:00+00:00'
+id: 45c9c6b2-b5aa-50fe-a7b9-5470eb798a32
+classification: preferred

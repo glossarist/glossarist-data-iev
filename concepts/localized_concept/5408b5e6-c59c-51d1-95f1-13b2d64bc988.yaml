@@ -1,0 +1,74 @@
+---
+data:
+  dates:
+  - date: '1998-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "constante scalaire  stem:[ε]~0~ reliant les grandeurs électriques et
+      les grandeurs mécaniques, obtenue d'après la relation\r\nstem:[F = frac(1)(4
+      pi epsilon_(0)) * frac(|Q_(1) Q_(2)|)(r^(2))]  \r\nfondée sur la loi de Coulomb
+      dans le vide, où  stem:[F] est la norme de la force s'exerçant entre deux particules
+      de charges électriques stem:[Q]~1~  et stem:[Q]~2~  respectivement, placées
+      à une distance stem:[r] l'une de l'autre"
+  examples: []
+  id: 121-11-03
+  notes:
+  - content: |-
+      Dans le vide, le produit de la constante électrique par le champ électrique *stem:[E]*  est égal à l'induction électrique *stem:[D]*:
+
+      *stem:[D]* = stem:[ε]~0~*stem:[E]*
+  - content: |-
+      La constante électrique est liée à la constante magnétique stem:[μ]~0~  et à la vitesse de la lumière dans le vide stem:[c]~0~  par la relation
+
+      stem:[ε]~0~stem:[μ]~0~stem:[c]~0~^2^ = 1
+  - content: "La valeur de la constante électrique est exactement égale à\r\nstem:[frac(10^(7))(4
+      pi xx 299 \" \" 792   \" \" 458^(2)) \"m\"^(- \" \" 3) \"kg\"^(- \" \" 1) \"s\"^(4)
+      \"A\"^(2) = 8 , 854 \" \" 187 \" \" 817 ... \" \" \"pF\" / \"m\"]"
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 705-03-01
+      original: 705-03-01 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: constante électrique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: permittivité du vide
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-08-01T00:00:00+00:00'
+id: 5408b5e6-c59c-51d1-95f1-13b2d64bc988
+classification: preferred

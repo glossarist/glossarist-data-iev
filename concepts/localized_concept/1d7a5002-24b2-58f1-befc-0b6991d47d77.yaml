@@ -1,0 +1,39 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: density of photon flux with respect to solid angle in a specified directionstem:[I_("p")
+      = frac("d" Phi_("p"))("d" Omega)]where stem:[Φ]~p~ is the photon flux emitted
+      in the given direction, and stem:[Ω] is the solid angle containing that direction
+  examples: []
+  id: 845-21-046
+  notes:
+  - content: The distribution of the photon intensities as a function of the direction
+      of emission, e.g. given by the polar angles (stem:[ϑ], stem:[φ]), is used to
+      determine the photon flux, stem:[Φ]~p~, within a certain solid angle, stem:[Ω],
+      of a source:stem:[Phi_("p") = "P{iint}"_(Omega) I_("p") (vartheta , phi) "sin"
+      vartheta " d" phi " d" vartheta].
+  - content: The corresponding radiometric quantity is "radiant intensity". The corresponding
+      photometric quantity is "luminous intensity".
+  - content: The photon intensity is expressed in second to the power minus one times
+      steradian to the power minus one (s^−1^·sr^−1^).
+  - content: This entry was numbered 845-01-32 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon intensity
+  - designation: |-
+      stem:[I]~p~
+      stem:[I]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 1d7a5002-24b2-58f1-befc-0b6991d47d77

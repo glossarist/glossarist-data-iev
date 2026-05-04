@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '2014-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2014-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: electronic device that cannot be taken apart without destruction or impairment
+      of its {{intended use, urn:iec:std:iec:60050-903-01-13}}
+  examples:
+  - content: "{{Resistors, urn:iec:std:iec:60050-151-13-19}}, {{capacitors, urn:iec:std:iec:60050-151-13-28}},
+      {{diodes, urn:iec:std:iec:60050-531-31-01}}, {{integrated circuits, urn:iec:std:iec:60050-521-10-03}},
+      hybrids, {{application specific integrated circuits, urn:iec:std:iec:60050-521-11-18}},
+      wound components and {{relays, urn:iec:std:iec:60050-151-13-31}}."
+  id: 904-01-09
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62542:2013
+      locality:
+        type: clause
+        reference_from: '3.3'
+      original: IEC 62542:2013, 3.3
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electronic component
+  - type: expression
+    normative_status: preferred
+    designation: electronic part
+  - type: expression
+    normative_status: preferred
+    designation: piece part
+  language_code: eng
+  entry_status: valid
+  review_date: '2014-11-01T00:00:00+00:00'
+  review_decision_date: '2014-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2014-11-01T00:00:00+00:00'
+id: 151b2b37-edf9-5495-a7e4-a324b4c90c55
+classification: preferred

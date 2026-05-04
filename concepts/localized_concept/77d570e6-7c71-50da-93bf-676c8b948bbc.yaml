@@ -1,0 +1,65 @@
+---
+data:
+  definition:
+  - content: "{{capteur, urn:iec:std:iec:60050-151-13-48}} à {{semiconducteurs, urn:iec:std:iec:60050-521-02-01}}
+      intégrant une électrode sensible aux ions avec un {{transistor à effet de champ,
+      urn:iec:std:iec:60050-521-04-52}} (FET, field-effect transistor)\r\nNote 1 à
+      l’article: Dans la section d’électrode sensible aux ions, la tension de la membrane
+      varie selon les fluctuations du pH ou de la pression partielle en dioxyde de
+      carbone dans le sang, par exemple. Comme l’amplificateur de tension, l’ISFET
+      utilise un FET, un transistor contrôlant la conductance du chemin de courant
+      (voies) formé par les porteurs majoritaires utilisant un {{champ électrique,
+      urn:iec:std:iec:60050-121-11-67}} perpendiculaire à la circulation de porteur.
+      L’ISFET est fondé sur la technologie du micro-usinage du silicium intégrant
+      un détecteur et un amplificateur sur un {{substrat, urn:iec:std:iec:60050-521-05-28}}
+      de silicium. De plus, un ISFET avec {{composants, urn:iec:std:iec:60050-151-11-21}}
+      mécaniques, tels qu'une vanne, a été développé. L'ISFET est utilisé dans des
+      domaines tels que l’analyse médicale et l’instrumentation environnementale.
+      \ \r\nNote 2 à l’article: Le terme abrégé \"ISFET\" est dérivé du terme anglais
+      développé correspondant \"ion-sensitive field-effect transistor\"."
+  examples: []
+  id: 523-04-03
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62047-1:2016
+      locality:
+        type: clause
+        reference_from: 2.4.13
+      original: IEC 62047-1:2016, 2.4.13
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ISFET
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: transistor à effet de champ sensible aux ions
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 77d570e6-7c71-50da-93bf-676c8b948bbc
+classification: preferred

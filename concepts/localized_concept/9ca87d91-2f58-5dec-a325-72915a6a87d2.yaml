@@ -1,0 +1,55 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: mean value of the {{information content, urn:iec:std:iec:60050-171-07-14}}
+      of the events in a finite set of mutually exclusive and jointly exhaustive events
+      stem:[H = sum_(i = 1)^(n) p ( x_(i) ) * I ( x_(i) ) = sum_(i = 1)^(n) p ( x_(i)
+      ) * log ( frac(1)(p ( x_(i) )) )] where stem:[X = {x_(1) , " " ... , " " x_(n)}]
+      is the set of events stem:[x_(i) " " (i = 1, " " ... , " " n)], stem:[I ( x_(i)
+      )] are their information contents and stem:[p ( x_(i) )] the probabilities of
+      their occurrences, subject to stem:[sum_(i = 1)^(n) p ( x_(i) ) = 1]
+  examples:
+  - content: Let stem:[{a , b , c}] be a set of three events and let stem:[p ( a )
+      = 0,5], stem:[p ( b ) = 0,25] and stem:[p ( c ) = 0,25] be the probabilities
+      of their occurrences. The entropy of this set is stem:[H ( X ) = p ( a ) * I
+      ( a ) + p ( b ) * I ( b ) + p ( c ) * I ( c ) = 1,5 " " Sh].
+  id: 171-07-15
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-25
+      original: IEC 80000-13:2008, 13-25, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entropy
+    usage_info: in information theory
+  - type: expression
+    normative_status: preferred
+    designation: average information content
+  - type: expression
+    normative_status: deprecated
+    designation: negentropy
+  - designation: stem:[H](stem:[X])
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 9ca87d91-2f58-5dec-a325-72915a6a87d2
+classification: preferred

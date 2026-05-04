@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2001-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2001-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: parameter, associated with the result of a measurement, that characterizes
+      the dispersion of the values that could reasonably be attributed to the measurand
+  examples: []
+  id: 311-01-02
+  notes:
+  - content: This term is used in the "uncertainty" approach.
+  - content: The parameter can be, for example, a standard deviation (or a given multiple
+      of it), or a half-width of an interval having a stated level of confidence.
+      Various ways of obtaining uncertainty are defined in the GUM.
+  - content: Uncertainty of measurement comprises, in general, many components. Some
+      of these components can be evaluated from the statistical distribution of the
+      results of a series of measurements and can be characterized by experimental
+      standard deviations. The other components, which can also be characterized by
+      standard deviations, are evaluated from the assumed probability distributions
+      based on experience or other information.
+  sources:
+  - origin:
+      ref: JCGM VIM
+      locality:
+        type: clause
+        reference_from: '3.9'
+      original: VIM 3.9
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uncertainty (of measurement)
+  language_code: eng
+  entry_status: valid
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2001-07-01T00:00:00+00:00'
+id: 4460d7f6-bd57-562c-9682-0b28e810915a

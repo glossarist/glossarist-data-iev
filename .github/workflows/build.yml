@@ -7,11 +7,11 @@ on:
     tags:
       - 'v*'
   pull_request:
-  workflow_dispatch
+  workflow_dispatch:
 
 jobs:
   validate:
-    name: Validate YAML files
+    name: Validate concepts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -19,30 +19,11 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: false
 
-      - name: Validate YAML syntax
-        run: |
-          gem install psych
-          ruby -e '
-            require "yaml"
-            errors = []
-            count = 0
-            Dir.glob("concepts/concept-*.yaml").each do |f|
-              count += 1
-              begin
-                YAML.safe_load_file(f, permitted_classes: [Date, Time])
-              rescue => e
-                errors << "#{f}: #{e.message}"
-              end
-            end
-            puts "Validated #{count} concept files"
-            if errors.any?
-              puts "#{errors.size} errors found:"
-              errors.each { |e| puts "  #{e}" }
-              exit 1
-            end
-          '
+      - run: gem install glossarist
+
+      - name: Validate with glossarist
+        run: glossarist validate .
 
   build-release:
     name: Build and release
@@ -62,7 +43,6 @@ jobs:
         run: zip -9 -r concepts.zip concepts/
 
       - name: Create Release
-        id: create_release
         uses: softprops/action-gh-release@v2
         with:
           files: concepts.zip

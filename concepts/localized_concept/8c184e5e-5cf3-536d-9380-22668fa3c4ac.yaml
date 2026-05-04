@@ -1,0 +1,46 @@
+---
+data:
+  definition:
+  - content: écart de la {{tension de sortie, urn:iec:std:iec:60050-485-13-03}} d'une
+      {{cellule élémentaire à combustible, urn:iec:std:iec:60050-485-08-01}} par rapport
+      à sa valeur thermodynamique à la suite de procédés irréversibles dans les composants
+      de la cellule élémentaire à combustible
+  examples: []
+  id: 485-15-01
+  notes:
+  - content: La polarisation conduit à une augmentation des pertes de {{rendement,
+      urn:iec:std:iec:60050-485-10-01}} et augmente avec le {{courant faradique, urn:iec:std:iec:60050-485-12-04}}
+      passant à travers la cellule.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: polarisation
+    usage_info: d'une pile à combustible
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: polarisation d'une pile à combustible
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 8c184e5e-5cf3-536d-9380-22668fa3c4ac

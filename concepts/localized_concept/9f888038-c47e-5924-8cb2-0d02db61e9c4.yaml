@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: the modulus of the reciprocal of the reflection factor, generally expressed
+      in decibels
+  examples: []
+  id: 702-07-25
+  notes:
+  - content: "When impedances can be defined, the return loss is given by the formula:\r\nstem:[-
+      \" \" 20 \" \" \"lg\" \" \" |r| = 20 \" \" \"lg\" \" \" |frac(underline(Z) -
+      underline(Z)^(prime))(underline(Z) + underline(Z)^(prime))|]\n\nwhere stem:[<u>Z</u>]
+      is the characteristic impedance of a transmission line ahead of a discontinuity,
+      or the impedance of a source, and stem:[<u>Z</u>]′ is the impedance after the
+      discontinuity or the load impedance seen from the junction between the source
+      and the load."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: return loss
+  language_code: eng
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: 9f888038-c47e-5924-8cb2-0d02db61e9c4

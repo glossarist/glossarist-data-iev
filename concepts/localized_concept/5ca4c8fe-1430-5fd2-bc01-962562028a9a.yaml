@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2002-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "algebraic equation giving the number dstem:[N] of particles of a non-quantized
+      system, the components of velocity of which are comprised in the intervals (stem:[u],
+      stem:[u] + dstem:[u]), (stem:[v], stem:[v] + dstem:[v]), (stem:[w], stem:[w]
+      + dstem:[w]) respectively: \r\nstem:[\"d\" N = A * \"exp\" &amp;lsqb; frac(-
+      m (u^(2) + v^(2) + w^(2)))(2 k T) &amp;rsqb; \"d\" \" \" u * \"d\" \" \" v *
+      \"d\" \" \" w] \r\nwhere\r\nstem:[A = N &amp;lsqb; frac(m)((2 pi * k T)) &amp;rsqb;^(3
+      / 2)] \r\nstem:[N] is the total number of particles\n\nstem:[m] is the mass
+      of a particle\n\nstem:[T] is the thermodynamic temperature\n\nstem:[k] is the
+      Boltzmann constant"
+  examples: []
+  id: 521-01-05
+  notes:
+  - content: dstem:[N]/stem:[N] represents the probability that a particle has its
+      components of velocity within the intervals considered.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Maxwell-Boltzmann velocity-distribution law
+  language_code: eng
+  entry_status: valid
+  review_date: '2002-05-01T00:00:00+00:00'
+  review_decision_date: '2002-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-05-01T00:00:00+00:00'
+id: 5ca4c8fe-1430-5fd2-bc01-962562028a9a

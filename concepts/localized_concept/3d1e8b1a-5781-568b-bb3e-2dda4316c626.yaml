@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient impulse response Δstem:[v]~δ~(stem:[t]) divided by the impulse
+      area stem:[K]~δ~ of the impulse function, the quotient described bystem:[g (t)
+      = frac(1)(K_("delta")) * Delta v_(delta) (t)]
+  examples: []
+  id: 351-45-29
+  notes:
+  - content: The unit-impulse response stem:[g](stem:[t]) of a system contains all
+      properties of the system and is used to calculate the response Δstem:[v](stem:[t])
+      of the system to any input variable Δstem:[u](stem:[t]) by the convolution integralstem:[Delta
+      v (t) = int_(- oo)^(oo) g (tau) * Delta u (t - tau) "d" tau].
+  - content: "The systems frequency response stem:[G (\"j\" * omega)] may be calculated
+      by Fourier transformation of stem:[g](stem:[t]):\r\nstem:[G (\"j\" * omega)
+      = ℱ {g (t)}]."
+  - content: The unit-impulse response of a system mathematically may be considered
+      to result from application of a unit impulse to an input variable.
+  - content: This entry was numbered 351-24-19 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unit-impulse response
+  - type: expression
+    normative_status: preferred
+    designation: weighting function
+  - designation: stem:[g](stem:[t])
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 3d1e8b1a-5781-568b-bb3e-2dda4316c626
+classification: preferred

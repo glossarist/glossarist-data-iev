@@ -1,0 +1,62 @@
+---
+data:
+  definition:
+  - content: état d'une image associé aux données d'images couleurs qui représentent
+      les coordonnées d'espace chromatique des éléments d'une {{copie papier, urn:iec:std:iec:60050-845-32-045}}
+      bidimensionnelle ou d'une {{image d'écran, urn:iec:std:iec:60050-845-32-046}},
+      généralement produit par numérisation d'une œuvre, de diapositives ou d'épreuves
+      photographiques, d'un support photomécanique ou autres reproductions
+  examples: []
+  id: 845-32-051
+  notes:
+  - content: Lorsque l'expression "en référence à l'original" est utilisée comme qualificatif
+      d'un objet, elle implique que l'état de cet objet est un état d'image en référence
+      à l'original. Par exemple, les données d'images en référence à l'original sont
+      des données d'images dont l'état est un état en référence à l'original.
+  - content: Les données d'images en référence à l'original sont associées aux coordonnées
+      chromatiques de l'original, généralement mesurées conformément à l'ISO 13655,
+      _Technologie graphique – Mesurage spectral et calcul colorimétrique relatifs
+      aux images dans les arts graphiques_, et ne comportent aucun voile lumineux
+      ou autre lumière parasite supplémentaire.
+  - content: Les caractéristiques des données d'images en référence à l'original différenciées
+      généralement des données d'images en référence à la scène sont celles qui se
+      rapportent à une surface bidimensionnelle, et l'éclairage de cette surface est
+      réputé uniforme (ou les données d'images corrigées pour toute non uniformité
+      de l'éclairage).
+  - content: Il existe des classes d'originaux qui produisent des données d'images
+      en référence à l'original avec des caractéristiques différentes. Les exemples
+      incluent divers types d'œuvres, d'épreuves ou de diapositives photographiques,
+      et d'afficheurs émissifs. Lors du choix d'un algorithme de nouveau rendu des
+      couleurs, il est généralement nécessaire de connaître la classe de l'original
+      afin de déterminer le nouveau rendu des couleurs approprié à appliquer. Par
+      exemple, une visée colorimétrique est généralement appliquée à une œuvre, tandis
+      que différents algorithmes de perception servent à produire des épreuves photographiques
+      à partir de diapositives, ou des reproductions à partir d'épreuves photographiques.
+      Dans certains cas, les conditions d'observation réputées sont également différentes
+      entre les classes d'origine, comme entre les épreuves photographiques et les
+      diapositives, et sont habituellement prises en considération dans les systèmes
+      de conception appropriée.
+  - content: Dans quelques cas, il peut être souhaitable d'introduire de légères erreurs
+      colorimétriques dans la production des données d'images en référence à l'original,
+      par exemple afin que la gamme de l'original soit davantage adaptée à l'espace
+      chromatique, ou du fait du mode de capture des données d'images (tel qu'un tomodensitomètre
+      d'état A).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: état d'une image en référence à l'original
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 6b0c4f0e-9b8b-5aad-80f2-b5f57c6ce2f9

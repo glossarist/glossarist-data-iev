@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '1994-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '1994-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: the quotient, usually expressed in logarithmic units, of the absolute
+      gain stem:[G] of an antenna by the antenna-receiver noise temperature stem:[T]
+      referred to the antenna terminals at a specified frequency and in specified
+      conditions of installation and operation
+  examples: []
+  id: 725-13-19
+  notes:
+  - content: If the noise temperature is expressed in kelvins and the gain as a power
+      ratio, the quantity 10 log stem:[G]/stem:[T] is expressed in a unit designated
+      by the symbol dB (K^­1^), sometimes written incorrectly dBK.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 712-02-56
+      original: 712-02-56
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: figure of merit
+  - designation: stem:[G]/stem:[T]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '1994-08-01T00:00:00+00:00'
+  review_decision_date: '1994-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1994-08-01T00:00:00+00:00'
+id: d9d3915a-8295-5b33-b68a-056b0ac8d60c

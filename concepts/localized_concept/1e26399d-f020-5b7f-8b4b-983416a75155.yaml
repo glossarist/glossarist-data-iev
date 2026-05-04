@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: factor describing the protective quality of a sunscreen against solar
+      {{ultraviolet radiation, urn:iec:std:iec:60050-845-21-008}}, normally determined
+      by in vivo testing
+  examples: []
+  id: 845-26-074
+  notes:
+  - content: The sun protection factor is usually determined by comparing the dose
+      of ultraviolet radiation from a solar simulator (often a xenon lamp) required
+      to produce just-perceptible actinic erythema approximately 24 h after exposure
+      in ultraviolet-irradiated human volunteers, with and without a standard amount
+      of the sunscreen being present (F~MED,f~ and F~MED,i~, respectively) and is
+      calculated as follows:stem:[F]~SP~ = stem:[F]~MED,f~ / stem:[F]~MED,i~.
+  - content: The sun protection factor can also be determined by equivalent in vitro
+      methods.
+  - content: The sun protection factor has unit one.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sun protection factor
+  - type: expression
+    designation: SPF
+  - designation: stem:[F]~SP~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 1e26399d-f020-5b7f-8b4b-983416a75155

@@ -1,0 +1,43 @@
+---
+data:
+  definition:
+  - content: ensemble comprenant un {{réseau domestique, urn:iec:std:iec:60050-732-10-01}}
+      et tous les dispositifs qui y sont rattachés, y compris les règles de {{commande,
+      urn:iec:std:iec:60050-351-42-19}}, de {{communication, urn:iec:std:iec:60050-701-01-04}}
+      et de gestion relatives aux processus d'application
+  examples: []
+  id: 732-10-02
+  notes: []
+  sources:
+  - origin:
+      ref: IEC Guide 110:1996
+      locality:
+        type: clause
+        reference_from: '2.2'
+      original: Guide IEC 110:1996, 2.2, modifié – Le terme a été modifié de "système
+        de contrôle domestique" à "système domestique de commande". La définition
+        a été améliorée et révisée pour alignement avec la définition anglaise.
+    status: modified
+    type: authoritative
+    modification: Le terme a été modifié de "système de contrôle domestique" à "système
+      domestique de commande". La définition a été améliorée et révisée pour alignement
+      avec la définition anglaise.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: système domestique de commande
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: af53b918-5eb7-5802-88d3-140183903f7b

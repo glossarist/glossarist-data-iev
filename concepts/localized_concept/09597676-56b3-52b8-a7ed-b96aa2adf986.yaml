@@ -1,0 +1,59 @@
+---
+data:
+  dates:
+  - date: '2011-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: grandeur sans dimension caractérisant un transfert de chaleur, définie
+      par stem:[N u " " = " " frac(K l)(lambda)], où stem:[K] est le coefficient de
+      transmission thermique, stem:[l] est une longueur caractérisant la configuration
+      et stem:[λ] est la conductivité thermique
+  examples: []
+  id: 113-04-43
+  notes:
+  - content: Le nombre de Nusselt est souvent calculé par des formules empiriques
+      en fonction d'autres nombres caractéristiques (nombre de Reynolds stem:[Re],
+      nombre de Prandtl stem:[Pr], nombre de Péclet stem:[Pe], nombre de Grashof stem:[Gr]),
+      et utilisé ensuite pour déterminer le coefficient de transmission thermique
+      stem:[K].
+  - content: On utilise le nom «nombre de Biot», symbole stem:[Bi], lorsqu’on réserve
+      le nombre de Nusselt aux échanges de chaleur par convection.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nombre de Nusselt
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: nombre de Biot
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-04-01T00:00:00+00:00'
+id: '09597676-56b3-52b8-a7ed-b96aa2adf986'
+classification: preferred

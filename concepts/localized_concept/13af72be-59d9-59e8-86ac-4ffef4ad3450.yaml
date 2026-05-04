@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ratio between the change of the controlled variable with closed-loop
+      control and its change without control in case of changing of the reference
+      variable or a disturbance variable under given conditions
+  examples: []
+  id: 351-46-08
+  notes:
+  - content: In case of sinusoidal input variables the complex control factor is the
+      quotient of the phasors of these values as function of the angular frequency.
+  - content: In case of stepwise changing of input variables the real control factor
+      is the quotient of these values after the end of the transient processes. If
+      there are one or more integral elements in the forward path the value of the
+      real control factor is zero.
+  - content: In closed-loop control with proportional behaviour of the open loop the
+      real control factor is given by stem:[R = frac(1)(1 + K_(0))] where stem:[K]~0~
+      is the loop gain.
+  - content: This entry was numbered 351-25-08 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control factor
+  - designation: stem:[R]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 13af72be-59d9-59e8-86ac-4ffef4ad3450

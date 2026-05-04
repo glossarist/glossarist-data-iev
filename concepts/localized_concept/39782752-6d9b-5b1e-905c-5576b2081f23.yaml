@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2016-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{absorption, urn:iec:std:iec:60050-705-02-07}} in {{optical fibres,
+      urn:iec:std:iec:60050-704-02-07}} and associated components"
+  examples: []
+  id: 731-03-14
+  notes:
+  - content: For optical fibres intrinsic absorption components consist of tails of
+      the ultraviolet and infrared absorption bands, and extrinsic components include
+      impurities (e.g. the OH-ion and transition metal ions) and defects (e.g. the
+      results of thermal history and exposure to nuclear radiation).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absorption
+    usage_info: in optical fibre communication
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 731-03-14
+      version: 1991-10
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-12-01T00:00:00+00:00'
+id: 39782752-6d9b-5b1e-905c-5576b2081f23

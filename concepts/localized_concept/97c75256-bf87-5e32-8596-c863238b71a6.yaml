@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2018-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{sensor, urn:iec:std:iec:60050-151-13-48}} that uses organic substances
+      in the {{device, urn:iec:std:iec:60050-151-11-20}}, that is intended for measurement
+      of organism-related subsystems, or that mimics an organism"
+  examples: []
+  id: 523-04-01
+  notes:
+  - content: A typical biosensor consists of a biologically originated specific material
+      such as an enzyme or an antibody that identifies the object of measurement and
+      the device that measures a physical or chemical quantity change related to the
+      identifying reaction. A {{semiconductor, urn:iec:std:iec:60050-521-02-01}} sensor
+      or any of various types of {{electrode, urn:iec:std:iec:60050-151-13-01}} (e.g.
+      {{ISFET, urn:iec:std:iec:60050-523-04-03}}, micro-oxygen electrode, and fluorescence
+      detection optical sensor) prepared by silicon micromachining technology can
+      be used as this device. Biosensors are used for blood analysis systems, glucose
+      sensors, microrobots, and so on.
+  sources:
+  - origin:
+      ref: IEC 62047-1:2016
+      locality:
+        type: clause
+        reference_from: 2.4.11
+      original: IEC 62047-1:2016, 2.4.11
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: biosensor
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-12-01T00:00:00+00:00'
+id: 97c75256-bf87-5e32-8596-c863238b71a6

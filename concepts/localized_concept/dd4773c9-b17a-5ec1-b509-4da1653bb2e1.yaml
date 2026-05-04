@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quantitative or qualitative method of analysis that involves failure
+      modes and effects analysis together with a consideration of the probability
+      of the failure mode occurrence and the severity of the effects
+  examples: []
+  id: 192-11-06
+  notes:
+  - content: The term "fault mode, effects and criticality analysis" in IEC 60050-191:1990
+      (now withdrawn; replaced by IEC 60050-192:2015) is deprecated, since a fault
+      ({{192-04-01, urn:iec:std:iec:60050-192-04-01}}) is a state and cannot logically
+      have a mode, whereas a failure mode ({{192-03-17, urn:iec:std:iec:60050-192-03-17}})
+      is a change of state.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: failure modes, effects and criticality analysis
+  - type: expression
+    normative_status: preferred
+    designation: FMECA
+  - type: expression
+    normative_status: deprecated
+    designation: fault mode, effects and criticality analysis
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: dd4773c9-b17a-5ec1-b509-4da1653bb2e1
+classification: preferred

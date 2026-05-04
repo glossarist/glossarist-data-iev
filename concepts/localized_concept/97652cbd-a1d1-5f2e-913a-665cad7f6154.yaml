@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: expectation of the operating time to failure
+  examples: []
+  id: 192-05-11
+  notes:
+  - content: In the case of non-repairable items with an exponential distribution
+      of operating times to failure (i.e. a constant failure rate) the MTTF is numerically
+      equal to the reciprocal of the failure rate. This is also true for repairable
+      items if after restoration they can be considered to be "as-good-as-new".
+  - content: See also operating time to failure ({{192-05-01, urn:iec:std:iec:60050-192-05-01}}).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mean operating time to failure
+  - type: expression
+    designation: MTTF
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: 97652cbd-a1d1-5f2e-913a-665cad7f6154

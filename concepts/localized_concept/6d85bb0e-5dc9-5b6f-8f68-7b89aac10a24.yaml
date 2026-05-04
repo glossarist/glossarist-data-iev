@@ -1,0 +1,59 @@
+---
+data:
+  definition:
+  - content: unité d’{{intensité lumineuse, urn:iec:std:iec:60050-723-08-28}} du {{SI,
+      urn:iec:std:iec:60050-112-02-02}}, égale à l’intensité lumineuse, dans une direction
+      donnée, d’une source qui émet un {{rayonnement monochromatique, urn:iec:std:iec:60050-731-01-08}}
+      de fréquence 540 × 10^12^ Hz et dont l’{{intensité énergétique, urn:iec:std:iec:60050-731-01-23}}
+      dans cette direction est 1/683 {{W, urn:iec:std:iec:60050-113-03-55}}/{{sr,
+      urn:iec:std:iec:60050-102-04-47}}
+  examples: []
+  id: 112-02-10
+  notes:
+  - content: "La définition donnée dans la Brochure sur le SI est la suivante: \"La
+      candela, symbole cd, est l’unité du SI d’intensité lumineuse dans une direction
+      donnée. Elle est définie en prenant la valeur numérique fixée de l’efficacité
+      lumineuse d’un rayonnement monochromatique de fréquence 540 × 10^12^ Hz, stem:[K]~cd~,
+      égale à 683 lorsqu’elle est exprimée en lm W^−1^, unité égale à cd sr W^−1^,
+      ou cd sr kg^−1^ m^−2^ s^3^,  le kilogramme, le mètre et la seconde étant définis
+      en fonction de stem:[h], stem:[c] et Δstem:[ν]~Cs~.\"\r\nNote 2 à l’article:
+      Cette définition implique que 683 lm/W est la valeur exacte de l’{{efficacité
+      lumineuse d’un radiation monochromatique, urn:iec:std:iec:60050-845-01-56}}
+      stem:[K]~m~.\r\nNote 3 à l’article: La candela est l’une des sept {{unités de
+      base, urn:iec:std:iec:60050-112-01-18}} SI: {{seconde, urn:iec:std:iec:60050-112-02-04}}
+      (s), {{mètre, urn:iec:std:iec:60050-112-02-05}} (m), {{kilogramme, urn:iec:std:iec:60050-112-02-06}}
+      (kg), {{ampère, urn:iec:std:iec:60050-112-02-07}} (A), {{kelvin, urn:iec:std:iec:60050-112-02-09}}
+      (K), {{mole, urn:iec:std:iec:60050-112-02-09}} (mol) et candela (cd)."
+  sources:
+  - origin:
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      locality:
+        type: clause
+        reference_from: 2.3.1
+      original: Brochure sur le SI, 9^e^ édition, 2019, 2.3.1, modifié – La définition
+        de la Brochure sur le SI a été révisée à des fins de mise en conformité avec
+        les règles de l’IEV. Les notes 1 à 3 à l’article ont été ajoutées.
+    status: modified
+    type: authoritative
+    modification: La définition de la Brochure sur le SI a été révisée à des fins
+      de mise en conformité avec les règles de l’IEV. Les notes 1 à 3 à l’article
+      ont été ajoutées.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: candela
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 6d85bb0e-5dc9-5b6f-8f68-7b89aac10a24

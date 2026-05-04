@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: time average of the length of a {{queue, urn:iec:std:iec:60050-171-02-33}}
+  examples: []
+  id: 171-02-34
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-4
+      original: IEC 80000-13:2008, 13-4
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mean queue length
+  - designation: |-
+      stem:[L]
+      stem:[Ω]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 5f5b28a2-8f09-5f8c-a74c-7adf0c84f193

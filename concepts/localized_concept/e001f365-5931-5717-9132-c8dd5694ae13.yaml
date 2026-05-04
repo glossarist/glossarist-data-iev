@@ -1,0 +1,48 @@
+---
+data:
+  definition:
+  - content: "{{polarisation, urn:iec:std:iec:60050-705-01-13}} telle que, pour un
+      observateur regardant dans la {{direction de propagation, urn:iec:std:iec:60050-705-02-15}}
+      ou dans une direction de référence spécifiée, le vecteur {{champ électrique,
+      urn:iec:std:iec:60050-121-11-18}} ou un vecteur de champ spécifié tourne, en
+      fonction du temps, dans un plan fixe normal à cette direction et dans le sens
+      contraire à celui des aiguilles d'une montre"
+  examples: []
+  id: 705-01-19
+  notes:
+  - content: Il est nécessaire de spécifier la direction de référence quand la direction
+      de propagation est parallèle au {{plan de polarisation, urn:iec:std:iec:60050-705-01-22}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: polarisation senestrorsum
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: polarisation levogyre
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: e001f365-5931-5717-9132-c8dd5694ae13
+classification: deprecated

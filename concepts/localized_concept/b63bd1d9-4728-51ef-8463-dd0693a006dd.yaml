@@ -1,0 +1,51 @@
+---
+data:
+  dates:
+  - date: '2008-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: valeur de la tension d'essai à appliquer, dans des conditions spécifiées,
+      lors d'un essai de tenue pendant lequel un nombre spécifié de décharges disruptives
+      est toléré
+  examples: []
+  id: 581-21-20
+  notes:
+  - content: "La tension de tenue est désignée par :\r\na) tension de tenue présumée
+      conventionnelle lorsque le nombre de décharges disruptives toléré est nul. Ceci
+      est supposé correspondre à une probabilité de tenue stem:[P]~W~ = 100 % (c’est
+      le cas en  particulier en basse tension);\r\nb) tension de tenue statistique
+      lorsque le nombre de décharges disruptives toléré est relatif à une probabilité
+      de tenue spécifiée, par exemple stem:[P]~W~ = 90 %."
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 604-03-41
+      original: 604-03-41 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tension de tenue
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-09-01T00:00:00+00:00'
+id: b63bd1d9-4728-51ef-8463-dd0693a006dd

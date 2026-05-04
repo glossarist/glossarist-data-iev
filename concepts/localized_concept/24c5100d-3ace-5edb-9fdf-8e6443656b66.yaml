@@ -1,0 +1,33 @@
+---
+data:
+  definition:
+  - content: rapport de la {{valeur efficace, urn:iec:std:iec:60050-103-02-03}} du
+      {{fondamental, urn:iec:std:iec:60050-103-07-19}} d’une grandeur alternative
+      à la valeur efficace de la grandeur
+  examples: []
+  id: 103-07-23
+  notes:
+  - content: Pour une grandeur alternative stem:[x] de valeur efficace stem:[X_("eff")]
+      dont le fondamental a pour valeur efficace stem:[X_("1 eff")], le taux de fondamental
+      est stem:[g = X_("1 eff") / X_("eff")].
+  - content: L’extension à une {{composante fondamentale de référence, urn:iec:std:iec:60050-103-07-20}}
+      est donnée en {{IEV 551-20-17, urn:iec:std:iec:60050-551-20-17}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taux de fondamental
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 24c5100d-3ace-5edb-9fdf-8e6443656b66

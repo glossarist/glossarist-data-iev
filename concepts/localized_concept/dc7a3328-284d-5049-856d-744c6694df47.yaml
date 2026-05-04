@@ -1,0 +1,37 @@
+---
+data:
+  definition:
+  - content: vecteur Δ*stem:[U]* associé en chaque point d'un domaine déterminé de
+      l'espace à un vecteur *stem:[U]*, égal à la différence entre le gradient de
+      la divergence du champ vectoriel et le rotationnel du rotationnel de ce champΔ*stem:[U]*
+      = *grad* div *stem:[U]* − *rot rot stem:[U]*
+  examples: []
+  id: 102-05-29
+  notes:
+  - content: 'En coordonnées cartésiennes orthonormées, les trois coordonnées du laplacien
+      vectoriel sont: stem:[frac(del^(2) U_(x))(del " " x^(2)) + frac(del^(2) U_(x))(del
+      " " y^(2)) + frac(del^(2) U_(x))(del " " z^(2)) " " " " , " " " " " " frac(del^(2)
+      U_(y))(del " " x^(2)) + frac(del^(2) U_(y))(del " " y^(2)) + frac(del^(2) U_(y))(del
+      " " z^(2)) " " " " , " " " " " " frac(del^(2) U_(z))(del " " x^(2)) + frac(del^(2)
+      U_(z))(del " " y^(2)) + frac(del^(2) U_(z))(del " " z^(2))].'
+  - content: Le laplacien vectoriel du champ vectoriel *stem:[U]* est noté Δ*stem:[U]*
+      ou ∇^2^*stem:[U]*, où Δ est l'opérateur laplacien.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: laplacien vectoriel
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: dc7a3328-284d-5049-856d-744c6694df47

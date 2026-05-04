@@ -1,0 +1,57 @@
+---
+data:
+  dates:
+  - date: '2011-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: zone d’un plan particulier perpendiculaire à l’axe d'alignement du faisceau
+      composé de tous les points auxquels l’intégrale de pression d'impulsion au carré
+      est supérieure à une fraction spécifiée de la valeur maximale de l’intégrale
+      de pression d'impulsion au carré du dit plan
+  examples: []
+  id: 802-01-19
+  notes:
+  - content: Certains niveaux couramment spécifiés sont 0,25 et 0,01 pour les surfaces
+      de faisceau −6 dB et −20 dB, respectivement.
+  sources:
+  - origin:
+      ref: IEC 62127-1
+      locality:
+        type: clause
+        reference_from: '3.7'
+      original: définition 3.7 de la CEI 62127-1 MOD
+    status: modified
+    type: authoritative
+  - origin:
+      ref: IEC 61828
+      locality:
+        type: clause
+        reference_from: 4.2.9
+      original: adaptées sur la base du 4.2.9 de la CEI 61828 et du 3.6 de la CEI
+        61102
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: surface du faisceau
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-01-01T00:00:00+00:00'
+id: b6442fe1-cf1c-5a48-afa3-271929383f27

@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of blue light hazard weighted radiant flux, stem:[Φ]~B~, and
+      luminous flux, stem:[Φ]~v~stem:[K_("B" ",v") = frac(Phi_("B"))(Phi_("v")) =
+      frac(int Phi_("e" "," lambda) ( lambda ) * B ( lambda ) * "d" lambda)(K_("m")
+      * int Phi_("e" "," lambda) ( lambda ) * V ( lambda ) * "d" lambda)]where stem:[λ]
+      is wavelength, stem:[Φ]~e,stem:[λ]~(stem:[λ]) is spectral radiant flux, stem:[B](stem:[λ])
+      is the blue light hazard spectral weighting function, stem:[V](stem:[λ]) is
+      the CIE {{spectral luminous efficiency, urn:iec:std:iec:60050-845-21-035}} function
+      for photopic vision, and stem:[K]~m~ is maximum luminous efficacy (≈ 683 lm·W^−1^)
+  examples: []
+  id: 845-26-061
+  notes:
+  - content: The term "luminous radiation" refers to {{optical radiation, urn:iec:std:iec:60050-845-21-002}}
+      weighted with the CIE spectral luminous efficiency function for photopic vision,
+      stem:[V](stem:[λ]).
+  - content: The use of this term is only reasonable if parts of the optical radiation
+      are in the visible range and thus stem:[Φ]~v~ ≠ 0.
+  - content: The blue light hazard efficacy of luminous radiation is expressed in
+      watt per lumen (W·lm^−1^), possibly with a metric prefix.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blue light hazard efficacy of luminous radiation
+    usage_info: of a source
+  - designation: stem:[K]~B,v~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 923507f6-e9b1-5b84-ab74-b2e1f93157c7

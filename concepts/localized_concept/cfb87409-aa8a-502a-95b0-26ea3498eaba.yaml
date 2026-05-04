@@ -1,0 +1,46 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ratio of the vertical dimension (height) to the horizontal dimension
+      (width) of a three-dimensional structure, used as an index of the relative thickness
+      of the structure
+  examples: []
+  id: 523-07-04
+  notes:
+  - content: It is accepted that the silicon process is not appropriate to form three-dimensional
+      structures of much depth, because it is difficult to manufacture structures
+      having an aspect ratio over 10. By the use of {{anisotropic etching, urn:iec:std:iec:60050-523-05-09}}
+      or the {{LIGA process, urn:iec:std:iec:60050-523-05-06}}, deep holes, grooves
+      and so on having an aspect ratio of 100 or greater can be obtained.
+  sources:
+  - origin:
+      ref: IEC 62047-1:2016
+      locality:
+        type: clause
+        reference_from: 2.7.6
+      original: IEC 62047-1:2016, 2.7.6
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aspect ratio
+    usage_info: MEMS
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 523-07-04
+      version: 2018-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: cfb87409-aa8a-502a-95b0-26ea3498eaba

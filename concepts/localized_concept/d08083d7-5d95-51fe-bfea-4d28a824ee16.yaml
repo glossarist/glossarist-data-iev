@@ -1,0 +1,65 @@
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2010-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: qualifie ou complète un {{nom de grandeur, urn:iec:std:iec:60050-112-01-02}}
+      pour désigner le quotient de cette grandeur par une longueur d'onde ou une fréquence
+  examples: []
+  id: 112-03-16
+  notes:
+  - content: 'La longueur d''onde est utilisée principalement en optique, et la fréquence
+      en radioélectricité, acoustique et théorie du signal. Exemples: {{densité spectrale
+      de puissance, urn:iec:std:iec:60050-103-09-05}} ou puissance spectrique, éclairement
+      énergétique spectrique ou densité spectrale d’éclairement (voir {{IEV 731-01-30,
+      urn:iec:std:iec:60050-731-01-30}}).'
+  - content: L’adjectif "spectral" est aussi employé pour désigner des grandeurs qui
+      dépendent de la longueur d’onde ou de la fréquence, mais qui n’ont pas le caractère
+      d’une densité spectrale, par exemple l’émissivité spectrale. Voir {{IEV 845-01-16,
+      urn:iec:std:iec:60050-845-01-16}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectrique
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: spectral
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: densité spectrale de …
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2010-01-01T00:00:00+00:00'
+id: d08083d7-5d95-51fe-bfea-4d28a824ee16
+classification: preferred

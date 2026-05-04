@@ -1,0 +1,63 @@
+---
+data:
+  dates:
+  - date: '2002-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient de la grandeur complexe représentant, en fonction de la fréquence
+      complexe, une grandeur fonction du temps à la sortie d'un biporte linéaire invariable
+      dans le temps, par la grandeur complexe représentant la grandeur d’entrée correspondante,
+      les deux grandeurs complexes étant définies de la même manière
+  examples: []
+  id: 131-15-20
+  notes:
+  - content: Les grandeurs complexes sont généralement les transformées de Laplace
+      des grandeurs fonctions du temps. Dans ce cas, la fonction de transfert est
+      la transformée de Laplace de la réponse impulsionnelle et on emploie en français
+      le terme "fonction de transfert isomorphe".
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 702-07-27
+      original: 702-07-27 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fonction de transfert
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: transmittance
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-06-01T00:00:00+00:00'
+id: b0354bfa-9381-5629-8f8a-fa00c930926c

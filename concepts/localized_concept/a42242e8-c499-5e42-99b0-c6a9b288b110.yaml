@@ -1,0 +1,39 @@
+---
+data:
+  dates:
+  - date: '2016-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: process or device by which the {{gain, urn:iec:std:iec:60050-702-02-11}}
+      of an {{amplifier, urn:iec:std:iec:60050-151-13-50}} is controlled by the level
+      of the {{output, urn:iec:std:iec:60050-151-15-14}} {{signal, urn:iec:std:iec:60050-101-12-02}}
+      so as to reduce changes in this level as compared with the changes in the {{input,
+      urn:iec:std:iec:60050-151-15-13}} signal
+  examples: []
+  id: 702-04-38
+  notes:
+  - content: Frequently, automatic gain control is used to keep the output signal
+      level nearly constant.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: automatic gain control
+  - type: expression
+    normative_status: preferred
+    designation: AGC
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 702-04-38
+      version: 1992-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-12-01T00:00:00+00:00'
+id: a42242e8-c499-5e42-99b0-c6a9b288b110
+classification: preferred

@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: amount by which at a given {{frequency, urn:iec:std:iec:60050-103-06-02}}
+      the {{spot noise temperature, urn:iec:std:iec:60050-702-08-54}} of a {{one-port,
+      urn:iec:std:iec:60050-131-12-64}} connected to the input of a given linear {{two-port,
+      urn:iec:std:iec:60050-131-12-65}} would have to be increased, if the noise due
+      to this two-port were temporarily suppressed, in order to cause the noise {{power
+      spectral density, urn:iec:std:iec:60050-702-04-50}}, at the output frequency
+      corresponding to the input frequency, to be the same as that of the total noise
+      of the one-port and the given two-port
+  examples: []
+  id: 702-08-56
+  notes:
+  - content: This definition assumes that quantum effects are negligible.
+  - content: The equivalent spot noise temperature of a two-port is dependent on the
+      impedance of the one-port connected to its input.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equivalent spot noise temperature
+    usage_info: of a linear two-port
+  - designation: stem:[T](stem:[f])
+    international: true
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 702-08-56
+      version: 1992-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: 36b03d28-e34c-5d3d-8638-d39ab745c664

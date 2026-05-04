@@ -1,0 +1,57 @@
+---
+data:
+  definition:
+  - content: densité d'{{énergie lumineuse, urn:iec:std:iec:60050-845-21-037}} incidente
+      par rapport à une aire en un point d'une surface réelle ou fictivestem:[H_("v")
+      = frac("d" Q_("v"))("d" A)]où stem:[Q]~v~ est l'énergie lumineuse et stem:[A]
+      est l'aire qui reçoit cette énergie
+  examples: []
+  id: 845-21-072
+  notes:
+  - content: Le terme "exposition lumineuse" n'est plus usité.
+  - content: L'exposition lumineuse peut être dérivée de la répartition spectrale
+      de l'exposition énergétique parstem:[H_("v") \  = \  K_("m") int_(0)^(oo) H_("e"
+      "," lambda) ( lambda ) " " V ( lambda ) " " "d" lambda]où stem:[K]~m~ est l'efficacité
+      lumineuse maximale, stem:[H]~e,~stem:[~λ~](stem:[λ]) est l'exposition spectrale
+      énergétique à la longueur d'onde stem:[λ] et stem:[V](stem:[λ]) est l'{{efficacité
+      lumineuse relative spectrale, urn:iec:std:iec:60050-845-21-035}}. Les limites
+      d'intégrale peuvent être confinées selon la {{sensibilité, urn:iec:std:iec:60050-845-25-061}}
+      spectrale des récepteurs utilisés comme capteur.
+  - content: La grandeur radiométrique correspondante est l'"exposition énergétique".
+      La grandeur correspondante pour les photons est l'"exposition photonique".
+  - content: L'exposition lumineuse est exprimée en lux seconde (lx·s = lm·s·m^−2^).
+  - content: Cet article était numéroté 845-01-43 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exposition lumineuse
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: lumination
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 86bf9e6f-de94-5a05-a874-b09478c5774e
+classification: deprecated

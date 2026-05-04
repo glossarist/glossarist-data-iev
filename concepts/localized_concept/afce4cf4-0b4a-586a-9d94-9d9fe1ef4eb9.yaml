@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '1990-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '1990-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: fictitious single span in which tension variations due to load or temperature
+      changes are nearly the same as in the actual spans in a section
+  examples: []
+  id: 466-03-12
+  notes:
+  - content: |-
+      The approximate value stem:[a]~c~ of the equivalent span is calculated from:stem:[a_("c") "P{simeq}" sqrt(frac(sum a_(i)^(3))(sum a_(i)))]
+
+      where stem:[a]~stem:[i]~ is the length of the span stem:[i] in the section.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equivalent span
+  - type: expression
+    normative_status: preferred
+    designation: ruling span
+  language_code: eng
+  entry_status: valid
+  review_date: '1990-10-01T00:00:00+00:00'
+  review_decision_date: '1990-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1990-10-01T00:00:00+00:00'
+id: afce4cf4-0b4a-586a-9d94-9d9fe1ef4eb9
+classification: preferred

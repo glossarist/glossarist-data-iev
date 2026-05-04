@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{reference to standards, urn:iec:std:iec:60050-901-06-14}} that identifies
+      one or more specific {{standards, urn:iec:std:iec:60050-901-02-02}} in such
+      a way that later {{revisions, urn:iec:std:iec:60050-901-04-08}} of the standard
+      or standards are not to be applied unless the {{regulation, urn:iec:std:iec:60050-901-02-10}}
+      is modified"
+  examples: []
+  id: 901-06-15
+  notes:
+  - content: The standard is usually identified by its number and either date or edition.
+      The title may also be given.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: 11.2.1
+      original: ISO/IEC Guide 2:2004, 11.2.1, modified – The parenthetical expression
+        following the term has been transferred to the term attribute "specific use".
+    status: modified
+    type: authoritative
+    modification: The parenthetical expression following the term has been transferred
+      to the term attribute "specific use".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dated reference
+    usage_info: to standards
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: ec7b236b-7c07-58a3-973c-ab6370dd88fc

@@ -1,0 +1,60 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{fundamental physical constant, urn:iec:std:iec:60050-112-03-09}} equal
+      to the {{quantum, urn:iec:std:iec:60050-113-05-06}} of {{electric charge, urn:iec:std:iec:60050-113-02-10}},
+      the value of which is set to exactly 1,602 176 634 × 10^−19^ {{C, urn:iec:std:iec:60050-113-02-11}}"
+  examples: []
+  id: 113-05-16
+  notes:
+  - content: The elementary electric charge is equal to the charge of the proton and
+      opposite to the charge of the electron.
+  - content: The elementary electric charge is used in the {{SI, urn:iec:std:iec:60050-112-02-02}}
+      to define the {{ampere, urn:iec:std:iec:60050-112-02-07}}.
+  sources:
+  - origin:
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      locality:
+        type: clause
+        reference_from: '2.2'
+      original: SI Brochure, 9th edition, 2019, 2.2, modified – The full form of the
+        term, including the adjective "electric", has been specified as the preferred
+        term to differentiate clearly this quantity from other charges such as "color
+        charge". The term specified in the SI Brochure has been given as a synonym.
+        The definition in the SI Brochure has been revised to comply with the IEV
+        rules.
+    status: modified
+    type: authoritative
+    modification: The full form of the term, including the adjective "electric", has
+      been specified as the preferred term to differentiate clearly this quantity
+      from other charges such as "color charge". The term specified in the SI Brochure
+      has been given as a synonym. The definition in the SI Brochure has been revised
+      to comply with the IEV rules.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: elementary electric charge
+  - type: expression
+    normative_status: preferred
+    designation: elementary charge
+  - designation: stem:[e]
+    international: true
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 113-05-16
+      version: 2011-04
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 3cbd4a01-a37c-5f89-91a4-2306a36675ba
+classification: preferred

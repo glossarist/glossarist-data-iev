@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2018-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{electromagnetic disturbance, urn:iec:std:iec:60050-161-01-05}} having
+      components in the {{radio-frequency, urn:iec:std:iec:60050-702-01-10}} range"
+  examples: []
+  id: 161-01-13
+  notes:
+  - content: A radio-frequency disturbance can be {{radio noise, urn:iec:std:iec:60050-161-01-12}},
+      an {{unwanted signal, urn:iec:std:iec:60050-161-01-03}} or a change in the propagation
+      medium itself.
+  - content: In accordance with {{IEV 701-02-12, urn:iec:std:iec:60050-701-02-12}},
+      the radio-frequency range is by convention a frequency lower than 3 000 GHz.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radio-frequency disturbance
+  - type: expression
+    normative_status: preferred
+    designation: radio disturbance
+  - type: expression
+    normative_status: admitted
+    designation: RF disturbance
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 161-01-13
+      version: 1990-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-09-01T00:00:00+00:00'
+  review_decision_date: '2018-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-09-01T00:00:00+00:00'
+id: 55c1f095-9539-59a6-971d-b02513917381
+classification: preferred

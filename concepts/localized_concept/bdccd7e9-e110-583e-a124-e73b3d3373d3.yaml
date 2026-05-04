@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{Boolean operation, urn:iec:std:iec:60050-171-03-05}} whose result
+      has the Boolean value 0 if and only if each {{operand, urn:iec:std:iec:60050-171-03-04}}
+      has the Boolean value 0"
+  examples: []
+  id: 171-03-19
+  notes:
+  - content: The disjunction of variables stem:[a] and stem:[b] is noted stem:[a "P{lor}"
+      b] (U+2228) (stem:[a] or stem:[b]).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disjunction
+  - type: expression
+    normative_status: preferred
+    designation: OR operation
+  - type: expression
+    normative_status: admitted
+    designation: INCLUSIVE-OR operation
+  - type: expression
+    normative_status: admitted
+    designation: logical add
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: bdccd7e9-e110-583e-a124-e73b3d3373d3
+classification: preferred

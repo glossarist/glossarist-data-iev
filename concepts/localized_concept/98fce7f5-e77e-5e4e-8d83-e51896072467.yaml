@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '2011-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: time-average of the instantaneous intensity at a particular point in
+      an acoustic field
+  examples: []
+  id: 802-01-14
+  notes:
+  - content: Time average is taken usually over an integral number of acoustic repetition
+      periods; if not, the averaging period should be specified.
+  - content: In a plane acoustical wave in a non-absorbing fluid medium, acoustic
+      intensity is the same at all points of the wave, when averaged over a complete
+      cycle.
+  - content: In a perfect standing wave, temporal-average intensity is zero.
+  - content: "(relating to ultrasonic medical diagnostic systems) In principle, the
+      temporal-average intensity is an average over a relatively long time interval.
+      For non-auto-scanning systems, the instantaneous intensity may be averaged over
+      one or more pulse-repetition periods. For auto-scanning systems, the instantaneous
+      intensity may be averaged over one or more scan-repetition periods for a specified
+      operating mode."
+  sources:
+  - origin:
+      ref: IEC 62127-1
+      locality:
+        type: clause
+        reference_from: '3.65'
+      original: definition 3.65 of IEC 62127-1 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temporal-average intensity
+  - designation: stem:[I]~ta~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-01-01T00:00:00+00:00'
+id: 98fce7f5-e77e-5e4e-8d83-e51896072467

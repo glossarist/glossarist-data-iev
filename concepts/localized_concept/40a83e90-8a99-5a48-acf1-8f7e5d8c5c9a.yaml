@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2013-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a capacitive two-terminal element with terminals A and B, quotient
+      of the electric charge stem:[q] at A by the voltage ({{131-11-56, urn:iec:std:iec:60050-131-11-56}})
+      stem:[u]~AB~ between the terminals  stem:[C = frac(q)(u_(rm(AB)))] where the
+      sign of the electric charge is determined by taking the electric current in
+      the time integral defining this charge as positive if its direction is from
+      A to B and negative if its direction is from B to A
+  examples: []
+  id: 131-12-13
+  notes:
+  - content: A capacitance cannot be negative.
+  - content: The coherent SI unit of capacitance is farad, F.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capacitance
+  - designation: stem:[C]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-08-01T00:00:00+00:00'
+  review_decision_date: '2013-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-08-01T00:00:00+00:00'
+id: 40a83e90-8a99-5a48-acf1-8f7e5d8c5c9a

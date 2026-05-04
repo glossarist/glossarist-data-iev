@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: testing in which test cases are chosen using knowledge of the internal
+      structure of the item under test
+  examples: []
+  id: 192-09-14
+  notes:
+  - content: White-box testing aims to achieve a defined level of coverage of the
+      internal structure of the item under test and to correct any faults that are
+      revealed. The technique is normally applied to software but the same approach
+      can be used for hardware.
+  - content: Software coverage may be measured at various levels, e.g., by the proportion
+      of statements, branches, or paths through the code that have been executed.
+  - content: White-box testing is usually employed at lower levels of software testing
+      such as for unit or integration test.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: white-box testing
+  - type: expression
+    designation: glass-box testing
+  - type: expression
+    designation: clear-box testing
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: 6aa27e5e-7df8-5a70-8e33-8c73833cfaf5

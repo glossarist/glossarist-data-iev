@@ -1,0 +1,26 @@
+---
+data:
+  dates:
+  - date: '2020-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: |-
+      duration between the instant a specified change is made in the value(s) of the {{input energizing quantity(ies), urn:iec:std:iec:60050-447-03-02}} that will cause the {{measuring relay, urn:iec:std:iec:60050-447-01-02}} or {{protection equipment, urn:iec:std:iec:60050-447-01-49}} in {{operate condition, urn:iec:std:iec:60050-447-02-01}} to {{disengage, urn:iec:std:iec:60050-447-02-17}} and the instant it disengages<simg usemap="#1-60050-447-Ed2-IS-CDV-Fig1-en-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig1-en-4web"> <area title="initial condition" href="IEV447-02-03" shape="rect" coords="220,63,123,95" target="_self" alt="initial condition"> <area title="characteristic quantity (for under... relay)" href="IEV447-01-24" shape="rect" coords="114,109,3,144" target="_self" alt="characteristic quantity for under relay"> <area title="operate value" href="IEV447-02-10" shape="rect" coords="139,149,196,187" target="_self" alt="operate value"> <area title="operate value" href="IEV447-02-10" shape="rect" coords="195,214,142,247" target="_self" alt="operate value"> <area title="characteristic quantity (for over... relay)" href="IEV447-01-23" shape="rect" coords="3,258,113,294" target="_self" alt="characteristic quantity for over relay"> <area title="operate signal" href="IEV447-04-14" shape="rect" coords="32,357,118,385" target="_self" alt="operate signal"> <area title="operate time" href="IEV447-05-05" shape="rect" coords="215,401,268,426" target="_self" alt="operate time"> <area title="operate" href="IEV447-02-04" shape="rect" coords="245,17,296,42" target="_self" alt="operate"> <area title="operate condition" href="IEV447-02-01" shape="rect" coords="304,68,395,84" target="_self" alt="operate condition"> <area title="disengage value" href="IEV447-02-18" shape="rect" coords="312,149,402,168" target="_self" alt="disengage value"> <area title="disengage value" href="IEV447-02-18" shape="rect" coords="314,234,403,252" target="_self" alt="disengage value"> <area title="disengage" href="IEV447-02-17" shape="rect" coords="434,14,506,33" target="_self" alt="disengage"> <area title="disengage condition" href="IEV447-02-20" shape="rect" coords="473,65,581,81" target="_self" alt="disengage condition"> <area title="disengage hysteresis" href="IEV447-07-14" shape="rect" coords="476,154,599,170" target="_self" alt="disengage hysteresis"> <area title="disengage hysteresis" href="IEV447-07-14" shape="rect" coords="474,228,599,247" target="_self" alt="disengage hysteresis"> <area title="disengage time" href="IEV447-05-10" shape="rect" coords="413,398,478,427" target="_self" alt="disengage time"></map>
+
+      Figure 1 – Explanatory diagram for operate condition</b></p></simg>
+  examples: []
+  id: 447-05-10
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disengage time
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-05-01T00:00:00+00:00'
+id: 9d7d385c-c699-59f0-93a5-cde05b62fe10

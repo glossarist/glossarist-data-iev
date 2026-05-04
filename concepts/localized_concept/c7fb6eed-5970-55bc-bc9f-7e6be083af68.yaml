@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "grandeur scalaire égale à la circulation d’une grandeur vectorielle
+      le long d’un chemin C reliant le point a au point b, dans lequel des porteurs
+      de charge peuvent se déplacer:\r\nstem:[U_(\"i\") = int_(r_(\"a\") (\"C\"))^(r_(\"b\"))
+      (- \" \" frac(del \" \" A)(del \" \" \" \" t) + v xx B) * \"d\" r]\r\noù *stem:[A]*
+      et *stem:[B]* sont respectivement un potentiel vecteur magnétique et l’induction
+      magnétique en un point du chemin, stem:[v] est la vitesse de déplacement de
+      ce point, *stem:[r]* est le vecteur de position et stem:[t] est le temps"
+  examples: []
+  id: 121-11-28
+  notes:
+  - content: La tension induite est égale à la dérivée par rapport au temps du flux
+      totalisé correspondant au chemin, avec les signes positif ou négatif selon la
+      convention exposée dans la CEI 60375.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tension induite
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: c7fb6eed-5970-55bc-bc9f-7e6be083af68
