@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '1991-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '1991-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "grandeur qui caractérise la dispersion du matériau par l'expression:\r\nstem:[M
+      (lambda) = - frac(1)(c_(0)) frac(\"d\" N)(\"d\" lambda) = frac(lambda \"d\"^(2)
+      n)(c_(0) \"d\" lambda^(2))]\n\noù\r\nstem:[N] est l'indice de groupe,\n\nstem:[n]
+      est l'indice de réfraction,\n\nstem:[λ] est la longueur d'onde dans le vide,\n\nstem:[c]~0~
+      est la vitesse de la lumière dans le vide"
+  examples: []
+  id: 731-03-76
+  notes:
+  - content: Les fibres optiques sont généralement constituées de substances pour
+      lesquelles le coefficient de dispersion du matériau est nul à une longueur d'onde
+      stem:[λ]~0~ voisine de 1 300 nm. Par convention, la grandeur stem:[M] est positive
+      pour les longueurs d'onde plus petites que stem:[λ]~0~ et négative pour les
+      longueurs d'onde plus grandes.
+  - content: L'élargissement d'une impulsion dû à la dispersion du matériau sur une
+      longueur unité de fibre optique est le produit de stem:[M] par la largeur spectrale
+      du rayonnement, sauf au voisinage de stem:[λ]~0~ où les termes du second degré
+      par rapport à cette largeur spectrale deviennent importants.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coefficient de dispersion du matériau
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1991-10-01T00:00:00+00:00'
+  review_decision_date: '1991-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1991-10-01T00:00:00+00:00'
+id: 041e0915-82d9-57df-a105-8d93cae5b2f6

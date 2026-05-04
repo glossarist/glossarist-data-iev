@@ -1,0 +1,70 @@
+---
+data:
+  definition:
+  - content: "quotient de la somme des durées de toutes les interruptions de fourniture
+      d'énergie électrique à des clients individuels desservis pendant un intervalle
+      de temps, par le produit de la durée de cet intervalle de temps et du nombre
+      total de clients desservisNote 1 à l’article: Si stem:[t]~stem:[ij]~ est la
+      durée de la stem:[i]ème interruption subie par le client stem:[j] sur la durée
+      stem:[T], et stem:[N]~S~ le nombre total de clients desservis, alors l’indisponibilité
+      par client desservi est donnée par stem:[U_(\"CS\") = frac(sum_(i) sum_(j) t_(i
+      j))(N_(\"S\") T)]\r\nNote 2 à l’article: Seules les {{interruptions longues,
+      urn:iec:std:iec:60050-692-07-02}} sont prises en compte. Note 3 à l’article:
+      Si la durée de l'intervalle de temps est exprimée en années, la grandeur est
+      appelée \"indisponibilité annuelle moyenne par client desservi\". Note 4 à l’article:
+      Le terme \"client\" désigne l’utilisateur final et non un réseau ou une compagnie
+      de distribution intermédiaire. Note 5 à l’article: L’indisponibilité par client
+      desservi peut être utilisée pour décrire des performances réalisées, ou pour
+      estimer les performances futures attendues. Note 6 à l’article: Cet article
+      portait le numéro 191-27-03 dans l’IEC 60050-191:1990."
+  examples: []
+  id: 692-08-03
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indisponibilité par client desservi
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: indice moyen d'interruption par client desservi
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: indice moyen de coupure par client desservi
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 52c5a9aa-09f4-5017-8bda-20aa94b9161f
+classification: preferred

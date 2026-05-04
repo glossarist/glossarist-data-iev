@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: product of the Planck constant and {{frequency, urn:iec:std:iec:60050-103-06-02}}stem:[Q]~p~ =
+      stem:[h]·stem:[ν]where stem:[h] is the Planck constant and stem:[ν] is the frequency
+      of the corresponding electromagnetic wave
+  examples: []
+  id: 845-21-042
+  notes:
+  - content: Photon energy can be emitted, transferred or received.
+  - content: The energy of {{monochromatic radiation, urn:iec:std:iec:60050-845-21-014}},
+      stem:[Q]~PF~, by a photon flux of photons of frequency stem:[ν] is equal to
+      the photon number, stem:[N]~p~, times the photon energy (stem:[Q]~PF~ = stem:[N]~p~·stem:[h]·stem:[ν]).
+  - content: The corresponding radiometric quantity is "radiant energy". The corresponding
+      photometric quantity is "{{luminous energy, urn:iec:std:iec:60050-845-21-037}}".
+  - content: The photon energy is expressed in joule (J&#160;= W&middot;s).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photon energy
+  - designation: |-
+      stem:[Q]~p~
+      stem:[Q]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: b7445368-5d84-57f0-b146-328e9ac89844

@@ -1,0 +1,35 @@
+---
+data:
+  definition:
+  - content: "{{état d’alerte, urn:iec:std:iec:60050-692-02-07}} dans lequel l’apparition
+      d’un {{événement plausible, urn:iec:std:iec:60050-692-01-08}} entraînera une
+      instabilité, un écroulement de tension ou des {{déclenchements en cascade, urn:iec:std:iec:60050-692-03-08}}image::/assets/images/parts/692/692-fig2-fr.png[Figure
+      2 - États d’un réseau d’énergie électrique]image::/assets/images/parts/692/692-fig3-fr.png[]"
+  examples: []
+  id: 692-02-08
+  notes:
+  - content: 'Les flèches indiquent les transitions d’état les plus importantes induites
+      par des événements plausibles. Les transitions de récupération, dans les directions
+      opposées, résultent des interventions des opérateurs.*Figure 3 – Exemples de
+      transitions internes aux états d’un réseau d’énergie électrique*Note 1 à l’article:
+      Cet article portait le numéro 191-22-07 dans l’IEC 60050-191:1990.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: état potentiellement instable
+    usage_info: d’un réseau d’énergie électrique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: '09a47e71-5888-5866-8e8b-d12fc61f9f86'

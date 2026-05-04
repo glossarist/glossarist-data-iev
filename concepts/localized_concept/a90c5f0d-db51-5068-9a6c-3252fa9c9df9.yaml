@@ -1,0 +1,77 @@
+---
+data:
+  definition:
+  - content: valeur moyenne d'éclairement énergétique sur la surface courbe extérieure
+      d'une très petite sphère (réelle ou fictive) en un point dans l'espace
+  examples: []
+  id: 845-21-054
+  notes:
+  - content: L'éclairement sphérique énergétique peut être exprimé parstem:[E_("e,o")
+      = int_(4 pi) L_("e") " " "d" Omega]où stem:[Ω] est l'angle solide et stem:[L]~e~
+      est la radiance.
+  - content: L'éclairement sphérique énergétique est le quotient du flux énergétique
+      de tout le rayonnement que reçoit la surface extérieure d'une sphère infiniment
+      petite centrée au point spécifié par l'aire de la section diamétrale de cette
+      sphère.
+  - content: Les grandeurs similaires "éclairement sphérique lumineux", stem:[E]~v,o~,
+      et "éclairement sphérique photonique", stem:[E]~p,o~, sont définies de la même
+      façon, en remplaçant la luminance énergétique, stem:[L]~e~, par la luminance
+      lumineuse, stem:[L]~v~, et la luminance photonique, stem:[L]~p~, respectivement.
+  - content: L'éclairement sphérique énergétique est la grandeur radiométrique appropriée
+      pour décrire un débit de dose pour un effet photobiologique ou photochimique
+      dans un milieu de diffusion (par exemple, lumière sur la peau). L'éclairement
+      sphérique énergétique est également la grandeur appropriée pour décrire l'irradiation
+      des micro-organismes. L'éclairement sphérique énergétique est utilisé fréquemment
+      de manière incorrecte en remplacement de l'éclairement énergétique dans certaines
+      publications.
+  - content: L'éclairement sphérique énergétique est exprimé en watt par mètre carré
+      (W·m^−2^).
+  - content: Cet article était numéroté 845-01-40 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: éclairement sphérique énergétique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: débit de fluence
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: débit de fluence énergétique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: a90c5f0d-db51-5068-9a6c-3252fa9c9df9
+classification: admitted

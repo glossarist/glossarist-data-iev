@@ -1,0 +1,51 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: repetitive set of consecutive {{time-slots, urn:iec:std:iec:60050-704-13-08}}
+      constituting a complete cycle of a {{signal, urn:iec:std:iec:60050-101-12-02}}
+      or another process in which the relative position of each time-slot in the cycle
+      can be identified
+  examples: []
+  id: 704-14-01
+  notes:
+  - content: In English, the term "frame" has different meanings in the fields of
+      time division multiplexing (see {{IEV 704-14-01, urn:iec:std:iec:60050-704-14-01}}),
+      switching (see {{IEV 714-15-09, urn:iec:std:iec:60050-714-15-09}}), television
+      (see {{IEV 723-05-25, urn:iec:std:iec:60050-723-05-25}}), time division multiple
+      access (see {{IEV 725-14-18, urn:iec:std:iec:60050-725-14-18}}), digital processing
+      (see {{IEV 807-01-03, urn:iec:std:iec:60050-807-01-03}}), rotating electric
+      machines (see {{IEV 811-14-02, urn:iec:std:iec:60050-811-14-02}}) and train
+      communication networks (see {{IEV 811-37-40, urn:iec:std:iec:60050-811-37-40}}).
+      In some English-speaking countries, the term “frame” is also used in television
+      to mean a subdivision of a {{field, urn:iec:std:iec:60050-723-05-17}}.
+  - content: In French, the term "trame" has different meanings in the fields of beam
+      focusing and deflection in electronic tubes (see {{IEV 531-14-20, urn:iec:std:iec:60050-531-14-20}}),
+      time division multiplexing (see {{IEV 704-14-01, urn:iec:std:iec:60050-704-14-01}}),
+      switching (see {{IEV 714-15-09, urn:iec:std:iec:60050-714-15-09}}), television
+      (see {{IEV 723-05-17, urn:iec:std:iec:60050-723-05-17}}), time division multiple
+      access (see {{IEV 725-14-18, urn:iec:std:iec:60050-725-14-18}}), digital processing
+      (see {{IEV 807-01-03, urn:iec:std:iec:60050-807-01-03}}), and train communication
+      networks (see {{IEV 811-37-40, urn:iec:std:iec:60050-811-37-40}}).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: frame
+    usage_info: in time division multiplexing
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 704-14-01
+      version: 1993-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: 98205a81-1966-5695-91ca-83fd6b196603

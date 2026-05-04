@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: 'unique positive value, if it exists, associated with a subset of a surface
+      in the three-dimensional Euclidean space, with the following properties: * for
+      a rectangle, the value is the product of the two side lengths, * for a disjoint
+      union of subsets, the value is the sum of the values associated with these subsets,
+      * for more complicated subsets, the value can be approximated by sums and given
+      by an integral'
+  examples: []
+  id: 102-04-33
+  notes:
+  - content: For the portion of plane limited by the straight lines stem:[x] = stem:[a],
+      stem:[x] = stem:[b], stem:[y] = 0 and the arc of curve stem:[y = f](stem:[x])
+      with stem:[a] &lt; stem:[b] and stem:[f](stem:[x]) ≥ 0, the area is stem:[int_(a)^(b)
+      f ( x ) rm(d) x].
+  - content: For a surface defined by stem:[r = f ( u " " , " " v )] where stem:[(
+      u , v ) in "U" subseteq R^("2")], the area is stem:["P{iint}"_("U") |frac(del
+      f)(del u) * frac(del f)(del u)| * rm(d) u rm(d) v].
+  - content: For a surface defined by the equation stem:[z] = stem:[f](stem:[x, y]),
+      the area is stem:["P{iint}"_("S") sqrt(1 + (frac(del f)(del x))^(2) + (frac(del
+      f)(del y))^(2)) rm(d) x rm(d) y].
+  - content: In the usual geometrical space, the area of a surface is a quantity of
+      the dimension length squared.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: area
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: d77f3484-0e2a-5d24-bfeb-05e817e54bd0

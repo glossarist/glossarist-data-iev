@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: one-half the difference between the maximum value and the minimum value
+      in a loading cycle
+  examples: []
+  id: 523-03-11
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62047-12:2011
+      locality:
+        type: clause
+        reference_from: '3.1'
+      original: IEC 62047-12:2011, 3.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: amplitude
+    usage_info: MEMS
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 523-03-11
+      version: 2018-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: ba6a2dd4-c369-5e1a-b167-fb079036ea3f

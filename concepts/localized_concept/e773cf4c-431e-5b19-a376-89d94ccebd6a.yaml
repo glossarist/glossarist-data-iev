@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: time integral of the blue light hazard radiance, stem:[L]~B~, as integrated
+      with respect to the exposure duration
+  examples: []
+  id: 845-26-058
+  notes:
+  - content: This definition is based on the assumption that an action spectrum is
+      adopted for the actinic effect considered, and that its maximum value is 1.
+  - content: It is essential to specify which actinic action spectrum is used, as
+      the unit is the same for any action spectrum.
+  - content: See also "{{radiance dose, urn:iec:std:iec:60050-845-21-067}}".
+  - content: The blue light hazard radiance dose is expressed in joule per square
+      metre per steradian (J·m^−2^·sr^−1^).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blue light hazard radiance dose
+  - type: expression
+    designation: blue light hazard time integrated radiance
+  - designation: stem:[L]~B,~stem:[~t~]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: e773cf4c-431e-5b19-a376-89d94ccebd6a

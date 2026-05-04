@@ -1,0 +1,39 @@
+---
+data:
+  definition:
+  - content: "valeur moyenne de la {{force maximale, urn:iec:std:iec:60050-523-03-01}}
+      et de la {{force minimale, urn:iec:std:iec:60050-523-03-02}} en charge d’{{amplitude,
+      urn:iec:std:iec:60050-523-03-11}} constante, ou des {{cycles, urn:iec:std:iec:60050-103-05-08}}
+      individuels\r\nNote à l'article: Cette définition est une version modifiée d'une
+      définition dans ASTM E 1823-05a."
+  examples: []
+  id: 523-03-03
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62047-6:2009
+      locality:
+        type: clause
+        reference_from: '3.3'
+      original: IEC 62047-6:2009, 3.3
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: force moyenne
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 28e9a81f-bfea-549c-b702-a53ffe720c65

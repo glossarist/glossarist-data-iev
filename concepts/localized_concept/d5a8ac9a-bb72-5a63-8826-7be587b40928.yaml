@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quantity developed for the public domain, for weather forecasting and
+      climatology, which quantifies the erythemal potential (or sunburning power)
+      of the ambient solar {{ultraviolet radiation, urn:iec:std:iec:60050-845-21-008}},
+      but could also be applied to other sources
+  examples: []
+  id: 845-26-073
+  notes:
+  - content: The International Global UV Index, stem:[I]~UV~, is defined by the formula:stem:[I_("uv")
+      = k_("er") int_(250 " " "nm")^(400 " " "nm") E_(lambda) ( lambda ) " " " " s_("er")
+      ( lambda ) " " "d" lambda]where stem:[E~λ~](stem:[λ]) is the solar spectral
+      irradiance expressed in W·m^−2^·nm^−1^ at wavelength stem:[λ], stem:[s]~er~(stem:[λ])
+      is the erythema spectral weighting function, and stem:[k]~er~ is a constant
+      equal to 40 m^2^·W^−1^.
+  - content: The global UV index has unit one.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: global UV index
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: d5a8ac9a-bb72-5a63-8826-7be587b40928

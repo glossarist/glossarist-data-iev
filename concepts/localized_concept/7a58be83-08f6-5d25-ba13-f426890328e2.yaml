@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '1991-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '1991-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: the aggregate transfer rate of signal elements in a transmission link,
+      expressed in normalized form in binary digits per second
+  examples: []
+  id: 721-03-30
+  notes:
+  - content: "The signalling rate is given by\r\nstem:[sum_(i = 1)^(i = m) frac(1)(T_(i))
+      \" \" log_(2) n_(i)]\r\nwhere stem:[m] is the number of parallel transmission
+      channels, stem:[Т]~stem:[i]~ is the shortest theoretical duration of signal
+      element for the stem:[i]-th channel expressed in seconds, and stem:[n]~stem:[i]~
+      is the number of significant conditions of the modulation in the stem:[i]-th
+      channel."
+  - content: The symbol of the unit of binary rate is bit/s.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: binary rate
+  - type: expression
+    normative_status: preferred
+    designation: signalling rate
+  language_code: eng
+  entry_status: valid
+  review_date: '1991-11-01T00:00:00+00:00'
+  review_decision_date: '1991-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1991-11-01T00:00:00+00:00'
+id: 7a58be83-08f6-5d25-ba13-f426890328e2
+classification: preferred

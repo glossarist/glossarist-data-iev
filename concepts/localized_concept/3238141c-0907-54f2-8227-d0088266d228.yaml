@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "functional unit that generates an output variable the value of which
+      depends on the sign of the value of its input variable according to the formulastem:[v
+      ( t ) = { [[V_(1)], [0], [- V_(1)]] [[\" \" \"for\" \" \" u ( t ) gt 0], [\" \"
+      \"for\" \" \" u ( t ) = 0], [\" \" \"for\" \" \" u ( t ) lt 0]]]where<table>\r\n<tr>\n<td>stem:[t]</td>\n<td>is
+      the time;</td>\n</tr>\r\n<tr>\n<td>\nstem:[u](stem:[t])</td>\n<td>is the input
+      variable;</td>\n</tr>\r\n<tr>\n<td>\nstem:[v](stem:[t])</td>\n<td>is the output
+      variable.</td>\n</tr>\r\n<tr>\n<td>\nstem:[V]~1~\n</td>\n<td>is a constant value
+      of the output variable.</td>\n</tr>\r\n</table>"
+  examples: []
+  id: 351-50-39
+  notes:
+  - content: This entry was numbered 351-32-23 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sign element
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 3238141c-0907-54f2-8227-d0088266d228

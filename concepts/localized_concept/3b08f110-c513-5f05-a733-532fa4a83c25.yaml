@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ordered set of stem:[n] linearly independent vectors stem:[a_(1) ","
+      " " a_(2) "," " " ... "," " " a_(n)] in an stem:[n]-dimensional {{vector space,
+      urn:iec:std:iec:60050-102-03-01}}, which is chosen to express any vector *stem:[U]*
+      as a unique linear combination of these stem:[n] vectorsstem:[U = U_(1) a_(1)
+      + U_(2) a_(2) + ... + U_(n) a_(n)], where stem:[U_(1) "," " " U_(2) "," " "
+      ... "," " " U_(n)] are scalars
+  examples: []
+  id: 102-03-08
+  notes:
+  - content: In an Euclidean or Hermitian vector space, an orthonormal base is generally
+      chosen. In the vector space formed by a set of stem:[n-]bit words (see Note
+      1 to entry in {{IEV 102-03-01, urn:iec:std:iec:60050-102-03-01}}, vector space)
+      a base is the set of stem:[n-]bit words having only one non-zero bit.
+  - content: Any vector of a base is called "base vector".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: base
+    usage_info: in linear algebra
+  - type: expression
+    normative_status: preferred
+    designation: basis
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 102-03-08
+      version: 2007-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: 3b08f110-c513-5f05-a733-532fa4a83c25
+classification: preferred

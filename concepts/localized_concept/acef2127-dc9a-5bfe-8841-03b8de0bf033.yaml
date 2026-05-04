@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: function to work on process variable quantities, which is composed of
+      basic functions of process control, specific to particular functional units
+      of the plant
+  examples: []
+  id: 351-55-16
+  notes:
+  - content: In addition to process control functions associated with specific control
+      levels, there can also be process control functions that link input and output
+      variables across several control levels. For instance, a process control function
+      in the feedback path with the controlled variable as input variable and the
+      manipulated variable as output variable, describes the action path from the
+      sensing element via the controller to the final controlling element. Another
+      process control function connects the operator with the indicators for the process
+      variables. In view of the diversity of definitions of process control functions,
+      standardization is not appropriate at this time.
+  - content: This entry was numbered 351-31-17 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: process control function
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: acef2127-dc9a-5bfe-8841-03b8de0bf033

@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{angle, urn:iec:std:iec:60050-102-03-29}} between the vectors associated
+      with two {{straight lines, urn:iec:std:iec:60050-102-04-02}}"
+  examples: []
+  id: 102-04-14
+  notes:
+  - content: 'The SI unit of angle is the radian (symbol rad). Other units are the
+      degree (symbol °), the minute (symbol &prime;) and the second (symbol &Prime;):
+      1° = (stem:[pi]/180) rad, 1&prime; = (1/60)°, 1&Prime; = (1/60)&prime;.'
+  - content: The term "plane angle" is only used in place of the term "angle" to distinguish
+      it from the term "{{solid angle, urn:iec:std:iec:60050-102-04-46}}".
+  - content: The angle between a straight line and a plane and the angle between two
+      planes are defined in {{IEV 102-04-56, urn:iec:std:iec:60050-102-04-56}} and
+      {{IEV 102-04-57, urn:iec:std:iec:60050-102-04-57}}, respectively.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: angle
+    usage_info: between two straight lines
+  - type: expression
+    normative_status: preferred
+    designation: plane angle
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 102-04-14
+      version: 2007-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: 47056aa8-8c2b-5165-8058-6d85f5c1487d
+classification: preferred

@@ -1,0 +1,77 @@
+---
+data:
+  dates:
+  - date: '2013-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "surface définie comme pouvant être touchée (ou accessible) dans la norme
+      du produit final, prenant en compte l'installation prévue de l'équipement et
+      des surfaces {{à portée, urn:iec:std:iec:60050-903-03-03}}, autres que:\r\n*
+      les surfaces fonctionnelles chaudes;* les surfaces adjacentes; et* les poignées
+      ou boutons de commande, y compris les pavés numériques, claviers et équipements
+      analogues, qu'un utilisateur doit toucher pour faire fonctionner ou régler un
+      équipement"
+  examples: []
+  id: 903-03-04
+  notes:
+  - content: "Voir la Figure 1 pour les exemples de types de surfaces qui peuvent
+      être rencontrés.\r\nimage::/assets/images/parts/903/acos-guide117_2010_f1_fr.jpg[]\r\nFigure
+      1 – Identification des parties d'équipement pouvant être touchées (zones hachurées)"
+  - content: L'équipement doit être installé conformément aux instructions du fabricant.
+      Cela signifie que pour un four destiné à être encastré, il convient de suivre
+      les instructions du fabricant avant l'identification des surfaces pouvant être
+      touchées.
+  sources:
+  - origin:
+      ref: IEC Guide 117:2010
+      locality:
+        type: clause
+        reference_from: '3.9'
+      original: IEC Guide 117:2010, 3.9, modifiée – Le terme et la définition ont
+        été spécifiés au singulier. Le texte "(dans certaines normes,  surfaces accessibles
+        ou parties accessibles)" a été supprimé et le synonyme "surface accessible"
+        a été spécifié dans le champ approprié.
+    status: modified
+    type: authoritative
+    modification: Le terme et la définition ont été spécifiés au singulier. Le texte
+      "(dans certaines normes,  surfaces accessibles ou parties accessibles)" a été
+      supprimé et le synonyme "surface accessible" a été spécifié dans le champ approprié.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: surface pouvant être touchée
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: surface accessible
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2013-06-01T00:00:00+00:00'
+  review_decision_date: '2013-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-06-01T00:00:00+00:00'
+id: 92d89df6-3cae-577f-bebd-bc101587b55f
+classification: preferred

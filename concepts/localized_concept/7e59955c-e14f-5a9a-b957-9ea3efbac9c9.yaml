@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2016-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: form of {{telecommunication, urn:iec:std:iec:60050-701-01-05}} for the
+      {{transmission, urn:iec:std:iec:60050-701-01-03}} of {{signals, urn:iec:std:iec:60050-101-12-02}}
+      representing scenes, images of the scenes being reproduced on a screen as they
+      are received or recorded for subsequent use
+  examples: []
+  id: 701-01-15
+  notes:
+  - content: This form of telecommunication finds major application in {{television
+      broadcasting, urn:iec:std:iec:60050-701-01-35}} and the word “television” is
+      often used without qualification to describe this application. The same technique
+      is also used for industrial, scientific, medical and other applications; such
+      applications are often referred to as “{{closed-circuit television, urn:iec:std:iec:60050-723-01-19}}”.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: television
+  - type: expression
+    normative_status: preferred
+    designation: TV
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 701-01-15
+      version: '1988'
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-12-01T00:00:00+00:00'
+id: 7e59955c-e14f-5a9a-b957-9ea3efbac9c9
+classification: preferred

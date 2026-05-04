@@ -1,0 +1,63 @@
+---
+data:
+  definition:
+  - content: "{{unité, urn:iec:std:iec:60050-112-01-14}} de {{température thermodynamique,
+      urn:iec:std:iec:60050-113-04-14}} du {{SI, urn:iec:std:iec:60050-112-02-02}},
+      définie en prenant la valeur numérique fixée de la {{constante de Boltzmann,
+      urn:iec:std:iec:60050-113-02-17}} stem:[k] comme étant égale à 1,380 649 × 10^−23^
+      lorsqu’elle est exprimée en J/K, unité égale à  kg m^2^ s^−2^ K^−1^, le {{kilogramme,
+      urn:iec:std:iec:60050-112-02-06}}, le {{mètre, urn:iec:std:iec:60050-112-02-05}}
+      et la {{seconde, urn:iec:std:iec:60050-112-02-04}} étant définis en fonction
+      de stem:[h], stem:[c] et stem:[ν]~Cs~\r\nNote 1 à l’article: La définition donnée
+      dans la Brochure sur le SI est la suivante: \"Le kelvin, symbole K, est l’unité
+      de température thermodynamique du SI. Il est défini en prenant la valeur numérique
+      fixée de la constante de Boltzmann, stem:[k], égale à 1,380 649 × 10^−23^ lorsqu’elle
+      est exprimée en J K^−1^, unité égale à kg m^2^ s^−2^ K^−1^, le kilogramme, le
+      mètre et la seconde étant définis en fonction de stem:[h], stem:[c] et Δstem:[ν]~Cs~.\"\r\nNote
+      2 à l’article: Pour 1 mol d'un gaz idéal, l'{{énergie interne, urn:iec:std:iec:60050-113-04-20}}
+      est stem:[U] = (3/2)stem:[k]stem:[T]stem:[N]~A~, où stem:[k] est la constant
+      de Boltzmann, stem:[T] est la température thermodynamique, et stem:[N]~A~ est
+      la {{constante d'Avogadro, urn:iec:std:iec:60050-113-02-08}}.\r\nNote 3 à l’article:
+      La définition du kelvin dans l'IEV 112-02-08:2010-01 était: \"unité SI de température
+      thermodynamique, égale à la fraction 1/273,16 de la température thermodynamique
+      du point triple de l’eau\".\r\nNote 4 à l’article: Le kelvin est l’une des sept
+      {{unités de base, urn:iec:std:iec:60050-112-01-18}} du SI: {{seconde, urn:iec:std:iec:60050-112-02-04}}
+      (s), {{mètre, urn:iec:std:iec:60050-112-02-05}} (m), {{kilogramme, urn:iec:std:iec:60050-112-02-06}}
+      (kg), {{ampère, urn:iec:std:iec:60050-112-02-07}} (A), kelvin (K), {{mole, urn:iec:std:iec:60050-112-02-09}}
+      (mol) et {{candela, urn:iec:std:iec:60050-112-02-10}} (cd)."
+  examples: []
+  id: 112-02-08
+  notes: []
+  sources:
+  - origin:
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      locality:
+        type: clause
+        reference_from: 2.3.1
+      original: Brochure sur le SI, 9^e^ édition, 2019, 2.3.1, modifié – La définition
+        de la Brochure sur le SI a été révisée à des fins de mise en conformité avec
+        les règles de l’IEV. Les notes 1 à 4 à l’article ont été ajoutées.
+    status: modified
+    type: authoritative
+    modification: La définition de la Brochure sur le SI a été révisée à des fins
+      de mise en conformité avec les règles de l’IEV. Les notes 1 à 4 à l’article
+      ont été ajoutées.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: kelvin
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: df9921c3-a2b4-560d-ab75-3166c75432d4

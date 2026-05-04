@@ -1,0 +1,50 @@
+---
+data:
+  definition:
+  - content: "{{état stable, urn:iec:std:iec:60050-692-02-02}} autre qu’un {{état
+      d’alerte, urn:iec:std:iec:60050-692-02-07}}image::/assets/images/parts/692/692-fig2-fr.png[Figure
+      2 - États d’un réseau d’énergie électrique]image::/assets/images/parts/692/692-fig3-fr.png[]"
+  examples: []
+  id: 692-02-10
+  notes:
+  - content: 'Les flèches indiquent les transitions d’état les plus importantes induites
+      par des événements plausibles. Les transitions de récupération, dans les directions
+      opposées, résultent des interventions des opérateurs.*Figure 3 – Exemples de
+      transitions internes aux états d’un réseau d’énergie électrique*Note 1 à l’article:
+      En Amérique du Nord, le terme "secure state" est utilisé pour un état stable
+      qui n’est pas un {{état potentiellement instable, urn:iec:std:iec:60050-692-02-08}}.
+      Note 2 à l’article: Cet article portait le numéro 191-22-09 dans l’IEC 60050-191:1990.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: état non vulnérable
+    usage_info: d’un réseau d’énergie électrique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: état normal
+    usage_info: d’un réseau d’énergie électrique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: a26109f6-26dc-5bfe-8ef4-a4859465012b

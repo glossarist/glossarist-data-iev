@@ -1,0 +1,56 @@
+---
+data:
+  definition:
+  - content: 'fonction stem:[f] qui attribue un scalaire stem:[f ( U "," " " V )]
+      à tout couple de vecteurs *stem:[U]* et *stem:[V]* dans un espace vectoriel
+      donné, avec les propriétés suivantes: *    f(α U, V)=α f(U, V) MathType@MTEF@5@5@+=
+      feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe
+      aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe
+      WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaadAgacaGGOaGaeq ySdeMaaGPaVlaahwfacaGGSaGaaGjbVlaahAfacaGGPaGaeyypa0Ja
+      eqySdeMaaGPaVlaadAgacaGGOaGaaCyvaiaacYcacaaMe8UaaCOvai aacMcaaaa@4CA3@    et    f(U, β V)=β f(U, V)
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaadAgacaGGOaGaaC
+      yvaiaacYcacaaMe8UaeqOSdiMaaGPaVlaahAfacaGGPaGaeyypa0Ja eqOSdiMaaGPaVlaadAgacaGGOaGaaCyvaiaacYcacaaMe8UaaCOvai
+      aacMcaaaa@4CA7@    où α et β sont des scalaires, *    f(U+V, W)=f(U, W)+f(V, W)
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaadAgacaGGOaGaaC
+      yvaiabgUcaRiaahAfacaGGSaGaaGjbVlaahEfacaGGPaGaeyypa0Ja amOzaiaacIcacaWHvbGaaiilaiaaysW7caWHxbGaaiykaiabgUcaRi
+      aadAgacaGGOaGaaCOvaiaacYcacaaMe8UaaC4vaiaacMcaaaa@4F34@    et    f(W, U+V)=f(W, U)+f(W, V)
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaadAgacaGGOaGaaC
+      4vaiaacYcacaaMe8UaaCyvaiabgUcaRiaahAfacaGGPaGaeyypa0Ja amOzaiaacIcacaWHxbGaaiilaiaaysW7caWHvbGaaiykaiabgUcaRi
+      aadAgacaGGOaGaaC4vaiaacYcacaaMe8UaaCOvaiaacMcaaaa@4F34@    pour tout vecteur
+      W du même espace vectoriel'
+  examples: []
+  id: 102-03-16
+  notes:
+  - content: Une forme bilinéaire sur un espace vectoriel à stem:[n] dimensions peut
+      être représentée par une matrice carrée stem:[(k_(i j))] et le scalaire est
+      stem:[f ( U "," " " V ) = sum_(i j) k_(i j) U_(i) V_(j)].
+  - content: Les formes bilinéaires sur un espace vectoriel à stem:[n] dimensions
+      constituent un espace vectoriel à stem:[n^(2)] dimensions.
+  - content: Le concept de forme bilinéaire se généralise à celui de «forme linéaire»
+      dans le cas d'un seul vecteur et de «forme multilinéaire» (ou stem:[m]-linéaire)
+      dans le cas d'un ensemble ordonné de stem:[m] vecteurs.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: forme bilinéaire
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: e1b8922c-6d91-59de-8e6b-818f57e7b54b

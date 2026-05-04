@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '2020-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: |-
+      value of the {{characteristic quantity, urn:iec:std:iec:60050-447-07-01}} at which a {{measuring relay, urn:iec:std:iec:60050-447-01-02}} or {{protection equipment, urn:iec:std:iec:60050-447-01-49}} {{starts, urn:iec:std:iec:60050-447-02-08}} (picks up)<simg usemap="#1-60050-447-Ed2-IS-CDV-Fig3-en-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig3-en-4web"> <area title="characteristic quantity (for under... relay)" href="IEV447-01-24" shape="rect" coords="8,106,129,147" target="_self" alt="characteristic quantity (for under... relay)"> <area title="characteristic quantity (for over... relay)" href="IEV447-01-23" shape="rect" coords="4,263,129,298" target="_self" alt="characteristic quantity (for over... relay)"> <area title="initial condition" href="IEV447-02-03" shape="rect" coords="142,38,227,87" target="_self" alt="initial condition"> <area title="start value" href="IEV447-02-14" shape="rect" coords="139,148,224,180" target="_self" alt="start value"> <area title="start value" href="IEV447-02-14" shape="rect" coords="141,231,224,259" target="_self" alt="start value"> <area title="start time" href="IEV447-05-11" shape="rect" coords="230,402,306,433" target="_self" alt="start time"> <area title="start" href="IEV447-02-08" shape="rect" coords="275,21,332,52" target="_self" alt="start"> <area title="start condition" href="IEV447-02-19" shape="rect" coords="322,61,429,93" target="_self" alt="start condition">
+      <area title="output signals" href="IEV447-04-03" shape="rect" coords="49,368,129,385" target="_self" alt="output signals"></map>
+
+      Figure 3 – Explanatory diagram for start condition (pick-up condition)</b></p></simg>
+  examples: []
+  id: 447-02-14
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: start value
+  - type: expression
+    normative_status: preferred
+    designation: pick-up value
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-05-01T00:00:00+00:00'
+id: 946b87f5-b52c-5547-a508-d4eeb38b51a9
+classification: preferred

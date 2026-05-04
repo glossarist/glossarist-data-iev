@@ -1,0 +1,37 @@
+---
+data:
+  definition:
+  - content: rapport de la réponse lumineuse d'une source évaluée selon l'{{efficacité
+      lumineuse relative spectrale, urn:iec:std:iec:60050-845-21-035}} scotopique
+      CIE, stem:[V]′(stem:[λ]), à la réponse lumineuse évaluée selon l'efficacité
+      lumineuse relative spectrale photopique, stem:[V](stem:[λ])
+  examples: []
+  id: 845-21-113
+  notes:
+  - content: Le rapport S/P peut être exprimé parstem:[R_("SP") = frac(K^(prime)_("m")
+      int_("0")^(oo) S "(" lambda ")" " " V^(prime) "(" lambda ")" " " "d" lambda)(K_("m")
+      int_("0")^(oo) S "(" lambda ")" " " V "(" lambda ")" " " "d" lambda)]où stem:[K]′~m~ ≈ 1 700 lm·W^−1^
+      est l'efficacité lumineuse maximale pour la vision scotopique, stem:[K]~m~ ≈ 683
+      lm·W^−1^ est l'efficacité lumineuse maximale pour la vision photopique, stem:[S](stem:[λ])
+      est la {{répartition spectrale relative, urn:iec:std:iec:60050-845-21-030}}
+      de la source, et stem:[λ] est la longueur d'onde.
+  - content: L'unité de rapport S/P est un.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rapport S/P
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: c7ddfcb3-f5e7-5800-9dc8-8f9b271f0812

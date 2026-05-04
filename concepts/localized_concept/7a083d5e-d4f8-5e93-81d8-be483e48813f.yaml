@@ -1,0 +1,53 @@
+---
+data:
+  dates:
+  - date: '1994-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '1994-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: niveau, exprimé en décibels, égal à dix fois le logarithme décimal du
+      rapport de la surface de réverbération de l'objet à l'aire de référence sphérique
+      de stem:[4 pi r_(0)^(2)] où stem:[r]~0~ est la distance de référence, choisie
+      de préférence égale à 1 m
+  examples: []
+  id: 801-32-36
+  notes:
+  - content: Quelle que soit l'aire de référence utilisée, elle doit être spécifiée.
+  - content: On peut définir de la même façon l'indice de diffusion d'un objet pour
+      une direction déterminée autre que vers l'arrière.
+  - content: Exprimé sous une autre forme, l'indice de réverbération d'un objet est
+      le niveau de pression acoustique correspondant au champ réverbéré qui existerait
+      à la distance de référence stem:[r]~0~ du centre acoustique de l'objet diffusant,
+      diminué du niveau de pression acoustique correspondant à une onde plane venant
+      frapper l'objet.
+  - content: "Exprimée en symboles littéraux, la définition s'écrit:\r\nstem:[N_(\"ts\")
+      = L_(\"SC\") - L_(\"i\") = 10 \" \" \"log\"_(10) frac(A_(\"ob\"))(4 pi r_(0)^(2))
+      \" \" \"dB\"]\n\noù:\n\nstem:[N]~ts~ est l'indice de réverbération d'un objet\n\nstem:[L]~SC~
+      est le niveau de pression acoustique réverbérée à la distance de référence\n\nstem:[L]~i~
+      est le niveau de pression acoustique incidente\n\nstem:[A]~ob~ est la surface
+      efficace de réverbération de l'objet\n\nstem:[r]~0~ est la distance de référence\n\nstem:[4
+      pi r_(0)^(2)] est la surface de référence pour l'indice de réverbération d'un
+      objet."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indice de réverbération d'un objet
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1994-07-01T00:00:00+00:00'
+id: 7a083d5e-d4f8-5e93-81d8-be483e48813f

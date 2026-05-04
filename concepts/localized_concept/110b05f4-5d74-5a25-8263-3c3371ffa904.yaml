@@ -1,0 +1,55 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: 'element of a set containing the real numbers and other elements, which
+      may be represented by an ordered pair of real numbers (stem:[a], stem:[b]),
+      with following properties: * the pair (a, 0) represents the real number a, *
+      an addition is defined by    ( a 1  ,  b 1  )+( a 2  ,  b 2  )=( a 1  + a 2  , 
+      b 1  + b 2  ) MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaacIcacaWGHbWaaS
+      baaSqaaiaaigdaaeqaaOGaaeilaiaaysW7caWGIbWaaSbaaSqaaiaa igdaaeqaaOGaaiykaiabgUcaRiaacIcacaWGHbWaaSbaaSqaaiaaik
+      daaeqaaOGaaeilaiaaysW7caWGIbWaaSbaaSqaaiaaikdaaeqaaOGa aiykaiabg2da9iaacIcacaWGHbWaaSbaaSqaaiaaigdaaeqaaOGaey
+      4kaSIaamyyamaaBaaaleaacaaIYaaabeaakiaabYcacaaMe8UaamOy amaaBaaaleaacaaIXaaabeaakiabgUcaRiaadkgadaWgaaWcbaGaaG
+      OmaaqabaGccaGGPaaaaa@55F8@   ,* a multiplication is defined by    ( a 1  , 
+      b 1  )×( a 2  ,  b 2  )=( a 1   a 2  − b 1   b 2  ,  a 1   b 2  + a 2   b 1  )
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaacIcacaWGHbWaaS
+      baaSqaaiaaigdaaeqaaOGaaeilaiaaysW7caWGIbWaaSbaaSqaaiaa igdaaeqaaOGaaiykaiabgEna0kaacIcacaWGHbWaaSbaaSqaaiaaik
+      daaeqaaOGaaeilaiaaysW7caWGIbWaaSbaaSqaaiaaikdaaeqaaOGa aiykaiabg2da9iaacIcacaWGHbWaaSbaaSqaaiaaigdaaeqaaOGaam
+      yyamaaBaaaleaacaaIYaaabeaakiabgkHiTiaadkgadaWgaaWcbaGa aGymaaqabaGccaWGIbWaaSbaaSqaaiaaikdaaeqaaOGaaeilaiaays
+      W7caWGHbWaaSbaaSqaaiaaigdaaeqaaOGaamOyamaaBaaaleaacaaI YaaabeaakiabgUcaRiaadggadaWgaaWcbaGaaGOmaaqabaGccaWGIb
+      WaaSbaaSqaaiaaigdaaeqaaOGaaiykaaaa@5E98@'
+  examples: []
+  id: 102-02-09
+  notes:
+  - content: All properties of real numbers (operations and limits) are extended to
+      complex numbers except the order relation.
+  - content: The complex number defined by the pair (stem:[a], stem:[b]) is denoted
+      by stem:[c = a + rm(j) b] where j is the imaginary unit ({{IEV 102-02-10, urn:iec:std:iec:60050-102-02-10}})
+      represented by the pair (0, 1), stem:[a] is the real part and stem:[b] the imaginary
+      part. A complex number may also be expressed as stem:[c = |c| ( cosphi + rm(j)
+      " " sinphi ) = |c| e^(rm(j) phi)] where stem:[|c|] is a non-negative real number
+      called modulus and stem:[φ] a real number called argument.
+  - content: In electrotechnology, a complex number is usually denoted by an underlined
+      letter symbol, for example stem:[underline(c)].
+  - content: The set of complex numbers is denoted by ℂ (C with a vertical bar in
+      the left arc) or *C*. This set without zero is denoted by an asterisk to the
+      symbol, for example ℂ*.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complex number
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: 110b05f4-5d74-5a25-8263-3c3371ffa904

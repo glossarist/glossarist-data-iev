@@ -1,0 +1,56 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a quantity growing or decaying exponentially towards a constant value
+      the duration of a time interval, at the end of which the absolute value of the
+      difference between that constant value and the value of the variable quantity
+      has decreased to e^–1^ times of the absolute value of the difference at the
+      beginning of the interval, where e is the base of natural logarithms
+  examples: []
+  id: 351-45-32
+  notes:
+  - content: The time constant is the variable quantity stem:[τ] appearing in the
+      function stem:[F (t) = a + b * "e"^(- frac(t)(tau))] describing a time-dependent
+      variable quantity.
+  - content: 'The time constant is the reciprocal of the damping coefficient stem:[δ]
+      (IEC 60027-6, _Letter symbols to be used in electrical technology – Part 6:
+      Control technology_) of a damped oscillation, as well.'
+  - content: In control technology the time constant usually is derived from the step
+      response of a first-order lag element as the duration of the time interval,
+      required to reach 63,2 % [i.e. (1 – e^–1^)-times] of the steady-state value
+      of the step response.
+  - content: The time constant is the variable quantity stem:[τ] appearing in the
+      expression stem:[F (t) = a + b * "e"^(- frac(t)(tau)) * f (t)] of an exponentially
+      damped oscillation, where stem:[f](stem:[t]) is a sinusoidal function.
+  - content: This entry was numbered 351-24-24 in IEC 60050-351:2006.
+  sources:
+  - origin:
+      ref: IEC 60050-111:1996
+      locality:
+        type: clause
+        reference_from: 111-13-06
+      original: IEC 60050-111:1996,111-13-06, modified – The wording of the definition
+        is slightly different and several notes to entry have been added to adapt
+        to usage in control technology.
+    status: modified
+    type: authoritative
+    modification: The wording of the definition is slightly different and several
+      notes to entry have been added to adapt to usage in control technology.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: time constant
+  - designation: stem:[τ]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: a30d324b-e843-5050-afb1-2b7faa254ec3

@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2010-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: terme désignant une {{grandeur, urn:iec:std:iec:60050-112-01-01}}
+  examples: []
+  id: 112-01-02
+  notes:
+  - content: Des règles pour la formation des noms composés sont données dans l'ISO
+      80000-1 et l'IEC 60027-1.
+  - content: Les différentes parties de l'ISO 80000, de l'IEC 80000 et de l'IEC 60027
+      donnent des noms de grandeurs.
+  - content: 'En principe, un nom de grandeur ne devrait pas faire référence à un
+      nom d’unité. Il y a des exceptions, par exemple: "voltage" en anglais (voir
+      {{IEV 121-11-27, urn:iec:std:iec:60050-121-11-27}}) et un emploi comme qualificatif
+      d’un nom de grandeur comme "{{molaire, urn:iec:std:iec:60050-112-03-15}}".'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nom de grandeur
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2010-01-01T00:00:00+00:00'
+id: 7fb00424-0665-511f-bc93-202a1e97ae4c

@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of the {{radiance, urn:iec:std:iec:60050-845-21-049}} at a surface
+      element of a medium in a given direction and the {{irradiance, urn:iec:std:iec:60050-845-21-053}}
+      on the mediumstem:[q_("e") = frac(L_("e"))(E_("e"))]where stem:[L]~e~ is radiance
+      and stem:[E]~e~ is irradiance
+  examples: []
+  id: 845-24-078
+  notes:
+  - content: The bi-directional reflectance distribution function (BRDF) is similar
+      to the radiance coefficient except that it is defined for directional incident
+      radiation.
+  - content: The radiance coefficient is expressed in steradian to the power minus
+      one (sr^−1^).
+  - content: This entry was numbered 845-04-70 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance coefficient
+  - designation: |-
+      stem:[q]~e~
+      stem:[q]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 1977b704-1007-569e-aaa8-2901ff8d4605

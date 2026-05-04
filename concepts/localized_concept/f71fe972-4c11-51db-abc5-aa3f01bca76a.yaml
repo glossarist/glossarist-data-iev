@@ -1,0 +1,48 @@
+---
+data:
+  definition:
+  - content: valeur de courant correspondant à l’intersection de la caractéristique
+      totale temps–courant de l'appareil de protection placé en aval avec la caractéristique
+      temps–courant de pré-arc (pour les fusibles) ou de déclenchement (pour les disjoncteurs)
+      de l’autre appareil de protection
+  examples: []
+  id: 442-05-60
+  notes:
+  - content: Le courant limite de sélectivité est une valeur limite du courant:* au-dessous
+      de laquelle, pour deux dispositifs de protection à maximum de courant placés
+      en série, le dispositif placé côté aval assure son opération de coupure avant
+      que l'autre dispositif ne commence la sienne (c'est à dire que la sélectivité
+      est assurée);* au-dessus de laquelle, pour deux dispositifs de protection à
+      maximum de courant placés en série, le dispositif placé côté aval ne peut pas
+      assurer son opération de coupure complètement avant que l'autre dispositif ne
+      commence la sienne (c'est à dire que la sélectivité n'est pas assurée).
+  - content: "{{Les caractéristiques stem:[I]^2^stem:[t], urn:iec:std:iec:60050-442-05-59}}
+      peuvent être utilisées à la place des caractéristiques temps–courant."
+  sources:
+  - origin:
+      ref: IEC 62873-2:2016
+      locality:
+        type: clause
+        reference_from: 3.6.1
+      original: IEC 62873-2:2016, 3.6.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: courant limite de sélectivité
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: f71fe972-4c11-51db-abc5-aa3f01bca76a

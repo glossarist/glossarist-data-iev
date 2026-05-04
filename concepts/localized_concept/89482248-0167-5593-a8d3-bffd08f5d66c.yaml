@@ -1,0 +1,50 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "under {{sinusoidal conditions, urn:iec:std:iec:60050-131-11-28}} in
+      a medium where the {{phasors, urn:iec:std:iec:60050-131-11-26}} <u>stem:[\n\nD]</u>
+      and <u>stem:[\n\nE]</u> representing respectively the {{electric flux density,
+      urn:iec:std:iec:60050-121-11-40}} and the {{electric field strength, urn:iec:std:iec:60050-121-11-18}}
+      are linearly related, complex quantity stem:[<u>ε</u>]~ r~ defined by the relation\n\n<u>stem:[\n\nD]</u>
+      = stem:[ε]~0~stem:[<u>ε</u>]~ r~ <u>stem:[\n\nE]</u>\r\nwhere stem:[ε]~0~  is
+      the {{electric constant, urn:iec:std:iec:60050-121-11-03}}"
+  examples: []
+  id: 121-12-14
+  notes:
+  - content: The complex relative permittivity is generally frequency dependent. For
+      an isotropic medium, the complex relative permittivity is a {{scalar quantity,
+      urn:iec:std:iec:60050-102-02-19}}; for an anisotropic medium, it is a {{tensor
+      quantity, urn:iec:std:iec:60050-102-03-40}}.
+  - content: Generally, stem:[<u>ε</u>]~r~  is expressed as stem:[<u>ε</u>]~ r~ =
+      stem:[ε']~ r~ − jstem:[ε'']~r~  where stem:[ε']~r~ is the {{real relative permittivity,
+      urn:iec:std:iec:60050-121-12-15}} and stem:[ε'']~r~ is the {{dielectric loss
+      index, urn:iec:std:iec:60050-121-12-16}}, which represents {{dielectric losses,
+      urn:iec:std:iec:60050-121-12-11}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complex relative permittivity
+  - type: expression
+    normative_status: deprecated
+    designation: relative complex dielectric constant
+  - designation: stem:[<u>ε</u>]~r~
+    international: true
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 121-12-14
+      version: 1998-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: 89482248-0167-5593-a8d3-bffd08f5d66c
+classification: deprecated

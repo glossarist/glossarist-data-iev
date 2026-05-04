@@ -1,0 +1,69 @@
+---
+data:
+  definition:
+  - content: aspect commun à des {{grandeurs, urn:iec:std:iec:60050-112-01-01}} mutuellement
+      comparables
+  examples: []
+  id: 112-01-04
+  notes:
+  - content: "La répartition des grandeurs en différentes natures est dans une certaine
+      mesure arbitraire.\r\nExemples:\n\n• Les grandeurs diamètre, circonférence et
+      longueur d'onde sont généralement considérées comme des grandeurs de même nature,
+      à savoir la nature de la longueur.\n\n• Les grandeurs chaleur, énergie cinétique
+      et énergie potentielle sont généralement considérées comme des grandeurs de
+      même nature, à savoir la nature de l'énergie."
+  - content: "Les grandeurs de même nature dans un système de grandeurs donné ont
+      la même {{dimension, urn:iec:std:iec:60050-112-01-11}}. Cependant des grandeurs
+      de même dimension ne sont pas nécessairement de même nature.\n\nExemples: Les
+      grandeurs moment de force et énergie ne sont pas de même nature, bien qu’elles
+      aient la même dimension. Il en est de même pour la capacité thermique et l'entropie,
+      ainsi que pour la perméabilité relative et la fraction massique.\r\nNote 3 à
+      l’article: Le terme \"nature\" n'est employé que dans des expressions telles
+      que \"grandeurs de même nature\". Des grandeurs de même nature sont mutuellement
+      comparables et peuvent donc être classées selon l'ordre croissant ou décroissant
+      de leurs expressions quantitatives. La longueur et la masse sont des grandeurs
+      de natures différentes parce qu'elles ne sont pas mutuellement comparables."
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 99:2007
+      locality:
+        type: clause
+        reference_from: '1.2'
+      original: ISO/IEC Guide 99:2007, 1.2, modifié – La note 3 a été modifiée.
+    status: modified
+    type: authoritative
+    modification: La note 3 a été modifiée.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nature de grandeur
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: nature
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: a0d24000-00c7-5eec-8c14-bb76af46056e
+classification: preferred

@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: type of control for which the performance index reaches a largest or
+      smallest value under specified conditions
+  examples: []
+  id: 351-47-41
+  notes:
+  - content: Performance index is a mathematical expression which characterises the
+      quality of control under given conditions.
+  - content: The determination of optimal control parameters frequently results from
+      minimising integral criteria which are often called control areas from the geometric
+      interpretation of the integral. The most important ones are:stem:[I_("IAE")
+      = int_(0)^(oo) |e (t)| * "d" t] Criterion of Integral Absolute Errorstem:[I_("ISE")
+      = int_(0)^(oo) e^(2) (t) * "d" t] Criterion of Integral Squared Errorstem:[I_("ITAE")
+      = int_(0)^(oo) t * |e (t)| * "d" t] Criterion of Integral of Time multiplied
+      Absolute value of ErrorTherein stem:[e](stem:[t]) is the control difference
+      variable as a function of time as answer to an input appropriate to the technological
+      task, for example a response to a stepwise change of the reference variable.
+  - content: This entry was numbered 351-26-35 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optimal control
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: b39f593f-a2da-50ad-a0a8-d45a24c80611

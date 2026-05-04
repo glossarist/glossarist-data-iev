@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2002-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "scalar quantity equal to the line integral of the electric field strength
+      stem:[*E*] along a specific path linking two points a and b:\r\nstem:[U_(\"ab\")
+      = int_(r_(\"a\"))^(r_(\"b\")) E * \"d\" r]\r\nwhere stem:[*r*]~a~ and stem:[*r*]~b~
+      are the position vectors for a and b, respectively, and dstem:[*r*] is the vector
+      line element"
+  examples: []
+  id: 121-11-27
+  notes:
+  - content: "In the case of an irrotational field strength, the voltage is independent
+      of the path and equal to the negative of the electric potential difference between
+      the two points:\r\nstem:[U_(\"ab\") = - (V_(\"b\") - \" \" V_(\"a\"))]"
+  - content: The name "voltage", commonly used in the English language, is an exception
+      from the principle that a quantity name should not refer to any name of unit.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: voltage
+  - type: expression
+    normative_status: preferred
+    designation: "(electric) tension"
+  - designation: stem:[U]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2002-01-01T00:00:00+00:00'
+  review_decision_date: '2002-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-01-01T00:00:00+00:00'
+id: 4b1f0f1d-c497-5417-91b5-95ece17cd1fe
+classification: preferred

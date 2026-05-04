@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: |-
+      complex function whose {{real part, urn:iec:std:iec:60050-102-02-11}} is the real function stem:[f](stem:[t]) representing a signal and whose imaginary part is the Hilbert transform stem:[g](stem:[t]) of the function stem:[f](stem:[t]):
+
+      stem:[f (t) + "j" g (t) = f (t) - frac("j")(pi) int_(- oo)^(+ oo) frac(f (t))(tau - t) " d" tau]
+  examples: []
+  id: 702-04-52
+  notes:
+  - content: The real part stem:[f](stem:[t]) of an analytic signal is the opposite
+      of the Hilbert transform of the imaginary part stem:[g](stem:[t]).
+  - content: If it exists, the complex {{Fourier transform, urn:iec:std:iec:60050-103-04-01}}
+      of an analytic signal is zero for all negative frequencies so that, for instance,
+      the analytic signal can be used to represent a single sideband modulated signal.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: analytic signal
+  language_code: eng
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: 05a635e0-d1fd-5464-907e-93820df3ae34

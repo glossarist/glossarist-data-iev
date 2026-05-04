@@ -1,0 +1,56 @@
+---
+data:
+  dates:
+  - date: '1994-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '1994-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: niveau, exprimé en décibels, égal à dix fois le logarithme décimal du
+      rapport du coefficient de réverbération de volume au coefficient de réverbération
+      de volume de référence 4π/stem:[r]~0~, où stem:[r]~0~ est la distance de référence,
+      choisie de préférence égale à 1 m
+  examples: []
+  id: 801-32-37
+  notes:
+  - content: Quel que soit le coefficient de référence utilisé, il doit être spécifié.
+  - content: On peut définir de la même façon l'indice de réverbération de volume
+      pour une direction déterminée autre que vers l'arrière.
+  - content: Exprimé sous une autre forme, l'indice de réverbération de volume est
+      le niveau de pression acoustique correspondant au champ réverbéré qui existerait
+      à la distance de référence stem:[r]~0~ du centre acoustique du volume contenant
+      les diffuseurs, diminué du niveau de pression acoustique correspondant à une
+      onde plane venant frapper les diffuseurs.
+  - content: "Exprimée en symboles littéraux, la définition s'écrit:\r\nstem:[N_(V)
+      = L_(\"SC\") - L_(\"i\") = 10 \" \" \"log\"_(10) frac(A_(V) / V)(4 pi r_(0)^(2)
+      / V_(0)) \" \" \"dB\" = 10 \" \" \"log\"_(10) frac(m)(4 pi / r_(0)) \" \" \" \"
+      \"dB\"]\n\noù:\n\nstem:[N]~stem:[V]~  est l'indice de réverbération de volume\n\nstem:[L]~SC~  est
+      le niveau de pression acoustique réverbérée à la distance de référence\n\nstem:[L]~i~  est
+      le niveau de pression acoustique incidente\n\nstem:[A]~stem:[V]~  est la surface
+      efficace de réverbération des diffuseurs de volume stem:[V]\n\nstem:[r]~0~  est
+      la distance de référence\n\nstem:[V_(0) = r_(0)^(3)] est le volume de référence\n\nstem:[m]
+      = stem:[A]~stem:[V]~ /stem:[V]  est le coefficient de réverbération de volume\n\nstem:[4
+      pi / r_(0) = 4 pi r_(0)^(2) / V_(0)] est le coefficient de réverbération de
+      volume de référence."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indice de réverbération de volume
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1994-07-01T00:00:00+00:00'
+id: 4485d5f2-b896-5566-9f5f-0cf63d083fc0

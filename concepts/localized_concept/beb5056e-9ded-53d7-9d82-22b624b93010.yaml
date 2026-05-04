@@ -1,0 +1,91 @@
+---
+data:
+  definition:
+  - content: 'grandeur représentant les grandeurs d’un ensemble fini ou d’un intervalle,.
+      pour n grandeurs      x 1  ,  x 2  ,  …    x n   MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqipG0dh9qqWrVepG0dbbL8F4rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeGaciWaamGadaGadeaabaGaaqaaaOqaaiaadIhadaWgaaWcba
+      GaaGymaaqabaGccaGGSaGaaGjbVlaadIhadaWgaaWcbaGaaGOmaaqa baGccaGGSaGaaGjbVlaaykW7cqWIMaYscaaMc8UaaGPaVlaaysW7ca
+      WG4bWaaSbaaSqaaiaad6gaaeqaaaaa@4713@   , par le quotient de la somme des grandeurs
+      par n:      X ¯  =  1 n  ( x 1  + x 2  +   …   + x n  ) MathType@MTEF@5@5@+=
+      feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe
+      aGqipG0dh9qqWrVepG0dbbL8F4rqqrVepeea0xe9LqFf0xc9q8qqaq Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe
+      WZqaaeGaciWaamGadaGadeaabaGaaqaaaOqaamaanaaabaGaamiwaa aacqGH9aqpdaWcaaqaaKqzafGaaGymaaGcbaGaamOBaaaacaGGOaGa
+      amiEamaaBaaaleaajug4aiaaigdaaSqabaGccqGHRaWkcaWG4bWaaS baaSqaaKqzGdGaaGOmaaWcbeaakiabgUcaRiaaykW7caaMe8UaaGPa
+      VlablAciljaaykW7caaMc8UaaGjbVlabgUcaRiaadIhadaWgaaWcba GaamOBaaqabaGccaGGPaaaaa@50D7@   .  pour
+      une grandeur x fonction de la variable t, par le quotient de l''intégrale de
+      la grandeur entre deux valeurs données de cette variable par la différence des
+      deux valeurs:      X ¯  = 1   t 2  − t 1       ∫    t 1      t 2     x(t)dt   MathType@MTEF@5@5@+=
+      feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX garuavP1wzZbItLDhis9wBH5garmWu51MyVXgaruWqVvNCPvMCG4uz
+      3bqee0evGueE0jxyaibaieYdi9WrpeeC0lXdi9qqqj=hEeeu0lXdbb a9frFj0xb9Lqpepeea0xd9s8qiYRWxGi6xij=hbba9q8aq0=yq=He9
+      q8qiLsFr0=vr0=vr0db8meaabaGacmGadiWaaiWabaabaiaafaaake aadaqdaaqaaiaadIfaaaGaeyypa0ZaaSaaaeaajugqbiaaigdaaOqa
+      aiaadshadaWgaaWcbaqcLboacaaIYaaaleqaaOGaeyOeI0IaamiDam aaBaaaleaajug4aiaaigdaaSqabaaaaOWaa8qmaeaacaWG4bGaaiik
+      aiaadshacaGGPaqcLbuacaGGKbGccaWG0baaleaacaaMi8UaamiDam aaBaaameaacaaIXaaabeaaaSqaaiaayIW7caWG0bWaaSbaaWqaaiaa
+      ikdaaeqaaaqdcqGHRiI8aaaa@537A@'
+  examples: []
+  id: 103-02-01
+  notes:
+  - content: La valeur moyenne d'une grandeur périodique est généralement prise sur
+      un intervalle d'intégration dont l’étendue est le produit de la période par
+      un entier naturel.
+  - content: La valeur moyenne de la grandeur stem:[x] est représentée par stem:[bar(X)],
+      par 〈stem:[X]〉 ou par stem:[X]~a~. Les indices ar, av et moy sont aussi utilisés.
+  - content: L'adjectif «arithmétique» n'est employé pour qualifier les termes «moyenne»
+      et «valeur moyenne» que pour les distinguer des termes «moyenne géométrique»
+      et «valeur moyenne géométrique», ainsi que des termes «moyenne harmonique» et
+      «valeur moyenne harmonique».
+  - content: La valeur moyenne peut se généraliser à une fonction de stem:[n] variables,
+      par exemple au moyen du quotient d'une intégrale de surface par l’aire correspondante
+      ou d’une intégrale étendue à un domaine tridimensionnel par le volume correspondant.
+      Voir des exemples dans IEC 60050-102.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur moyenne
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: moyenne
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: valeur moyenne arithmétique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: moyenne arithmétique
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: beb5056e-9ded-53d7-9d82-22b624b93010
+classification: preferred

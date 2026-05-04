@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2002-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: |-
+      élément de circuit à deux paires de bornes et à paramètres répartis selon une dimension, caractérisé par une inductance linéique stem:[l], une capacité linéique stem:[c], une résistance linéique stem:[r] et une conductance linéique stem:[g], qui peuvent toutes être fonction de la même coordonnée spatiale stem:[x], et où la tension stem:[u](stem:[x, t]) et le courant stem:[i](stem:[x, t]), où stem:[t] est le temps, sont liés par les équations aux dérivées partielles:stem:[- frac(del u ( x , t ))(del x) = r i + l frac(del i ( x , t ))(del t)]
+
+      stem:[- frac(del i ( x , t ))(del x) = g u + c frac(del u ( x , t ))(del t)]
+  examples: []
+  id: 131-12-86
+  notes:
+  - content: Pour l'adjectif "linéique", voir la CEI 60050-111.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ligne de transmission
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-06-01T00:00:00+00:00'
+id: 31b4820d-10d8-5668-94a8-91442ab2095d

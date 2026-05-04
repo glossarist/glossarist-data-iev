@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{multiplexing, urn:iec:std:iec:60050-701-03-09}} in which several independent
+      {{signals, urn:iec:std:iec:60050-701-01-02}} are allotted separate wavelengths
+      for {{transmission, urn:iec:std:iec:60050-701-01-03}} over a common optical
+      {{transmission medium, urn:iec:std:iec:60050-704-02-01}}"
+  examples: []
+  id: 704-08-06
+  notes:
+  - content: Wavelength division multiplexing is a form of {{frequency division multiplexing,
+      urn:iec:std:iec:60050-704-08-05}}. The use of the distinct term "wavelength
+      division multiplexing" allows this concept to be distinguished from that in
+      which frequency division multiplexing is used in assembling the {{baseband,
+      urn:iec:std:iec:60050-702-01-06}} signal that has to be carried over the optical
+      link at one {{wavelength, urn:iec:std:iec:60050-103-10-10}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: wavelength division multiplexing
+  - type: expression
+    normative_status: preferred
+    designation: WDM
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 704-08-06
+      version: 1993-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: 96e8eb5f-d40c-5fd6-91c0-c02622a46000
+classification: preferred

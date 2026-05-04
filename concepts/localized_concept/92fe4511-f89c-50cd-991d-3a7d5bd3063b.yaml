@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: 1) for a discrete random variable stem:[X] taking the values stem:[x~i~]
+      with the probabilities stem:[p~i~], the sum stem:[E](stem:[X]) = ∑stem:[~i~]
+      stem:[p~i~x~i~] extended to all values stem:[x~i~] which can be taken by stem:[X]  2)
+      for a continuous random variable stem:[X] having the probability density function
+      stem:[f](stem:[x]), the value of the integral stem:[E](stem:[X]) = ∫stem:[xf(x)]dstem:[x]
+  examples: []
+  id: 192-13-03
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 60050-103:2009
+      locality:
+        type: clause
+        reference_from: 103-08-10
+      original: IEC 60050-103:2009, 103-08-10
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: expectation
+    usage_info: of a random variable
+  - type: expression
+    designation: mean
+    usage_info: of a random variable
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: 92fe4511-f89c-50cd-991d-3a7d5bd3063b

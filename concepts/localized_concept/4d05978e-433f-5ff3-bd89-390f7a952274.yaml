@@ -1,0 +1,42 @@
+---
+data:
+  definition:
+  - content: courant électrique par unité de {{surface active, urn:iec:std:iec:60050-485-02-08}}
+  examples: []
+  id: 485-12-01
+  notes:
+  - content: La densité de courant est exprimée en A/m^2^ ou A/cm^2^.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: courant surfacique
+    usage_info: piles à combustible
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: densité de courant
+    usage_info: piles à combustible
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 4d05978e-433f-5ff3-bd89-390f7a952274

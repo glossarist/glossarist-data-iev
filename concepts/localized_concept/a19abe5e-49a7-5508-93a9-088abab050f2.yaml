@@ -1,0 +1,41 @@
+---
+data:
+  definition:
+  - content: interconnexion entre segments de bus au niveau de la couche physique
+      permettant une extension du bus au-delà des limites permises par des composants
+      passifs
+  examples: []
+  id: 811-37-90
+  notes:
+  - content: Les segments interconnectés fonctionnent à la même vitesse et selon le
+      même protocole. Le retard introduit par un répéteur est de l'ordre d'un temps
+      de bit.
+  sources:
+  - origin:
+      ref: IEC 61375-1:2012
+      locality:
+        type: clause
+        reference_from: 3.1.50
+      original: IEC 61375-1:2012, 3.1.50
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: répéteur
+    usage_info: dans un réseau embarqué de train
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: a19abe5e-49a7-5508-93a9-088abab050f2

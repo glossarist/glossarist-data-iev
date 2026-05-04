@@ -1,0 +1,39 @@
+---
+data:
+  dates:
+  - date: '1997-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1997-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: méthode de codage de source utilisant la différence entre un échantillon
+      de signal et sa valeur prédite
+  examples: []
+  id: 723-10-47
+  notes:
+  - content: Lorsque les échantillons successifs du signal sont fortement corrélés,
+      un codage différentiel réduit le débit binaire car il faut moins d’intervalles
+      de quantification pour quantifier les différences que pour quantifier les valeurs
+      réelles avec la même précision.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: codage différentiel
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1997-03-01T00:00:00+00:00'
+id: b3979729-d47b-5207-a63d-dbaadf6e60f8

@@ -1,0 +1,40 @@
+---
+data:
+  definition:
+  - content: "{{norme, urn:iec:std:iec:60050-901-02-02}} qui spécifie les {{exigence,
+      urn:iec:std:iec:60050-901-05-05}}s auxquelles doit satisfaire un service pour
+      assurer son {{aptitude à l'emploi, urn:iec:std:iec:60050-901-01-12}}"
+  examples: []
+  id: 901-02-19
+  notes:
+  - content: Des normes de service peuvent notamment être élaborées dans des domaines
+      tels que ceux de la blanchisserie, de l'hôtellerie, du transport, de l'entretien
+      des voitures, des télécommunications, de l'assurance, de la banque, du commerce.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: '5.6'
+      original: Guide ISO/CEI 2:2004, 5.6
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: norme de service
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: ee828164-81ee-55bf-806f-07bd1ded0c2c

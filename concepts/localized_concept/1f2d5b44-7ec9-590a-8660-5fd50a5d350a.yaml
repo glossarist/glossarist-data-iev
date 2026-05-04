@@ -1,0 +1,50 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: unité servant à exprimer le rapport de deux puissances par dix fois le
+      logarithme décimal de ce rapport
+  examples: []
+  id: 702-07-02
+  notes:
+  - content: "– Le décibel permet aussi d'exprimer le rapport de deux grandeurs de
+      champ. Pour obtenir la même valeur numérique qu'avec le rapport des puissances
+      correspondantes, le logarithme du rapport des grandeurs de champ est multiplié
+      par le facteur 20, en supposant que les impédances soient égales.\r\nSi stem:[P]~1~
+      et stem:[P]~2~ sont deux puissances, leur rapport exprimé en décibels est:\r\nstem:[10
+      \" \" \"lg\" frac(P_(1))(P_(2))]\r\nLa relation entre un rapport de grandeurs
+      de champ et le rapport des puissances correspondantes dépend des impédances.\r\nSi
+      stem:[P]~1~ et stem:[P]~2~ représentent les puissances dissipées par les courants
+      stem:[I]~1~ et stem:[I]~2~ dans les résistances stem:[R]~1~ et stem:[R]~2~:\r\nstem:[10
+      \" \" \"lg\" frac(P_(1))(P_(2)) = 10 \" \" \"lg\" frac(I_(1)^(2))(I_(2)^(2))
+      frac(R_(1))(R_(2)) = 20 \" \" \"lg\" frac(I_(1))(I_(2)) + 10 \" \" \"lg\" frac(R_(1))(R_(2))]"
+  - content: "– Des directives pour l'emploi du décibel et de certains symboles pour
+      désigner les rapports de certaines quantités sont données dans la recommandation
+      574 du CCIR, dans la recommandation B.12 du CCITT, ainsi que dans la publication
+      27-3 de la CEI."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: décibel
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: 1f2d5b44-7ec9-590a-8660-5fd50a5d350a

@@ -1,0 +1,29 @@
+---
+data:
+  dates:
+  - date: '1998-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: the time expressed in angular measure by which the trigger pulse is delayed
+      with respect to the reference instant in the case of phase control
+  examples: []
+  id: 551-16-33
+  notes:
+  - content: With line, machine or load commutated converters the reference instant
+      is the zero crossing instant of the commutating voltage. With AC controllers
+      it is the zero crossing instant of the supply voltage. For AC controllers with
+      inductive loads the trigger delay angle is the sum of the phase shift and the
+      current delay angle.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: trigger delay angle
+  language_code: eng
+  entry_status: valid
+  review_date: '1998-11-01T00:00:00+00:00'
+  review_decision_date: '1998-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-11-01T00:00:00+00:00'
+id: 4dbf5b6e-0745-582e-8754-a227ae9922fd

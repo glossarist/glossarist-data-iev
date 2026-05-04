@@ -1,0 +1,37 @@
+---
+data:
+  definition:
+  - content: données redondantes, basées sur des fonctions non cryptographiques, incluses
+      dans un message de sécurité, afin de rendre possible la détection de la corruption
+      des données, par une fonction de transmission de sécurité
+  examples: []
+  id: 821-11-35
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62280:2014
+      locality:
+        type: clause
+        reference_from: 3.1.37
+      original: IEC 62280:2014, 3.1.37
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: code de sécurité non cryptographique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 43a86cc1-d472-58b1-a41b-235d41fa23c0

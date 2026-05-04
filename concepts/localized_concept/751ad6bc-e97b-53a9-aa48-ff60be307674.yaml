@@ -1,0 +1,38 @@
+---
+data:
+  definition:
+  - content: "{{condition de fonctionnement, urn:iec:std:iec:60050-151-16-01}} qui
+      n'est ni une {{condition normale de fonctionnement, urn:iec:std:iec:60050-151-16-49}}
+      ni une {{condition de premier défaut, urn:iec:std:iec:60050-903-01-15}} de l’équipement
+      proprement dit"
+  examples: []
+  id: 903-01-22
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62368-1:2010
+      locality:
+        type: clause
+        reference_from: 3.3.7.1
+      original: IEC 62368-1:2010, 3.3.7.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: condition anormale de fonctionnement
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 751ad6bc-e97b-53a9-aa48-ff60be307674

@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: representation of a sinusoidal {{integral quantity, urn:iec:std:iec:60050-131-11-01}}
+      by a complex quantity whose argument is equal to the initial phase and whose
+      modulus is equal to the {{RMS value, urn:iec:std:iec:60050-103-02-03}}
+  examples: []
+  id: 103-07-14
+  notes:
+  - content: For a quantity stem:[a ( t ) = hat(A) "cos" ( omega " " t + vartheta_(0)
+      )] the phasor is stem:[underline(A) = A "exp" ( rm(j) vartheta_(0) )], where
+      stem:[A = frac(hat(A))(sqrt(2))] is the RMS value and stem:[vartheta_(0)] is
+      the initial phase. A phasor can also be represented graphically.
+  - content: Electric current phasor stem:[underline(I)] and voltage phasor stem:[underline(U)]
+      are often used.
+  - content: The similar representation with the modulus equal to the amplitude is
+      sometimes also called "phasor".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phasor
+  - type: expression
+    normative_status: preferred
+    designation: complex RMS value
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 103-07-14
+      version: 2009-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: 4048d06a-dcb2-5713-a9ef-52abbbbaafad
+classification: preferred

@@ -1,0 +1,50 @@
+---
+data:
+  definition:
+  - content: interface particulière d'un matériel qui assure son couplage avec l'environnement
+      électromagnétique ({{161-01-01, urn:iec:std:iec:60050-161-01-01}}) extérieur
+      et à travers laquelle il est influencé par cet environnement
+  examples:
+  - content: "Des exemples d’accès présentant un intérêt sont indiqués à la Figure
+      1. L’accès d'enveloppe est la frontière physique de l’appareil (par exemple
+      l’enveloppe). L’accès d'enveloppe concerne le transfert d’énergie par rayonnement
+      et par décharges électrostatiques ({{161-01-22, urn:iec:std:iec:60050-161-01-22}}),
+      alors que les autres accès concernent  le transfert d’énergie par conduction.\r\nimage::/assets/images/parts/161/acec-guide107_2009_f1_fr.png[]\r\n*Figure
+      1 – Exemples d’accès*"
+  id: 161-01-27
+  notes:
+  - content: Les accès dans le domaine de la compatibilité électromagnétique sont
+      des cas particuliers de l'accès définit en {{131-12-60, urn:iec:std:iec:60050-131-12-60}}.
+  sources:
+  - origin:
+      ref: IEC Guide 107:2009
+      locality:
+        type: clause
+        reference_from: 3.1.12
+      original: Guide CEI 107:2009, 3.1.12, modifié – La présentation du terme et
+        la formulation de la définition ont été révisées pour compatibilité avec le
+        VEI.
+    status: modified
+    type: authoritative
+    modification: La présentation du terme et la formulation de la définition ont
+      été révisées pour compatibilité avec le VEI.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: accès
+    usage_info: en compatibilité électromagnétique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 90a2a324-df09-5a72-885a-74ed74898490

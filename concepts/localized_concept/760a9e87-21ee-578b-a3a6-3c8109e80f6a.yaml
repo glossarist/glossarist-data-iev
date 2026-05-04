@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2020-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{entity, urn:iec:std:iec:60050-741-01-18}} of an {{IoT system, urn:iec:std:iec:60050-741-02-07}}
+      that interacts and communicates with the physical world through sensing or actuating"
+  examples: []
+  id: 741-02-04
+  notes:
+  - content: An IoT device can be a {{sensor, urn:iec:std:iec:60050-741-02-09}} or
+      an {{actuator, urn:iec:std:iec:60050-351-49-07}}.
+  sources:
+  - origin:
+      ref: ISO/IEC 20924:2018
+      locality:
+        type: clause
+        reference_from: 3.2.4
+      original: ISO/IEC 20924:2018, 3.2.4
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IoT device
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-04-01T00:00:00+00:00'
+  review_decision_date: '2020-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-04-01T00:00:00+00:00'
+id: 760a9e87-21ee-578b-a3a6-3c8109e80f6a

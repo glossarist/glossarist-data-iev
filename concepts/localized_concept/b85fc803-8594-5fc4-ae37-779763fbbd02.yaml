@@ -1,0 +1,54 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: mean per {{character, urn:iec:std:iec:60050-702-05-10}} of the {{entropy,
+      urn:iec:std:iec:60050-171-07-15}} for all possible messages from a {{stationary
+      message source, urn:iec:std:iec:60050-171-07-09}} stem:[H^(prime) = underset(m
+      vec oo)(lim) frac(H_(m))(m)] where stem:[H~m~] is the entropy of the set of
+      all sequences of stem:[m] characters from the source
+  examples: []
+  id: 171-07-28
+  notes:
+  - content: The character mean entropy can be expressed in a unit such as the shannon
+      per character.
+  - content: The limit might not exist if the source were not stationary.
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-37
+      original: IEC 80000-13:2008, 13-37, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: character mean entropy
+  - type: expression
+    normative_status: preferred
+    designation: character mean information content
+  - type: expression
+    normative_status: admitted
+    designation: character average information
+  - type: expression
+    normative_status: admitted
+    designation: content character information rate
+  - designation: stem:[H^(prime)]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: b85fc803-8594-5fc4-ae37-779763fbbd02
+classification: preferred

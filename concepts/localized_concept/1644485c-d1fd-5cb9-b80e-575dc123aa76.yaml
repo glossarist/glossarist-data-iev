@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '1991-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '1991-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "the quantity which characterizes the material dispersion defined as:\n\nstem:[M
+      (lambda) = - frac(1)(c_(0)) frac(\"d\" N)(\"d\" lambda) = frac(lambda \"d\"^(2)
+      n)(c_(0) \"d\" lambda^(2))]\n\nwhere\r\nstem:[n] is the refractive index,\n\nstem:[N]
+      is the group index,\n\nstem:[λ] is the wavelength in vacuum, and\n\nstem:[c]~0~
+      is the speed of light in vacuum"
+  examples: []
+  id: 731-03-76
+  notes:
+  - content: For many optical fibre materials, stem:[M] is zero at a specific wavelength
+      stem:[λ]~0~, usually around 1300 nm. The sign convention is such that stem:[M]
+      is positive for wavelengths shorter than stem:[λ]~0~ and negative for wavelengths
+      longer than stem:[λ]~0~.
+  - content: Pulse broadening caused by material dispersion in a unit length of optical
+      fibre is give by stem:[M] times spectral linewidth (Δstem:[λ]), except at or
+      near stem:[λ] = stem:[λ]~0~, where terms proportional to (Δstem:[λ])^2^ are
+      important.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: material dispersion parameter
+  - designation: stem:[М]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '1991-10-01T00:00:00+00:00'
+  review_decision_date: '1991-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1991-10-01T00:00:00+00:00'
+id: 1644485c-d1fd-5cb9-b80e-575dc123aa76

@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2007-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2007-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ligne de fuite d’un isolateur divisée par la valeur efficace de la plus
+      haute tension de service appliquée à l’ isolateur
+  examples: []
+  id: 471-01-16
+  notes:
+  - content: Cette définition diffère de celle de la ligne de fuite spécifique pour
+      laquelle la valeur phase-phase de la plus haute tension appliquée est utilisée
+      (pour des systemes à tensions alternative, d’habitude stem:[U]~m~ /√3). Pour
+      un isolement phase terre, cette définition resultera en une valeur qui est √3
+      fois celle donnée par la définition de la ligne de fuite spécifique du document
+      CEI 60815 (1986).
+  - content: Pour ‘stem:[U]~m~’, voir IEV 604-03-01.
+  - content: Elle est généralement exprimée en mm/kV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ligne de fuite spécifique unifiée
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2007-05-01T00:00:00+00:00'
+  review_decision_date: '2007-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2007-05-01T00:00:00+00:00'
+id: 4e0184c5-860a-5123-945c-d6ff3131cf9a

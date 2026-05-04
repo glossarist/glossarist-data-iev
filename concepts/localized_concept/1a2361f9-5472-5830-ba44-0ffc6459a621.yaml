@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient step response Δstem:[v]~ε~(stem:[t]) divided by the step height
+      stem:[K]~ε~ of the step function, the quotient described bystem:[h (t) = frac(1)(K_("epsilon"))
+      . Delta v_("epsilon") (t)]
+  examples: []
+  id: 351-45-30
+  notes:
+  - content: The unit-step response may be calculated from the unit-impulse response
+      bystem:[h (t) = int_(- oo)^(t) g (tau) "d" tau].
+  - content: The unit-step response of a system mathematically may be considered to
+      result from application of a unit step to an input variable.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unit-step response
+  - designation: stem:[h](stem:[t])
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 1a2361f9-5472-5830-ba44-0ffc6459a621

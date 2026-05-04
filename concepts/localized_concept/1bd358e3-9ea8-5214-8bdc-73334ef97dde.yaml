@@ -1,0 +1,49 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "élément de transfert linéaire invariant dans le temps dont la fonction
+      de transfert a exactement deux pôles avec des parties réelles négatives, qui
+      peuvent être réels ou imaginaires conjugués, et pas de zéroNote 1 à l’article:
+      La fonction de transfert d'un élément de retard de second ordre est donnée parstem:[frac(V
+      (s))(U (s)) = frac(K_(\"Ρ\"))((1 + T_(1) * s) * (1 + T_(2) * s))] pour deux
+      pôles réels\r\net par\r\nstem:[frac(V (s))(U (s)) = frac(K_(\"Ρ\"))(frac(s^(2))(omega_(0)^(2))
+      + 2 * vartheta * frac(s)(omega_(0)) + 1)] pour une paire de pôles imaginaires
+      conjuguésoù<table>\r\n<tr>\n<td>\nstem:[K]~P~\n</td>\n<td>est le coefficient
+      d’action proportionnelle;</td>\n</tr>\r\n<tr>\n<td>\nstem:[T]~1~, stem:[T]~2~\n</td>\n<td>sont
+      les constantes de temps;</td>\n</tr>\r\n<tr>\n<td>stem:[vartheta]</td>\n<td>est
+      le taux d’amortissement;</td>\n</tr>\r\n<tr>\n<td>\nstem:[ω]~0~\n</td>\n<td>est
+      la pulsation caractéristique;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>est
+      la variable complexe de la transformée de Laplace;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n<td>est
+      la transformée de la variable d’entrée;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n<td>est
+      la transformée de la variable de sortie.</td>\n</tr>\r\n</table>"
+  examples: []
+  id: 351-50-03
+  notes:
+  - content: Cet article était numéroté 351-28-14 dans la CEI 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: élément de retard du second ordre
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 1bd358e3-9ea8-5214-8bdc-73334ef97dde

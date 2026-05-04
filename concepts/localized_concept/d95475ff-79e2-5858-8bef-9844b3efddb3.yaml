@@ -1,0 +1,66 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: 'pour une grandeur croissante ou décroissante exponentiellement vers
+      une valeur constante, durée de l’intervalle de temps à la fin duquel la valeur
+      absolue de la différence entre la valeur constante et la valeur de la grandeur
+      variable a diminué de e^−1^ fois la valeur absolue de la différence au début
+      de l’intervalle, où e est la base des logarithmes népériens Note 1 à l’article:
+      La constante de temps est la grandeur variable stem:[τ] apparaissant dans la
+      fonction stem:[F (t) = a + b * "e"^(- frac(t)(tau))] décrivant une grandeur
+      variable en fonction du temps.Note 2 à l’article: La constante de temps est
+      également l’inverse du coefficient d’amortissement stem:[δ] (CEI 60027-6, _Symboles
+      littéraux à utiliser en électrotechnique – Partie 6: Technologie de commande
+      et de régulation_) d’une oscillation amortie.Note 3 à l’article: Dans les technologies
+      de commande, la constante de temps est le plus souvent déduite de la réponse
+      à un échelon d’un élément de retard de premier ordre, comme étant la durée de
+      l’intervalle de temps nécessaire pour atteindre 63,2 % [c.-à-d. (1 – e^–1^)
+      fois] de la valeur en régime établi de la réponse à un échelon.Note 4 à l’article:
+      La constante est la grandeur variable stem:[τ] apparaissant dans l’expression
+      stem:[F (t) = a + b * "e"^(- frac(t)(tau)) * f (t)] d’une oscillation amortie
+      exponentiellement, où stem:[f](stem:[t]) est une fonction sinusoïdale.'
+  examples: []
+  id: 351-45-32
+  notes:
+  - content: Cet article était numéroté 351-24-24 dans la CEI 60050-351:2006.
+  sources:
+  - origin:
+      ref: IEC 60050-111:1996
+      locality:
+        type: clause
+        reference_from: 111-13-06
+      original: CEI 60050-111:1996,111-13-06, modifiée – Le texte de la définition
+        est légèrement différent et des notes à l'article ont été ajoutées pour l'adapter
+        à l'usage dans la technologie de commande.
+    status: modified
+    type: authoritative
+    modification: Le texte de la définition est légèrement différent et des notes
+      à l'article ont été ajoutées pour l'adapter à l'usage dans la technologie de
+      commande.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: constante de temps
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: d95475ff-79e2-5858-8bef-9844b3efddb3

@@ -1,0 +1,45 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{radio wave, urn:iec:std:iec:60050-701-02-12}} or {{signal, urn:iec:std:iec:60050-701-01-02}}
+      produced by a broadcasting transmitter"
+  examples: []
+  id: 723-01-03
+  notes:
+  - content: The term “emission” is also used for the radio waves or signals produced
+      (see {{IEV 161-01-09, urn:iec:std:iec:60050-161-01-09}}), for the production
+      of any waves or particles (see {{IEV 702-02-03, urn:iec:std:iec:60050-702-02-03}}),
+      for a process in radiocommunication (see {{IEV 702-02-05, urn:iec:std:iec:60050-702-02-05}}),
+      as a synonym for a {{programme, urn:iec:std:iec:60050-723-01-02}} in broadcasting,
+      and for a release into the environment (see {{IEV 904-01-11, urn:iec:std:iec:60050-904-01-11}}).
+  - content: In French, the term “{{émission, urn:iec:std:iec:60050-702-02-04}}” is
+      also used for the concept represented by the English term “{{sending, urn:iec:std:iec:60050-702-02-04}}”
+      of a signal.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transmission
+    usage_info: in broadcasting
+  - type: expression
+    normative_status: preferred
+    designation: emission
+    usage_info: in broadcasting
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 723-01-03
+      version: 1997-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: '0950cbf7-8551-5f9a-9479-529b86550463'
+classification: preferred

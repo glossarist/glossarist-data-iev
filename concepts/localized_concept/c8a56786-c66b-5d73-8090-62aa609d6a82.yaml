@@ -1,0 +1,38 @@
+---
+data:
+  definition:
+  - content: |-
+      durée entre l'instant de la modification spécifiée de la ou des valeurs des {{grandeurs d'alimentation d'entrée, urn:iec:std:iec:60050-447-03-02}} qui vont entraîner le déclenchement du {{relais de mesure, urn:iec:std:iec:60050-447-01-02}} ou de l'{{équipement de protection, urn:iec:std:iec:60050-447-01-49}} et l'instant où le relais ou le dispositif {{se met au repos, urn:iec:std:iec:60050-447-02-05}}<simg usemap="#1-60050-447-Ed2-IS-CDV-Fig2a-fr-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig2a-fr-4web"> <area title="grandeur caractéristique (pour relais à minimum de ...)" href="IEV447-01-24" shape="rect" coords="53,75,220,110" target="_self" alt="grandeur caractéristique minimum"> <area title="grandeur caractéristique (pour relais à maximum de ...)" href="IEV447-01-23" shape="rect" coords="47,216,220,250" target="_self" alt="grandeur caractéristique maximum"> <area title="mettre au repos" href="IEV447-02-05" shape="rect" coords="514,4,608,22" target="_self" alt="mettre au repos"> <area title="état de repos" href="IEV447-02-02" shape="rect" coords="566,41,642,57" target="_self" alt="état de repos"> <area title="valeur de repos" href="IEV447-02-12" shape="rect" coords="382,106,471,125" target="_self" alt="valeur de repos"> <area title="valeur de repos" href="IEV447-02-12" shape="rect" coords="391,196,478,214" target="_self" alt="valeur de repos"> <area title="temps de mise au repos" href="IEV447-05-06" shape="rect" coords="503,397,561,443" target="_self" alt="temps de mise au repos">
+      <area title="signaux de sortie" href="IEV447-04-03" shape="rect" coords="114,310,216,326" target="_self" alt="signaux de sortie"></map>
+
+      a) Les circuits de sortie sont entièrement retournés avant que tous les états internes le soient</b></p>
+
+      <simg usemap="#1-60050-447-Ed2-IS-CDV-Fig2b-fr-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig2b-fr-4web"> <area title="grandeur caratéristique (pour relais à minimum de ...)" href="IEV447-01-24" shape="rect" coords="46,68,218,103" target="_self" alt="grandeur caratéristique (pour relais à minimum de ...)"> <area title="grandeur caratéristique (pour relais à maximum de ...)" href="IEV447-01-23" shape="rect" coords="45,208,219,240" target="_self" alt="grandeur caratéristique (pour relais à maximum de ...)"> <area title="valeur de repos" href="IEV447-02-12" shape="rect" coords="375,98,470,117" target="_self" alt="valeur de repos"> <area title="valeur de repos" href="IEV447-02-12" shape="rect" coords="387,187,477,205" target="_self" alt="valeur de repos"> <area title="mettre au repos" href="IEV447-02-05" shape="rect" coords="533,3,628,20" target="_self" alt="mettre au repos"> <area title="état de repos" href="IEV447-02-02" shape="rect" coords="585,39,660,58" target="_self" alt="état de repos"> <area title="temps de mise au repos" href="IEV447-05-06" shape="rect" coords="510,393,573,437" target="_self" alt="temps de mise au repos">
+      <area title="signaux de sortie" href="IEV447-04-03" shape="rect" coords="112,305,213,320" target="_self" alt="signaux de sortie"></map>
+
+      b) Les circuits de sortie sont entièrement retournés après que tous les états internes le soient</b></p>
+
+      Figure 2 – Diagramme explicatif de l'état de retour</b></p></simg></p></simg>
+  examples: []
+  id: 447-05-06
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de mise au repos
+    usage_info: d'un relais de mesure ou d'un dispositif de protection
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: c8a56786-c66b-5d73-8090-62aa609d6a82

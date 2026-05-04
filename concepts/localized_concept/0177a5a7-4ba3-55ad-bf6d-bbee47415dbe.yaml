@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2020-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: infrastructure of interconnected {{entities, urn:iec:std:iec:60050-741-01-18}},
+      people, {{systems, urn:iec:std:iec:60050-151-11-27}} and information resources
+      together with {{services, urn:iec:std:iec:60050-741-01-28}} which processes
+      and reacts to {{information, urn:iec:std:iec:60050-741-01-500}} from the physical
+      world and virtual world
+  examples: []
+  id: 741-02-01
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/IEC 20924:2018
+      locality:
+        type: clause
+        reference_from: 3.2.1
+      original: ISO/IEC 20924:2018, 3.2.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Internet of Things
+  - type: expression
+    designation: IoT
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-04-01T00:00:00+00:00'
+  review_decision_date: '2020-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-04-01T00:00:00+00:00'
+id: 0177a5a7-4ba3-55ad-bf6d-bbee47415dbe

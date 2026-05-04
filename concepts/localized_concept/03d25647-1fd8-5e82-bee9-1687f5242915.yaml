@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2013-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a two-terminal element or a two-terminal circuit with terminals A
+      and B, product of the voltage stem:[u_(rm(AB))] between the terminals and the
+      electric current stem:[i] in the element or circuit  stem:[p = u_(rm(AB)) *
+      i] where stem:[u_(rm(AB))] is the line integral of the electric field strength
+      from A to B, and where the electric current in the element or circuit is taken
+      positive if its direction is from A to B and negative if its direction is from
+      B to A
+  examples: []
+  id: 131-11-30
+  notes:
+  - content: The direction of electric current is as defined in {{131-11-29, urn:iec:std:iec:60050-131-11-29}}.
+  - content: In circuit theory the electric field strength is generally irrotational
+      and thus stem:[u_(rm(AB)) = v_(rm(A)) - v_(rm(B))], where stem:[v_(rm(A))] and
+      stem:[v_(B)] are the electric potentials at terminals A and B, respectively.
+  - content: The coherent SI unit of instantaneous power is watt, W.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instantaneous power
+  - designation: stem:[p]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-08-01T00:00:00+00:00'
+  review_decision_date: '2013-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-08-01T00:00:00+00:00'
+id: 03d25647-1fd8-5e82-bee9-1687f5242915

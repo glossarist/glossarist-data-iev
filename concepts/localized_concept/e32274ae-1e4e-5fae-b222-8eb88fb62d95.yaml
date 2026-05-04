@@ -1,0 +1,64 @@
+---
+data:
+  dates:
+  - date: '1998-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: canal radioélectrique ou bande de fréquences radioélectriques à l'intérieur
+      duquel l'émission d'une station donnée est autorisée
+  examples: []
+  id: 713-06-09
+  notes:
+  - content: La largeur du canal assigné est égale à la largeur de bande nécessaire,
+      augmentée du double de la tolérance de fréquence.
+  - content: Dans le cas des stations spatiales, la bande de fréquence assignée inclut
+      le double du décalage maximal dû à l'effet Doppler pouvant se produire par rapport
+      à un point quelconque de la surface de la Terre.
+  sources:
+  - origin:
+      ref: ITU-R RR
+      locality:
+        type: clause
+        reference_from: '141'
+      original: UIT RR 141 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: canal assigné
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: bande assignée
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1998-04-01T00:00:00+00:00'
+  review_decision_date: '1998-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-04-01T00:00:00+00:00'
+id: e32274ae-1e4e-5fae-b222-8eb88fb62d95
+classification: preferred

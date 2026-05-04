@@ -1,0 +1,33 @@
+---
+data:
+  definition:
+  - content: quotient de radiance réfléchie en un point d'une surface d'un milieu
+      non autorayonnant dans une direction donnée par la radiance du diffuseur parfait
+      par réflexion irradié et observé de manière identique
+  examples: []
+  id: 845-21-104
+  notes:
+  - content: En général, le facteur de luminance énergétique par réflexion d'une surface
+      ne dépend pas de la {{répartition spectrale relative, urn:iec:std:iec:60050-845-21-030}}
+      de l'irradiation. Tel n'est pas le cas pour une surface photoluminescente, pour
+      laquelle il est nécessaire de préciser cette grandeur.
+  - content: L'unité de facteur de luminance énergétique par réflexion est un.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de luminance énergétique par réflexion
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 5df136dd-87e5-5636-b7fc-3539b38c5c02

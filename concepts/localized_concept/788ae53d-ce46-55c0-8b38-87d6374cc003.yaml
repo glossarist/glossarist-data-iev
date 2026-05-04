@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: at each point of a given space region, vector *stem:[U]*, the rotation
+      of which is the vector *stem:[V]* of a given solenoidal field*stem:[V]* = *rot stem:[U]*
+  examples: []
+  id: 102-05-26
+  notes:
+  - content: The given vector field is said to be derived from the vector potential.
+  - content: The vector potential is not unique since any irrotational field can be
+      added to a given vector potential without changing its rotation. The vector
+      potential is often chosen so that its divergence is zero.
+  - content: The vector potential is used, for example, to represent the magnetic
+      vector potential (*stem:[A]*), the rotation of which is the magnetic flux density
+      (*stem:[B]*).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vector potential
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: 788ae53d-ce46-55c0-8b38-87d6374cc003

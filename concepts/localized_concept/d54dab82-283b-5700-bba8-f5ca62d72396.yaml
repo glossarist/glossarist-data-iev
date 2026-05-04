@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient ramp response Δstem:[v]~ρ~(stem:[t]) divided by the ramp slope
+      stem:[K]~ρ~ of the ramp function, the quotient described bystem:[r (t) = frac(1)(K_("rho"))
+      * Delta v_("rho") (t)]
+  examples: []
+  id: 351-45-31
+  notes:
+  - content: The unit-ramp response may be calculated from the unit-step response
+      by stem:[r (t) = int_(- oo)^(t) h (tau) "d" tau].
+  - content: The unit-ramp response of a system mathematically may be considered to
+      result from application of a unit ramp to an input variable.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unit-ramp response
+  - designation: stem:[r](stem:[t])
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: d54dab82-283b-5700-bba8-f5ca62d72396

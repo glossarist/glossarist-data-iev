@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: pseudo-scalar, denoted by (*stem:[U]*,*stem:[V]*,*stem:[W]*), assigned
+      to an ordered set of three vectors *stem:[U]*, *stem:[V]*, *stem:[W]* in the
+      three-dimensional Euclidean space, equal to the scalar product stem:[U * ( V
+      xx W )]
+  examples: []
+  id: 102-03-38
+  notes:
+  - content: 'The scalar triple product of three vectors *stem:[U]*, *stem:[V]*, *stem:[W]*
+      is the determinant of the vectors relative to a given orthonormal base: stem:[(U
+      , "​" " " " " V , " " W) = |[U_("1"), U_("2"), U_("3")], [V_("1"), V_("2"),
+      V_("3")], [W_("1"), W_("2"), W_("3")]|]'
+  - content: The scalar triple product of three position vectors is the volume of
+      the parallelepiped built from the vectors with a sign depending on the space
+      orientation.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scalar triple product
+  - type: expression
+    designation: triple product
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: 1c812e84-02de-595f-9125-28948f2c610e

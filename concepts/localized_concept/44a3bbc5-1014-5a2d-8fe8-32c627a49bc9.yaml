@@ -1,0 +1,47 @@
+---
+data:
+  definition:
+  - content: "composant spécifié d'un point de vue informatique qui possède une interface
+      de commande et des jeux déclarés\r\n. d'interfaces d'exploitation dans lesquelles
+      il joue un rôle de serveur (interfaces offertes),. d'interfaces d'exploitation
+      dans lesquelles il joue un rôle de client (interfaces requises),. d'interfaces
+      d'exploitation qui produisent des annonces qui transportent des notifications
+      d'événements affectés d'un type (sources d'événement),. d'interfaces d'exploitation
+      qui consomment des annonces qui transportent des notifications d'événements
+      affectés d'un type (collecteurs d'événement), et. d'interfaces d'exploitation
+      qui prennent en charge les accesseurs et les mutateurs pour les attribut (attributs)"
+  examples: []
+  id: 741-02-501
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/IEC 20924:2018
+      locality:
+        type: clause
+        reference_from: '3.711'
+      original: ISO/IEC/IEEE 24765:2017, 3.711, modifié – Dans un souci de cohérence
+        avec la terminologie de l'ISO/IEC 20924:2018, le terme préférentiel "composant
+        de calcul" a été remplacé par "élément de calcul"
+    status: modified
+    type: authoritative
+    modification: Dans un souci de cohérence avec la terminologie de l'ISO/IEC 20924:2018,
+      le terme préférentiel "composant de calcul" a été remplacé par "élément de calcul"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: élément de calcul
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 44a3bbc5-1014-5a2d-8fe8-32c627a49bc9

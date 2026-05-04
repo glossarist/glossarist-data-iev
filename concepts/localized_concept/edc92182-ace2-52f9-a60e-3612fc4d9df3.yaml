@@ -1,0 +1,54 @@
+---
+data:
+  definition:
+  - content: matériels utilisés pour empêcher tout fonctionnement non sûr, pour protéger
+      le personnel et prévenir les risques
+  examples: []
+  id: 395-07-120
+  notes:
+  - content: Les verrouillages peuvent être monovoie, à deux voies et à voies multiples.
+  - content: Les verrouillages monovoie utilisent une voie de capteurs unique, des
+      unités logiques et un actionneur tel qu’un contacteur ou un relais.
+  - content: Les verrouillages à deux voies utilisent deux voies de capteurs et autres
+      matériels, agencées de sorte que chaque voie soit, d’elle-même, capable d’empêcher
+      un état ou une condition dangereux. Les voies peuvent comprendre deux ensembles
+      de matériels sensiblement identiques. Une variante consiste à avoir deux voies
+      différentes qui réalisent différemment la fonction de verrouillage, ou deux
+      voies semblables, l’une fonctionnant normalement et l’autre en réserve pour
+      prévenir un état ou une condition dangereux en cas de défaillance de la première
+      voie.
+  - content: Les verrouillages à voies multiples utilisent plusieurs voies de capteurs
+      et autres matériels. Ils sont disposés de telle sorte que chaque voie soit capable,
+      d’elle-même, d’empêcher un état ou une condition dangereux. Une voie défaillante
+      ne peut pas bloquer les actions qui empêchent les états ou conditions dangereux.
+      L’utilisation de systèmes à voies multiples peut présenter des avantages tels
+      que permettre la maintenance en ligne et pallier le besoin d'un contournement
+      de voie.
+  sources:
+  - origin:
+      ref: IEC 61504:2000
+      locality:
+        type: clause
+        reference_from: '3.6'
+      original: CEI 61504:2000, 3.6, modifiée
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: verrouillages
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: edc92182-ace2-52f9-a60e-3612fc4d9df3

@@ -1,0 +1,35 @@
+---
+data:
+  definition:
+  - content: "unité de {{rapidité de modulation, urn:iec:std:iec:60050-721-03-26}}
+      en {{télégraphie, urn:iec:std:iec:60050-701-01-07}} et en {{communication de
+      données, urn:iec:std:iec:60050-701-01-12}} ou de {{rapidité de modulation, urn:iec:std:iec:60050-704-17-03}}
+      en {{transmission numérique, urn:iec:std:iec:60050-704-01-08}}, égale à une
+      seconde à la puissance moins un\r\n1 Bd := 1 s^−1^"
+  examples: []
+  id: 702-05-24
+  notes:
+  - content: Par exemple, si la durée de l'intervalle unitaire est de 20 ms, la rapidité
+      de modulation est de 50 Bd.
+  - content: Le terme "rapidité de modulation" est employé en français dans tous les
+      cas, avec en transmission numérique le synonyme "débit en ligne", alors qu'en
+      anglais on emploie "modulation rate" ou "line digit rate" selon le domaine d'application.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: baud
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 134ac937-4656-52b7-b119-efc784d3f826

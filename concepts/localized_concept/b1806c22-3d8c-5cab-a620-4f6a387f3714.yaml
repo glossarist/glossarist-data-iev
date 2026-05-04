@@ -1,0 +1,72 @@
+---
+data:
+  dates:
+  - date: '2008-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: tension n'excédant pas 50 V en courant alternative ou 120 V en courant
+      continu lissé entre conducteurs ou entre un conducteur quelconque et la terre
+      dans un circuit dont la séparation du réseau d'alimentation est assurée par
+      des moyens tels qu'un transformateur de sécurité
+  examples: []
+  id: 851-15-08
+  notes:
+  - content: Une tension maximale inférieure à 50 V en courant alternatif ou 120 V
+      en courant continu lissé peut être spécifiée dans des règles particulières,
+      plus spécialement lorsque le contact direct avec des parties actives est possible.
+  - content: Lorsque la source est un transformateur de sécurité, il convient que
+      la limite de tension ne soit pas dépassée à toute charge comprise entre la pleine
+      charge et à vide.
+  - content: '"Lissé" se dit par convention d''une tension en courant continu lorsque
+      le rapport de la valeur efficace de l''ondulation à la composante continue ne
+      dépasse pas 10 %. La valeur de crête maximale ne dépasse pas 140 V pour un système
+      en courant continu lissé de tension nominale 120 V et 70 V pour un système en
+      courant continu lissé de tension nominale 60 V.'
+  sources:
+  - origin:
+      ref: IEC 61558-1:2005
+      locality:
+        type: clause
+        reference_from: 3.7.16
+      original: CEI 61558-1:2005, 3.7.16 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Très Basse Tension de Sécurité
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: TBTS
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2008-06-01T00:00:00+00:00'
+  review_decision_date: '2008-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-06-01T00:00:00+00:00'
+id: b1806c22-3d8c-5cab-a620-4f6a387f3714
+classification: preferred

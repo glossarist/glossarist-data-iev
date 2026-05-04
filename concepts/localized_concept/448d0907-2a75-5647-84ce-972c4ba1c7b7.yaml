@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: output-referred colour image data, which are referred to a standardized
+      real or virtual output device and viewing conditions
+  examples: []
+  id: 845-32-011
+  notes:
+  - content: Image data intended for open interchange are most commonly standard output-referred.
+      This is because with standard output-referred image data it is generally sufficient
+      to specify the standard output to which the image data are referred to interpret
+      the colour appearance described by the image data.
+  - content: Standard output-referred image data can become the starting point for
+      a subsequent reproduction process. For example, sRGB standard output-referred
+      image data are frequently considered to be the starting point for the {{colour
+      re-rendering, urn:iec:std:iec:60050-845-32-017}} performed by a printer designed
+      to receive sRGB image data.
+  - content: See also "{{output-referred image state, urn:iec:std:iec:60050-845-32-052}}".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: standard output-referred colour image data
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 448d0907-2a75-5647-84ce-972c4ba1c7b7

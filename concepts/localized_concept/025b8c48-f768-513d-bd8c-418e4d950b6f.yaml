@@ -1,0 +1,44 @@
+---
+data:
+  definition:
+  - content: 'logarithme de l''inverse de la probabilité conditionnelle stem:[p (x
+      | y)] de réalisation de l''événement stem:[x] lorsque s''est réalisé un autre
+      événement stem:[y] stem:[I (x | y) = log frac(1)(p ( x | y ))]Note 1 à l’article:
+      La quantité d''information conditionnelle est aussi égale à l''excès de la {{quantité
+      d''information conjointe, urn:iec:std:iec:60050-171-07-20}} des deux événements
+      sur la {{quantité d''information, urn:iec:std:iec:60050-171-07-14}} du second:
+      stem:[I (x | y) = I (x , y) - I (y)].'
+  examples: []
+  id: 171-07-21
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-31
+      original: IEC 80000-13:2008, 13-31, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+    status: modified
+    type: authoritative
+    modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+      aux règles de l’IEV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantité d'information conditionnelle
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 025b8c48-f768-513d-bd8c-418e4d950b6f

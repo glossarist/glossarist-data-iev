@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "propagation duration of a {{signal, urn:iec:std:iec:60050-101-12-02}}
+      between two points on a {{transmission path, urn:iec:std:iec:60050-701-02-11}}
+      defined in terms of the {{group velocity, urn:iec:std:iec:60050-103-10-15}}
+      by the {{line integral, urn:iec:std:iec:60050-102-05-03}} taken along the transmission
+      path:\r\nstem:[int frac(1)(v_(\"g\")) \" \" rm(d) s]\n\nwhere stem:[v]~g~ is
+      the algebraic value of the projection of the group velocity vector onto the
+      tangent to the ray path, and dstem:[s] is the {{scalar line element, urn:iec:std:iec:60050-102-05-01}}"
+  examples: []
+  id: 702-02-20
+  notes:
+  - content: In a {{homogeneous, urn:iec:std:iec:60050-113-02-01}} medium, or on a
+      {{uniform transmission line, urn:iec:std:iec:60050-131-12-87}}, the group delay
+      is equal to the derivative with respect to the {{angular frequency, urn:iec:std:iec:60050-103-07-03}}
+      of the difference, at the same time, of the {{phases, urn:iec:std:iec:60050-103-07-04}},
+      at the two points, of the signal used to define the group velocity.
+  - content: In practice, if the medium is not too absorbent, nor too anisotropic,
+      nor too dispersive, the group delay is equal to the propagation duration of
+      the signal used to define the group velocity.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: group delay
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 702-02-20
+      version: 1992-03
+  language_code: eng
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: 869ca331-5ed6-533b-9439-5443b4ed5476

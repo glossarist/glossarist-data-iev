@@ -1,0 +1,58 @@
+---
+data:
+  definition:
+  - content: "{{disposition, urn:iec:std:iec:60050-901-05-01}} technique reconnue
+      par une majorité d'experts représentatifs comme reflétant l'{{état de la technique,
+      urn:iec:std:iec:60050-901-01-04}}"
+  examples: []
+  id: 901-01-05
+  notes:
+  - content: Si un {{document normatif, urn:iec:std:iec:60050-901-02-01}} sur un sujet
+      technique est préparé avec la coopération des parties intéressées par le biais
+      de consultations et de procédures de réalisation d'un {{consensus, urn:iec:std:iec:60050-901-01-11}},
+      il est censé constituer une règle technique reconnue au moment de son approbation.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: '1.5'
+      original: Guide ISO/CEI 2:2004, 1.5, modifié – Les guillemets entourant le synonyme
+        ont été supprimés.
+    status: modified
+    type: authoritative
+    modification: Les guillemets entourant le synonyme ont été supprimés.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: règle technique reconnue
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: règle de l'art
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 5bf50269-3633-54e9-8c29-45454e355c2c
+classification: preferred

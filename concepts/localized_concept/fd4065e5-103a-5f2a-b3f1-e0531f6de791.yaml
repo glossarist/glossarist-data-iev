@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2017-12-15T00:00:00+00:00'
+    type: accepted
+  - date: '2017-12-15T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{energy not supplied, urn:iec:std:iec:60050-692-09-06}} by an {{electric
+      power system, urn:iec:std:iec:60050-692-01-02}} during a given incident divided
+      by the annual peak load"
+  examples: []
+  id: 692-11-03
+  notes:
+  - content: If the energy not supplied is expressed in megawatt-minutes, and the
+      annual peak load in megawatts, this index is often referred to as "system-minutes".
+      One minute of this quantity is equivalent in energy to an interruption of the
+      total system load for one minute at the time when the annual system peak load
+      occurs.
+  - content: The annual system peak load refers to the highest load in that year.
+  - content: This entry was numbered 191-30-03 in IEC 60050-191:1990.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equivalent peak interruption duration
+    usage_info: of an electric power system
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-12-15T00:00:00+00:00'
+  review_decision_date: '2017-12-15T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-12-15T00:00:00+00:00'
+id: fd4065e5-103a-5f2a-b3f1-e0531f6de791

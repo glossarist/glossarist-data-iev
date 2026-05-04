@@ -1,0 +1,42 @@
+---
+data:
+  definition:
+  - content: "{{ entropie, urn:iec:std:iec:60050-171-07-15}} d’un jeu d’événements
+      lorsqu’ils sont équiprobables, c.-à-d. stem:[p](stem:[x]~stem:[i]~) &equals;
+      1/stem:[n] pour stem:[i] &equals; 1, …, stem:[n]Note 1 à l’article: Lorsqu’on
+      emploie la même base entière pour le même nombre d’événements, l’entropie maximale
+      est égale à la {{quantité de décision, urn:iec:std:iec:60050-171-07-10}}."
+  examples: []
+  id: 171-07-16
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-26
+      original: IEC 80000-13:2008, 13-26, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+    status: modified
+    type: authoritative
+    modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+      aux règles de l’IEV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entropie maximale
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 373eca09-a620-5f1d-904e-78d1278c4043

@@ -1,0 +1,56 @@
+---
+data:
+  dates:
+  - date: '2018-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: technique of {{bonding, urn:iec:std:iec:60050-523-06-01}} hydrophilized
+      {{substrates, urn:iec:std:iec:60050-521-05-28}} made of silicon, oxidized silicon,
+      and so on by primary hydrogen bonds between the surfaces, and then by Si-O-Si
+      bonds after {{annealing, urn:iec:std:iec:60050-841-22-23}} at high temperature
+  examples: []
+  id: 523-06-05
+  notes:
+  - content: Silicon fusion bonding is used to form impurity diffusion layers or insulation
+      layers inside a {{wafer, urn:iec:std:iec:60050-521-05-29}} by bonding two silicon
+      wafers, one or both of which may be oxidized. The technology is also used to
+      bond wafers that contain impurities of different species or concentrations,
+      as an alternative process to in-depth impurity diffusion or epitaxial growth
+      where high temperatures and a long process time are required. The main problem
+      with silicon fusion bonding is its high process temperature; all lower-temperature
+      processes should take place after the bonding. Studies are ongoing to lower
+      the process temperature by the application of plasma oxidation treatment before
+      bonding, and to apply the technology to bond non-silicon materials. By bonding
+      oxidized wafers, the {{silicon-on-insulator, urn:iec:std:iec:60050-523-04-20}}
+      (SOI) structure can be obtained, in which an insulation layer is sandwiched
+      by two silicon layers. The SOI structure is used to separate integrated element
+      {{components, urn:iec:std:iec:60050-151-11-21}} by oxide and other  {{dielectric
+      materials, urn:iec:std:iec:60050-561-01-16}} to improve performance; for example,
+      to manufacture {{photodiode, urn:iec:std:iec:60050-521-04-32}} arrays and so
+      on. Another application of the technology is bonding wafers that have been bored
+      or cut with grooves, to obtain precise structures made inside a wafer. This
+      technique is used to make pressure  {{sensors, urn:iec:std:iec:60050-151-13-48}},
+      and heat exchangers for laser diodes with an internal cooling structure, and
+      so on.
+  sources:
+  - origin:
+      ref: IEC 62047-1:2016
+      locality:
+        type: clause
+        reference_from: 2.6.6
+      original: IEC 62047-1:2016, 2.6.6
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: silicon fusion bonding
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-12-01T00:00:00+00:00'
+id: 7c74f9e0-9203-5bd5-bd53-8ca9e5af6ce6

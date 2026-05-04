@@ -1,0 +1,51 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: relation stem:[f] such that for any entity stem:[a] there is exactly
+      one entity stem:[b] to which stem:[a] is related by stem:[f]
+  examples: []
+  id: 102-01-10
+  notes:
+  - content: 'If stem:[a] is related to stem:[b] by the function stem:[f], then: *
+      f is said to be defined for a, * a is an argument of the function f, * b is
+      a value of the function f and is usually denoted by f(a).  The argument may
+      be an elementary entity, such as a number, or an ordered set of elementary entities,
+      and the same for the value.'
+  - content: 'If stem:[A] is the set of all arguments of the function stem:[f] and
+      stem:[B] is a set containing all the values, then: * f is said to be a mapping
+      of A into B,* A is the domain of the function,* B is the range or codomain of
+      the function.'
+  - content: The term "function" may be qualified according to the nature of the value,
+      e.g. real function, complex function, vector function, or to the character of
+      the relation, e.g. algebraic function, trigonometric function, hyperbolic function.
+  - content: The term "operation" is used for elementary arithmetic functions such
+      as addition, subtraction, multiplication, division, and also for logical functions.
+  - content: The term "operation" has other meanings in {{IEV 151-11-28, urn:iec:std:iec:60050-151-11-28}}
+      and {{IEV 151-11-30, urn:iec:std:iec:60050-151-11-30}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: function
+  - type: expression
+    normative_status: preferred
+    designation: operation
+    usage_info: mathematics
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 102-01-10
+      version: 2007-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: ced5e6d5-1e86-546b-81b2-3a28b7b79b1f
+classification: preferred

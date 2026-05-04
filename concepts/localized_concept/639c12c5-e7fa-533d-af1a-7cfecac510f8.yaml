@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '2009-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2009-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{distribution, urn:iec:std:iec:60050-103-01-03}} assigning to any function
+      stem:[f](stem:[x]), continuous for stem:[x = 0], the value stem:[f](0)"
+  examples: []
+  id: 103-03-05
+  notes:
+  - content: The Dirac function can be considered as the limit of a function, equal
+      to zero outside a small interval containing the origin, and the integral of
+      which remains equal to unity when this interval tends to zero. See Figure&nbsp;2,
+      where instead of a triangle any other shape with area 1 is possible, too.
+  - content: The Dirac function is the derivative of the unit step function considered
+      as a distribution.
+  - content: 'The Dirac function can be defined for any value stem:[x]~0~ of the variable
+      stem:[x]. The usual notation is:  stem:[f ( x_(0) ) = int_(" " - oo)^(" " +
+      oo) delta ( x - x_(0) ) f ( x ) rm(d) x] image::/assets/images/parts/103/103-03-053.png[Figure
+      1 - Distribution de Dirac; Dirac function - ]'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Dirac function
+  - type: expression
+    normative_status: preferred
+    designation: Dirac delta function
+  - type: expression
+    normative_status: preferred
+    designation: unit pulse
+  - type: expression
+    normative_status: preferred
+    geographical_area: US
+    designation: unit impulse
+  - designation: stem:[delta]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2009-12-01T00:00:00+00:00'
+id: 639c12c5-e7fa-533d-af1a-7cfecac510f8
+classification: preferred

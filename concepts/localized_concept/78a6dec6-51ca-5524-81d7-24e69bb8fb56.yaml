@@ -1,0 +1,55 @@
+---
+data:
+  definition:
+  - content: "quotient du nombre d'interruptions d’alimentation en énergie électrique
+      à des clients pendant un intervalle de temps donné, par le produit de la durée
+      de cet intervalle de temps et du nombre total de clientsNote 1 à l’article:
+      Si la fourniture d'énergie électrique au client consommateur stem:[j] a été
+      interrompue stem:[n]~stem:[j]~ fois pendant un intervalle de temps de durée
+      stem:[T], et si le nombre total de clients desservis est stem:[N]~S~, alors
+      la fréquence d’interruption par client desservi est donnée par stem:[f_(\"CS\")
+      = frac(sum_(j) n_(j))(N_(\"S\") T)]\r\nNote 2 à l’article: En général, seules
+      les {{, urn:iec:std:iec:60050-692-07-02}}{{interruptions longues, urn:iec:std:iec:60050-692-07-02}}
+      sont prises en compte. Note 3 à l’article: Le terme \"client\" désigne l’utilisateur
+      final et non un réseau ou une compagnie de distribution intermédiaire. Note
+      4 à l’article: La fréquence d’interruption par client desservi peut être utilisée
+      pour décrire des performances réalisées ou pour estimer les performances futures
+      attendues. Note 5 à l’article: Cet article portait le numéro 191-27-01 dans
+      l’IEC 60050-191:1990."
+  examples: []
+  id: 692-08-01
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fréquence d’interruption par client desservi
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: fréquence de coupure par client desservi
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 78a6dec6-51ca-5524-81d7-24e69bb8fb56
+classification: preferred

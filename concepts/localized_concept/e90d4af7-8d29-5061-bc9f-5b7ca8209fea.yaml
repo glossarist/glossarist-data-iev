@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: integral of the {{spectral linear attenuation coefficient, urn:iec:std:iec:60050-845-24-083}},
+      stem:[μ](stem:[x], stem:[λ]), of the medium between the points stem:[x]~1~ and
+      stem:[x]~2~, as given by the equationstem:[delta ( lambda ) = int_(x_(1))^(x_(2))
+      mu ( x , lambda ) " " "d" x]
+  examples: []
+  id: 845-24-087
+  notes:
+  - content: The spectral optical thickness is used in atmospheric physics and physical
+      oceanography.
+  - content: The spectral optical thickness has unit one.
+  - content: This entry was numbered 845-04-80 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral optical thickness
+    usage_info: of a medium
+  - type: expression
+    designation: spectral optical depth
+    usage_info: of a medium
+  - designation: stem:[δ](stem:[λ])
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: e90d4af7-8d29-5061-bc9f-5b7ca8209fea

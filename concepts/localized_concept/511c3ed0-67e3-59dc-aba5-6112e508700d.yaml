@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '2013-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a passive linear two-terminal element of two-terminal circuit with
+      terminals A and B under sinusoidal conditions, quotient of the phasor stem:[underline(I)]
+      representing the electric current in the element or circuit by the phasor stem:[underline(U)_("A"
+      "B")] representing the voltage ({{131-11-56, urn:iec:std:iec:60050-131-11-56}})
+      between the terminals  stem:[underline(Y) = frac(underline(I))(underline(U)_("A"
+      "B"))] where the sinusoidal electric current represented by the phasor stem:[underline(I)]
+      is taken positive if its direction is from A to B or negative if its direction
+      is from B to A and where the sinusoidal voltage stem:[u_(rm(AB)) = v_("A") -
+      v_("B")] represented by the phasor stem:[underline(U)_("A" "B")] is the difference
+      of the electric potentials at terminals stem:[v_("A")] at A and stem:[v_("A")]
+      at B
+  examples: []
+  id: 131-12-51
+  notes:
+  - content: The admittance of an element or circuit is the inverse of its impedance.
+      It is equal to stem:[v_("B")], where stem:[G] is conductance for alternating
+      current, stem:[B] is susceptance, stem:[Y] is apparent admittance, and stem:[φ]
+      is displacement angle.
+  - content: The coherent SI unit of admittance is siemens, S.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: admittance
+  - type: expression
+    normative_status: preferred
+    designation: complex admittance
+  - designation: stem:[underline(Y)]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-08-01T00:00:00+00:00'
+  review_decision_date: '2013-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-08-01T00:00:00+00:00'
+id: 511c3ed0-67e3-59dc-aba5-6112e508700d
+classification: preferred

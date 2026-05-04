@@ -1,0 +1,36 @@
+---
+data:
+  definition:
+  - content: éclairement moyenné sur une ouverture circulaire d'une aire de 100 mm²
+      perpendiculaire à l'axe mécanique de la LED à une distance de 100 mm pour la
+      condition normale A CIE ou de 316 mm pour la condition normale B CIE par rapport
+      au sommet de la LED, multiplié par le carré de la distance et divisé par un
+      angle solide unitaire
+  examples: []
+  id: 845-21-114
+  notes:
+  - content: Une méthode de mesure détaillée est donnée dans la norme CIE 127, _Measurement
+      of LEDs_.
+  - content: Les conditions géométriques condition normale A CIE et condition normale
+      B CIE, qui correspondent aux symboles stem:[I]~LED,A~ et stem:[I]~LED,B~ respectivement,
+      sont définies dans la norme CIE 127, _Measurement of LEDs_.
+  - content: L'intensité LED moyennée est exprimée en candela (cd).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intensité LED moyennée
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 41689837-5cf1-5a57-a3ea-2bcf0f40d7c7

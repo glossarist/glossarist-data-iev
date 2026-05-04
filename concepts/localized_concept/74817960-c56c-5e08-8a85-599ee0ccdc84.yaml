@@ -1,0 +1,36 @@
+---
+data:
+  definition:
+  - content: fonction attribuant à tout couple constitué d'un nombre réel positif
+      stem:[a] et d'un nombre réel stem:[b] le nombre réel positif noté stem:[a^(b)]
+      tel que stem:[a^(0) = 1] , stem:[a^(1) = a] et stem:[a^(b + c) = a^(b) * a^(c)]
+      pour des nombres réels quelconques stem:[b] et stem:[c]
+  examples: []
+  id: 102-02-07
+  notes:
+  - content: La fonction qui attribue à tout nombre réel stem:[x] le nombre stem:[a^(x)]
+      est la fonction exponentielle de base stem:[a]. La fonction qui attribue à tout
+      nombre réel positif stem:[x] le nombre stem:[x^(b)] est une fonction puissance.
+  - content: L'exponentiation peut être étendue au couple constitué d'un nombre réel
+      négatif stem:[a] et d'un nombre entier stem:[b], ainsi qu'à d'autres entités
+      mathématiques, par exemple les nombres complexes, les matrices et les grandeurs
+      scalaires.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exponentiation
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 74817960-c56c-5e08-8a85-599ee0ccdc84

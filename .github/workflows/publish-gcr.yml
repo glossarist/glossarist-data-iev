@@ -1,10 +1,14 @@
 name: publish-gcr
 
 on:
-  workflow_dispatch:
   push:
-    paths:
-      - 'concepts/**'
+    tags: ['v*']
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version (e.g. 1.0.0)'
+        required: true
+        type: string
 
 permissions:
   contents: write
@@ -15,39 +19,40 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Check for concepts
-        id: check
-        run: echo "has_concepts=$(ls concepts/*.yaml 2>/dev/null | wc -l)" >> "$GITHUB_OUTPUT"
-
-      - name: Checkout vocabulary-browser
-        if: steps.check.outputs.has_concepts > 0
-        uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
         with:
-          repository: glossarist/vocabulary-browser
-          ref: main
-          path: vocabulary-browser
+          ruby-version: '3.2'
 
-      - uses: actions/setup-node@v4
-        if: steps.check.outputs.has_concepts > 0
-        with:
-          node-version: 20
-          cache: npm
-          cache-dependency-path: vocabulary-browser/package-lock.json
+      - run: gem install glossarist
 
-      - run: npm ci
-        if: steps.check.outputs.has_concepts > 0
-        working-directory: vocabulary-browser
+      - name: Determine version
+        id: version
+        run: |
+          if [[ "${GITHUB_REF}" == refs/tags/v* ]]; then
+            VERSION="${GITHUB_REF_NAME#v}"
+          else
+            VERSION="${{ inputs.version }}"
+          fi
+          echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
+          echo "filename=iev-${VERSION}.gcr" >> "$GITHUB_OUTPUT"
 
       - name: Build GCR package
-        if: steps.check.outputs.has_concepts > 0
-        run: node scripts/package-dataset.mjs "$GITHUB_WORKSPACE" --id iev -o "$GITHUB_WORKSPACE/../iev.gcr"
-        working-directory: vocabulary-browser
+        run: |
+          glossarist package . -o "${{ steps.version.outputs.filename }}" \
+            --shortname iev \
+            --version "${{ steps.version.outputs.version }}" \
+            --title "IEC Electropedia (IEV)" \
+            --owner "IEC TC 1"
 
-      - name: Update gcr-latest release
-        if: steps.check.outputs.has_concepts > 0
+      - name: Create unversioned alias
+        run: cp "${{ steps.version.outputs.filename }}" iev.gcr
+
+      - name: Publish GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: gcr-latest
-          name: "GCR Package (latest)"
-          body: "Auto-generated GCR package with harmonized concepts."
-          files: ../iev.gcr
+          tag_name: v${{ steps.version.outputs.version }}
+          name: "GCR Package v${{ steps.version.outputs.version }}"
+          body: "Auto-generated GCR package containing IEV concepts."
+          files: |
+            ${{ steps.version.outputs.filename }}
+            iev.gcr

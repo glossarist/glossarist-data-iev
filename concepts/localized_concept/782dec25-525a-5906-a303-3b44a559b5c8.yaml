@@ -1,0 +1,38 @@
+---
+data:
+  definition:
+  - content: pour deux fonctions à valeurs complexes, stem:[underline(f)] et stem:[underline(g)]
+      définies sur l'intervalle stem:[&amp;lsqb; a , b &amp;rsqb;] de ℝ, nombre complexe
+      stem:[〈 underline(f) , underline(g) 〉 = int_(a)^(b) f ( x ) underline(g)^(ast)
+      ( x ) "d" x] où stem:[underline(g)^(ast)] est le conjugué de stem:[underline(g)]
+  examples: []
+  id: 103-01-08
+  notes:
+  - content: 'Le produit interne a les propriétés suivantes: stem:[〈 underline(f)
+      , underline(g) 〉 = 〈 underline(g) , underline(f) 〉^(ast)] et stem:[〈 underline(alpha)
+      " " underline(f) + underline(beta) " " underline(g) , underline(h) 〉 = underline(alpha)
+      〈 underline(f) , underline(h) 〉 + underline(beta) 〈 underline(g) , underline(h)
+      〉] où stem:[underline(alpha) , underline(beta) in]ℂ.'
+  - content: Le produit interne de deux fonctions complexes est analogue au produit
+      hermitien de deux vecteurs (voir IEC 60050-102, {{102-03-18, urn:iec:std:iec:60050-102-03-18}}).
+      Pour des fonctions réelles, il est analogue au produit scalaire (voir IEC 60050-102,
+      {{102-03-17, urn:iec:std:iec:60050-102-03-17}}).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: produit interne
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 782dec25-525a-5906-a303-3b44a559b5c8

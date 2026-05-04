@@ -1,0 +1,34 @@
+---
+data:
+  dates:
+  - date: '2020-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{electric relay, urn:iec:std:iec:60050-151-13-31}}, the function of
+      which is to control equipment"
+  examples: []
+  id: 447-01-15
+  notes:
+  - content: A control relay can be a simple relay that translates an external command
+      into a control signal [e.g. a command to close a {{circuit-breaker, urn:iec:std:iec:60050-441-14-20}}],
+      or it can be a more complex {{device, urn:iec:std:iec:60050-151-11-20}} that
+      translates an external command into a number of sequential control signals [e.g.
+      the closing and opening of {{disconnectors, urn:iec:std:iec:60050-441-14-05}}
+      and {{circuit-breakers, urn:iec:std:iec:60050-441-14-20}} to changeover a circuit
+      from one busbar section to another]. A control relay can also supervise a {{characteristic
+      quantity, urn:iec:std:iec:60050-447-07-01}} (e.g. voltage, frequency) and produce
+      a control signal that is dependent upon its specific functional design (e.g.
+      under frequency load shedding relay).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control relay
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-05-01T00:00:00+00:00'
+id: c89ff055-7ec9-5530-b0a5-97880812cde5

@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '1994-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '1994-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: level in decibels equal to ten times the logarithm to the base ten of
+      the ratio of the backscattering coefficient of the volume to the reference volume
+      backscattering coefficient 4π/stem:[r]~0~, where stem:[r]~0~ is the reference
+      distance, preferably chosen to be 1 m
+  examples: []
+  id: 801-32-37
+  notes:
+  - content: Whatever reference coefficient is used, it shall be specified.
+  - content: The volume scattering differential for a designated direction other than
+      backward is similarly defined.
+  - content: Otherwise described, the volume backscattering differential is the backscattered
+      sound pressure level that would exist at the reference distance of stem:[r]~0~
+      from the acoustic centre of the volume containing scatterers, minus the sound
+      pressure level of a plane wave incident on the scatterers.
+  - content: "Expressed in letter symbols:\r\nstem:[N_(V) = L_(\"SC\") - L_(\"i\")
+      = 10 \" \" \"log\"_(10) frac(A_(V) / V)(4 pi r_(0)^(2) / V_(0)) \" \" \"dB\"
+      = 10 \" \" \"log\"_(10) frac(m)(4 pi / r_(0)) \" \" \" \" \"dB\"]\n\nwhere:\n\nstem:[N]~stem:[V]~  is
+      volume backscattering differential or volume scattering strength\n\nstem:[L]~SC~  is
+      backscattered sound pressure level at reference distance\n\nstem:[L]~i~  is
+      incident sound pressure level\n\nstem:[A]~stem:[V]~  is backscattering cross-section
+      of scatterers in volume stem:[V]\n\nstem:[r]~0~  is reference distance\n\nstem:[V_(0)
+      = r_(0)^(3)] is reference volume\n\nstem:[m] = stem:[A]~stem:[V]~ /stem:[V]  is
+      volume backscattering coefficient\n\nstem:[4 pi / r_(0) = 4 pi r_(0)^(2) / V_(0)]
+      is reference volume backscattering coefficient."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: volume backscattering differential
+  - type: expression
+    normative_status: preferred
+    designation: volume scattering strength
+  language_code: eng
+  entry_status: valid
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1994-07-01T00:00:00+00:00'
+id: 439e353a-454f-5d99-a1ab-89cd71604210
+classification: preferred

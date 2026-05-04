@@ -1,0 +1,46 @@
+---
+data:
+  definition:
+  - content: "quotient NC/ND de deux distances colinéaires mesurées sur le diagramme
+      de chromaticité des systèmes de référence colorimétriques CIE 1931 ou 1964,
+      la première distance étant celle entre le point C représentant le stimulus de
+      couleur pris en considération et le point N représentant le stimulus achromatique
+      spécifié; la seconde distance est celle entre le point N et le point D sur le
+      lieu spectral à la longueur d'onde dominante du stimulus de couleur pris en
+      considération. La définition conduit aux expressions suivantes:stem:[p_(\"e\")
+      = frac(y - y_(\"n\"))(y_(\"d\") - y_(\"n\"))]\r\net\r\nstem:[p_(\"e\") = frac(x
+      - x_(\"n\"))(x_(\"d\") - x_(\"n\"))]où (stem:[x], stem:[y]), (stem:[x]~n~, stem:[y]~n~),
+      (stem:[x]~d~, stem:[y]~d~) sont respectivement les coordonnées trichromatiques
+      sur les axes stem:[x], stem:[y] des points C, N et D"
+  examples: []
+  id: 845-23-066
+  notes:
+  - content: Dans le cas de stimuli pourpres, le stimulus monochromatique est remplacé
+      par un stimulus dont la chromaticité est représentée par un point sur la limite
+      des pourpres.
+  - content: Les expressions en stem:[x] et en stem:[y] sont équivalentes, mais l'emploi
+      de celle qui donne au numérateur la plus grande valeur conduit à une meilleure
+      précision.
+  - content: La pureté d'excitation, stem:[p]~e~, est liée à la pureté colorimétrique,
+      stem:[p]~c~, par la relation:stem:[p_("e") = frac(p_("c") y)(y_("d"))]
+  - content: L'unité de pureté d'excitation est un.
+  - content: Cet article était numéroté 845-03-48 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pureté d'excitation
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: e9c45a57-49e5-575a-9a0c-b115c5081bce

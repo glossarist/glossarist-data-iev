@@ -1,0 +1,60 @@
+---
+data:
+  definition:
+  - content: mesurage de la qualité de protection d'un échantillon de tissu contre
+      le {{rayonnement ultraviolet, urn:iec:std:iec:60050-845-21-008}} solaire, déterminé
+      par des essais in vitro
+  examples: []
+  id: 845-26-075
+  notes:
+  - content: Pour les essais in vitro, l'éclairement érythémal énergétique mesuré
+      par un détecteur avec l'échantillon de tissu en essai en place est comparé à
+      l'éclairement érythémal énergétique mesuré en l'absence de tissu, pour lequel
+      la source est généralement un simulateur solaire. Ce facteur est exprimé comme
+      le quotient de l'éclairement érythémal énergétique sans tissu et de l'éclairement
+      érythémal énergétique dans un tissu:stem:[F_("UVP") = frac(int_("290 nm")^("400 nm")
+      E_(lambda) " " s_("er") ( lambda ) " " "d" lambda)(int_("290 nm")^("400 nm")
+      E_(lambda) " " s_("er") ( lambda ) " " tau ( lambda ) " " "d" lambda)]où stem:[s]~er~(stem:[λ])
+      est la fonction de pondération spectrale d'un érythème, stem:[E~λ~] est l'éclairement
+      spectral énergétique, stem:[τ](stem:[λ]) est le facteur de transmission spectral
+      mesuré de l'entité, et stem:[λ] est la longueur d'onde.
+  - content: La fonction de pondération spectrale du danger lié aux ultraviolets,
+      stem:[S]~UV~(stem:[λ]), a été remplacée pour stem:[s]~er~(stem:[λ]) dans des
+      cas particuliers. S'il est utilisé dans ces conditions, le facteur de protection
+      contre les rayons ultraviolets, stem:[F]~UVP~, doit être noté stem:[F]~UVP~
+      &lsqb;avec pondération par stem:[S](stem:[λ])&rsqb;.
+  - content: L'unité du facteur de protection contre les rayons ultraviolets est un.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de protection contre les rayons ultraviolets
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: FPRUV
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: e714d34d-0f22-5c89-9b8d-40ecb77276a1
+classification: admitted

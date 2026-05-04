@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2001-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2001-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: qualifie des grandeurs électriques indépendantes du temps, telles que
+      tension ou courant, des dispositifs fonctionnant en courant continu et tension
+      continue, ou des grandeurs associées à ces dispositifs
+  examples: []
+  id: 151-15-02
+  notes:
+  - content: La notation "DC" est préférée en anglais à la notation "d.c.", qui est
+      une abréviation de l'expression "direct current".
+  - content: La langue française utilise également l'expression "courant continu"
+      avec une préposition appropriée telle que "en", "de", "à" ou "pour", ou seulement
+      l'adjectif "continu".
+  - content: 'Pour le marquage des matériels électriques, on peut employer soit la
+      notation DC, soit le symbole graphique approprié. Exemple: DC 500 V.'
+  - content: Conformément à l'ISO 31-0 et à la CEI 60027-1, les noms d'unité et leurs
+      symboles ne doivent pas être qualifiés par adjonction de "DC". Par exemple,
+      stem:[U]~DC~ = 500 V est correct, tandis stem:[U] = 500 V~DC~ ou stem:[U] =
+      500 V DC sont incorrects.
+  sources:
+  - origin:
+      ref: IEC 60050-131
+      original: voir la CEI 60050-131, CEI 61293, CEI 60417, N°5031
+    status: related
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: DC
+  language_code: fra
+  entry_status: valid
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2001-07-01T00:00:00+00:00'
+id: f0a74217-04c7-5e7b-95cf-2556328b518a

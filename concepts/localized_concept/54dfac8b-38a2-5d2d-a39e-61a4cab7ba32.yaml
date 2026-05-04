@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2004-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2004-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: sum of the active powers in all phase elements of a polyphase element
+  examples: []
+  id: 141-02-15
+  notes:
+  - content: For a symmetric polyphase element, under symmetric conditions, the active
+      power is equal to the active power for any phase element multiplied by the number
+      of phases.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 131-11-42
+      original: 131-11-42
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: active power
+    usage_info: for a polyphase element
+  - designation: stem:[P]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2004-08-01T00:00:00+00:00'
+  review_decision_date: '2004-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2004-08-01T00:00:00+00:00'
+id: 54dfac8b-38a2-5d2d-a39e-61a4cab7ba32

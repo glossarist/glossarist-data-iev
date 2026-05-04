@@ -1,0 +1,69 @@
+---
+data:
+  definition:
+  - content: ensemble de deux {{voies de transmission, urn:iec:std:iec:60050-701-02-01}}
+      associées pour assurer, entre deux points, une {{transmission, urn:iec:std:iec:60050-701-01-03}}
+      dans les deux sens
+  examples: []
+  id: 701-02-03
+  notes:
+  - content: Si la nature de la {{télécommunication, urn:iec:std:iec:60050-701-01-05}}
+      est {{unilatérale, urn:iec:std:iec:60050-701-03-18}}, par exemple pour la transmission
+      de la {{télévision, urn:iec:std:iec:60050-701-01-15}} à grande distance, on
+      utilise parfois le terme "circuit" pour désigner la voie de transmission unique
+      employée, mais cet usage est déconseillé.
+  - content: Dans certains pays, le terme anglais "communication channel" ou son abréviation
+      "channel" sont aussi utilisés avec la signification de "circuit de télécommunication",
+      c'est-à-dire qu'ils couvrent les deux sens de transmission. Cet usage est déconseillé.
+  - content: Le complément «de télécommunication» à «circuit» peut être remplacé par
+      un adjectif ou un complément indiquant la nature ou les caractéristiques des
+      {{signaux, urn:iec:std:iec:60050-101-12-02}} échangés; par exemple, {{circuit
+      téléphonique, urn:iec:std:iec:60050-722-06-07}}, {{circuit télégraphique, urn:iec:std:iec:60050-721-11-04}},
+      {{circuit de données, urn:iec:std:iec:60050-721-11-05}}, circuit numérique.
+  - content: La {{largeur de bande de fréquences, urn:iec:std:iec:60050-702-01-03}}
+      ou le {{débit numérique, urn:iec:std:iec:60050-702-05-23}} des voies de transmission
+      associées n'est pas nécessairement le même dans les deux sens.
+  - content: En téléphonie, le terme "circuit téléphonique" désigne en général d'une
+      façon restrictive un circuit de télécommunication reliant directement deux {{centres
+      de commutation, urn:iec:std:iec:60050-722-06-05}}.
+  - content: 'En commutation, les deux voies de transmission associées dans un circuit
+      de télécommunication peuvent être: a) associées en permanence; b) choisies dans
+      des ensembles séparés pour être associées pendant une {{communication, urn:iec:std:iec:60050-701-03-05}};
+      c) choisies de temps en temps pendant une communication et libérées, la sélection
+      et la libération étant déterminées indépendamment dans les deux sens, par les
+      caractéristiques variables de l''information transmise sur le circuit de télécommunication.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: circuit de télécommunication
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: circuit
+    usage_info: en télécommunication
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 33c734fe-09fd-5e1f-9c83-6751987cf4ba
+classification: preferred

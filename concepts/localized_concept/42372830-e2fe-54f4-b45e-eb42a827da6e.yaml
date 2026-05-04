@@ -1,0 +1,54 @@
+---
+data:
+  definition:
+  - content: 'relation binaire ℛ entre éléments stem:[a] et stem:[b] d''un ensemble
+      donné, ayant les propriétés suivantes: * réflexivité: aℛa, * antisymétrie: si
+      aℛb et bℛa alors a = b, * transitivité: si aℛb et bℛc alors aℛc, pour des éléments
+      quelconques a, b et c de l''ensemble donné'
+  examples: []
+  id: 102-01-09
+  notes:
+  - content: On dit que l'ensemble donné est ordonné par la relation ℛ.
+  - content: Une relation d'ordre est un ordre total si l'une au moins des relations
+      stem:[a]ℛstem:[b] et stem:[b]ℛstem:[a] est vraie pour tout couple d'éléments
+      stem:[a] et stem:[b]. L'ordre usuel des nombres réels est un ordre total car
+      stem:[a] ≤ stem:[b] ou stem:[b] ≤ stem:[a].
+  - content: Une relation d'ordre est un ordre partiel si, pour au moins deux éléments
+      stem:[a] et stem:[b], ni stem:[a]ℛstem:[b] ni stem:[b]ℛstem:[a] n'est vraie.
+      Des exemples sont la relation de divisibilité pour les nombres entiers naturels
+      et l'inclusion pour les sous-ensembles d'un ensemble donné contenant au moins
+      deux éléments.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relation d'ordre
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: ordre
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 42372830-e2fe-54f4-b45e-eb42a827da6e
+classification: preferred

@@ -1,0 +1,38 @@
+---
+data:
+  definition:
+  - content: trame contenant toutes les informations nécessaires à son acheminement
+      vers son destinataire final, sans connaissance du contenu de la trame précédente
+  examples: []
+  id: 811-37-26
+  notes:
+  - content: Les datagrammes n’utilisent aucun mécanisme préliminaire d'établissement
+      de connexion et ne sont pas acquittés au niveau de la couche de liaison.
+  sources:
+  - origin:
+      ref: IEC 61375-2-1:2012
+      locality:
+        type: clause
+        reference_from: 3.1.38
+      original: IEC 61375-2-1:2012, 3.1.38
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: datagramme
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: fcc3c4ef-8eb0-568d-bb31-1ebd2792c3b8

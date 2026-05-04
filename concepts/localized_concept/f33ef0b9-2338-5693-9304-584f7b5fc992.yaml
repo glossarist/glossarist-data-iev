@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: scalar, vector or tensor quantity, existing at each point of a defined
+      space region and depending on the position of the point
+  examples: []
+  id: 102-05-17
+  notes:
+  - content: A field quantity may be a function of time or any other parameter.
+  - content: In English the term "field quantity", in French "grandeur de champ",
+      is also used to denote a quantity, the square of which is proportional to power,
+      whereas quantities proportional to power are called "power quantities", whether
+      or not the quantities depend on the position of a point (see {{IEV 702-02-08,
+      urn:iec:std:iec:60050-702-02-08}}). According to ISO 80000-1:2009, Annex C,
+      the preferred term is then “root-power quantity”.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: field quantity
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 102-05-17
+      version: 2007-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: f33ef0b9-2338-5693-9304-584f7b5fc992

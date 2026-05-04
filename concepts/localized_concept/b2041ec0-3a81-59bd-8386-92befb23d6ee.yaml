@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '1990-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '1990-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "différence arithmétique entre la tension à vide d'un enroulement et
+      la tension en charge aux bornes du même enroulement pour un courant de charge
+      et un facteur de puissance spécifiés, la tension appliquée à l'autre (ou à l'un
+      des autres) enroulement(s) étant égale:\r\n- à sa valeur assignée, si le transformateur
+      est connecté sur la prise principale (la tension à vide du premier enroulement
+      étant alors égale à sa valeur assignée);\n\n- à la tension de prise si le transformateur
+      est connecté sur une autre prise.\r\nCette différence s'exprime généralement
+      sous la forme d'un pourcentage de la tension à vide du premier enroulement"
+  examples: []
+  id: 421-07-03
+  notes:
+  - content: Pour les transformateurs à plus de deux enroulements, la chute ou l'augmentation
+      de tension dépend non seulement de la charge et du facteur de puissance de l'enroulement
+      lui-même, mais aussi de la charge et du facteur de puissance des autres enroulements.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chute ou augmentation de tension pour une condition de charge spécifiée
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1990-10-01T00:00:00+00:00'
+  review_decision_date: '1990-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1990-10-01T00:00:00+00:00'
+id: b2041ec0-3a81-59bd-8386-92befb23d6ee

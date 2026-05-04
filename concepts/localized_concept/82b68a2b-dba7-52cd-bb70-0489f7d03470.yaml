@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2016-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{code, urn:iec:std:iec:60050-101-12-04}} according to which a larger
+      number of characters, symbols or signal elements than strictly necessary are
+      used to represent {{information, urn:iec:std:iec:60050-701-01-01}}"
+  examples:
+  - content: "{{Error detecting code, urn:iec:std:iec:60050-702-05-19}}; {{error correcting
+      code, urn:iec:std:iec:60050-702-05-20}}."
+  id: 702-05-18
+  notes:
+  - content: In telegraphy, a five-unit code using all the characters of {{International
+      Telegraph Alphabet No. 2, urn:iec:std:iec:60050-721-09-10}} is not redundant.
+      A seven-unit code such as {{International Telegraph Alphabet No. 3, urn:iec:std:iec:60050-721-09-11}}
+      which uses only signals made of four elements of {{A condition, urn:iec:std:iec:60050-721-03-19}}
+      and three elements of {{Z condition, urn:iec:std:iec:60050-721-03-20}} is redundant.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: redundant code
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 702-05-18
+      version: 1992-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-12-01T00:00:00+00:00'
+id: 82b68a2b-dba7-52cd-bb70-0489f7d03470

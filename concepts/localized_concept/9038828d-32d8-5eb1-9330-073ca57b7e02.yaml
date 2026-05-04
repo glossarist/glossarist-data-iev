@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "function describing the change with direction of irradiation (stem:[θ]~i~,stem:[&amp;phiv;]~i~)
+      and direction of view (stem:[θ]~r~,stem:[&amp;phiv;]~r~) of the radiance of
+      a surface element (stem:[x]~r~,stem:[y]~r~) in a given direction of view at
+      a given wavelength stem:[λ], stem:[L_(\"r\") ( theta_(\"r\") , phi_(\"r\") ,
+      x_(\"r\") , y_(\"r\") , lambda )], with respect to the irradiance incident on
+      the medium from the given direction of irradiation at the given wavelength,
+      stem:[E_(\"i\") ( theta_(\"i\") , phi_(\"i\") , lambda )]\r\nstem:[rho ( theta_(\"i\")
+      , phi_(\"i\") , theta_(\"r\") , phi_(\"r\") , x_(\"r\") , y_(\"r\") , lambda
+      ) = frac(rm(d) L_(\"r\") ( theta_(\"r\") , phi_(\"r\") , x_(\"r\") , y_(\"r\")
+      , lambda ))(rm(d) E_(\"i\") ( theta_(\"i\") , phi_(\"i\") , lambda ))]"
+  examples: []
+  id: 845-25-089
+  notes:
+  - content: The bi-directional reflectance distribution function is expressed in
+      steradian to the power minus one (sr^−1^).
+  - content: See also "{{radiance coefficient, urn:iec:std:iec:60050-845-24-078}}".
+  - content: This note applies to the French language only.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bi-directional reflectance distribution function
+  - type: expression
+    designation: BRDF
+  - designation: stem:[ρ](stem:[θ]~i~,stem:[&phiv;]~i,~stem:[θ]~r~,stem:[&phiv;]~r~,stem:[x]~r~,stem:[y]~r~,stem:[λ])
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 9038828d-32d8-5eb1-9330-073ca57b7e02

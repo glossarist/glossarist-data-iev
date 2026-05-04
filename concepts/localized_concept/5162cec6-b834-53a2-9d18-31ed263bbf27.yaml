@@ -1,0 +1,41 @@
+---
+data:
+  definition:
+  - content: quotient du flux énergétique pondéré par le danger de la lumière bleue
+      par le flux énergétique pondéré stem:[V](stem:[λ])stem:[a_("B" ",v") = frac(int
+      Phi_("e" "," lambda) ( lambda ) * B ( lambda ) * "d" lambda)(int Phi_("e" ","
+      lambda) ( lambda ) * V ( lambda ) * "d" lambda)]où stem:[λ] est la longueur
+      d'onde, stem:[Φ]~e,stem:[λ]~(stem:[λ]) est le flux énergétique spectral, stem:[B](stem:[λ])
+      est la fonction de pondération spectrale du danger de la lumière bleue et stem:[V](stem:[λ])
+      est la fonction d'{{efficacité lumineuse relative spectrale, urn:iec:std:iec:60050-845-21-035}}
+      de la CIE pour la vision photopique
+  examples: []
+  id: 845-26-062
+  notes:
+  - content: Le rayonnement lumineux fait référence à un {{rayonnement optique, urn:iec:std:iec:60050-845-21-002}}
+      pondéré par la fonction d'efficacité lumineuse relative spectrale de la CIE
+      pour la vision photopique, stem:[V](stem:[λ]).
+  - content: L'emploi de ce terme est raisonnable uniquement si des éléments constitutifs
+      du rayonnement optique se situent dans le domaine visible et ainsi stem:[int
+      Phi_("e" "," lambda) ( lambda ) * V ( lambda ) * "d" lambda ne 0].
+  - content: L'unité de facteur du danger de la lumière bleue d'un rayonnement lumineux
+      est un.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur du danger de la lumière bleue d'un rayonnement lumineux
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 5162cec6-b834-53a2-9d18-31ed263bbf27

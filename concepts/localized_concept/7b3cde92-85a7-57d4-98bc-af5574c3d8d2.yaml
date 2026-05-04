@@ -1,0 +1,61 @@
+---
+data:
+  dates:
+  - date: '2004-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2004-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: argument de la fonction cosinus dans la représentation d'une grandeur
+      sinusoïdale
+  examples: []
+  id: 141-01-01
+  notes:
+  - content: Le terme "phase instantanée" n'est employé que lorsque la variable indépendante
+      est le temps.
+  - content: Pour la grandeur stem:[A]~m~ cos (stem:[ωt] + stem:[θ]~0~ ) la phase
+      stem:[θ]  est égale à stem:[ωt] + stem:[θ]~0~ .
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 101-14-38
+      original: 101-14-38
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phase
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: phase instantanée
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2004-08-01T00:00:00+00:00'
+  review_decision_date: '2004-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2004-08-01T00:00:00+00:00'
+id: 7b3cde92-85a7-57d4-98bc-af5574c3d8d2

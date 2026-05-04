@@ -1,0 +1,68 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: en régime sinusoïdal et en notation complexe, rapport d'une grandeur
+      de champ telle qu'un courant réfléchi ou une composante d'une onde réfléchie
+      à la grandeur de champ correspondante du courant incident ou de l'onde incidente
+      en un point proche d'une surface séparant deux milieux de propagation, ou proche
+      d'un accès d'un réseau électrique ou d'une discontinuité d'une ligne de transmission
+  examples: []
+  id: 702-07-24
+  notes:
+  - content: "– Quand la grandeur du champ est une composante d'une onde électromagnétique
+      plane, le signe du facteur de réflexion est différent pour une composante du
+      champ électrique et la composante correspondante du champ magnétique."
+  - content: "– Quand la grandeur de champ se rapporte à un accès d'un réseau électrique,
+      ou à une discontinuité d'une ligne de transmission, on peut définir un facteur
+      de réflexion en tension dont le signe est opposé à celui du facteur de réflexion
+      du courant."
+  - content: "– Si on peut définir des impédances, le facteur de réflexion complexe
+      <u>stem:[r]</u> du courant est égal à:\r\nstem:[underline(r) = frac(underline(Z)
+      - underline(Z)^(prime))(underline(Z) + underline(Z)^(prime))]\r\noù stem:[<u>Z</u>]
+      est l'impédance caractéristique de la ligne avant la discontinuité ou l'impédance
+      de la source, et stem:[<u>Z</u>]′ l'impédance après la discontinuité ou l'impédance
+      de la charge vue de l'accès commun à la source et à la charge."
+  - content: "– Dans le cas d'un guide d'ondes le facteur de réflexion dépend du mode
+      électromagnétique considéré."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de réflexion complexe
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: coefficient de réflexion
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: '01478516-0f68-5af7-955f-47d69d912214'
+classification: deprecated

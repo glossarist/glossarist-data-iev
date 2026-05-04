@@ -1,0 +1,72 @@
+---
+data:
+  definition:
+  - content: '{{opération booléenne, urn:iec:std:iec:60050-171-03-05}} dont le résultat
+      a la valeur 0 si et seulement si tous les {{opérandes, urn:iec:std:iec:60050-171-03-04}}
+      ont la valeur booléenne 0Note 1 à l’article: La disjonction des variables stem:[a]
+      et stem:[b] est notée stem:[a "P{lor}" b] (U+2228) (stem:[a] ou stem:[b]).'
+  examples: []
+  id: 171-03-19
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disjonction
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: OU
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: OU inclusif
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: réunion
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 869d5afa-dffc-5fb7-b4ec-f9b3853fb930
+classification: preferred

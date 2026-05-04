@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: See {{IEV 121-12-15, urn:iec:std:iec:60050-121-12-15}}
+  examples: []
+  id: 705-03-05
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: real relative permittivity
+  - type: expression
+    normative_status: deprecated
+    designation: relative dielectric constant
+  - designation: stem:[ε']~r~
+    international: true
+  related:
+  - type: supersedes
+    ref:
+      source: IEV
+      id: 705-03-05
+      version: 1995-09
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: 45bcfe1b-3521-5fd8-b556-997fdce58059
+classification: deprecated

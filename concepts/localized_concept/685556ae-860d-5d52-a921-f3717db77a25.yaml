@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2017-11-20T00:00:00+00:00'
+    type: accepted
+  - date: '2017-11-20T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: process to keep the output of the system within defined parameters using
+      commands for non-safety-related control or safety-related control
+  examples:
+  - content: An example of non-safety-related control is the process of commanding
+      acceleration or braking to maintain speed at stem:[x] km/h ± stem:[y] km/h.
+      An example of safety-related control is the process of commanding the emergency
+      brakes if the speed exceeds the predefined speed limit.
+  id: 821-01-28
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62290-1:2014
+      locality:
+        type: clause
+        reference_from: 3.1.7
+      original: IEC 62290-1:2014, 3.1.7
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: control
+    usage_info: in signalling
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-11-20T00:00:00+00:00'
+  review_decision_date: '2017-11-20T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-11-20T00:00:00+00:00'
+id: 685556ae-860d-5d52-a921-f3717db77a25

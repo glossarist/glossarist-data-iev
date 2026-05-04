@@ -1,0 +1,45 @@
+---
+data:
+  dates:
+  - date: '1982-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '1982-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "graphical representation in polar coordinates of the amplitude reflection
+      factor stem:[<u>r</u>], for a lossless uniform transmission line with characteristic
+      impedance stem:[Z]~0~:\r\nstem:[underline(r) = frac(underline(Z) - Z_(\"0\"))(underline(Z)
+      + Z_(\"0\")) = frac(underline(Z) / Z_(\"0\") - 1)(underline(Z) / Z_(\"0\") +
+      1)]\r\nin terms of the complex impedance stem:[<u>Z</u>] by two families of
+      orthogonal circles on each of which either the modulus stem:[Z] or the argument
+      stem:[θ] has a constant value, where stem:[<u>Z</u>] = stem:[Z]/stem:[<u>θ</u>]
+      is the complex impedance in the direction of propagation of the incident wave
+      at the point at which the amplitude reflection factor is evaluated"
+  examples: []
+  id: 726-19-02
+  notes:
+  - content: The stem:[Z]-Theta chart may be used with impedances stem:[<u>Z</u>],
+      admittances stem:[underline(Y) = frac(1)(underline(Z))], normalized impedances
+      stem:[frac(underline(Z))(Z_("0"))] or normalized admittances stem:[frac(underline(Y))(Y_("0"))
+      = frac(Z_("0"))(underline(Z))].
+  - content: The stem:[Z]-Theta chart is usually restricted to values of stem:[θ]
+      between stem:[- frac(pi)(2)] and stem:[+ frac(pi)(2)] corresponding to positive
+      values of the real part of stem:[<u>Z</u>] in which case it is bounded by an
+      outer circle where the magnitude of the amplitude reflection factor is unity.
+  - content: The stem:[Z]-Theta chart has the same properties and applications as
+      those of the Smith chart, but the complex impedance stem:[<u>Z</u>] is represented
+      with two families of orthogonal circles on each of which either the modulus
+      stem:[Z] either the argument stem:[θ] has a constant value instead of the real
+      and imaginary parts stem:[R] and stem:[X] of stem:[<u>Z</u>] used for the Smith
+      chart.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stem:[Z]-Theta chart
+  language_code: eng
+  entry_status: valid
+  review_date: '1982-01-01T00:00:00+00:00'
+  review_decision_date: '1982-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1982-01-01T00:00:00+00:00'
+id: 33af134e-f482-5871-8f54-94073f5a4ca1

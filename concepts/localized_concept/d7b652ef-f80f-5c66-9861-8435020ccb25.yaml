@@ -1,0 +1,46 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of the flux reflected in the directions delimited by a given
+      cone with apex at a surface element, stem:[Φ]~n~, and the flux reflected in
+      the same directions by a perfect reflecting diffuser identically irradiated
+      or illuminated, stem:[Φ]~d~stem:[R = frac(Phi_("n"))(Phi_("d"))]
+  examples: []
+  id: 845-24-070
+  notes:
+  - content: The definition holds for a surface element, for the part of the reflected
+      radiation contained in a given cone with apex at the surface element, and for
+      incident radiation of given spectral composition, polarization and geometric
+      distribution.
+  - content: The reflectance factor is also defined spectrally and is called spectral
+      reflectance factor, stem:[R](stem:[λ]).
+  - content: The ideal isotropic (Lambertian) diffuser with reflectance or transmittance
+      equal to 1 is called a perfect diffuser.
+  - content: For regularly reflecting surfaces that are irradiated or illuminated
+      by a beam of small solid angle, the reflectance factor can be much larger than
+      1 if the cone includes the mirror image of the source.
+  - content: If the solid angle of the cone approaches 2stem:[pi] sr, the reflectance
+      factor approaches the reflectance for the same conditions of irradiation.
+  - content: If the solid angle of the cone approaches 0&#160;sr, the reflectance
+      factor approaches the radiance factor or luminance factor for the same conditions
+      of irradiation.
+  - content: The reflectance factor has unit one.
+  - content: This entry was numbered 845-04-64 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflectance factor
+  - designation: stem:[R]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: d7b652ef-f80f-5c66-9861-8435020ccb25

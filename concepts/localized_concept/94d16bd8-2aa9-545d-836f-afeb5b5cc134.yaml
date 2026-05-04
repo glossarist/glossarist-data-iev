@@ -1,0 +1,60 @@
+---
+data:
+  definition:
+  - content: température du radiateur de Planck dont la {{répartition spectrale relative,
+      urn:iec:std:iec:60050-845-21-030}}, stem:[S](stem:[λ]) est la même, ou à peu
+      près la même, que celle du rayonnement pris en considération dans le domaine
+      spectral concerné pour lequel l'intégrale suivante est réduite le plus possible
+      par ajustement de stem:[a] et de stem:[T]:stem:[int_(lambda_(1))^(lambda_(2))
+      &amp;lsqb; 1 - frac(S_("t") ( lambda ))(a " " S_("b") ( lambda , T )) &amp;rsqb;^(2)
+      "d" lambda]où stem:[λ] est la longueur d'onde, stem:[S]~t~(stem:[λ]) est la
+      répartition spectrale relative du rayonnement pris en considération, stem:[S]~b~(stem:[λ],
+      stem:[T]) est la répartition spectrale relative du radiateur de Planck à la
+      température stem:[T], et stem:[a] est un facteur d'échelle
+  examples: []
+  id: 845-24-017
+  notes:
+  - content: Le facteur d'échelle stem:[a] est choisi de sorte que le quotient stem:[frac(S_("t")
+      ( lambda ))(S_("b") ( lambda , T ))] soit égal à un à une longueur d'onde adaptée,
+      généralement de 560 nm en photométrie et en colorimétrie.stem:[S_("b") ( lambda
+      , T ) = frac(P ( lambda , T ))(P ( 560 " " "nm" , T ))] avec stem:[P ( lambda
+      , T ) = lambda^(- "5") ("e"^(frac(c_("2"))(lambda T)) - "1")^(- "1")], où stem:[c]~2~
+      est la seconde constante de rayonnement.
+  - content: La température de répartition est une caractéristique significative des
+      radiateurs dont la {{répartition spectrale relative, urn:iec:std:iec:60050-845-21-030}}
+      est similaire à celle d'un radiateur de Planck, mais uniquement si elle est
+      calculée pour une plage de longueurs d'onde étendue et pour un rayonnement dont
+      la {{répartition spectrale, urn:iec:std:iec:60050-845-21-029}} du flux énergétique
+      est une fonction continue de la longueur d'onde dans cette plage.
+  - content: En photométrie et en colorimétrie, la plage de longueurs d'onde définie
+      par stem:[λ]~1~ et stem:[λ]~2~ est le domaine spectral visible, et, dans ces
+      cas, la plage comprise entre au moins stem:[λ]~1~ = 400 nm et stem:[λ]~2~ =
+      750 nm est recommandée.
+  - content: Dans la pratique, l'intégrale est remplacée par une sommation. Pour des
+      {{lampes à incandescence, urn:iec:std:iec:60050-845-27-011}}, des intervalles
+      de longueurs d'onde également répartis de 10 nm sont habituellement suffisants.
+      Toutes les valeurs de la sommation sont traitées de manière égale.
+  - content: La température de répartition est exprimée en kelvin (K).
+  - content: Pour de plus amples informations, voir CIE 114-1994, _CIE Collection
+      in Photometry and Radiometry – 114/4 Distribution Temperature and Ratio Temperature_.
+  - content: Cet article était numéroté 845-04-14 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: température de répartition
+    usage_info: d'une source dans une plage de longueurs d'onde donnée, λ1 to λ2
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 94d16bd8-2aa9-545d-836f-afeb5b5cc134

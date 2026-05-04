@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2007-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2007-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "quotient du coefficient de température de la perméabilité par la perméabilité
+      à la température stem:[Θ]\n\nstem:[alpha_(\"F\") = frac(alpha_(mu))(mu_(Theta))
+      = frac(mu_(Theta) - mu_(\"ref\"))(mu_(Theta) mu_(\"ref\") (Theta - Theta_(\"ref\")))]\r\nou\r\nstem:[alpha_(\"F\")
+      = frac(alpha_(mu))(mu_(\"ref\")) = frac(mu_(Theta) - mu_(\"ref\"))(mu_(\"ref\")^(2)
+      (Theta - Theta_(\"ref\")))]\n\nsi stem:[µ]~stem:[Θ]~ et stem:[µ]~ref~ diffèrent
+      de manière insignifiante"
+  examples: []
+  id: 221-02-49
+  notes:
+  - content: "Le facteur de température de la perméabilité est une propriété du matériau
+      qui permet de calculer le coefficient de température de la perméabilité effective
+      stem:[α]~stem:[µ]e~ en multipliant stem:[α]~F~ par stem:[µ]~e~:\r\nstem:[alpha_(mu
+      \"e\") = alpha_(\"F\") * mu_(\"e\"^(*))]"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de température de la perméabilité
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2007-04-01T00:00:00+00:00'
+  review_decision_date: '2007-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2007-04-01T00:00:00+00:00'
+id: 0b9837a8-c429-5fb2-8b18-a6bca517cdba

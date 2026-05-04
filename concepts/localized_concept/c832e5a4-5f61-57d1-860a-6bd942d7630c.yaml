@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2010-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quantity in a conventionally chosen subset of a given system of quantities,
+      where no quantity within the subset can be expressed in terms of the others
+  examples: []
+  id: 112-01-08
+  notes:
+  - content: The subset mentioned in the definition is termed the set of base quantities.
+      The International System of Quantities (ISQ) is defined by a set of seven base
+      quantities.
+  - content: Base quantities are referred to as being mutually independent since a
+      base quantity cannot be expressed as a product of powers of the other base quantities.
+  - content: The quantity “number of entities” can be regarded as a base quantity
+      in any system of quantities.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 99:2007
+      locality:
+        type: clause
+        reference_from: '1.4'
+      original: ISO/IEC GUIDE 99:2007 1.4
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: base quantity
+  language_code: eng
+  entry_status: valid
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2010-01-01T00:00:00+00:00'
+id: c832e5a4-5f61-57d1-860a-6bd942d7630c

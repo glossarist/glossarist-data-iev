@@ -1,0 +1,44 @@
+---
+data:
+  definition:
+  - content: loi associant l'éclairement lumineux stem:[E]~v~, produit sur une surface
+      (perpendiculairement à la direction de la source de lumière et à une distance
+      suffisante pour que la source de lumière soit considérée comme {{source ponctuelle,
+      urn:iec:std:iec:60050-845-21-033}}) par une source de lumière, à l'intensité
+      lumineuse stem:[I]~v~, de la source de lumière dans la direction de la surface,
+      par rapport à la distance, stem:[d], entre la surface et la source de lumière,
+      et la transmissivité atmosphérique, stem:[T], réputée uniformestem:[E_("v")
+      = frac(I_("v"))(d^(2)) T^(d / d_(0))]où stem:[d]~0~ est la longueur spécifiée
+      dans la définition de stem:[T]
+  examples: []
+  id: 845-31-025
+  notes:
+  - content: La formule dans la définition est parfois écrite sous la forme:stem:[E_("v")
+      = frac(I_("v"))(d^(2)) T^(delta)]où l'exposant, stem:[δ], dans stem:[T^δ^] est
+      la valeur numérique de la distance, stem:[d,] mesurée avec stem:[d]~0~ comme
+      "unité".
+  - content: Compte tenu de la relation entre la transmissivité atmosphérique stem:[T],
+      et la {{portée optique météorologique, urn:iec:std:iec:60050-845-31-018}}, stem:[v],
+      donnée à la Note 2 à l'article de la définition "portée optique météorologique",
+      la loi d'Allard peut aussi s'écrire sous la forme:stem:[E_("v") = frac(I_("v"))(d^(2))
+      " " ( 0,05^(d / v) )].
+  - content: Cet article était numéroté 845-11-27 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: loi d'Allard
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 4b71b9be-e771-5342-8efb-1b95df684546

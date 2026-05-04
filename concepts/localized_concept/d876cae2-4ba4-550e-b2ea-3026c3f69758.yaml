@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '1999-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '1999-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: paramètre de base de vitesse de vent extrême utilisé pour définir les
+      catégories d'éoliennes.
+  examples: []
+  id: 415-03-12
+  notes:
+  - content: D'autres paramètres climatiques de conception sont dérivés de la vitesse
+      du vent de référence et d'autres paramètres de catégorie de base
+  - content: Une turbine conçue pour une catégorie d'éoliennes correspondant à une
+      certaine vitesse du vent de référence est dimensionnée afin de résister à des
+      climats pour lesquels la valeur moyenne sur 10 minutes de la vitesse du vent
+      extrême à la hauteur du moyeu, avec un temps de répétition possible de 50 ans,
+      est inférieure ou égale à cette vitesse du vent de référence.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vitesse du vent de référence
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1999-04-01T00:00:00+00:00'
+  review_decision_date: '1999-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1999-04-01T00:00:00+00:00'
+id: d876cae2-4ba4-550e-b2ea-3026c3f69758

@@ -1,0 +1,60 @@
+---
+data:
+  definition:
+  - content: "{{quantité de données, urn:iec:std:iec:60050-171-02-09}} pouvant être
+      contenue dans une {{mémoire, urn:iec:std:iec:60050-171-04-14}}, exprimée par
+      un nombre d’{{éléments de données, urn:iec:std:iec:60050-171-02-01}} de nature
+      spécifiée"
+  examples:
+  - content: 'Capacité de mémoire pour des bits, stem:[M]~b~ ou stem:[M]~bit~; capacité
+      de mémoire pour des octets, stem:[M]~o~.Note 1 à l’article: Les éléments de
+      données spécifiés dépendent de l''organisation de la mémoire; ce sont par exemple
+      des {{éléments binaires, urn:iec:std:iec:60050-171-02-10}}, des {{octets, urn:iec:std:iec:60050-171-02-12}},
+      des {{mots, urn:iec:std:iec:60050-171-02-27}} formés d''un nombre déterminé
+      d’éléments binaires, des {{blocs, urn:iec:std:iec:60050-721-03-11}}. Un indice
+      peut être ajouté au symbole pour indiquer un élément de données spécifié. Note
+      2 à l’article: Pour les {{registres, urn:iec:std:iec:60050-171-04-19}}, on utilise
+      plutôt, dans le même sens, le terme "longueur de registre".'
+  id: 171-04-16
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-9
+      original: IEC 80000-13:2008, 13-9
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capacité de mémoire
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: taille de mémoire
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 9c7ebf7a-4c33-59ad-bac2-ae56c64ec800

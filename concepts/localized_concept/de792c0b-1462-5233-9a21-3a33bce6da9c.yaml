@@ -1,0 +1,60 @@
+---
+data:
+  definition:
+  - content: "{{grandeur d'alimentation, urn:iec:std:iec:60050-447-03-01}} qui constitue
+      par elle-même la {{grandeur caractéristique, urn:iec:std:iec:60050-447-07-01}}
+      ou bien qui aide à sa constitution"
+  examples:
+  - content: "* Courant pour un relais de courant, un relais électrique thermique
+      et un (relais différentiel);* tension pour un relais de tension, un relais de
+      fréquence, un relais volt par hertz et un relais de synchronisation;* tension
+      et courant pour un relais d'impédance, un relais directionnel et un relais de
+      puissance."
+  id: 447-03-02
+  notes:
+  - content: 'à l''article: La {{grandeur d''alimentation d''entrée, urn:iec:std:iec:60050-447-03-02}}
+      peut être appliquée à un {{relais de mesure, urn:iec:std:iec:60050-447-01-02}}
+      ou à un {{équipment de protection, urn:iec:std:iec:60050-447-01-49}} soit par
+      un câblage depuis des {{transformateurs de mesure, urn:iec:std:iec:60050-321-01-01}}
+      ou en tant que paquet de données sur des ports de communication en employant
+      un protocole de communication de données approprié, tel que l''IEC 61850-9-2.'
+  - content: 'à l''article: Dans l''IEC 60050-447:2010, la "grandeur d''alimentation
+      caractéristique" portait le numéro 447-03-03 en tant que substitut pour la {{"grandeur
+      d''alimentation d''entrée", urn:iec:std:iec:60050-447-03-02}}, et la "grandeur
+      d''alimentation d''entrée" était provisoirement définie pour l''actuelle série
+      de normes IEC 60255. Toutefois, le terme de "grandeur d''alimentation d''entrée"
+      est internationalement accepté.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur d'alimentation d'entrée
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: grandeur d'alimentation caractéristique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: de792c0b-1462-5233-9a21-3a33bce6da9c
+classification: deprecated

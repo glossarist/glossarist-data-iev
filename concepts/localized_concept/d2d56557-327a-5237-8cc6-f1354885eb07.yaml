@@ -1,0 +1,26 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: time interval, from the instant of failure, until restoration
+  examples: []
+  id: 192-07-06
+  notes:
+  - content: If the instant of failure is indeterminate, the time interval is assumed
+      to commence upon failure detection.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: time to restoration
+    usage_info: of an item
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: d2d56557-327a-5237-8cc6-f1354885eb07

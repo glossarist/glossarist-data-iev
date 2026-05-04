@@ -1,0 +1,63 @@
+---
+data:
+  dates:
+  - date: '1990-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '1990-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: durée de l'intervalle de temps entre les instants auxquels la valeur
+      instantanée d'une impulsion atteint pour la première fois une valeur inférieure
+      puis une valeur supérieure donnée
+  examples: []
+  id: 161-02-05
+  notes:
+  - content: "Sauf spécification contraire, les valeurs inférieure et supérieure sont
+      fixées à 10 % et\r\n90 % de la hauteur de l'impulsion."
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 702-03-05
+      original: 702-03-05
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de montée
+    usage_info: d'une impulsion
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: durée d'établissement
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1990-08-01T00:00:00+00:00'
+  review_decision_date: '1990-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1990-08-01T00:00:00+00:00'
+id: 5448f1b3-f62f-58f4-a1d8-336047fc3235
+classification: preferred

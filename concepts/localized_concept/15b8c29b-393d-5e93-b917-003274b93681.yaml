@@ -1,0 +1,51 @@
+---
+data:
+  dates:
+  - date: '2018-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: photovoltaic {{device, urn:iec:std:iec:60050-511-01-01}} in which its
+      optical properties are modified by incorporating metallic {{nanoparticles, urn:iec:std:iec:60050-511-01-12}}
+      to the {{semiconductor, urn:iec:std:iec:60050-121-12-06}} layer of the device
+  examples: []
+  id: 511-02-07
+  notes:
+  - content: The {{nanostructure, urn:iec:std:iec:60050-511-01-08}} of the metallic
+      particles increases the {{absorption, urn:iec:std:iec:60050-705-02-07}} and
+      {{scattering, urn:iec:std:iec:60050-705-04-46}} of incident light and supports
+      strong localized collective electron excitations known as surface plasmons.
+  - content: Plasmon-resonance-generating metallic nanostructures are provided on
+      the semiconductor layer of the device for resonantly coupling light into the
+      absorbing layer and transporting photo-induced {{charge carriers, urn:iec:std:iec:60050-113-06-25}}
+      out of the absorbing layer, thereby improving the performance of the device.
+  sources:
+  - origin:
+      ref: IEC/TS 80004-9:2017
+      locality:
+        type: clause
+        reference_from: 3.2.7
+      original: IEC TS 80004-9:2017, 3.2.7, modified – In the definition, deletion
+        of "special type of" and replacement of "metal" by "metallic". In Note 1 to
+        entry, replacement of "metal nanoparticles" by "metallic particles".  In Note
+        2 to entry, replacement of "A plasmon resonance generating metallic nanostructure
+        is" by "Plasmon-resonance-generating metallic nanostructures are".
+    status: modified
+    type: authoritative
+    modification: In the definition, deletion of "special type of" and replacement
+      of "metal" by "metallic". In Note 1 to entry, replacement of "metal nanoparticles"
+      by "metallic particles".  In Note 2 to entry, replacement of "A plasmon resonance
+      generating metallic nanostructure is" by "Plasmon-resonance-generating metallic
+      nanostructures are".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: plasmonic photovoltaic cell
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-04-01T00:00:00+00:00'
+  review_decision_date: '2018-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-04-01T00:00:00+00:00'
+id: 15b8c29b-393d-5e93-b917-003274b93681

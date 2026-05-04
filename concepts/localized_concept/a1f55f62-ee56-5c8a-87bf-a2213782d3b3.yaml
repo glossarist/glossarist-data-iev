@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: element of a function chart participating in the definition of the state
+      of the system at a given instant where this element may be either active or
+      inactive
+  examples: []
+  id: 351-53-09
+  notes:
+  - content: Steps are separated by transitions.
+  - content: The set of active steps defines the state of the system considered.
+  - content: Commands or actions may be associated to each step. A step can only activate
+      a command if it is active.
+  - content: This entry was numbered 351-29-23 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: step
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: a1f55f62-ee56-5c8a-87bf-a2213782d3b3

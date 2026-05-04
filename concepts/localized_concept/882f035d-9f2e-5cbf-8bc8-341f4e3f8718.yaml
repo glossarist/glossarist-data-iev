@@ -1,0 +1,41 @@
+---
+data:
+  definition:
+  - content: flux lumineux émis dans un angle conique spécifié, stem:[α], déterminé
+      à partir de la répartition de l'intensité lumineuse, stem:[I]~v~(stem:[θ],stem:[φ]),
+      de la source de lumièrestem:[Phi_("v" ",p" "," alpha) = int_(phi = 0)^(2 pi)
+      int_(theta = 0)^(alpha / 2) I_("v") ( theta , phi ) " " sintheta " " "d" theta
+      " " "d" phi]
+  examples: []
+  id: 845-21-110
+  notes:
+  - content: "(stem:[θ],stem:[φ]) = (0,0) est la direction de l'axe conique, qu'il
+      convient de spécifier, et qui peut correspondre à l'axe mécanique ou à l'axe
+      du faisceau optique de la source de lumière ou toute autre direction."
+  - content: L'angle conique, stem:[α], qui peut être exprimé soit en degré (°) soit
+      en radian (rad), est donné par l'angle conique complet et doit être précisé,
+      par exemple, stem:[Φ]~p,90°~ ou stem:[Φ]~p,π/2~.
+  - content: Le terme "flux lumineux conique" est également utilisé dans certaines
+      applications selon la même acception.
+  - content: Voir aussi "{{flux lumineux utile, urn:iec:std:iec:60050-845-21-111}}".
+  - content: Le flux lumineux partiel est exprimé en lumen (lm).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flux lumineux partiel
+    usage_info: d'une source de lumière
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 882f035d-9f2e-5cbf-8bc8-341f4e3f8718

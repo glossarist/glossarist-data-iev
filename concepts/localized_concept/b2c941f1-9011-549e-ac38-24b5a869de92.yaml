@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2020-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: value of a quantity that is required at the end of lifetime of a {{measuring
+      relay, urn:iec:std:iec:60050-447-01-02}} or {{protection equipment, urn:iec:std:iec:60050-447-01-49}}
+      or after a specified number of cycles
+  examples: []
+  id: 447-02-16
+  notes:
+  - content: This term is to be used associated with the terms in {{IEV 447-02-10,
+      urn:iec:std:iec:60050-447-02-10}} to {{IEV 447-02-14, urn:iec:std:iec:60050-447-02-14}},
+      {{IEV 447-02-18, urn:iec:std:iec:60050-447-02-18}}, {{IEV 447-02-21, urn:iec:std:iec:60050-447-02-21}}
+      and {{IEV 447-02-22, urn:iec:std:iec:60050-447-02-22}}.
+  sources:
+  - origin:
+      ref: IEC 60050-444:2002
+      locality:
+        type: clause
+        reference_from: 444-07-16
+      original: IEC 60050-444:2002, 444-07-16, modified – "relay" has been replaced
+        by "measuring relay or protection equipment". Note 1 to entry has been added.
+    status: modified
+    type: authoritative
+    modification: '"relay" has been replaced by "measuring relay or protection equipment".
+      Note 1 to entry has been added.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: final endurance value
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-05-01T00:00:00+00:00'
+id: b2c941f1-9011-549e-ac38-24b5a869de92

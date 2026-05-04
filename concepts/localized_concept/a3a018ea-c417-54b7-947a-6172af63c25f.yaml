@@ -1,0 +1,56 @@
+---
+data:
+  dates:
+  - date: '1982-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '1982-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "représentation graphique en coordonnées polaires du facteur de réflexion
+      complexe stem:[<u>r</u>], pour une ligne de transmission uniforme sans pertes,
+      d'impédance caractéristique stem:[Z]~0~:\r\nstem:[underline(r) = frac(underline(Z)
+      - Z_(0))(underline(Z) + Z_(0)) = frac(underline(Z) / Z_(0) - 1)(underline(Z)
+      / Z_(0) + 1)]\n\nen fonction de l'impédance complexe stem:[<u>Z</u>] à l'aide
+      de deux familles de cercles orthogonaux sur chacun desquels soit le module stem:[Z]
+      soit l'argument stem:[θ] a une valeur constante, stem:[<u>Z</u>] = stem:[Z]/stem:[<u>θ</u>]
+      étant l'impédance complexe dans la direction de propagation de l'onde incidente
+      au point de détermination du facteur de réflexion complexe"
+  examples: []
+  id: 726-19-02
+  notes:
+  - content: "L'abaque stem:[Z]-Théta peut être employé avec des impédances stem:[<u>Z</u>],
+      des admittances stem:[underline(Y) = frac(1)(underline(Z))], des impédances
+      normées stem:[frac(underline(Z))(Z_(0))] ou des admittances normées\r\nstem:[frac(underline(Y))(Y_(0))
+      = frac(Z_(0))(underline(Z))]."
+  - content: L'abaque stem:[Z]-Théta est habituellement limité aux valeurs de stem:[θ]
+      comprises entre stem:[- frac(pi)(2)] et stem:[+ frac(pi)(2)] qui correspondent
+      aux valeurs positives de la partie réelle de stem:[<u>Z</u>]; tout l'abaque
+      est alors compris à l'intérieur d'un cercle où le module du facteur de réflexion
+      est égal à l'unité.
+  - content: L'abaque stem:[Z]-Théta a les mêmes propriétés et applications que l'abaque
+      de Smith, mais l'impédance complexe stem:[<u>Z</u>] y est représentée à l'aide
+      de deux familles de cercles sur chacun desquels soit le module stem:[Z], soit
+      l'argument stem:[θ] a une valeur constante, au lieu des parties réelle stem:[R]
+      et imaginaire stem:[X] de stem:[<u>Z</u>] employées avec l'abaque de Smith.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: abaque stem:[Z]-Théta
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '1982-01-01T00:00:00+00:00'
+  review_decision_date: '1982-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1982-01-01T00:00:00+00:00'
+id: a3a018ea-c417-54b7-947a-6172af63c25f

@@ -1,0 +1,46 @@
+---
+data:
+  dates:
+  - date: '2013-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a passive linear two-terminal element or two-terminal circuit with
+      terminals A and B under sinusoidal conditions, quotient of the phasor stem:[underline(U)_(rm(AB))]
+      representing the voltage ({{131-11-56, urn:iec:std:iec:60050-131-11-56}}) between
+      the terminals by the phasor stem:[underline(I)] representing the electric current
+      in the element or circuit  stem:[underline(Z) = frac(underline(U)_("A" "B"))(underline(I))]
+      where the sinusoidal voltage stem:[u_("A" "B") = v_("A") - v_("B")] represented
+      by the phasor stem:[underline(U)_(rm(AB))] is the difference of the electric
+      potentials stem:[v_("A")] at A and stem:[v_("B")] at B, and where the sinusoidal
+      electric current represented by the phasor stem:[underline(I)] is taken positive
+      if its direction is from A to B and negative if its direction is from B to A
+  examples: []
+  id: 131-12-43
+  notes:
+  - content: The impedance of an element or circuit is the inverse of its admittance.
+      It is equal to stem:[underline(Z) = R + rm(j) X = Z rm(e)^(rm(j) phi)], where
+      stem:[R] is resistance to alternating current, stem:[X] is reactance, stem:[Z]
+      is apparent impedance, and stem:[φ] is displacement angle.
+  - content: 'With a suitable qualifier, the word impedance is used to form composite
+      terms designating quantities of the same kind as impedance, e.g.: transfer impedance,
+      characteristic impedance.'
+  - content: The coherent SI unit of impedance is ohm, Ω.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: impedance
+  - type: expression
+    normative_status: preferred
+    designation: complex impedance
+  - designation: stem:[underline(Z)]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-08-01T00:00:00+00:00'
+  review_decision_date: '2013-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-08-01T00:00:00+00:00'
+id: 75a59d8b-a0f1-576e-8b82-0354e9025412
+classification: preferred

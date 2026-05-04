@@ -1,0 +1,79 @@
+---
+data:
+  definition:
+  - content: "densité d'intensité photonique par rapport à l'aire projetée dans une
+      direction spécifiée en un point spécifié sur une surface réelle ou fictivestem:[L_(\"p\")
+      = frac(\"d\" I_(\"p\"))(\"d\" A) frac(1)(cosalpha)]\r\noù stem:[I]~p~ est l'intensité
+      photonique, stem:[A] est l'aire et stem:[α] est l'angle entre la perpendiculaire
+      à la surface au point spécifié et la direction spécifiée"
+  examples: []
+  id: 845-21-051
+  notes:
+  - content: "Dans une acception pratique, la luminance photonique peut être observée
+      comme divisant une surface réelle ou fictive en un nombre infini de surfaces
+      infinitésimalement petites qui peuvent être considérées comme des {{sources
+      ponctuelles, urn:iec:std:iec:60050-845-21-033}}, chacune de ces sources ayant
+      une intensité photonique spécifique, stem:[I]~p~, dans la direction spécifiée.
+      La luminance photonique de la surface est alors l'intégrale de ces éléments
+      de luminance photonique sur toute la surface.\r\nL'équation dans la définition
+      peut être interprétée mathématiquement comme une dérivée (c'est-à-dire un taux
+      de variation de l'intensité photonique avec l'aire projetée) et peut en variante
+      être reformulée en tant qu'intensité photonique moyenne, stem:[bar(I)_(\"p\")],
+      sous la forme:\r\nstem:[L_(\"p\") = underset(A vec \"0\")(\"lim\") frac(bar(I)_(\"p\"))(A)
+      \" \" frac(\"1\")(cosalpha)].\r\nDe fait, la luminance photonique est souvent
+      considérée comme un quotient des grandeurs moyennées; il convient que l'aire,
+      stem:[A], soit suffisamment petite de sorte que les incertitudes dues aux variations
+      de l'intensité photonique dans cette surface soient négligeables; à défaut,
+      le quotient stem:[bar(L)_(\"p\") = frac(bar(I)_(\"p\"))(A) \" \" frac(\"1\")(cosalpha)]
+      donne la luminance photonique moyenne et les conditions de mesure spécifiques
+      doivent être consignées avec le résultat."
+  - content: Pour une surface irradiée, une formule équivalente en matière d'éclairement
+      photonique, stem:[E]~p~, et d'angle solide, stem:[Ω], est stem:[L_("p") = frac("d"
+      E_("p"))("d" Omega) " " frac("1")(costheta)], où stem:[θ] est l'angle entre
+      la perpendiculaire à la surface irradiée et la direction d'irradiation. Cette
+      forme est utile lorsque la source n'a pas de surface (par exemple, le ciel,
+      le plasma d'une décharge).
+  - content: Une formule équivalente est stem:[L_("p") = frac("d" Phi_("p"))("d" G)],
+      où stem:[Φ]~p~ est le flux photonique et stem:[G] est l'étendue géométrique.
+  - content: "Le flux photonique peut être obtenu par intégration de la luminance
+      photonique dans une surface projetée, stem:[A]·cos stem:[α], et l'angle solide,
+      stem:[Ω]:\r\nstem:[Phi_(\"p\") = \"​\" \"P{iint}\" L_(\"p\") * cosalpha \" \"
+      \"d\" A \" \" \"d\" Omega]."
+  - content: Puisque l'étendue optique, exprimée par stem:[G·n]^2^, où stem:[G] est
+      l'étendue et stem:[n] est l'indice de réfraction, est un invariant, la grandeur
+      exprimée par stem:[L]~p~stem:[·n]^−2^ est également un invariant le long du
+      trajet du faisceau si les pertes par absorption, réflexion et diffusion sont
+      considérées comme nulles. Cette grandeur est appelée "luminance photonique basique".
+  - content: "L'équation dans la définition peut également être décrite en fonction
+      du flux photonique, stem:[Φ]~p~. Dans ce cas, elle est mathématiquement interprétée
+      comme une dérivée partielle seconde du flux photonique en un point spécifié
+      (stem:[x], stem:[y]) dans l'espace dans une direction spécifiée (stem:[ϑ], stem:[φ])
+      par rapport à l'aire projetée, stem:[A]·cos stem:[α], et l'angle solide, stem:[Ω],\r\nstem:[L_(\"p\")
+      ( x , y , vartheta , phi ) = frac(del^(2) Phi_(\"p\") ( x , y , vartheta , phi
+      ))(del A ( x , y ) * cosalpha * del Omega (vartheta , phi)) \" \"]\r\noù stem:[α]
+      est l'angle entre la perpendiculaire à cette surface au point spécifié et la
+      direction spécifiée."
+  - content: La grandeur radiométrique correspondante est la "luminance énergétique".
+      La grandeur photométrique correspondante est la "luminance".
+  - content: La luminance photonique est exprimée en seconde à la puissance moins
+      un par mètre carré par stéradian (s^−1^·m^−2^·sr^−1^).
+  - content: Cet article était numéroté 845-01-36 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance photonique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: ac2a5ce4-1f12-5bdd-bfed-aec0140da60a

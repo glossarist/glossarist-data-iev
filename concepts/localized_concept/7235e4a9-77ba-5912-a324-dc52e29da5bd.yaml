@@ -1,0 +1,92 @@
+---
+data:
+  definition:
+  - content: "densité d'intensité énergétique par rapport à l'aire projetée dans une
+      direction spécifiée en un point spécifié sur une surface réelle ou fictivestem:[L_(\"e\")
+      = frac(\"d\" I_(\"e\"))(\"d\" A) frac(1)(cosalpha)]\r\noù stem:[I]~e~ est l'intensité
+      énergétique, stem:[A] est l'aire, et stem:[α] est l'angle entre la perpendiculaire
+      à la surface au point spécifié et la direction spécifiée"
+  examples: []
+  id: 845-21-049
+  notes:
+  - content: "Dans une acception pratique, la luminance énergétique ou radiance peut
+      être observée comme divisant une surface réelle ou fictive en un nombre infini
+      de surfaces infinitésimalement petites qui peuvent être considérées comme des
+      {{sources ponctuelles, urn:iec:std:iec:60050-845-21-033}}, chacune de ces sources
+      ayant une intensité énergétique spécifique, stem:[I]~e~, dans la direction spécifiée.
+      La luminance énergétique ou radiance de la surface est alors l'intégrale de
+      ces éléments de radiance sur toute la surface.\r\nL'équation dans la définition
+      peut être interprétée mathématiquement comme une dérivée (c'est-à-dire un taux
+      de variation de l'intensité énergétique avec l'aire projetée) et peut en variante
+      être reformulée en tant qu'intensité énergétique moyenne stem:[bar(I)_(\"e\")]
+      sous la forme stem:[L_(\"e\") = underset(A vec \"0\")(\"lim\") frac(bar(I)_(\"e\"))(A)
+      \" \" frac(\"1\")(cosalpha)].\r\nDe fait, la radiance est souvent considérée
+      comme un quotient des grandeurs moyennées; il convient que l'aire, stem:[A],
+      soit suffisamment petite de sorte que les incertitudes dues aux variations de
+      l'intensité énergétique dans cette surface soient négligeables; à défaut, le
+      quotient stem:[bar(L)_(\"e\") = frac(bar(I)_(\"e\"))(A) \" \" frac(\"1\")(cosalpha)]
+      donne la radiance moyenne et les conditions de mesure spécifiques doivent être
+      consignées avec le résultat."
+  - content: Pour une surface irradiée, une formule équivalente en matière d'éclairement,
+      stem:[E]~e~, et d'angle solide, stem:[Ω], est stem:[L_("e") = frac("d" E_("e"))("d"
+      Omega) " " frac("1")(costheta)], où stem:[θ] est l'angle entre la perpendiculaire
+      à la surface irradiée et la direction d'irradiation. Cette forme est utile lorsque
+      la source n'a pas de surface (par exemple, le ciel, le plasma d'une décharge).
+  - content: Une formule équivalente est stem:[L_("e") = frac("d" Phi_("e"))("d" G)],
+      où stem:[Φ]~e~ est le flux énergétique et stem:[G] est l'étendue géométrique.
+  - content: 'Le flux énergétique peut être obtenu par intégration de la radiance
+      dans une surface projetée, stem:[A]·cos stem:[α], et l''angle solide, stem:[Ω]:
+      stem:[Phi_("e") = "​" "P{iint}" L_("e") * cosalpha " " "d" A " " "d" Omega].'
+  - content: Puisque l'{{étendue optique, urn:iec:std:iec:60050-845-21-048}}, exprimée
+      par stem:[G]·stem:[n]^2^, où stem:[G] est l'étendue et stem:[n] est l'indice
+      de réfraction, est un invariant, la grandeur exprimée par stem:[L]~e~stem:[·n]^−2^
+      est également un invariant le long du trajet du faisceau si les pertes par absorption,
+      réflexion et diffusion sont considérées comme nulles. Cette grandeur est appelée
+      "luminance réduite".
+  - content: "L'équation dans la définition peut également être décrite en fonction
+      du flux énergétique, Φ~e~. Dans ce cas, elle est mathématiquement interprétée
+      comme une dérivée partielle seconde du flux énergétique en un point spécifié
+      (stem:[x], stem:[y]) dans l'espace dans une direction spécifiée (stem:[ϑ], stem:[φ])
+      par rapport à l'aire projetée, stem:[A]·cos stem:[α], et l'angle solide, stem:[Ω]:\r\nstem:[L_(\"e\")
+      ( x , y , vartheta , phi ) = frac(del^(2) Phi_(\"e\") ( x , y , vartheta , phi
+      ))(del A ( x , y ) * cosalpha * del Omega (vartheta , phi)) \" \"]\r\noù stem:[α]
+      est l'angle entre la perpendiculaire à cette surface au point spécifié et dans
+      la direction spécifiée."
+  - content: La grandeur photométrique correspondante est la "luminance". La grandeur
+      correspondante pour les photons est la "luminance photonique".
+  - content: La radiance est exprimée en watt par mètre carré par stéradian (W·m^−2^·sr^−1^).
+  - content: Cet article était numéroté 845-01-34 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminance énergétique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: radiance
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 7235e4a9-77ba-5912-a324-dc52e29da5bd
+classification: admitted

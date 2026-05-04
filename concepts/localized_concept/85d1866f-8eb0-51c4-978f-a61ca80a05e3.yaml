@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '1998-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "under sinusoidal conditions in a medium where the phasors <u>stem:[D]</u>,
+      <u>stem:[E]</u> and <u>stem:[J]</u> representing respectively the electric flux
+      density, the electric field strength and the electric current density are linearly
+      related, complex quantity stem:[<u>ε</u>]~re~ defined by the relation\r\nstem:[epsilon_(0)
+      \" \" \" \" underline(epsilon)_(\"re\") \" \" underline(E) = underline(D) +
+      frac(underline(J))(\"j\" omega) = underline(D) - \"j\" frac(gamma \" \" underline(E))(omega)]\r\nwhere
+      stem:[γ] is the conductivity of the medium, stem:[ω] the angular frequency and
+      stem:[ε]~0~ the electric constant"
+  examples: []
+  id: 121-12-18
+  notes:
+  - content: The effective complex relative permittivity is generally frequency dependent.
+      For an isotropic medium the effective complex relative permittivity is a scalar;
+      for an anisotropic medium it is a tensor.
+  - content: "The effective complex relative permittivity and the complex relative
+      permittivity stem:[<u>ε</u>]~r~ are linked by the relation\r\nstem:[\" \" underline(epsilon)_(\"re\")
+      \" \" = underline(epsilon)_(\"r\") - frac(\"j\" gamma \" \")(epsilon_(0) omega)]\r\nIn
+      a conductive medium, including good conductors and imperfect dielectrics, the
+      useful and measurable quantity is the effective complex relative permittivity."
+  - content: The negative of the imaginary part of the effective complex relative
+      permittivity represents both dielectric losses and losses due to the conductivity,
+      the part due to conductivity being represented by stem:[γ]/stem:[ε]~0~stem:[ω].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: effective complex relative permittivity
+  - designation: stem:[<u>ε</u>]~re~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-08-01T00:00:00+00:00'
+id: 85d1866f-8eb0-51c4-978f-a61ca80a05e3

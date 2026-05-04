@@ -1,0 +1,48 @@
+---
+data:
+  definition:
+  - content: rapport du nombre d'éléments erronés dans un message reçu au nombre total
+      d'éléments émis pendant un {{intervalle de temps, urn:iec:std:iec:60050-113-01-10}}
+      déterminé
+  examples:
+  - content: "{{taux d'erreur binaire, urn:iec:std:iec:60050-704-18-04}}, {{taux d'erreurs
+      sur les éléments numériques, urn:iec:std:iec:60050-721-08-11}}, {{taux d'erreurs
+      sur les blocs, urn:iec:std:iec:60050-721-08-13}}"
+  id: 702-07-39
+  notes:
+  - content: Les éléments peuvent être, par exemple, des {{éléments numériques, urn:iec:std:iec:60050-702-05-02}},
+      des {{codets, urn:iec:std:iec:60050-702-05-17}} ou des {{blocs, urn:iec:std:iec:60050-721-03-11}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: taux d'erreurs
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: rapport d'erreur
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 6c9cbe36-2343-5164-98e0-205036a4ce20
+classification: deprecated

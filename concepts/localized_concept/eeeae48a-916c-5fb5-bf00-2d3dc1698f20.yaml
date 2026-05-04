@@ -1,0 +1,38 @@
+---
+data:
+  definition:
+  - content: transformation de bits en appliquant une technique de cryptage à un message,
+      suivant un algorithme piloté par clés, afin de rendre plus difficile une lecture
+      fortuite des données
+  examples: []
+  id: 821-11-31
+  notes:
+  - content: Le cryptage de message ne protège pas contre la corruption des données.
+  sources:
+  - origin:
+      ref: IEC 62280:2014
+      locality:
+        type: clause
+        reference_from: 3.1.33
+      original: IEC 62280:2014, 3.1.33
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cryptage de message
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: eeeae48a-916c-5fb5-bf00-2d3dc1698f20

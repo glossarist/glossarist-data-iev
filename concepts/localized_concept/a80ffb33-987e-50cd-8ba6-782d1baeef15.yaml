@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: average value of the instantaneous failure rate over a given time interval
+      (stem:[t]~1~, stem:[t]~2~) stem:[bar(lambda) ( t_(1) , " " t_(2) ) = frac(1)(t_(2)
+      - t_(1)) int_(" " " " t_(1))^(" " " " t_(2)) lambda ( t ) " " "d" t]
+  examples: []
+  id: 192-05-07
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mean failure rate
+  - type: expression
+    normative_status: preferred
+    designation: average failure rate
+  - designation: stem:[bar(() t_(1) , " " t_(2) )]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: a80ffb33-987e-50cd-8ba6-782d1baeef15
+classification: preferred

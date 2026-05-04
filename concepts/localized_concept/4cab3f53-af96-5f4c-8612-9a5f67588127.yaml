@@ -1,0 +1,49 @@
+---
+data:
+  dates:
+  - date: '2014-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '2014-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: equipment used to prevent unsafe operation, protect personnel, and prevent
+      hazards
+  examples: []
+  id: 395-07-120
+  notes:
+  - content: Interlocks may be single-channel, double channel or multi-channel.
+  - content: Single-channel interlocks use a single channel of sensors, logic units
+      and an actuation item such as a contactor or relay.
+  - content: Double-channel interlocks use two channels of equipment and sensors,
+      arranged so that each channel is capable, on its own, of preventing the unsafe
+      condition or state. The channels may consist of two sets of essentially identical
+      equipment. An alternative is two different channels which perform the interlock
+      functions differently, or two similar channels, one in normal operation and
+      the other in backup operation to prevent an unsafe condition or state if the
+      first channel fails.
+  - content: Multi-channel interlocks use several channels of equipment and sensors.
+      They are arranged so that each channel is capable, on its own, of preventing
+      the unsafe condition or state. One failed channel cannot block actions which
+      prevent unsafe conditions or states. Use of multi-channel systems can provide
+      benefits such as allowing on-line maintenance and avoiding the need for a channel
+      bypass.
+  sources:
+  - origin:
+      ref: IEC 61504
+      locality:
+        type: clause
+        reference_from: '3.6'
+      original: 'IEC 61504: 2000, 3.6, modified'
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interlocks
+  language_code: eng
+  entry_status: valid
+  review_date: '2014-03-01T00:00:00+00:00'
+  review_decision_date: '2014-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2014-03-01T00:00:00+00:00'
+id: 4cab3f53-af96-5f4c-8612-9a5f67588127

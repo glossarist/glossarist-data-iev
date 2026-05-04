@@ -1,0 +1,35 @@
+---
+data:
+  definition:
+  - content: surface conductrice plate dont le {{potentiel électrique, urn:iec:std:iec:60050-121-11-25}}
+      est identique à celui de la {{terre de référence, urn:iec:std:iec:60050-195-01-01}},
+      qui est utilisée comme référence commune, et qui contribue à une capacité parasite
+      reproductible avec l’environnement de l'équipement en essai (EST)
+  examples: []
+  id: 161-04-36
+  notes:
+  - content: Un plan de masse de référence est nécessaire pour les mesures de {{perturbations
+      conduites, urn:iec:std:iec:60050-161-03-27}}, et sert de référence pour la mesure
+      des {{tensions perturbatrices, urn:iec:std:iec:60050-161-04-01}} dissymétriques
+      et asymétriques.
+  - content: Dans certaines régions, le terme anglais ‘earth’ est utilisé à la place
+      de ‘ground’.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: plan de masse de référence
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 16d46eec-2e07-52c8-9595-ad0c528636b6

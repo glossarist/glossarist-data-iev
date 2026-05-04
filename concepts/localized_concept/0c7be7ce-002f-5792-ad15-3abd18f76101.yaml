@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "quotient of the irradiance or illuminance, stem:[E]~2~ (or stem:[E]~1~),
+      at a point on surface S~2~ (or S~1~) due to the flux received from surface S~1~
+      (or S~2~) and the radiant exitance or luminous exitance, stem:[M]~1~ (or stem:[M]~2~),
+      of surface S~1~ (or S~2~)stem:[c_(21) = frac(E_(2))(M_(1))]\r\nor\r\nstem:[c_(12)
+      = frac(E_(1))(M_(2))]"
+  examples: []
+  id: 845-29-093
+  notes:
+  - content: The relation between the configuration factor, stem:[c], and the (mutual)
+      exchange coefficient, stem:[g], isstem:[int_(A_("2")) c_("21") "d" A_("2") =
+      frac(int_(A_(2)) E_("2") "d" A_("2"))(M_("1")) = frac(Phi_("2"))(M_(1)) = g
+      = frac(Phi_("1"))(M_("2")) = frac(int_(A_("1")) E_("1") "d" A_("1"))(M_("2"))
+      = int_(A_("1")) c_("12") "d" A_("1")]where stem:[Φ]~2~ (or stem:[Φ]~1~) is the
+      flux received over surface S~2~ (or S~1~) from surface S~1~ (or S~2~) and stem:[A]~2~
+      (or stem:[A]~1~) is the area of surface S~2~ (or S~1~)
+  - content: The configuration factor has unit one.
+  - content: This entry was numbered 845-09-72 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: configuration factor
+    usage_info: between two surfaces
+  - designation: |-
+      stem:[c]~21~
+      stem:[c]~12~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 0c7be7ce-002f-5792-ad15-3abd18f76101

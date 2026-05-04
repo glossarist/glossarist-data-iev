@@ -1,0 +1,42 @@
+---
+data:
+  definition:
+  - content: processus visant à maintenir le système dans la limite de paramètres
+      prédéfinis au moyen de commandes pour le contrôle fonctionnel (non sécuritaire)
+      ou le contrôle sécuritaire
+  examples:
+  - content: Un exemple de contrôle fonctionnel (non sécuritaire) est le processus
+      commandant l’accélération ou le freinage pour maintenir la vitesse à stem:[x]
+      km/h ± stem:[y] km/h. Un exemple de contrôle sécuritaire est le processus commandant
+      le freinage d’urgence lorsque la vitesse dépasse la vitesse limite prédéfinie.
+  id: 821-01-28
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62290-1:2014
+      locality:
+        type: clause
+        reference_from: 3.1.7
+      original: IEC 62290-1:2014, 3.1.7
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: contrôle
+    usage_info: en signalisation
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 4093c355-6252-55fb-aef3-4fbd4367ac98

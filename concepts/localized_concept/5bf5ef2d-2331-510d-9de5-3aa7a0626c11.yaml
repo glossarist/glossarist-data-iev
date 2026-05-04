@@ -1,0 +1,49 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of the number of specified {{data elements, urn:iec:std:iec:60050-171-02-01}}
+      {{transferred, urn:iec:std:iec:60050-171-06-01}} in a time interval by the duration
+      of this interval
+  examples:
+  - content: "{{Digit rate, urn:iec:std:iec:60050-702-05-23}}, stem:[r]~d~ or stem:[ν]~d~;
+      transfer rate for bytes, stem:[r]~B~, stem:[r]~o~, stem:[ν]~B~, or stem:[ν]~o~;
+      {{binary digit rate, urn:iec:std:iec:60050-704-16-07}} (or bit rate), stem:[r]~b~,
+      stem:[r]~bit~, stem:[ν]~b~, or stem:[ν]~bit~."
+  id: 171-06-03
+  notes:
+  - content: The transfer rate is expressed in seconds to the power of minus one (s^−1^).
+      In practice, it is expressed in digits per second, for example in bits per second
+      (bit/s) or in bytes per second (B/s). These units can be combined with decimal
+      multiple prefixes, for example kilobyte per second (kB/s).
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-11
+      original: IEC 80000-13:2008, 13-11, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transfer rate
+  - designation: |-
+      stem:[r]
+      stem:[ν]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 5bf5ef2d-2331-510d-9de5-3aa7a0626c11

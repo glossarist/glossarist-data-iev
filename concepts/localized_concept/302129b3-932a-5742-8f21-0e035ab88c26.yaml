@@ -1,0 +1,43 @@
+---
+data:
+  definition:
+  - content: tableau de stem:[mn] scalaires disposés en stem:[m] lignes et stem:[n]
+      colonnes
+  examples: []
+  id: 102-06-01
+  notes:
+  - content: Les scalaires du tableau sont appelés éléments de la matrice.
+  - content: On emploie aussi la notation matricielle avec des grandeurs scalaires
+      à la place des scalaires, ces grandeurs n'étant pas nécessairement de même nature.
+      Des exemples sont la matrice d'impédance et la matrice stem:[H] (voir IEC 60027-2).
+      Une notation matricielle est parfois employée pour des opérateurs. Il convient
+      qu’ellel soit être justifiée dans chaque cas.
+  - content: 'Une matrice est représentée par un symbole littéral en italique gras
+      ou par le tableau des éléments entre parenthèses: *stem:[A]* ou stem:[([A_(11),
+      cdots, A_(1 n)], [vdots, ddots, vdots], [A_(m 1), cdots, A_(m n)])]. La notation
+      (stem:[A~ij~]) est aussi utilisée, par exemple pour distinguer la matrice *stem:[A]*
+      d''un vecteur *stem:[A]*. Les crochets sont aussi utilisés au lieu des parenthèses.
+      Pour une matrice *stem:[A]*, l''élément de la ligne stem:[i] et de la colonne
+      stem:[j] peut être noté (*stem:[A]*)~ij~, ou stem:[A~ij~] s''il n''y a pas d''ambiguïté.'
+  - content: Une matrice est complexe si ses éléments sont des nombres complexes ou
+      des grandeurs complexes. On peut noter une matrice complexe *stem:[<u>A</u>]*
+      et ses éléments (*stem:[<u>A</u>]*)~stem:[ij]~ ou *stem:[<u>A</u>]*~stem:[ij]~.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matrice
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 302129b3-932a-5742-8f21-0e035ab88c26

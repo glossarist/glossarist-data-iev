@@ -1,0 +1,40 @@
+---
+data:
+  definition:
+  - content: qualifie un phénomène variable dans le temps, une {{trame temporelle,
+      urn:iec:std:iec:60050-702-04-11}} ou un {{signal, urn:iec:std:iec:60050-101-12-02}}
+      dont les {{instants significatifs, urn:iec:std:iec:60050-721-02-29}} consécutifs
+      sont séparés par des {{intervalles de temps, urn:iec:std:iec:60050-113-01-10}}
+      qui ont la même {{durée, urn:iec:std:iec:60050-113-01-13}} assignée ou des durées
+      assignées égales à l'un des multiples d'une durée unitaire
+  examples: []
+  id: 702-04-13
+  notes:
+  - content: En pratique, les variations des intervalles de temps sont maintenues
+      entre des limites fixées.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: isochrone
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: synchrone
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: e8373084-1317-5b02-b505-8857d1c5566c
+classification: deprecated

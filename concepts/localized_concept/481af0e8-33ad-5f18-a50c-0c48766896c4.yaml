@@ -1,0 +1,54 @@
+---
+data:
+  definition:
+  - content: "{{exigence, urn:iec:std:iec:60050-901-05-05}} d'un {{document normatif,
+      urn:iec:std:iec:60050-901-02-01}} qui doit nécessairement être satisfaite comme
+      condition du respect de ce document"
+  examples: []
+  id: 901-05-06
+  notes:
+  - content: Il convient de n'employer l'expression «exigence obligatoire» que lorsqu'il
+      s'agit d'une exigence rendue obligatoire par une loi ou un {{règlement, urn:iec:std:iec:60050-901-02-10}}.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: 7.5.1
+      original: Guide ISO/CEI 2:2004, 7.5.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: exigence nécessaire
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: exigence obligatoire
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 481af0e8-33ad-5f18-a50c-0c48766896c4
+classification: deprecated

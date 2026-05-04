@@ -1,0 +1,53 @@
+---
+data:
+  dates:
+  - date: '2011-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: débit de l’énergie acoustique dans le sens de propagation par unité d’aire
+      perpendiculaire au sens de propagation
+  examples: []
+  id: 802-01-10
+  notes:
+  - content: "L’intensité instantanée est le produit de la pression acoustique instantanée
+      et de la vitesse acoustique instantanée des particules. Il est difficile de
+      mesurer l’intensité dans la plage de fréquences ultrasoniques. À des fins de
+      mesure et s’il est raisonnable de prendre pour hypothèse que la pression acoustique
+      instantanée et la vitesse instantanée des particules sont substantiellement
+      en phase le long de l’axe (d’alignement) du faisceau pour une fréquence donnée,
+      alors l’intensité instantanée, [stem:[I(t)]], est approchée comme suit\r\nstem:[p(t)]^2^/stem:[ρc]\r\noù\r\nstem:[p(t)]
+      est la pression acoustique instantanée;\r\nstem:[ρ]  est la densité du milieu;\r\nstem:[c]
+      \ est la vitesse du son dans le milieu."
+  sources:
+  - origin:
+      ref: IEC 62127-1
+      locality:
+        type: clause
+        reference_from: '3.34'
+      original: définition 3.34 de la CEI 62127-1 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intensité instantanée
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-01-01T00:00:00+00:00'
+id: 23d78187-95b2-5e66-aa32-04cb17c4028d

@@ -1,0 +1,52 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: 'function stem:[f] that attributes a scalar stem:[f ( U "," " " V )]
+      to any pair of vectors *stem:[U]* and *stem:[V]* in a given vector space, with
+      the following properties: *    f(α U, V)=α f(U, V) MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaadAgacaGGOaGaeq
+      ySdeMaaGPaVlaahwfacaGGSaGaaGjbVlaahAfacaGGPaGaeyypa0Ja eqySdeMaaGPaVlaadAgacaGGOaGaaCyvaiaacYcacaaMe8UaaCOvai
+      aacMcaaaa@4CA3@    and    f(U, β V)=β f(U, V) MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaadAgacaGGOaGaaC
+      yvaiaacYcacaaMe8UaeqOSdiMaaGPaVlaahAfacaGGPaGaeyypa0Ja eqOSdiMaaGPaVlaadAgacaGGOaGaaCyvaiaacYcacaaMe8UaaCOvai
+      aacMcaaaa@4CA7@    where α and β are scalars, *    f(U+V, W)=f(U, W)+f(V, W)
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaadAgacaGGOaGaaC
+      yvaiabgUcaRiaahAfacaGGSaGaaGjbVlaahEfacaGGPaGaeyypa0Ja amOzaiaacIcacaWHvbGaaiilaiaaysW7caWHxbGaaiykaiabgUcaRi
+      aadAgacaGGOaGaaCOvaiaacYcacaaMe8UaaC4vaiaacMcaaaa@4F34@    and    f(W, U+V)=f(W, U)+f(W, V)
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaadAgacaGGOaGaaC
+      4vaiaacYcacaaMe8UaaCyvaiabgUcaRiaahAfacaGGPaGaeyypa0Ja amOzaiaacIcacaWHxbGaaiilaiaaysW7caWHvbGaaiykaiabgUcaRi
+      aadAgacaGGOaGaaC4vaiaacYcacaaMe8UaaCOvaiaacMcaaaa@4F34@    for any vector W
+      existing in the same vector space'
+  examples: []
+  id: 102-03-16
+  notes:
+  - content: A bilinear form over an stem:[n]-dimensional vector space can be represented
+      by a square matrix stem:[(k_(i j))] and the scalar is stem:[f ( U "," " " V
+      ) = sum_(i j) k_(i j) U_(i) V_(j)].
+  - content: The bilinear forms over a given stem:[n]-dimensional vector space constitute
+      an stem:[n^(2)]-dimensional vector space.
+  - content: The concept of bilinear form extends to "linear form" in the case of
+      one vector and to "multilinear form" (or stem:[m]-linear form) in the case of
+      an ordered set of stem:[m] vectors.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bilinear form
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: 9e28e9a1-143b-55b0-92a7-ebef965412be

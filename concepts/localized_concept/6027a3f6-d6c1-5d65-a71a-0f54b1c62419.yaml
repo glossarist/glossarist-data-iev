@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '1998-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "scalar line integral of a magnetic vector potential *stem:[A]* along
+      a curve C:\r\nstem:[Psi = int_(\"C\") A * \"d\" r]\r\nwhere d*stem:[r]* is the
+      vector line element"
+  examples: []
+  id: 121-11-24
+  notes:
+  - content: "For a closed curve C, the linked flux is equal to the magnetic flux
+      through any surface S bounded by the curve:\n\nstem:[oint_(\"C\") A * \"d\"
+      r \" \" = \" \" int_(\"S\") B * e_(\"n\") \"d\" A]\r\nwhere *stem:[B]* is the
+      magnetic flux density and *stem:[e]*~n~dstem:[A] the vector surface element."
+  - content: For a coil with N turns, the linked flux is approximately equal to stem:[NΦ]
+      where stem:[Φ] is the magnetic flux through any surface bounded by one turn.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: linked flux
+  - designation: stem:[Ψ]
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-08-01T00:00:00+00:00'
+id: 6027a3f6-d6c1-5d65-a71a-0f54b1c62419

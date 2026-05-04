@@ -1,0 +1,57 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: logarithm of the number of events in a finite set of stem:[n] mutually
+      exclusive events stem:[H]~0~&equals;log stem:[n]
+  examples:
+  - content: "The decision content of a set of three events is:\r\nstem:[[[H_(\"0\")
+      \"=\" (\"lb 3\") \"Sh\" approx \"1\" \",585\" \" \" \"Sh\"], [\" \" \" \" \" \"
+      \"=\" (\"ln 3\") \"nat\" approx \"1\" \",099\" \" \" \"nat\"], [\" \" \" \"
+      \" \" \"=\" (\"lg 3\") \"Hart\" approx \"0\" \",477\" \" \" \"Hart\"]]]"
+  id: 171-07-10
+  notes:
+  - content: 'The base of the logarithm determines the unit used. Commonly used units
+      are: shannon (symbol Sh) for logarithms of base 2, natural unit (symbol nat)
+      for logarithms of base e, hartley (symbol Hart) for logarithms of base 10. Conversion
+      table: stem:[[[1   " " "Sh", approx, 0,693   " " "nat", approx, 0,301   " "
+      "Hart"], [1   " " "nat", approx, 1,433   " " "Sh", approx, 0,434 " "   "Hart"],
+      [1   " " "Hart", approx, 3,322   " " "Sh", approx, 2,303   " " "nat"]]]'
+  - content: The decision content is independent of the probabilities of the occurrence
+      of the events.
+  - content: The number of decisions needed to select a specific event out of a finite
+      set of mutually exclusive events equals the smallest integer which is greater
+      than or equal to the decision content when the base of the logarithm is the
+      number of choices on each decision.
+  - content: When the same integer base is used for the same number of events, the
+      decision content equals the {{maximum entropy, urn:iec:std:iec:60050-171-07-16}}.
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-23
+      original: IEC 80000-13:2008, 13-23, modified – The notes to entry have been
+        added
+    status: modified
+    type: authoritative
+    modification: The notes to entry have been added
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: decision content
+  - designation: |-
+      stem:[H]~0~
+      stem:[D]~stem:[a]~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: e08e3982-7929-5d5e-907e-5d63e7c3ef61

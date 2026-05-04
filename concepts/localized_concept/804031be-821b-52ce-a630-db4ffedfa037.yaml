@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{signal, urn:iec:std:iec:60050-171-01-03}} in which the characteristic
+      carrying information can assume only {{discrete values, urn:iec:std:iec:60050-171-01-06}},
+      generally one value within each interval of a number of adjacent intervals of
+      values"
+  examples: []
+  id: 171-01-11
+  notes:
+  - content: The adjacent intervals are contiguous without gaps, do not overlap and
+      need not have the same size.
+  - content: A discrete-value signal can be a {{continuous-time signal, urn:iec:std:iec:60050-171-01-10}},
+      as a quantized signal, or a {{discretely timed signal, urn:iec:std:iec:60050-171-01-12}},
+      and then a {{digital signal, urn:iec:std:iec:60050-171-01-13}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: discrete-value signal
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 804031be-821b-52ce-a630-db4ffedfa037

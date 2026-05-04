@@ -1,0 +1,49 @@
+---
+data:
+  definition:
+  - content: quotient du nombre d’{{éléments de données, urn:iec:std:iec:60050-171-02-01}}
+      d’une nature spécifiée {{transférés, urn:iec:std:iec:60050-171-06-01}} pendant
+      un intervalle de temps par la durée de cet intervalle
+  examples:
+  - content: "{{Débit numérique, urn:iec:std:iec:60050-702-05-23}}, stem:[r]~d~ ou
+      stem:[ν]~d~ ; débit de transfert pour des octets, stem:[r]~B~, stem:[r]~o~,
+      stem:[ν]~B~, ou stem:[ν]~o~; {{débit binaire, urn:iec:std:iec:60050-704-16-07}},
+      stem:[r]~b~, stem:[r]~bit~, stem:[ν]~b~, ou stem:[ν]~bit~. Note 1 à l’article:
+      Le débit de transfert s’exprime en secondes à la puissance moins un (s^−1^).
+      En pratique, il s’exprime en éléments numériques par seconde, par exemple en
+      bits par seconde (bit/s) ou en octets par seconde (o/s). Ces unités peuvent
+      être combinées avec des préfixes de multiples décimaux, par exemple kilooctet
+      par seconde (ko/s)."
+  id: 171-06-03
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-11
+      original: IEC 80000-13:2008, 13-11, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+    status: modified
+    type: authoritative
+    modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+      aux règles de l’IEV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: débit de transfert
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 7d04f8ef-9d6d-5b37-912b-45ebc72a0df4

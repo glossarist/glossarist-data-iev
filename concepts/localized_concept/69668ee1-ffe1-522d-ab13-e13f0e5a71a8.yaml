@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: time integral of erythemal irradiancestem:[H_("er") = int int E_(lambda)
+      ( lambda , " " " " t ) " " s_("er") ( lambda ) "d" lambda "d" t]where stem:[E~λ~](stem:[λ],
+      stem:[t]) is spectral irradiance and stem:[s]~er~(stem:[λ]) is the erythema
+      spectral weighting function normalized to 1 at its maximum
+  examples: []
+  id: 845-26-066
+  notes:
+  - content: This definition is based on the assumption that an action spectrum is
+      adopted for the actinic effect considered, and that its maximum value is 1.
+  - content: It is essential to specify which action spectrum is used, as the unit
+      is the same for any action spectrum.
+  - content: See also "{{minimal erythema dose, urn:iec:std:iec:60050-845-26-068}}",
+      "{{standard erythema dose, urn:iec:std:iec:60050-845-26-069}}".
+  - content: The erythemal dose is expressed in joule per square metre (J·m^−2^).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: erythemal dose
+  - type: expression
+    designation: erythemal radiant exposure
+  - designation: stem:[H]~er~
+    international: true
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 69668ee1-ffe1-522d-ab13-e13f0e5a71a8

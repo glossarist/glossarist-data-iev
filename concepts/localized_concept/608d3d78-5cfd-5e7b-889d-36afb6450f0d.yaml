@@ -1,0 +1,58 @@
+---
+data:
+  definition:
+  - content: "{{intervalle, urn:iec:std:iec:60050-103-01-12}} d'une {{grandeur d'influence,
+      urn:iec:std:iec:60050-447-06-01}} à l'intérieur duquel un {{relais de mesure,
+      urn:iec:std:iec:60050-447-01-02}} ou un {{équipement de protection, urn:iec:std:iec:60050-447-01-49}},
+      dans des conditions spécifiées, répond aux exigences spécifiées"
+  examples: []
+  id: 447-06-04
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 60050-444:2002
+      locality:
+        type: clause
+        reference_from: 444-06-04
+      original: IEC 60050-444:2002, 444-06-04, modifié – Le second terme "domaine
+        spécifié d'une grandeur d'influence" a été ajouté; dans la définition, "le
+        relais" a été remplacé par "un relais de mesure ou un équipement de protection"
+        et "prescriptions" a été remplacé par "exigences".
+    status: modified
+    type: authoritative
+    modification: Le second terme "domaine spécifié d'une grandeur d'influence" a
+      été ajouté; dans la définition, "le relais" a été remplacé par "un relais de
+      mesure ou un équipement de protection" et "prescriptions" a été remplacé par
+      "exigences".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: domaine nominal d'une grandeur d'influence
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: domaine spécifié d'une grandeur d'influence
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 608d3d78-5cfd-5e7b-889d-36afb6450f0d
