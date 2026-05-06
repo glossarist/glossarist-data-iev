@@ -34,18 +34,28 @@ jobs:
             VERSION="${{ inputs.version }}"
           fi
           echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
-          echo "filename=iev-${VERSION}.gcr" >> "$GITHUB_OUTPUT"
 
-      - name: Build GCR package
+      - name: Build standard GCR package
         run: |
-          glossarist package . -o "${{ steps.version.outputs.filename }}" \
+          glossarist package . -o "iev-${{ steps.version.outputs.version }}.gcr" \
             --shortname iev \
             --version "${{ steps.version.outputs.version }}" \
             --title "IEC Electropedia (IEV)" \
             --owner "IEC TC 1"
 
-      - name: Create unversioned alias
-        run: cp "${{ steps.version.outputs.filename }}" iev.gcr
+      - name: Build full GCR package (with formats)
+        run: |
+          glossarist package . -o "iev-${{ steps.version.outputs.version }}-full.gcr" \
+            --shortname iev \
+            --version "${{ steps.version.outputs.version }}" \
+            --title "IEC Electropedia (IEV)" \
+            --owner "IEC TC 1" \
+            --compiled-formats tbx,jsonld,turtle,jsonl
+
+      - name: Create unversioned aliases
+        run: |
+          cp "iev-${{ steps.version.outputs.version }}.gcr" iev.gcr
+          cp "iev-${{ steps.version.outputs.version }}-full.gcr" iev-full.gcr
 
       - name: Publish GitHub Release
         uses: softprops/action-gh-release@v2
@@ -54,5 +64,7 @@ jobs:
           name: "GCR Package v${{ steps.version.outputs.version }}"
           body: "Auto-generated GCR package containing IEV concepts."
           files: |
-            ${{ steps.version.outputs.filename }}
+            iev-${{ steps.version.outputs.version }}.gcr
             iev.gcr
+            iev-${{ steps.version.outputs.version }}-full.gcr
+            iev-full.gcr
