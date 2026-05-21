@@ -1,0 +1,45 @@
+---
+data:
+  identifier: section-902-03
+  localized_concepts:
+    eng: 2c94bee8-d791-541c-8686-e5a2b80521d5
+  domains:
+  - concept_id: area-902
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-902-03
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-902
+  type: broader
+  ref:
+    source: IEV
+    id: area-902
+- content: 902-03-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 902-03-01
+- content: 902-03-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 902-03-02
+- content: 902-03-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 902-03-03
+- content: 902-03-04
+  type: narrower
+  ref:
+    source: IEV
+    id: 902-03-04
+- content: 902-03-05
+  type: narrower
+  ref:
+    source: IEV
+    id: 902-03-05
+schema_version: '3'
+id: section-902-03

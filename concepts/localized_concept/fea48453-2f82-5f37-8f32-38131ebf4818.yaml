@@ -1,0 +1,33 @@
+---
+data:
+  definition:
+  - content: pour une fonction réelle ou complexe stem:[f](stem:[t]) de la variable
+      réelle stem:[t], fonction complexe stem:[F ( omega )] de la variable réelle
+      stem:[ω], donnée par la transformation intégrale stem:[F ( omega ) = int_(" "
+      - oo)^(" " + oo) f ( t ) e^(- "j" omega " " t) rm(d) t] où j est l’unité imaginaire
+  examples: []
+  id: 103-04-01
+  notes:
+  - content: Si stem:[t] est le temps, la variable stem:[ω] représente la pulsation.
+  - content: La transformée de Fourier de la fonction stem:[f] est notée aussi Fstem:[f]
+      ou ℱstem:[f].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transformée de Fourier
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-103-04
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: fea48453-2f82-5f37-8f32-38131ebf4818

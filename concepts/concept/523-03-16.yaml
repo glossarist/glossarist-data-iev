@@ -1,0 +1,27 @@
+---
+data:
+  identifier: 523-03-16
+  localized_concepts:
+    deu: d03141fd-c63a-50d5-a428-665f287f4425
+    eng: 81001a64-0931-5e77-b092-deaaee7ea5f4
+    fra: bf65bbe4-3ae2-548d-8c56-c0226dd3d232
+    jpn: 149a850f-631b-5919-844a-8787e38cff54
+    pol: a219d7b2-7375-5360-a323-c114cb05b93d
+    por: 85a2ff20-cfe2-5ab9-935b-4b07e9d926db
+    zho: 2e6131e5-2482-5a8b-b863-2775ad2d450d
+  domains:
+  - concept_id: area-523
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-523-03
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-523-03
+  type: broader
+  ref:
+    source: IEV
+    id: section-523-03
+status: valid
+schema_version: '3'
+id: 523-03-16

@@ -1,0 +1,39 @@
+---
+data:
+  dates:
+  - date: '2017-11-20T00:00:00+00:00'
+    type: accepted
+  - date: '2017-11-20T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: function of the whole message without a secret key
+  examples: []
+  id: 821-11-27
+  notes:
+  - content: In contrast to a message authentication code there is no secret key involved.
+      The expression "whole message" is meant to include any implicit data of the
+      message which are not sent to the transmission system. The manipulation detection
+      code is often based on a hash function.
+  sources:
+  - origin:
+      ref: IEC 62280:2014
+      locality:
+        type: clause
+        reference_from: 3.1.29
+      original: IEC 62280:2014, 3.1.29, modified
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: manipulation detection code
+  - type: expression
+    designation: MDC
+  domain: section-821-11
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-11-20T00:00:00+00:00'
+  review_decision_date: '2017-11-20T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-11-20T00:00:00+00:00'
+id: ace6bfb8-dac3-553a-98d4-a9003c9875dd

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 485-07-04
+  localized_concepts:
+    ara: 48c73484-4be5-5207-9278-9389c87e93bf
+    deu: 447589a3-86be-5c8f-aedc-ce7ff51d8276
+    eng: 39c480ba-4c11-52cc-951b-41e5b0fd2296
+    spa: 21c62224-9c76-51ec-9094-bad2c9408eba
+    fra: 12b36cd8-0ef1-57bf-9a8a-836112bd2f91
+    ita: a359e86b-ad3a-59f7-89f2-52a1f50511ff
+    jpn: dbaec01a-419c-5a70-9140-6c6ec914ae3d
+    kor: 1b9af306-444b-5d29-b625-0a84d2f24d5c
+    pol: 17a1d448-0cbb-5adc-9baa-19fd419ef17c
+    por: d8d0f7fc-d1f3-5184-941c-1e2e53e8bda4
+    zho: cf583df5-9d17-5217-8c22-6bd50e1fa485
+  domains:
+  - concept_id: area-485
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-485-07
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-485-07
+  type: broader
+  ref:
+    source: IEV
+    id: section-485-07
+status: valid
+schema_version: '3'
+id: 485-07-04

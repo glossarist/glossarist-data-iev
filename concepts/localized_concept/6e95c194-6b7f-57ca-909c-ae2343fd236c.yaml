@@ -1,0 +1,29 @@
+---
+data:
+  dates:
+  - date: '2020-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: amount of {{catalyst, urn:iec:std:iec:60050-485-01-01}} incorporated
+      in the {{fuel cell, urn:iec:std:iec:60050-485-08-01}} per unit {{active area,
+      urn:iec:std:iec:60050-485-02-08}}, specified either per {{anode, urn:iec:std:iec:60050-485-02-04}}
+      or {{cathode, urn:iec:std:iec:60050-485-02-05}} separately, or specified as
+      combined anode and cathode loading
+  examples: []
+  id: 485-01-03
+  notes:
+  - content: The catalyst loading is expressed in g/m^2^.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: catalyst loading
+  domain: section-485-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-02-01T00:00:00+00:00'
+  review_decision_date: '2020-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-02-01T00:00:00+00:00'
+id: 6e95c194-6b7f-57ca-909c-ae2343fd236c

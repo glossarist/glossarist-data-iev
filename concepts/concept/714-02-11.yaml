@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 714-02-11
+  localized_concepts:
+    ara: 520c2051-147c-5697-8332-50153764a132
+    deu: 0c7d15e7-a658-520a-bdd7-47be22c97822
+    eng: 6d203c6c-d090-5781-bc7a-52435deff47e
+    spa: 4059606d-d61e-5542-8e06-899fcce60866
+    fra: 4371bb4d-b5f4-5e24-ad7c-ce9cb43e5772
+    ita: 2d2b7f64-ee8a-5bdb-b6ad-80c4ef5dcd28
+    jpn: 55a779b8-e615-51b8-b4d7-df49814fea2e
+    kor: 35ec68db-c6ce-5397-ae44-d7792ee69618
+    pol: cfc9957f-e053-5a85-b264-d4d7ca4f885a
+    por: ceb34b37-534b-583e-ac59-d80fe36702c1
+    swe: 07c0333e-e5e0-5272-836a-ced5c5ce0082
+  domains:
+  - concept_id: area-714
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-714-02
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-714-02
+  type: broader
+  ref:
+    source: IEV
+    id: section-714-02
+status: valid
+schema_version: '3'
+id: 714-02-11

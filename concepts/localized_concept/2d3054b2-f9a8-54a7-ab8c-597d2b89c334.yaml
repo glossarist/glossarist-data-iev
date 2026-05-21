@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '1992-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: in a given direction, the ratio of the available power at the terminals
+      of a receiving antenna to the power flux density of a plane wave of specified
+      polarization incident on the antenna from that direction
+  examples: []
+  id: 712-02-46
+  notes:
+  - content: If no direction is specified, the direction corresponding to maximum
+      available power is implied.
+  - content: "In free space, for a given polarization and direction, the partial effective
+      area stem:[A]~ep~ of an antenna used for reception is related to the partial
+      gain stem:[G]~p~ of the same antenna used for transmission, by the equation:stem:[G_(\"p\")
+      = frac(4 pi A_(\"ep\"))(lambda^(2))]\r\nwhere stem:[λ] is the wavelength."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: partial effective area
+  domain: section-712-02
+  language_code: eng
+  entry_status: valid
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-04-01T00:00:00+00:00'
+id: 2d3054b2-f9a8-54a7-ab8c-597d2b89c334

@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: bruit aléatoire dont les valeurs à n instants arbitraires, n étant quelconque,
+      sont réparties suivant une loi de Laplace-Gauss n-dimensionnelle
+  examples: []
+  id: 702-08-50
+  notes:
+  - content: Un bruit gaussien est entièrement déterminé par sa moyenne qui est une
+      fonction du temps, et par sa covariance qui est une fonction de deux instants.
+      Si le bruit est stationnaire, la moyenne ne dépend plus du temps et la covariance
+      devient une fonction de corrélation qui ne dépend que de la différence des deux
+      instants, et dont la connaissance est équivalente à celle de la densité spectrale
+      de puissance.
+  - content: Un bruit gaussien peut être produit par un grand nombre d'impulsions
+      élémentaires indépendantes et dont, dans tout intervalle de temps fini, chacune
+      est de valeur négligeable par rapport à leur somme.
+  - content: Le bruit thermique, le bruit de grenaille et le bruit quantique sont
+      pratiquement des bruits gaussiens.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bruit gaussien
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-702-08
+  language_code: fra
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: abbb5f0c-9d97-5a26-a80e-4704cefe476d

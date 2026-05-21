@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 442-05-23
+  localized_concepts:
+    ara: c0a3ef22-8cf6-5b42-b85e-f5ccc2621a86
+    deu: 2563b094-c78c-5b6c-ba53-b2e5fb3547de
+    eng: f7a09c9e-b539-5a3f-9e40-f45dbffce30f
+    fin: d69ee8f7-2e3a-5a64-bb44-823f61f833fb
+    fra: f7e2654c-d315-52a4-b200-8b66ba2cdb94
+    ita: b985df00-9090-5f43-b136-9a2791ba8ee4
+    jpn: 8bd09d42-6ad6-5f8a-86fa-5f424da0a658
+    kor: 40fc6aa5-ff28-5e36-a543-3b6e5b8eb09e
+    pol: e6751f92-7787-550f-a074-442e07eac690
+    por: 44bde11b-92c6-5d71-bc4b-3b53134f0f61
+    rus: 6ab5454e-1e1a-5875-be96-ccaa0e01ffa3
+    srp: bd365a83-dafe-5b12-b88b-deef447a197e
+    swe: c3db5d18-f022-50e1-9675-23ba0f00da38
+  domains:
+  - concept_id: area-442
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-442-05
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-442-05
+  type: broader
+  ref:
+    source: IEV
+    id: section-442-05
+- type: supersedes
+  ref:
+    source: IEV
+    id: 442-05-23
+    version: 1998-11
+status: valid
+schema_version: '3'
+id: 442-05-23

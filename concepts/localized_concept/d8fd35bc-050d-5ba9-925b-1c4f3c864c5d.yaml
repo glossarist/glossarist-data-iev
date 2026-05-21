@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2018-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "ratio of the change in electrical {{resistance, urn:iec:std:iec:60050-131-12-04}}
+      divided by the product of the original resistance (stem:[R]~o~, resistance in
+      the undeformed configuration) and the engineering strain (stem:[e])\r\nstem:[G]~F~&equals;(stem:[R]−stem:[R]~o~)/stem:[R]~o~stem:[e]\r\nwhere
+      stem:[R] is the electrical resistance in the deformed configuration."
+  examples: []
+  id: 523-03-19
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62047-22:2014
+      locality:
+        type: clause
+        reference_from: 3.1.1
+      original: IEC 62047-22:2014, 3.1.1, modified – In the definition, "the product
+        of" has been added. Note 1 to entry has been deleted; its content is now part
+        of the definition.
+    status: modified
+    type: authoritative
+    modification: In the definition, "the product of" has been added. Note 1 to entry
+      has been deleted; its content is now part of the definition.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gauge factor
+  - type: symbol
+    designation: stem:[G]~F~
+    international: true
+  domain: section-523-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-12-01T00:00:00+00:00'
+id: d8fd35bc-050d-5ba9-925b-1c4f3c864c5d

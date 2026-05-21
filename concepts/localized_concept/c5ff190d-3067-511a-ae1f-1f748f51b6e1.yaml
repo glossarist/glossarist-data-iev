@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2015-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: series of complex coefficients obtained by the expansion in Fourier series
+      of the AC magnetization stem:[M(t)]
+  examples: []
+  id: 815-17-13
+  notes:
+  - content: "The AC magnetization, stem:[M(t),] under the magnetic field strength
+      of stem:[h_(0) cosomega t] is expanded as:\r\nstem:[M ( t ) = h_(0) sum_(n =
+      0)^(oo) &amp;lsqb; kappa_(n)^(prime) cosn omega t ) + kappa_(n)^(dprime) sinn
+      omega t ) &amp;rsqb;]\r\nwhere stem:[kappa_(n)^(prime)] and stem:[kappa_(n)^(dprime)]
+      are the real and imaginary parts of the AC magnetic susceptibility for the order
+      stem:[n]."
+  - content: The fundamental components stem:[kappa_(1)^(prime)] and stem:[kappa_(1)^(dprime)]
+      are mostly observed for measurements of superconducting transition.
+  - content: "The AC loss energy density stem:[W] is given as:\r\nstem:[W = rm(pi)
+      mu_(0) h_(0)^(2) kappa_(1)^(dprime)]"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: AC magnetic susceptibility
+  domain: area-815
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-11-01T00:00:00+00:00'
+  review_decision_date: '2015-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-11-01T00:00:00+00:00'
+id: c5ff190d-3067-511a-ae1f-1f748f51b6e1

@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 466-10-15
+  localized_concepts:
+    ara: 4c021549-ec0a-55a0-802a-799e73680ee4
+    deu: d25926d3-3621-553c-80ec-fb10490d7d02
+    eng: 5813c7e2-dfc1-55f8-af04-8fc45497dfb8
+    spa: f2f7366d-6861-5ebc-ae5f-d184ca991929
+    fin: 987ed244-2812-5926-8e84-58291baee2cc
+    fra: fa572826-3cb8-5ea2-89cb-678d373729fa
+    ita: 0763025a-4d14-5f7b-bec1-025157bbc360
+    jpn: 5ca1d3fc-d545-5e37-ba89-0707a6bf2284
+    kor: 6c9cf1c4-4445-5dc8-b1f7-1dfebf458c2b
+    mon: e925b040-7938-5eca-a0c1-985a4a0d7511
+    nob: c971613f-a1c4-5072-a939-bef71bc89a6c
+    nno: 4a2a9328-e95b-59ce-8266-b830cec1159c
+    pol: 561c785a-d351-50a4-8f74-033c0c217f0c
+    por: 6306d3e5-2593-516b-acb6-c1c56b9c0ddb
+    srp: dd12a7dd-2b46-5f0b-8658-6834e0bff84f
+  domains:
+  - concept_id: area-466
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-466-10
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-466-10
+  type: broader
+  ref:
+    source: IEV
+    id: section-466-10
+status: valid
+schema_version: '3'
+id: 466-10-15

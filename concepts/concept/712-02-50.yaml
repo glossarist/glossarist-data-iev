@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 712-02-50
+  localized_concepts:
+    ara: 42d2f925-caab-5ea4-91ea-e440f58ccd80
+    deu: 512ddd9f-95a1-5fb9-98a9-f14dbf5589bf
+    eng: 40cb9ead-2d60-5141-8cfa-8296117b4bd5
+    spa: 2fc38e0e-d0a9-52a3-bd1f-8c5dd98c7d33
+    fin: 2ea3c5a7-16bc-524d-9152-6e28d363d7ef
+    fra: 6c9a03ab-dc77-5f64-8ac4-aa7a3a2f66a2
+    ita: de224517-e8d3-5658-86f5-37cd013fa7a8
+    jpn: 447cfe4f-b90c-5010-8c89-db330c4af685
+    kor: ee8e8e62-b1a3-5bd2-b85f-67fb7ef8b895
+    pol: b7c970e5-154a-5395-9c97-d6171258e319
+    por: 7d221700-ca53-5c11-844e-ca15bb8abb20
+    slv: 8c05fc14-81fd-5d4f-aa47-d4acef183310
+    swe: e16af7f1-eb88-5518-a706-94da97978c6a
+  domains:
+  - concept_id: area-712
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-712-02
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-712-02
+  type: broader
+  ref:
+    source: IEV
+    id: section-712-02
+status: valid
+schema_version: '3'
+id: 712-02-50

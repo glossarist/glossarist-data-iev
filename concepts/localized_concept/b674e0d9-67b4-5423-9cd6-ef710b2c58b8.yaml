@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: approximate form of Planck's law, valid with an approximation better
+      than one part in 1 000 when the product stem:[λT] is smaller than 0,002 m·Kstem:[L_("e"
+      "," lambda) "(" lambda , T ")" = frac(c_(1))(pi) lambda^(- 5) "e"^(frac(c_(2))(lambda
+      T))]where stem:[L]~e,~stem:[~λ~] is spectral radiance, stem:[λ] is the wavelength
+      in vacuum, stem:[T] is thermodynamic temperature, stem:[c_(1) \  = 2 \  pi \  h
+      \  c_(0)^(2)], stem:[c_(2) \  = h \  c_(0) \  / \  k], stem:[h] is the Planck
+      constant, stem:[c]~0~ is the {{speed of light in vacuum, urn:iec:std:iec:60050-113-01-34}},
+      and stem:[k] is the Boltzmann constant
+  examples: []
+  id: 845-24-006
+  notes:
+  - content: The formula is sometimes written with stem:[frac(c_(1))(pi " " Omega_(0))]
+      instead of stem:[frac(c_(1))(pi)], where stem:[Ω]~0~ is the solid angle of magnitude
+      1 sr.
+  - content: For a detector in a medium of refractive index stem:[n], the measured
+      radiance is stem:[n]^−2^stem:[L]~e,~stem:[~λ~](stem:[λ], stem:[T]).
+  - content: Wien's law can also be expressed to give the approximate {{spectral distribution,
+      urn:iec:std:iec:60050-845-21-029}} of radiant exitance stem:[M]~e,~stem:[~λ~](stem:[λ],
+      stem:[T]); the first factor in the formula is then stem:[c]~1~ instead of stem:[frac(c_(1))(pi)].
+  - content: The quantities radiance (as referred to in Note 2 to entry) and radiant
+      exitance (as referred to in Note  3 to entry) apply to the {{unpolarized radiation,
+      urn:iec:std:iec:60050-845-21-021}} as emitted.
+  - content: This entry was numbered 845-04-06 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Wien's law
+    usage_info: of radiation
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: b674e0d9-67b4-5423-9cd6-ef710b2c58b8

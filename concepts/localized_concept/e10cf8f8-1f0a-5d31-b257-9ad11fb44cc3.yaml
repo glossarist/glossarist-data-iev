@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2011-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: vector quantity equal to the product of the mass stem:[m] of a body and
+      the velocity *stem:[v]* of its centre of mass, thus *stem:[p]* = stem:[mv]
+  examples: []
+  id: 113-03-13
+  notes:
+  - content: For a continuous body in a domain D, momentum is equal to the integral
+      stem:[p = int_("D") rho " " v d V = int_("D") v d m], where stem:[ρ] is the
+      mass density in a domain having quasi-infinitesimal volume dstem:[V] and mass
+      dstem:[m], and velocity *stem:[v]*. For a system of bodies, it is equal to the
+      sum of their momentums.
+  - content: If the sum of external forces is equal to zero, momentum of a body follows
+      a law of conservation.
+  - content: If the theory of relativity is applied, stem:[m] is relativistic mass.
+  - content: The coherent SI unit of momentum is kilogram metre per second, kg·m·s^−1^.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: momentum
+  - type: symbol
+    designation: "*stem:[p]*"
+    international: true
+  domain: section-113-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-04-01T00:00:00+00:00'
+id: e10cf8f8-1f0a-5d31-b257-9ad11fb44cc3

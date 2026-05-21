@@ -1,0 +1,27 @@
+---
+data:
+  identifier: area-321
+  localized_concepts:
+    eng: ca562f2a-d88d-5900-825a-2aaa3cecdceb
+  domains:
+  - concept_id: area-321
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-321-01
+  type: narrower
+  ref:
+    source: IEV
+    id: section-321-01
+- content: section-321-02
+  type: narrower
+  ref:
+    source: IEV
+    id: section-321-02
+- content: section-321-03
+  type: narrower
+  ref:
+    source: IEV
+    id: section-321-03
+schema_version: '3'
+id: area-321

@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 411-40-01
+  localized_concepts:
+    ara: 80a441a1-fa81-5c50-848a-9e9dd0d7e5e9
+    deu: c7defb29-d963-5feb-913e-27f59f71cdcd
+    eng: 6e9fba43-94c2-5295-99cb-9ddb674422e2
+    spa: 69f2ab11-2964-5e88-bc41-d0f895d4f061
+    fin: 42dd5961-bb93-5b13-874c-0d1e44224866
+    fra: 8aa97834-79df-5418-9284-448f8101d4ed
+    ita: 5c243b19-c190-5f06-9ea9-c42c2f3f3a92
+    jpn: a5189437-f535-59d1-a5b6-dd0fce3de9c4
+    kor: 9657f034-6542-549d-b825-8f43c7810aa6
+    pol: 431cf93b-f62e-5787-9d0c-32131e443e13
+    por: 68dc6ebd-da77-50b3-8946-be37cb122964
+    slv: f5ce2588-34b6-53ce-9a6a-950ce79e9b38
+    srp: bde571d3-ef88-5b6d-b904-09d63e87576c
+    swe: cb034eb8-5f76-5580-b8c4-7bf6de68d8bd
+  domains:
+  - concept_id: area-411
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-411-40
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-411-40
+  type: broader
+  ref:
+    source: IEV
+    id: section-411-40
+status: valid
+schema_version: '3'
+id: 411-40-01

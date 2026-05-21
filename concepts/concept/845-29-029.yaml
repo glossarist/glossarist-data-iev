@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 845-29-029
+  localized_concepts:
+    ara: 8c17214d-139f-5c86-b8fb-f6aad215e3dc
+    deu: c4936ad8-e244-5283-bbbf-744a3dc8d25c
+    eng: 9cd88e67-0a8d-5a7a-b1d2-630f2e4886c4
+    fra: 652a9e7e-4577-5dfa-b37e-f10ed9a96d76
+    ita: 1bdbdf6c-0f57-56ea-908e-ae8247ef987a
+    jpn: 9c271f26-0aa1-58f9-a06d-f3d3652c81d6
+    kor: 80638374-29bc-5d63-8c0f-ccfd8e23f2f2
+    pol: 5860260b-2f6e-5a5c-a2d0-84b5967084c2
+    por: c3fb760d-cbdd-53e9-967f-7c03e82907f0
+    zho: 3f9b7f54-455a-5617-b6e6-fdb8b6a8b161
+  domains:
+  - concept_id: area-845
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-845-29
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-845-29
+  type: broader
+  ref:
+    source: IEV
+    id: section-845-29
+status: valid
+schema_version: '3'
+id: 845-29-029

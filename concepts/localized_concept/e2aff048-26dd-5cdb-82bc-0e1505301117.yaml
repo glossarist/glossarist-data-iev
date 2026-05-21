@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: process of changing the {{digit rate, urn:iec:std:iec:60050-702-05-23}}
+      of a {{digital signal, urn:iec:std:iec:60050-702-04-05}} in a controlled manner
+      without loss or mutilation of information
+  examples: []
+  id: 704-21-01
+  notes:
+  - content: Pulse stuffing is usually employed as an adjunct to {{digital multiplexing,
+      urn:iec:std:iec:60050-704-20-01}} to enable the multiplexing to be applied to
+      tributary channels that are not synchronized to the {{multiplexer, urn:iec:std:iec:60050-704-08-13}}.
+      Where this is done, the original signal of each channel is independently justified.
+  - content: Associated verbs are “to stuff” and “to justify”.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pulse stuffing
+  - type: expression
+    normative_status: preferred
+    designation: justification
+    usage_info: in transmission
+  domain: section-704-21
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: e2aff048-26dd-5cdb-82bc-0e1505301117
+classification: preferred

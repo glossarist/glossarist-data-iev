@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 151-15-17
+  localized_concepts:
+    ara: c3627485-1daa-529b-bdfa-61d0b062161c
+    deu: 222ad2ff-d3de-5743-9135-36698672f632
+    eng: 1943b0c0-8d5d-5651-b06c-0c5a02370c97
+    spa: 170c04f9-936c-5ad3-a8f4-c3105fe01890
+    fin: db112639-b8e4-507f-be34-92b1addec991
+    fra: 434c5e3e-60cc-5ee1-b404-de7159f8a292
+    ita: b4998e98-304f-510e-b1d3-83cf3b839e4c
+    jpn: 8694e61c-7e3c-53c5-8d89-ca4c05e81109
+    kor: dacb42d6-791a-52be-93ba-1e67d076f72c
+    pol: d7083678-eadc-503c-a5d6-d66926bcb611
+    por: 15924ab6-a92d-522e-a405-436a05b218db
+    rus: b200e3fd-beee-50d0-9b17-cbfe1996f02a
+    srp: ad81c4a7-4b08-5faa-8fbd-d50ff59c82b9
+    swe: e7a7c667-60e0-569f-86cd-9d7ab6a23e11
+    zho: 4b743f7f-6c25-5d24-9535-e13fc5bb8589
+  domains:
+  - concept_id: area-151
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-151-15
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-151-15
+  type: broader
+  ref:
+    source: IEV
+    id: section-151-15
+status: valid
+schema_version: '3'
+id: 151-15-17

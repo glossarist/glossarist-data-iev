@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 521-07-03
+  localized_concepts:
+    ara: 2780f42f-25e7-50cc-a0f9-6ca6c9be2e45
+    deu: 428a871b-3509-52b3-ad98-9e506ba18adb
+    eng: ec15c8fc-eee8-56ca-8298-b12f625d6308
+    spa: 647f7003-31e3-5940-b542-85ea322460ad
+    fin: b07764f6-846f-5403-9e17-9e699f2961c8
+    fra: dcd1af2c-f196-5c80-8f4a-a9cf55d99aa7
+    ita: da84c367-2e6b-580a-bde2-0692a9d93c67
+    jpn: 7a019472-a1d6-5c05-9035-550703a71b6e
+    kor: 610d5b83-8ab5-5448-9557-599da8807026
+    pol: cc67378f-c2b4-576b-a4e8-1df6e62aba6e
+    por: b86911c0-bd0b-58da-bc09-4bdb9c347e77
+    srp: 7e9f9a2a-a0ff-53ac-8ec0-cfe049953eee
+    swe: 3c3792e6-6f7a-5c21-83aa-8d9431c4eebf
+    zho: 7ded5b8d-60fd-59cc-ad94-8b4d24285c30
+  domains:
+  - concept_id: area-521
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-521-07
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-521-07
+  type: broader
+  ref:
+    source: IEV
+    id: section-521-07
+- type: supersedes
+  ref:
+    source: IEV
+    id: 521-07-03
+    version: 2002-05
+status: valid
+schema_version: '3'
+id: 521-07-03

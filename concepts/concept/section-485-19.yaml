@@ -1,0 +1,35 @@
+---
+data:
+  identifier: section-485-19
+  localized_concepts:
+    eng: 8bba63e9-41d1-5fd7-9f7e-d7b9d7602c87
+  domains:
+  - concept_id: area-485
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-485-19
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-485
+  type: broader
+  ref:
+    source: IEV
+    id: area-485
+- content: 485-19-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 485-19-01
+- content: 485-19-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 485-19-02
+- content: 485-19-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 485-19-03
+schema_version: '3'
+id: section-485-19

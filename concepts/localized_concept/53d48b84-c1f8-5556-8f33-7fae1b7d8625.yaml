@@ -1,0 +1,38 @@
+---
+data:
+  definition:
+  - content: quantité dont il faudrait, à une {{fréquence, urn:iec:std:iec:60050-103-06-02}}
+      donnée, augmenter la {{température de bruit, urn:iec:std:iec:60050-702-08-54}}
+      d'un {{monoporte, urn:iec:std:iec:60050-131-12-64}} connecté à l'entrée d'un
+      {{biporte, urn:iec:std:iec:60050-131-12-65}} linéaire donné, si le bruit produit
+      par ce biporte était momentanément supprimé, afin que la {{densité spectrale
+      de puissance, urn:iec:std:iec:60050-702-04-50}} de bruit à la fréquence de sortie
+      correspondant à la fréquence d'entrée soit la même que celle du bruit total
+      du monoporte et du biporte donné
+  examples: []
+  id: 702-08-56
+  notes:
+  - content: Cette définition suppose que les effets quantiques sont négligeables.
+  - content: La température équivalente de bruit d'un biporte dépend de l'impédance
+      du monoporte connecté à l'entrée.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: température équivalente de bruit
+    usage_info: d'un biporte linéaire
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-702-08
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 53d48b84-c1f8-5556-8f33-7fae1b7d8625

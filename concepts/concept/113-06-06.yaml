@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 113-06-06
+  localized_concepts:
+    ara: 5ea6ddad-e494-5f41-8c78-b408be8bc20d
+    deu: f0dd4b9e-ac60-525c-9666-7bee575db8f4
+    eng: b2b15381-7ee5-5d68-9a5c-6b5707550402
+    spa: 252cbb96-95d0-5483-8fab-5b5371c6a8aa
+    fin: fc3d73da-2f3b-54b4-8815-5c2f139508b4
+    fra: 43847437-10aa-5c01-bf3a-b5314f54426f
+    ita: 3b4d2e98-f322-5762-9c0d-ecaced6313d1
+    jpn: d00b0983-f3b8-5903-a988-b9c068111a57
+    kor: 1cc9f443-1594-509f-8f1d-a6722eb3fcff
+    pol: 39d3cbff-9b43-589e-81fa-327dc5a6dc6e
+    por: 8dafefa9-43a6-5dd8-9405-50e04e880056
+    swe: 70b3b564-69aa-51e2-ab1c-e7d4c75f7f09
+    zho: 80499cba-6179-5a0d-b738-94f9f0a46a40
+  domains:
+  - concept_id: area-113
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-113-06
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-113-06
+  type: broader
+  ref:
+    source: IEV
+    id: section-113-06
+- type: supersedes
+  ref:
+    source: IEV
+    id: 113-06-06
+    version: 2011-04
+status: valid
+schema_version: '3'
+id: 113-06-06

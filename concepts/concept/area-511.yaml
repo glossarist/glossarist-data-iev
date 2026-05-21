@@ -1,0 +1,27 @@
+---
+data:
+  identifier: area-511
+  localized_concepts:
+    eng: c6dc0b88-23dd-57a3-8185-a3241eb6e51b
+  domains:
+  - concept_id: area-511
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-511-01
+  type: narrower
+  ref:
+    source: IEV
+    id: section-511-01
+- content: section-511-02
+  type: narrower
+  ref:
+    source: IEV
+    id: section-511-02
+- content: section-511-03
+  type: narrower
+  ref:
+    source: IEV
+    id: section-511-03
+schema_version: '3'
+id: area-511

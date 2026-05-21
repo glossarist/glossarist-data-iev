@@ -1,0 +1,39 @@
+---
+data:
+  definition:
+  - content: "{{entité numérique, urn:iec:std:iec:60050-741-01-14}} qui utilise un
+      {{système IdO, urn:iec:std:iec:60050-741-02-07}}"
+  examples: []
+  id: 741-01-15
+  notes:
+  - content: L'utilisateur numérique inclut les {{services, urn:iec:std:iec:60050-741-01-28}}
+      d'automatisation qui agissent pour le compte d'{{utilisateurs humains, urn:iec:std:iec:60050-741-01-20}}.
+  sources:
+  - origin:
+      ref: ISO/IEC 20924:2018
+      locality:
+        type: clause
+        reference_from: 3.1.15
+      original: ISO/IEC 20924:2018, 3.1.15
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: utilisateur numérique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-741-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 6374ff1f-09df-5413-afda-01d681eb1b3e

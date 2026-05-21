@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 807-01-18
+  localized_concepts:
+    ara: 98ac603d-c227-51dc-b311-d0a79daa50a8
+    deu: 92d1c295-7486-5ec8-9db5-58843dd1b6b9
+    eng: 230b8837-b67d-554f-91d5-df7d285758cd
+    spa: bc29ad5a-4c43-5d70-a778-438fbd200587
+    fra: 55e73cf1-cb02-597d-bf96-5f8ec063caf7
+    ita: 617e1dcc-467c-56c5-918a-3f7425efc478
+    jpn: 13be0558-d348-57b9-96b7-c116311e2fcc
+    kor: e5fcc154-07b6-5ac6-9012-69def8272d84
+    pol: 795f47d4-3476-5ddf-8884-37d1aaf27b73
+    por: d970a0d5-e720-5790-a255-2716ffe9da50
+    slv: dd3f349e-6fcf-579b-8fca-11fed5905a7d
+  domains:
+  - concept_id: area-807
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-807-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-807-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-807-01
+status: valid
+schema_version: '3'
+id: 807-01-18

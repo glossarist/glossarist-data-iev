@@ -1,0 +1,43 @@
+---
+data:
+  definition:
+  - content: codage numérique d'un espace chromatique, y compris la spécification
+      d'une méthode de codage numérique et d'une plage de codage
+  examples: []
+  id: 845-32-018
+  notes:
+  - content: 'Plusieurs codages de l''espace chromatique peuvent être définis sur
+      la base d''un espace chromatique unique lorsque les différents codages sont
+      associés à des méthodes de codage numérique et/ou des plages de codage différentes.
+      (Par exemple, un codage sRVB à 8 bits conformément à l''IEC 61966-2-1, _Systèmes
+      et appareils multimédia – Mesure et gestion de la couleur – Partie 2-1: Gestion
+      de la couleur – Espace chromatique RVB par défaut – sRVB_ et un codage sRVB
+      à 16 bits conformément à l''IEC 61966-2-2, _Systèmes et appareils multimédia
+      – Mesure et gestion de la couleur – Partie 2-2: Gestion de la couleur – Espace
+      chromatique RVB étendu – les codages scRVB_ sont des codages d''espace chromatique
+      différents basés sur un espace chromatique RVB particulier.)'
+  - content: Un codage de l'espace chromatique est défini avec de nombreux canaux
+      chromatiques, chaque canal correspondant à une dimension de l'espace chromatique.
+      Les valeurs de données de canaux chromatiques codés indiquent une position le
+      long de la dimension correspondante dans la représentation de l'espace chromatique
+      géométrique.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: codage de l'espace chromatique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 7cd95c37-8bd0-5f47-ac19-f1fe90efb242

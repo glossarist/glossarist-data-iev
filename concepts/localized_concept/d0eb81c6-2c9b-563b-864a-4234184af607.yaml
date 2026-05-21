@@ -1,0 +1,78 @@
+---
+data:
+  definition:
+  - content: propriété d'un phénomène, d'un corps ou d'une substance, que l’on peut
+      exprimer quantitativement au moyen d’un nombre et d’une référence
+  examples: []
+  id: 112-01-01
+  notes:
+  - content: "Le concept générique de grandeur peut être subdivisé en plusieurs niveaux
+      de concepts spécifiques, comme indiqué dans le tableau suivant. La moitié gauche
+      du tableau présente des concepts spécifiques du concept de grandeur. Ce sont
+      des concepts génériques pour les grandeurs individuelles de la moitié droite.\n\n<table
+      border=\"solid\">\r\n<tbody>\r\n<tr>\r\n<td rowspan=\"2\">\n\n<span>longueur,
+      </span>stem:[l]\r\n</td>\r\n<td>\n\n<span>rayon, </span>stem:[r]\r\n</td>\r\n<td>\n\n<span>rayon
+      du cercle A, </span>stem:[r]~A ~<span>ou </span>stem:[r]<span>(A)</span>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\n\nlongueur
+      d'onde, stem:[λ]\r\n</td>\r\n<td>\n\nlongueur d'onde de la radiation D du sodium,
+      stem:[λ]~D~ ou stem:[λ](D; Na)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td rowspan=\"2\">\n\n<span>énergie,
+      </span>stem:[E]\r\n</td>\r\n<td>\n\n<span>énergie cinétique, </span>stem:[T]\r\n</td>\r\n<td>\n\n<span>énergie
+      cinétique de la particule </span>stem:[i]<span> dans un système donné, </span>stem:[Ti]\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\n\nchaleur,
+      stem:[Q]\r\n</td>\r\n<td>\n\nchaleur transférée à un spécimen stem:[i] d'eau,
+      stem:[Qi]\r\n</td>\r\n</tr>\r\n<tr>\r\n<td colspan=\"2\">\n\n<span>charge électrique,
+      </span>stem:[Q]\r\n</td>\r\n<td>\n\n<span>charge électrique du proton, </span>stem:[e]\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      colspan=\"2\">\n\nrésistance électrique, stem:[R]\r\n</td>\r\n<td>\n\nrésistance
+      électrique de la résistance stem:[i], stem:[Ri]\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      colspan=\"2\">\n\n<span>concentration en quantité de matière du constituant
+      B, </span>stem:[c]~B~\r\n</td>\r\n<td>\n\n<span>concentration en quantité de
+      matière d'éthanol dans le spécimen </span>stem:[i]<span> de vin, </span>stem:[ci]<span>(C~2~H~5~OH)
+      </span>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td colspan=\"2\">\n\nnombre d'entités,
+      stem:[N]\r\n</td>\r\n<td>\n\nnombre de spires dans une bobine donnée stem:[i],
+      stem:[Ni]\r\n</td>\r\n</tr>\r\n<tr>\r\n<td colspan=\"2\">\n\n<span>dureté C
+      de Rockwell, HRC</span>\r\n</td>\r\n<td>\n\n<span>dureté C de Rockwell du spécimen
+      </span>stem:[i]<span> d'acier, HRC</span>stem:[i]\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+  - content: La référence peut être une {{unité de mesure, urn:iec:std:iec:60050-112-01-14}},
+      une procédure de mesure, un matériau de référence (ISO/IEC Guide 99:2007, 5.13),
+      ou une de leurs combinaisons. L’expression quantitative d’une grandeur est appelée
+      "valeur de la grandeur" (voir {{IEV 112-01-28, urn:iec:std:iec:60050-112-01-28}}).
+      Dans le cas fréquent d’une unité de mesure, l’expression quantitative est le
+      produit d’un nombre et de l’unité de mesure.
+  - content: Une grandeur telle que définie ici est une grandeur {{scalaire, urn:iec:std:iec:60050-102-02-18}}.
+      Cependant, un vecteur ou un tenseur dont les composantes sont des grandeurs
+      est aussi considéré comme une grandeur (voir {{IEV 102-03-21, urn:iec:std:iec:60050-102-03-21}},
+      grandeur vectorielle, et {{IEV 102-03-40, urn:iec:std:iec:60050-102-03-40}},
+      grandeur tensorielle).
+  - content: Le concept de grandeur peut être subdivisé génériquement, par exemple,
+      grandeur physique, grandeur chimique, grandeur biologique, etc. ou {{grandeur
+      de base, urn:iec:std:iec:60050-112-01-08}} et {{grandeur dérivée, urn:iec:std:iec:60050-112-01-10}}.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 99:2007
+      locality:
+        type: clause
+        reference_from: '1.1'
+      original: ISO/IEC Guide 99:2007, 1.1, modifié – Suppression de NOTE 3 et NOTE
+        4, et quelques modifications dans les autres.
+    status: modified
+    type: authoritative
+    modification: Suppression de NOTE 3 et NOTE 4, et quelques modifications dans
+      les autres.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-112-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: d0eb81c6-2c9b-563b-864a-4234184af607

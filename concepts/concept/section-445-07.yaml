@@ -1,0 +1,40 @@
+---
+data:
+  identifier: section-445-07
+  localized_concepts:
+    eng: 30bcdee8-56cb-503f-bb66-5a6bfeb82071
+  domains:
+  - concept_id: area-445
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-445-07
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-445
+  type: broader
+  ref:
+    source: IEV
+    id: area-445
+- content: 445-07-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 445-07-01
+- content: 445-07-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 445-07-02
+- content: 445-07-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 445-07-03
+- content: 445-07-04
+  type: narrower
+  ref:
+    source: IEV
+    id: 445-07-04
+schema_version: '3'
+id: section-445-07

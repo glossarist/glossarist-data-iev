@@ -1,0 +1,70 @@
+---
+data:
+  dates:
+  - date: '2011-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: étendue d'un intervalle de temps ({{113-01-10, urn:iec:std:iec:60050-113-01-10}})
+  examples: []
+  id: 113-01-13
+  notes:
+  - content: La durée d'un intervalle de temps est une grandeur positive ou nulle
+      égale à la différence entre les dates de l'instant final et de l'instant initial
+      de l'intervalle de temps, lorsque les dates sont des marques quantitatives.
+      Des intervalles de temps différents peuvent avoir la même durée, par exemple
+      la période d'une grandeur fonction périodique du temps est une durée indépendante
+      du choix de l'instant initial.
+  - content: La durée est l'une des grandeurs de base du Système international de
+      grandeurs (ISQ) sur lequel est fondé le Système international d'unités (SI).
+      Le terme «temps» est souvent utilisé à la place du terme «durée» dans ce contexte
+      et aussi pour une durée infinitésimale.
+  - content: À la place du terme «durée», on utilise souvent le mot «temps» ou l'expression
+      «intervalle de temps», mais le terme «temps» n'est pas recommandé dans ce sens
+      et le terme «intervalle de temps» est déconseillé dans ce sens afin d'éviter
+      des confusions avec le concept «intervalle de temps».
+  - content: L'unité SI cohérente de durée et de temps est la seconde, s (voir la
+      CEI 60050-112). L’usage des unités minute (1 min = 60 s), heure (1 h = 60 min
+      = 3 600 s) et jour (1 d = 24 h = 86 400 s) est accepté avec le SI.
+  - content: Dans le langage courant, le mot «temps» est utilisé avec plusieurs sens
+      différents. Dans le langage technique, cependant, il convient d'employer des
+      termes plus précis, par exemple, «date», «durée» ou «intervalle de temps».
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durée
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: temps
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-113-01
+  language_code: fra
+  entry_status: valid
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-04-01T00:00:00+00:00'
+id: 05c494e1-7577-504a-af9e-7b656e586929
+classification: preferred

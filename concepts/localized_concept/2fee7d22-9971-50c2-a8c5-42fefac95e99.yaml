@@ -1,0 +1,29 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: regular square matrix *stem:[A]* with complex elements for which the
+      inverse *stem:[A]*^−1^ is equal to the Hermitian conjugate matrix *stem:[A]*^H^
+  examples: []
+  id: 102-06-28
+  notes:
+  - content: 'For a unitary matrix with elements stem:[A~ij~]:  stem:[sum_(i) A_(i
+      j) A_(i k)^(*) = rm(delta)_(j k)] and stem:[sum_(k) A_(i k) A_(j k)^(*) = rm(delta)_(i
+      j)] where stem:[rm(delta)_(j k)] and stem:[rm(delta)_(i j)] are Kronecker deltas.'
+  - content: Any orthogonal matrix with real elements is a unitary matrix.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unitary matrix
+  domain: section-102-06
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: 2fee7d22-9971-50c2-a8c5-42fefac95e99

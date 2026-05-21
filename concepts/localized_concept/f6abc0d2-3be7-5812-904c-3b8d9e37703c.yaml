@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '2020-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: geometric area of the {{electrode, urn:iec:std:iec:60050-485-02-01}}
+      perpendicular to the direction of the current flow
+  examples: []
+  id: 485-02-08
+  notes:
+  - content: The active area is expressed in m^2^.
+  - content: The active area, also called effective area, is used in the calculation
+      of the cell {{current density, urn:iec:std:iec:60050-485-12-01}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: active area
+  - type: expression
+    designation: effective area
+  domain: section-485-02
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-02-01T00:00:00+00:00'
+  review_decision_date: '2020-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-02-01T00:00:00+00:00'
+id: f6abc0d2-3be7-5812-904c-3b8d9e37703c

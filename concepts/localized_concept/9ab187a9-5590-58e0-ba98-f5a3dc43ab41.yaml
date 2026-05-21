@@ -1,0 +1,39 @@
+---
+data:
+  dates:
+  - date: '2016-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "quantity characterizing the electromechanical behaviour as follows:
+      \r\nstem:[k_(\"S\")^(\" \") \" \" \" \" \" \" \" \" = \" \" \" \" \" \" \" \"
+      \" \" \" \" sqrt(2 \" \" \" \" |\" \" \" \" \" \" frac(Delta v)(v) \" \" \" \"
+      \" \"|)]\r\nwhere Δstem:[v]/stem:[v] is the relative change in acoustic wave
+      velocity produced by short-circuiting the surface potential from the open-circuit
+      condition"
+  examples: []
+  id: 561-01-11
+  notes:
+  - content: This entry was numbered 561-06-08 in IEC 60050-561:1991, Amendment 1:1995.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coupling factor
+    usage_info: of SAW materials
+  - type: expression
+    normative_status: deprecated
+    designation: coupling coefficient
+    usage_info: of SAW materials
+  - type: symbol
+    designation: stem:[k]~s~
+    international: true
+  domain: section-561-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-07-01T00:00:00+00:00'
+  review_decision_date: '2016-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-07-01T00:00:00+00:00'
+id: 9ab187a9-5590-58e0-ba98-f5a3dc43ab41
+classification: deprecated

@@ -1,0 +1,36 @@
+---
+data:
+  identifier: 321-01-09
+  localized_concepts:
+    ara: 2d721038-6d81-5be0-934a-690f8ff4f446
+    deu: a4cb036e-48e0-54bd-b126-494a84ba5efa
+    eng: 6a55e44c-1468-58bd-b691-5b9bb7827ea6
+    spa: 2bbb5279-ed09-5ba8-8d6a-f73bd78a761b
+    fin: b24b93a5-8327-575c-8d71-970b010d239b
+    fra: 6b177c94-90ab-5f81-8b05-1205082269ef
+    ita: 98962c76-f374-50a7-ab8a-04cf5566a51e
+    jpn: 64c80834-a465-5478-8dfa-9e0f7f40bc93
+    kor: cc3d6a10-fddb-5dd6-9939-a0c519861647
+    mon: 55ec61d6-8e3e-58ce-a2d1-623824897a6f
+    pol: f5c75bcc-8484-542e-babc-d2dfda5cfecd
+    por: 79dcd4c3-0bbf-5df0-98c6-48b00aafdfa7
+    slv: 8adcf5ba-90c8-5b72-bb84-647bfd465492
+    srp: 72000cfc-7d61-5b87-b792-eaf9c922b1ab
+    swe: 8881a025-4ddb-5f72-99ec-a6756ddb08e8
+    zho: 3353a9b0-82ec-5208-9021-36d815eaa1d3
+  domains:
+  - concept_id: area-321
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-321-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-321-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-321-01
+status: valid
+schema_version: '3'
+id: 321-01-09

@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 351-50-10
+  localized_concepts:
+    ara: 14945c00-2509-57c0-921e-910a15df130d
+    deu: 6c21f998-7dda-5821-a35f-97bdedc76ac9
+    eng: 69cf22cc-5dba-5217-ac38-614049f27ab6
+    spa: d5cfc31f-ef0e-523c-bd50-a7f411e55764
+    fin: a1170243-4748-59b8-a5f9-2d6a56d13645
+    fra: 5c3f98b0-5162-5b9a-a802-f9d30c2678fb
+    ita: 5583c6c0-aa05-5d74-b8df-120f2ed6dc12
+    jpn: 13c133e6-bffb-5973-b253-514724ba4851
+    kor: 4b34098e-e3ae-5e15-b50f-cd3f2bbb053a
+    pol: e72541c0-9c87-576f-b145-a36f7097492b
+    por: b8fe8987-1f57-53ef-b2d4-eb4f7f670d42
+    zho: ba981b0e-ceea-5676-8185-74165227a880
+  domains:
+  - concept_id: area-351
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-351-50
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-351-50
+  type: broader
+  ref:
+    source: IEV
+    id: section-351-50
+status: valid
+schema_version: '3'
+id: 351-50-10

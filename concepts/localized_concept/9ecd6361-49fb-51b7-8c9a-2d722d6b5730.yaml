@@ -1,0 +1,42 @@
+---
+data:
+  definition:
+  - content: pour une matrice carrée *stem:[A]* d'ordre stem:[n] et d'éléments stem:[A~ij~],
+      scalaire noté det *stem:[A]*, égal à la somme algébrique des produits obtenus
+      en prenant comme facteurs de toutes les manières possibles un élément et un
+      seul dans chaque ligne et dans chaque colonne, chacun de ces produits étant
+      affectés du signe plus ou du signe moins suivant que le nombre total des inversions
+      des deux indices est pair ou impair où stem:[σ] = (stem:[σ](1), stem:[σ](2),
+      …, stem:[σ](stem:[n])) est une permutation des indices (1, 2, …, stem:[n]),
+      stem:[ε](stem:[σ]) est le nombre d’inversions dans la permutation stem:[σ],
+      et la somme notée Σ est étendue à toutes les permutations
+  examples: []
+  id: 102-06-20
+  notes:
+  - content: Le déterminant d'une matrice est égal au déterminant des stem:[n] vecteurs
+      dont les coordonnées sont les éléments des lignes ou des colonnes.
+  - content: Le déterminant de la matrice stem:[mathbf(A) = ([A_(11), cdots, A_(1
+      n)], [vdots, ddots, vdots], [A_(n 1), cdots, A_(n n)])] est noté det *stem:[A]*
+      ou stem:[" " " " |[A_(11), cdots, A_(1 n)], [vdots, ddots, vdots], [A_(n 1),
+      cdots, A_(n n)]|].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: déterminant
+    usage_info: d'une matrice
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-06
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 9ecd6361-49fb-51b7-8c9a-2d722d6b5730

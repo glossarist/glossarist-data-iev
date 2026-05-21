@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: single variable, monotonic mathematical function applied individually
+      to one or more colour channels
+  examples: []
+  id: 845-32-004
+  notes:
+  - content: Colour component transfer functions are frequently used to account for
+      the non-linear response of a reference device and/or to improve the visual uniformity
+      of a colour space.
+  - content: Generally, colour component transfer functions will be non-linear functions
+      such as a power-law (i.e. "gamma") function or a logarithmic function. However,
+      in some cases a linear colour component transfer function can be used.
+  - content: For more information on "colour channels" see Note 2 to entry to "{{colour
+      space encoding, urn:iec:std:iec:60050-845-32-018}}".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: colour component transfer function
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 07dbedeb-f6ed-5e3d-a1f9-c755895bd5ec

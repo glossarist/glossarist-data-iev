@@ -1,0 +1,39 @@
+---
+data:
+  dates:
+  - date: '1992-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: in a given direction, the ratio of the available power at the terminals
+      of a receiving antenna to the power flux density of a plane wave incident from
+      that direction, the wave being polarization matched to the antenna
+  examples: []
+  id: 712-02-47
+  notes:
+  - content: If no direction is specified, the direction corresponding to maximum
+      available power is implied.
+  - content: The total effective area is the sum of the partial effective areas for
+      any two orthogonal polarizations of components of the antenna polarization.
+  - content: "In free space, the effective area stem:[A]~e~ for a given direction
+      of an antenna when used for reception is related to the absolute gain stem:[G]~i~
+      for the given direction when the same antenna is used for transmission by the
+      equation:\r\nstem:[G_(\"i\") = frac(4 pi A_(\"e\"))(lambda^(2))]\r\nwhere stem:[λ]
+      is the wavelength."
+  - content: When an aperture illumination function is uniform in amplitude and phase
+      and the given direction is perpendicular to the aperture, the total effective
+      area of a radiating aperture of a lossless antennas is equal to its geometric
+      area.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(total) effective area"
+  domain: section-712-02
+  language_code: eng
+  entry_status: valid
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-04-01T00:00:00+00:00'
+id: 00c00be6-852e-5d12-a2c9-8f796c971442

@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: condition in which one fault prevents the detection of another
+  examples: []
+  id: 192-10-21
+  notes:
+  - content: Fault masking may conceal a progressive loss of redundancy.
+  sources:
+  - origin:
+      ref: ISO/IEC/IEEE 24765:2010
+      locality:
+        type: clause
+        reference_from: '3.1125'
+      original: ISO/IEC/IEEE 24765:2010,  _Systems and software engineering – Vocabulary_,
+        3.1125, modified by addition of Note 1
+    status: modified
+    type: authoritative
+    modification: by addition of Note 1
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault masking
+  domain: section-192-10
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: 0ba87f47-7a5e-560c-9a55-103e158317ab

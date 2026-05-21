@@ -1,0 +1,29 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: part of active corrective maintenance time taken to complete repair action
+      image::/assets/images/parts/192/60050-192-F2en.png[Figure 2 - Maintenance times]
+  examples: []
+  id: 192-07-19
+  notes:
+  - content: Repair time is comprised of fault localization time ({{192-07-18, urn:iec:std:iec:60050-192-07-18}}),
+      fault correction time ({{192-07-14, urn:iec:std:iec:60050-192-07-14}}) and function
+      checkout time ({{192-07-16, urn:iec:std:iec:60050-192-07-16}}), but excludes
+      technical, administrative and logistic delays.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: repair time
+  domain: section-192-07
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: 5385dbf6-83ee-5c34-8c38-ac6a2ca21bb4

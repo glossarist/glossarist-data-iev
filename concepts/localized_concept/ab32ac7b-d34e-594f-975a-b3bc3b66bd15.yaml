@@ -1,0 +1,51 @@
+---
+data:
+  definition:
+  - content: ordonnancement des données pour leur stockage et leur transmission dans
+      lequel la part de poids fort d'une donnée représentée sur plusieurs octets est
+      stockée à l'adresse la plus faible et transmise en premier
+  examples: []
+  id: 811-37-07
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 61375-2-1:2012
+      locality:
+        type: clause
+        reference_from: 3.1.16
+      original: IEC 61375-2-1:2012, 3.1.16
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: big-endian
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: gros-boutiste
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-811
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: ab32ac7b-d34e-594f-975a-b3bc3b66bd15

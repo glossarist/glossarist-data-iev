@@ -1,0 +1,48 @@
+---
+data:
+  definition:
+  - content: identité résultant de l'application du théorème de la divergence au champ
+      vectoriel stem:[f_(1) " " mathbf(grad) " " f_(2) - f_(2) " " mathbf(grad) " "
+      f_(1)], où stem:[f]~1~ et stem:[f]~2~ sont deux champs scalaires donnés en tout
+      point d'un domaine tridimensionnel V délimité par une surface fermée S stem:["P{iiint}"_("V")
+      (f_(1) " " rm(Delta) " " f_(2) - f_(2) " " rm(Delta) " " f_(1)) d V = "P{oiint}"_("S")
+      (f_(1) " " mathbf(grad) " " f_(2) - f_(2) " " mathbf(grad) " " f_(1)) * e_("n")
+      d A] où dstem:[V] est l’élément de volume, *stem:[e]*~n~dstem:[A] est l’élément
+      vectoriel de surface et Δ est l'opérateur laplacien
+  examples: []
+  id: 102-05-33
+  notes:
+  - content: La formule de Green est symétrique par rapport à stem:[f]~1~ et stem:[f]~2~.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: formule de Green
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: deuxième formule de Green
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-05
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: af550ea4-23f3-585c-ba41-78e36f1f05a1

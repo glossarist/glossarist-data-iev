@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 741-01-20
+  localized_concepts:
+    ara: b1e1d5c7-6ebd-5a66-90c0-0a6f81555286
+    deu: 64110304-cda5-527f-acd0-0a1313f2ce78
+    eng: 73df3c5f-2cb3-5f31-8d51-a0aa86a09bbf
+    fra: db6a2d5e-459d-56e4-a593-097a295d7748
+    ita: 7ee997b4-b43d-504b-a0e9-274b2cfeeb62
+    jpn: 6758f1f1-3ebd-5f02-b847-5cd937a16adc
+    kor: cd352b6d-7c6e-52f1-bf5d-d627f22325b1
+    pol: 4c10ac06-416d-53fd-a5a8-06d484b2a6e4
+    por: 1ca60fe7-9d8b-5f08-92cf-b361ae39b4c0
+    zho: c744c2c8-f06d-5791-8acb-0932d88b942c
+  domains:
+  - concept_id: area-741
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-741-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-741-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-741-01
+status: valid
+schema_version: '3'
+id: 741-01-20

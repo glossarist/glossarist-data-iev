@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ratio of the RMS value of the alternating component of a {{pulsating,
+      urn:iec:std:iec:60050-103-06-07}} quantity to the absolute value of the direct
+      component
+  examples: []
+  id: 103-06-12
+  notes:
+  - content: For a pulsating quantity stem:[x] with direct component stem:[bar(X)]
+      and alternating component stem:[x_("P{sim}")], the RMS-ripple factor is stem:[r
+      = frac(X_("P{sim}") _("eff"))(|bar(X)|)].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: RMS-ripple factor
+  - type: expression
+    normative_status: preferred
+    designation: relative ripple content
+  - type: symbol
+    designation: stem:[r]
+    international: true
+  domain: section-103-06
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: cbe12484-49ea-5e7a-9b64-a1e22f11d20c
+classification: preferred

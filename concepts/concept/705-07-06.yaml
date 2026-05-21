@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 705-07-06
+  localized_concepts:
+    ara: c9a38aee-4be0-5e7f-98db-c07d5c92de2d
+    deu: 3a59406c-f805-5014-92ee-fada96b29ad2
+    eng: 35e7de37-99b8-5d9a-934d-989eccc9a8f9
+    spa: b044b755-a8ce-5d2a-903a-326cf0adf88a
+    fra: 780a915e-ffab-5da0-a998-943fb3f8cb72
+    ita: 981413e7-6304-59c9-b663-a97cf2baa72c
+    jpn: 3d694471-5ab1-532f-ad83-45016729d11a
+    kor: f8c8b81c-dd95-5fda-9977-37276874588c
+    pol: 7017d2ae-bf87-5e6c-a309-ddbcbec45700
+    por: d7acc769-ae13-57fa-9aee-c6ccbe3765d4
+    swe: 7dbacfca-4dfe-5afb-a972-62435ed2bcce
+  domains:
+  - concept_id: area-705
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-705-07
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-705-07
+  type: broader
+  ref:
+    source: IEV
+    id: section-705-07
+status: valid
+schema_version: '3'
+id: 705-07-06

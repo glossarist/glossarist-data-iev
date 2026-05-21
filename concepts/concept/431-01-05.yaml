@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 431-01-05
+  localized_concepts:
+    ara: 0e2756c0-24e5-59ca-a450-9a022a172022
+    eng: 26e9d5c8-7660-5669-8aa6-fd467572ebd6
+    spa: 0f4a8844-fcb7-5079-952c-88a632b22b50
+    fra: 416b57d3-a13f-5ec1-9345-0705d14e3d14
+    ita: 0db8d0a7-17b8-5173-b36c-75a75862c052
+    jpn: 379c0928-8c79-5bb9-a890-fe562d5c376a
+    kor: 064f729d-609e-5ba2-850c-7dfc0b896354
+    pol: 88e2e3a9-29ca-5e65-97a5-986a3712fdc6
+    por: fb599913-b1e0-507b-8dd8-719d012e71ca
+    swe: 6c7f3cdf-1531-568e-b465-5acf7a3568fd
+  domains:
+  - concept_id: area-431
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-431-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-431-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-431-01
+status: valid
+schema_version: '3'
+id: 431-01-05

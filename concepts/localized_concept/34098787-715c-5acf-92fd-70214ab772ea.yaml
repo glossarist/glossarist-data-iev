@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: tensor of the second order defined by a bilinear form such that stem:[f
+      ( U "," " " V ) = - f ( V "," " " U )]
+  examples: []
+  id: 102-03-43
+  notes:
+  - content: The components of an antisymmetric tensor are such that stem:[T_(i j)
+      = - T_(j i)], and in particular stem:[T_(i i) = 0].
+  - content: 'An antisymmetric tensor defined on a three-dimensional space has three
+      strict components which can be considered as the coordinates stem:[W_(1) ",
+      " W_(2) ", " W_(3)] of an axial vector: stem:[([0, W_(3), - W_(2)], [- W_(3),
+      0, W_(1)], [W_(2), - W_(1), 0])] The axial vector associated with the antisymmetric
+      tensor stem:[U ox V - V ox U] is the vector product of the two vectors.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: antisymmetric tensor
+  domain: section-102-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: 34098787-715c-5acf-92fd-70214ab772ea

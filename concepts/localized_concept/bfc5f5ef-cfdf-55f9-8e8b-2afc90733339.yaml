@@ -1,0 +1,38 @@
+---
+data:
+  definition:
+  - content: scalaire div *stem:[U]* associé en chaque point d'un domaine déterminé
+      de l'espace à un vecteur *stem:[U]*, égal à la limite du quotient du flux du
+      vecteur sortant d'une surface fermée S par le volume de l'intérieur de la surface
+      lorsque toutes ses dimensions géométriques tendent vers zérostem:[rm(div) mathbf(U)
+      = underset(V vec 0)(lim) frac(1)(V) "P{oiint}"_("S") mathbf(U) * mathbf(e)_(n)
+      rm(d) A] où *stem:[e]*~n~dstem:[A] est l'élément vectoriel de surface orienté
+      vers l'extérieur et stem:[V] est le volume
+  examples: []
+  id: 102-05-20
+  notes:
+  - content: 'En coordonnées cartésiennes orthonormées, la divergence est: stem:[rm(div)
+      mathbf(U) = frac(del U_(x))(del x) + frac(del U_(y))(del y) + frac(del U_(z))(del
+      z)].'
+  - content: La divergence du champ vectoriel *stem:[U]* est notée div *stem:[U]*
+      ou *∇* ⋅ *stem:[U]*.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: divergence
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-05
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: bfc5f5ef-cfdf-55f9-8e8b-2afc90733339

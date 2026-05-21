@@ -1,0 +1,37 @@
+---
+data:
+  definition:
+  - content: "{{grandeur, urn:iec:std:iec:60050-112-01-01}} représentée par un {{scalaire,
+      urn:iec:std:iec:60050-102-02-18}} unique qui dépend du choix d'une unité de
+      mesure ou d'une référence à un mode opératoire de mesure"
+  examples: []
+  id: 102-02-19
+  notes:
+  - content: Dans l'espace usuel à trois dimensions, une grandeur scalaire est indépendante
+      de la {{direction, urn:iec:std:iec:60050-102-03-12}} et du choix du système
+      de coordonnées. Des exemple sont la masse, la charge électrique, la température
+      thermodynamique, la dureté C de Rockwell, la viscosité Engler d'une huile de
+      transformateur.
+  - content: Le concept de valeur absolue s'applique aux grandeurs scalaires réelles,
+      les concepts de partie réelle, partie imaginaire, module et argument s'appliquent
+      aux grandeurs scalaires complexes, et le concept de racine carrée aux deux.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur scalaire
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 6e1f3b23-52dc-5962-a320-8ba709ccebd8

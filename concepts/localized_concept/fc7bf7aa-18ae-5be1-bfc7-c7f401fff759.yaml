@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of the integrated value of the radiant flux of all wavelengths
+      emitted by fluorescence (fluorescence band) and the radiant excitation power
+      irradiating the {{fluorescent material, urn:iec:std:iec:60050-845-24-041}} for
+      a given excitation wavelength
+  examples: []
+  id: 845-24-042
+  notes:
+  - content: The fluorescent radiant efficiency is a measure of the external radiant
+      efficiency of the fluorescent material; the internal radiant efficiency is obtained
+      by taking a quotient of the emitted radiation and the radiant excitation power
+      that is absorbed by the fluorescent material.
+  - content: In this definition, the excitation wavelength is considered to be monochromatic.
+      However, in practice, the excitation radiation will have a wavelength range
+      and distribution.
+  - content: Fluorescence is understood to include both fluorescent and phosphorescent
+      phenomena with time constants short enough to be ignored for the application.
+  - content: The fluorescent radiant efficiency has unit one.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fluorescent radiant efficiency
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: fc7bf7aa-18ae-5be1-bfc7-c7f401fff759

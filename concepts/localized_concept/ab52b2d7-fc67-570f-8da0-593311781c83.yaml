@@ -1,0 +1,41 @@
+---
+data:
+  definition:
+  - content: valeur de crête de la tension lors d'un essai d'extinction de décharge
+      partielle, à laquelle la charge apparente est inférieure à la grandeur de décharge
+      spécifiée
+  examples: []
+  id: 212-11-62
+  notes:
+  - content: Le mode opératoire est prescrit dans l'IEC 60664-1.
+  - content: Pour les essais en courant alternatif, il est également possible d'utiliser
+      la valeur efficace.
+  sources:
+  - origin:
+      ref: IEC 60664-1:2007
+      locality:
+        type: clause
+        reference_from: 3.18.6
+      original: IEC 60664-1:2007, 3.18.6
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tension d'extinction de décharge partielle
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-212-11
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: ab52b2d7-fc67-570f-8da0-593311781c83

@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{transmission channel, urn:iec:std:iec:60050-701-02-01}}  in a {{telecommunication
+      circuit, urn:iec:std:iec:60050-701-02-03}} that handles {{signals, urn:iec:std:iec:60050-101-12-02}}
+      arriving at a given point"
+  examples: []
+  id: 704-04-05
+  notes:
+  - content: The qualification of a channel as, for example, "go" or "return" is usually
+      highly localized. A channel referred to as a {{go channel, urn:iec:std:iec:60050-704-04-04}}
+      at one point in a network could be referred to as a return channel at another
+      point.
+  - content: In telephony, the English qualifiers “return” and “receive” can be synonymous.
+      In certain applications, for example in television reception, only the receive
+      channel will exist. In this case, the use of the term “return channel” is not
+      applicable.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: return channel
+  - type: expression
+    normative_status: preferred
+    designation: receive channel
+  domain: section-704-04
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: 36abcd13-0c87-5749-b7c8-66a0577d3b6c
+classification: preferred

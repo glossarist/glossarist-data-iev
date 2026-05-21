@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 901-06-20
+  localized_concepts:
+    deu: 738a5474-fe56-58a8-8e79-4e44ba639fc2
+    eng: e60ef632-1da9-5cb6-a36d-6bbda549b5ac
+    fin: 1b4d7511-73e1-5c1e-a3d7-ab229d4bf4e4
+    fra: 6778e641-5820-5636-807a-aeec21e3a115
+    ita: 131c9627-44b3-52e4-b7d8-b4411b248707
+    jpn: b6bb3fda-9234-5329-a7fb-bfd4dee200af
+    kor: ebf5e6a2-5091-5a35-a3dc-e3e3a1c1389b
+    pol: adc550d9-b138-59f7-b054-1650805bec04
+    por: 872ed781-0a49-50c2-9928-70a0477329b3
+    srp: 75ec7e9b-d036-564f-bae5-421ea999e229
+    zho: 04070e11-2658-59c2-8aa7-9f6435949930
+  domains:
+  - concept_id: area-901
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-901-06
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-901-06
+  type: broader
+  ref:
+    source: IEV
+    id: section-901-06
+status: valid
+schema_version: '3'
+id: 901-06-20

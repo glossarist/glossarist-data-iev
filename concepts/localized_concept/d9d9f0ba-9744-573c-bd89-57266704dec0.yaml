@@ -1,0 +1,57 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{SI, urn:iec:std:iec:60050-112-02-02}} {{unit, urn:iec:std:iec:60050-112-01-14}}
+      of {{length, urn:iec:std:iec:60050-113-01-19}}, equal to the length of the path
+      travelled by light in vacuum in a {{duration, urn:iec:std:iec:60050-113-01-13}}
+      of 1/299 792 458 {{s, urn:iec:std:iec:60050-112-02-04}}"
+  examples: []
+  id: 112-02-05
+  notes:
+  - content: 'The definition in the SI Brochure is: "The metre, symbol m, is the SI
+      unit of length. It is defined by taking the fixed numerical value of the speed
+      of light in vacuum stem:[c] to be 299 792 458 when expressed in the unit m s^−1^,
+      where the second is defined in terms of the caesium frequency Δstem:[ν]~Cs~."'
+  - content: 'The metre is one of the seven SI {{base units, urn:iec:std:iec:60050-112-01-18}}:
+      {{second, urn:iec:std:iec:60050-112-02-04}} (s), metre (m), {{kilogram, urn:iec:std:iec:60050-112-02-06}}
+      (kg), {{ampere, urn:iec:std:iec:60050-112-02-07}} (A), {{kelvin, urn:iec:std:iec:60050-112-02-08}}
+      (K), {{mole, urn:iec:std:iec:60050-112-02-09}} (mol) and {{candela, urn:iec:std:iec:60050-112-02-10}}
+      (cd).'
+  sources:
+  - origin:
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      locality:
+        type: clause
+        reference_from: 2.3.1
+      original: SI Brochure, 9th edition, 2019, 2.3.1, modified – The definition in
+        the SI Brochure has been revised to comply with the IEV rules. Notes 1 and
+        2 to entry have been added.
+    status: modified
+    type: authoritative
+    modification: The definition in the SI Brochure has been revised to comply with
+      the IEV rules. Notes 1 and 2 to entry have been added.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metre
+  - type: expression
+    normative_status: preferred
+    geographical_area: US
+    designation: meter
+  - type: symbol
+    designation: m
+    international: true
+  domain: section-112-02
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: d9d9f0ba-9744-573c-bd89-57266704dec0
+classification: preferred

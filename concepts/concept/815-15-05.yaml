@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 815-15-05
+  localized_concepts:
+    deu: 7e2d0282-99d8-513c-b212-43691e769423
+    eng: d924eff3-1612-5115-a78d-318624ac6e7b
+    spa: a8bbf187-8b31-5a49-8df0-4a52cdddef89
+    fra: 3414bef5-e4a1-589b-be9f-b4c094201035
+    jpn: 1ee3cd49-7abb-581b-ac9b-48569f1e729e
+    kor: 6d657b36-6a26-5f5d-b3a4-a82fca402a19
+    pol: 49b0aed8-68ad-5a5f-bb5a-b8d624dc2aac
+    por: 1ea9e6a1-1134-553e-9659-d179ef832229
+    zho: aa1b9b7a-894c-50a1-b8b5-cad6a4160d4e
+  domains:
+  - concept_id: area-815
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-815-15
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-815-15
+  type: broader
+  ref:
+    source: IEV
+    id: section-815-15
+- type: supersedes
+  ref:
+    source: IEV
+    id: 815-15-05
+    version: 2015-11
+status: valid
+schema_version: '3'
+id: 815-15-05

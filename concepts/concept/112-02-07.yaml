@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 112-02-07
+  localized_concepts:
+    ara: 220ab2cd-e9d7-59d0-b047-a847a606fa61
+    deu: bc58f3d8-0c54-5b20-89ac-d4eeaf5b74a0
+    eng: a00a0afc-1a93-5348-a64c-35143cfa2b11
+    spa: d1e42d4c-f6bc-5fd3-aaf6-11ba22dd0c85
+    fra: 033021d4-c94c-512c-a0ec-3ad9924a1879
+    ita: 2b6c38a2-2522-5d7e-9ff0-abb80d4bc7b2
+    jpn: 90d71547-2503-59ba-a66e-c6549f6887db
+    kor: dc4a9518-cb4e-52b1-844b-49101e87d444
+    pol: bb6f4f44-d718-5d03-9f47-604d2904ba17
+    por: 06d7f8ae-7154-552d-b79e-7cf55cafd4b2
+    srp: 1f4bb7c0-15c6-5060-9c0e-c1a0013ae756
+    swe: '09749319-9c7d-59c3-a0a7-f84b83c691d2'
+    zho: bdf87070-1d11-50b8-a069-85f03dbc387f
+  domains:
+  - concept_id: area-112
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-112-02
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-112-02
+  type: broader
+  ref:
+    source: IEV
+    id: section-112-02
+- type: supersedes
+  ref:
+    source: IEV
+    id: 112-02-07
+    version: 2010-01
+status: valid
+schema_version: '3'
+id: 112-02-07

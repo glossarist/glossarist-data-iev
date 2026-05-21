@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: vector *rot* stem:[*U*] associated at each point of a given space region
+      with a vector *stem:[U]*, equal to the limit of the integral over a closed surface
+      S of the vector product of the vector surface element and the vector *stem:[U]*,
+      divided by the volume of the interior of the surface, when the surface is contained
+      in a sphere the radius of which tends to zerostem:[rot U = underset(V vec 0)(lim)
+      frac(1)(V) "P{oiint}"_("S") e_(n) xx U rm(d) A] where *stem:[e]*~n~dstem:[A]
+      is the vector surface element oriented outwards and stem:[V] is the volume
+  examples: []
+  id: 102-05-22
+  notes:
+  - content: 'In orthonormal Cartesian coordinates, the three coordinates of the rotation
+      are: stem:[frac(del " " U_(z))(del " " y) - frac(del " " U_(y))(del " " z) " "
+      " " " " , " " " " " " " " frac(del " " U_(x))(del " " z) - frac(del " " U_(z))(del
+      " " x) " " " " " " , " " " " " " " " frac(del " " U_(y))(del " " x) - frac(del
+      " " U_(x))(del " " y)]'
+  - content: The rotation of a polar vector is an axial vector and the rotation of
+      an axial vector is a polar vector.
+  - content: The rotation of the vector field *stem:[U]* is denoted by stem:[rot U]
+      or stem:[mathbf(nabla) xx U]. In some English texts, the rotation is denoted
+      by stem:[curl U].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rotation
+  - type: expression
+    normative_status: preferred
+    designation: curl
+  domain: section-102-05
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: 1db0e8f6-3f0e-5734-ba4c-d5a1f5249536
+classification: preferred

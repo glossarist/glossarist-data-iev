@@ -1,0 +1,49 @@
+---
+data:
+  definition:
+  - content: équipement qui intègre un ou plusieurs {{relais de protection, urn:iec:std:iec:60050-447-01-14}}
+      et, si nécessaire, des éléments logiques conçus pour assurer une ou plusieurs
+      fonctions de protection spécifiées
+  examples:
+  - content: Dispositif de protection de distance, dispositif de protection à comparaison
+      de phases.
+  id: 447-01-49
+  notes:
+  - content: 'à l''article: Un "équipement de protection" fait partie d''un {{"système
+      de protection", urn:iec:std:iec:60050-448-11-04}}. Par exemple, un équipement
+      de protection à comparaison de phase fait partie, à une extrémité, d''un système
+      de protection à comparaison de phases.'
+  sources:
+  - origin:
+      ref: IEC 60050-448:1995
+      locality:
+        type: clause
+        reference_from: 448-11-03
+      original: IEC 60050-448:1995, 448-11-03, modifié – L'exemple a été mis avant
+        la Note 1 à l'article. La référence à {{IEV 448-11-04, urn:iec:std:iec:60050-448-11-04}}
+        a été ajoutée pour "système de protection".
+    status: modified
+    type: authoritative
+    modification: L'exemple a été mis avant la Note 1 à l'article. La référence à
+      {{IEV 448-11-04, urn:iec:std:iec:60050-448-11-04}} a été ajoutée pour "système
+      de protection".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: équipement de protection
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-447-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: d5047511-7a7f-5343-b2e3-b41cb34de5b3

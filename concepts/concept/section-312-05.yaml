@@ -1,0 +1,40 @@
+---
+data:
+  identifier: section-312-05
+  localized_concepts:
+    eng: d700a3fb-b29f-568d-9768-c85a5239663a
+  domains:
+  - concept_id: area-312
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-312-05
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-312
+  type: broader
+  ref:
+    source: IEV
+    id: area-312
+- content: 312-05-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 312-05-01
+- content: 312-05-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 312-05-02
+- content: 312-05-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 312-05-03
+- content: 312-05-04
+  type: narrower
+  ref:
+    source: IEV
+    id: 312-05-04
+schema_version: '3'
+id: section-312-05

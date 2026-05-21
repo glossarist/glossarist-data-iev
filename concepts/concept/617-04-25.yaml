@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 617-04-25
+  localized_concepts:
+    deu: 7b3c7e43-7bfb-5388-bee2-c94f51ea4e8c
+    eng: a5b5c27f-0783-58e6-ab66-c5bd3dcdc5ae
+    fin: e9868444-b1f5-550b-b3c0-6c1ffd9bba5d
+    fra: fdb80b8d-4f7b-5563-9663-773a9d448bc9
+    ita: 83e1df90-3748-5110-8982-f2c211c3fe78
+    jpn: fb6f3de9-9487-53b4-9509-96feea765962
+    kor: 840e7527-7ef6-5754-8a2b-f7233be00aed
+    mon: 536172fb-d895-5cf0-866c-9044f9906d1e
+    pol: a4427928-1592-54cb-a3ee-317a72e5d9ad
+    por: a25a2e42-c18f-5d9d-a7ab-bedfaeda7b83
+    swe: 2ae57b98-22a8-55c6-a02b-ad60e9998ca9
+    zho: a28e424c-7bcb-5207-a424-b6ba11c53af6
+  domains:
+  - concept_id: area-617
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-617-04
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-617-04
+  type: broader
+  ref:
+    source: IEV
+    id: section-617-04
+- type: supersedes
+  ref:
+    source: IEV
+    id: 617-04-25
+    version: '2017-12-15'
+status: valid
+schema_version: '3'
+id: 617-04-25

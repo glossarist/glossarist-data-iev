@@ -1,0 +1,41 @@
+---
+data:
+  definition:
+  - content: propriété qui rend accessible et utilisable à la demande par une {{entité,
+      urn:iec:std:iec:60050-741-01-18}} autorisée
+  examples: []
+  id: 741-01-05
+  notes:
+  - content: Les {{systèmes IdO, urn:iec:std:iec:60050-741-02-07}} peuvent intégrer
+      à la fois des {{utilisateurs humains, urn:iec:std:iec:60050-741-01-20}} et des
+      composants de service en tant qu'"entités autorisées".
+  sources:
+  - origin:
+      ref: ISO/IEC 20924:2018
+      locality:
+        type: clause
+        reference_from: 3.1.5
+      original: ISO/IEC 20924:2018, 3.1.5
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disponibilité
+    usage_info: Internet des Objets
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-741-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: a7a52887-07e6-5b90-8dd6-8406cd0f95ed

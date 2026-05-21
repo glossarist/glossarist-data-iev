@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: mean value of illuminance on the outer curved surface of a very small
+      (real or imaginary) sphere at a point in space
+  examples: []
+  id: 845-21-066
+  notes:
+  - content: The spherical illuminance can be expressed bystem:[E_("v,o") = int_(4
+      pi) L_("v") "d" Omega]where stem:[Ω] is solid angle and stem:[L]~v~ is luminance.
+  - content: The spherical illuminance is the quotient of the luminous flux of all
+      the light incident on the outer surface of an infinitely small sphere centred
+      at the given point and the area of the diametrical cross-section of that sphere.
+  - content: The analogous quantities "{{spherical irradiance, urn:iec:std:iec:60050-845-21-054}}",
+      stem:[E]~e,o~, and "{{photon spherical irradiance, urn:iec:std:iec:60050-845-21-059}}"
+      (also termed "photon fluence rate"), stem:[E]~p,o~, are defined in a similar
+      way, replacing {{luminance, urn:iec:std:iec:60050-845-21-050}}, stem:[L]~v~,
+      by {{radiance, urn:iec:std:iec:60050-845-21-049}}, stem:[L]~e~, and photon radiance,
+      stem:[L]~p~, respectively.
+  - content: The spherical illuminance is expressed in lux (lx = lm·m^−2^).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spherical illuminance
+  - type: symbol
+    designation: |-
+      stem:[E]~v,o~
+      stem:[E]~o~
+    international: true
+  domain: section-845-21
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 0f9b9430-5e83-579e-a906-5869c670094d

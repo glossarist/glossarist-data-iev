@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 605-02-34
+  localized_concepts:
+    ara: e891f310-ece6-5081-8ea7-e2868fadfcf3
+    deu: 29115c42-4f67-59ac-aa49-4b3b98cd8049
+    eng: ebbc3e92-5fb3-556a-811a-7b5f93c8c8aa
+    spa: 5e75c457-59bf-56e7-9de1-d39f8e3199f3
+    fin: c26b6657-4ad1-5fa0-83eb-454c2b509c97
+    fra: 36713bf1-beb2-58f0-8cd2-4ce587e2dcc5
+    ita: 603b837a-b3af-5c36-a947-44074ac2178b
+    jpn: c953736c-ca5b-5e70-96e0-52720c5b9ae6
+    kor: bf6df41d-04c8-511f-bca9-91e3cc0fb946
+    mon: 1be3450c-02ed-58cd-8aca-2c72e51f6fa1
+    pol: 33585fcf-c23c-534a-bf65-601c96c19c97
+    por: f8413309-5eab-5c21-8e4a-b83da106d685
+    slv: 736882d9-b4cd-52d6-8415-91436ba59ff2
+    srp: 1b9c4767-302e-5903-ab47-8a3650d383b2
+    swe: cb4c333b-ad78-57e8-aa78-65767ddaf2e9
+  domains:
+  - concept_id: area-605
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-605-02
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-605-02
+  type: broader
+  ref:
+    source: IEV
+    id: section-605-02
+status: valid
+schema_version: '3'
+id: 605-02-34

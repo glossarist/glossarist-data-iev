@@ -1,0 +1,59 @@
+---
+data:
+  definition:
+  - content: 'élément d''un ensemble contenant les nombres réels et d''autres éléments,
+      dont chacun peut être représenté par un couple ordonné de nombres réels (stem:[a],
+      stem:[b]), avec les propriétés suivantes: * le couple (a, 0) représente le nombre
+      réel a, * une addition est définie par    ( a 1  ,  b 1  )+( a 2  ,  b 2  )=(
+      a 1  + a 2  ,  b 1  + b 2  ) MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaacIcacaWGHbWaaS
+      baaSqaaiaaigdaaeqaaOGaaeilaiaaysW7caWGIbWaaSbaaSqaaiaa igdaaeqaaOGaaiykaiabgUcaRiaacIcacaWGHbWaaSbaaSqaaiaaik
+      daaeqaaOGaaeilaiaaysW7caWGIbWaaSbaaSqaaiaaikdaaeqaaOGa aiykaiabg2da9iaacIcacaWGHbWaaSbaaSqaaiaaigdaaeqaaOGaey
+      4kaSIaamyyamaaBaaaleaacaaIYaaabeaakiaabYcacaaMe8UaamOy amaaBaaaleaacaaIXaaabeaakiabgUcaRiaadkgadaWgaaWcbaGaaG
+      OmaaqabaGccaGGPaaaaa@55F8@   ,* une multiplication est définie par    ( a 1  , 
+      b 1  )×( a 2  ,  b 2  )=( a 1   a 2  − b 1   b 2  ,  a 1   b 2  + a 2   b 1  )
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaacIcacaWGHbWaaS
+      baaSqaaiaaigdaaeqaaOGaaeilaiaaysW7caWGIbWaaSbaaSqaaiaa igdaaeqaaOGaaiykaiabgEna0kaacIcacaWGHbWaaSbaaSqaaiaaik
+      daaeqaaOGaaeilaiaaysW7caWGIbWaaSbaaSqaaiaaikdaaeqaaOGa aiykaiabg2da9iaacIcacaWGHbWaaSbaaSqaaiaaigdaaeqaaOGaam
+      yyamaaBaaaleaacaaIYaaabeaakiabgkHiTiaadkgadaWgaaWcbaGa aGymaaqabaGccaWGIbWaaSbaaSqaaiaaikdaaeqaaOGaaeilaiaays
+      W7caWGHbWaaSbaaSqaaiaaigdaaeqaaOGaamOyamaaBaaaleaacaaI YaaabeaakiabgUcaRiaadggadaWgaaWcbaGaaGOmaaqabaGccaWGIb
+      WaaSbaaSqaaiaaigdaaeqaaOGaaiykaaaa@5E98@'
+  examples: []
+  id: 102-02-09
+  notes:
+  - content: Toutes les propriétés des nombres réels (opérations et limites) s'étendent
+      aux nombres complexes, sauf la relation d'ordre.
+  - content: Le nombre complexe défini par le couple (stem:[a], stem:[b]) est noté
+      stem:[c = a + rm(j) b] où j est l'unité imaginaire ({{IEV 102-02-10, urn:iec:std:iec:60050-102-02-10}})
+      représentée par le couple (0, 1), stem:[a] est la partie réelle et stem:[b]
+      la partie imaginaire. Un nombre complexe peut aussi être représenté par stem:[c
+      = |c| ( cosphi + rm(j) " " sinphi ) = |c| e^(rm(j) phi)] où stem:[|c|] est un
+      nombre réel positif ou nul appelé module et stem:[φ] un nombre réel appelé argument.
+  - content: En électrotechnique, un nombre complexe est généralement représenté par
+      un symbole littéral souligné, par exemple stem:[underline(c)].
+  - content: L'ensemble des nombres complexes est noté ℂ (C avec une barre verticale
+      dans l'arc gauche) ou *C*. L'ensemble sans zéro est noté en ajoutant un astérisque
+      au symbole, par exemple ℂ*.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nombre complexe
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: b3ca524e-3d68-540b-a687-df1875659167

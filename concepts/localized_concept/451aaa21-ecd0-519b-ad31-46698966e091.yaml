@@ -1,0 +1,54 @@
+---
+data:
+  definition:
+  - content: intégrale de temps de l'éclairement érythémal énergétiquestem:[H_("er")
+      = int int E_(lambda) ( lambda , " " " " t ) " " s_("er") ( lambda ) "d" lambda
+      "d" t]où stem:[E~λ~](stem:[λ], stem:[t]) est l'éclairement spectral énergétique
+      et stem:[s]~er~(stem:[λ]) est la fonction de pondération spectrale d'un érythème
+      normalisée à 1 comme valeur maximale
+  examples: []
+  id: 845-26-066
+  notes:
+  - content: Cette définition est basée sur l'hypothèse selon laquelle un spectre
+      d'action est adopté pour l'effet actinique pris en considération, et selon laquelle
+      sa valeur maximale est égale à 1.
+  - content: Il est essentiel de spécifier quel spectre d'action est utilisé, dans
+      la mesure où l'unité est la même pour tout spectre d'action.
+  - content: Voir aussi {{dose érythémale minimale, urn:iec:std:iec:60050-845-26-068}},
+      "{{dose érythémale normalisée, urn:iec:std:iec:60050-845-26-069}}".
+  - content: La dose érythémale est exprimée en joule par mètre carré (J·m^−2^).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dose érythémale
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: exposition énergétique érythémale
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 451aaa21-ecd0-519b-ad31-46698966e091
+classification: admitted

@@ -1,0 +1,29 @@
+---
+data:
+  dates:
+  - date: '2020-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: duration between the instant when the {{characteristic quantity, urn:iec:std:iec:60050-447-07-01}}
+      of a {{measuring relay, urn:iec:std:iec:60050-447-01-02}} or {{protection equipment,
+      urn:iec:std:iec:60050-447-01-49}} in {{reset condition, urn:iec:std:iec:60050-447-02-02}}
+      is changed beyond its {{operate value, urn:iec:std:iec:60050-447-02-10}}, under
+      specified conditions, and the instant when a specified {{output break circuit,
+      urn:iec:std:iec:60050-447-04-09}} first opens
+  examples: []
+  id: 447-05-01
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: opening time of an output break circuit
+  domain: section-447-05
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-05-01T00:00:00+00:00'
+id: 919779e9-9c20-585e-875c-6ab28345cb39

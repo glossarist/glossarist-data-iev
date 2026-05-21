@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 131-11-45
+  localized_concepts:
+    ara: 3ed7dea2-69bd-5f7c-8b35-140c8cdd1179
+    deu: 99935e7f-50f5-55fb-9e35-10735f4e7cf1
+    eng: 844316cb-25cb-5505-acb4-0e2f258bd842
+    spa: fd982b6f-7826-5d8d-8128-835e48810c63
+    fra: f14809de-f327-50c8-bfe6-d2dcaa6f8318
+    ita: 7fc33639-866f-546e-8a1f-991eafba832e
+    jpn: 52aee715-ecf3-5633-b14b-120aaa20e468
+    kor: e5720590-b419-5887-8709-c70cc6c20c62
+    pol: 404d3810-89bf-5ed3-8da5-dd2972323af3
+    por: f9302ff1-72b0-5511-bf1c-9255de74363c
+    zho: 303cf39e-5718-598d-8fb6-1a0231d16ded
+  domains:
+  - concept_id: area-131
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-131-11
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-131-11
+  type: broader
+  ref:
+    source: IEV
+    id: section-131-11
+status: valid
+schema_version: '3'
+id: 131-11-45

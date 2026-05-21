@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2016-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: time interval between the fault inception and the termination of the
+      fault clearance
+  examples: []
+  id: 614-02-26
+  notes:
+  - content: The fault clearance time is the longest fault current interruption time
+      of the associated circuit-breaker(s) for elimination of fault current on the
+      faulty item of plant.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 448-13-15
+      original: IEV 448-13-15, modified
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fault clearance time
+  - type: expression
+    geographical_area: US
+    designation: clearing time
+  domain: section-614-02
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-02-01T00:00:00+00:00'
+  review_decision_date: '2016-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-02-01T00:00:00+00:00'
+id: df6414a4-2ca6-5fb2-b4b7-b6c4db783e02

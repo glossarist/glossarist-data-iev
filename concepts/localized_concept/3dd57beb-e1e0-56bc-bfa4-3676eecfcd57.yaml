@@ -1,0 +1,44 @@
+---
+data:
+  definition:
+  - content: groupe fonctionnel principal d'un {{système IdO, urn:iec:std:iec:60050-741-02-07}}
+  examples: []
+  id: 741-02-05
+  notes:
+  - content: Chaque {{entité, urn:iec:std:iec:60050-741-01-18}} au sein d'un système
+      IdO est active dans un ou plusieurs domaines IdO et elle est réputée être incluse
+      dans ledit domaine ou contenue par celui-ci.
+  - content: 'Le domaine IdO est constitué de six domaines: le domaine de l''utilisateur
+      (UD), le domaine exploitation & gestion (OMD), le domaine {{application, urn:iec:std:iec:60050-741-01-02}}
+      & {{service, urn:iec:std:iec:60050-741-01-28}} (ASD), le domaine accès aux ressources
+      & échange (RAID), le domaine détection & commande (SCD), le domaine {{entité
+      physique, urn:iec:std:iec:60050-741-01-26}} (PED).image::/assets/images/parts/741/[]'
+  sources:
+  - origin:
+      ref: ISO/IEC 20924:2018
+      locality:
+        type: clause
+        reference_from: 3.2.5
+      original: ISO/IEC 20924:2018, 3.2.5
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: domaine IdO
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-741-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 3dd57beb-e1e0-56bc-bfa4-3676eecfcd57

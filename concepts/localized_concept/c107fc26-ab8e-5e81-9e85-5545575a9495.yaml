@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "linear time-invariant transfer element the transfer function of which
+      may be written as a quotient of two polynomials in stem:[sG (s) = frac(V (s))(U
+      (s)) = frac(b_(0) + b_(1) * s + ... + b_(m) * s^(m))(a_(0) + a_(1) * s + ...
+      + a_(n) * s^(n))] with stem:[a~j~] and stem:[b~j~] real, stem:[a~n~] ≠ 0, stem:[b~m~]
+      ≠ 0where<table>\r\n<tr>\n<td>\nstem:[ai], stem:[bi]\n</td>\n<td>are the polynomial
+      coefficients;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>is the complex variable
+      of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n<td>is
+      the input transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n<td>is
+      the output transform.</td>\n</tr>\n</table>"
+  examples: []
+  id: 351-45-51
+  notes:
+  - content: In real controlled systems, stem:[m] < stem:[n]. With respect to mathematical
+      denomination these elements would have to be called "proper-fractional rational
+      transfer element" which is not usage.
+  - content: An element with dead time is an example for a non-rational transfer element.
+  - content: This entry was numbered 351-24-43 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rational transfer element
+  domain: section-351-45
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: c107fc26-ab8e-5e81-9e85-5545575a9495

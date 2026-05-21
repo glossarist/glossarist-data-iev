@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: law giving the {{spectral distribution, urn:iec:std:iec:60050-845-21-029}}
+      of radiance of a {{Planckian radiator, urn:iec:std:iec:60050-845-24-004}} as
+      a function of wavelength and temperaturestem:[L_("e" , lambda) ( lambda , T
+      ) = frac(del L_("e") ( lambda , T ))(del lambda) = frac(c_(1))(pi) lambda^(-
+      5) ("e"^(frac(c_(2))(lambda T)) - 1)^(- 1)]where stem:[L]~e,~stem:[~λ~] is the
+      spectral radiance, stem:[λ] is the wavelength in vacuum, stem:[T] is the thermodynamic
+      temperature, stem:[c_(1) \  = 2 \  pi \  h \  c_(0)^(2)], stem:[c_(2) \  = h
+      \  c_(0) \  / \  k], stem:[h] is the Planck constant, stem:[c]~0~ is the {{speed
+      of light in vacuum, urn:iec:std:iec:60050-113-01-34}}, and stem:[k] is the Boltzmann
+      constant
+  examples: []
+  id: 845-24-005
+  notes:
+  - content: The formula is sometimes written with stem:[frac(c_(1))(pi " " Omega_(0))]
+      instead of stem:[frac(c_(1))(pi)], where stem:[Ω]~0~ is the solid angle of magnitude
+      1 sr.
+  - content: For a detector in a medium of refractive index stem:[n], the measured
+      radiance is stem:[n]^2^stem:[L]~e,~stem:[~λ~](stem:[λ], stem:[T]).
+  - content: Planck's law can also be expressed to give the spectral distribution
+      of radiant exitance, stem:[M]~e,~stem:[~λ~](stem:[λ], stem:[T]); the first factor
+      in the formula is then stem:[c]~1~ instead of stem:[frac(c_(1))(pi)].
+  - content: Both quantities (radiance and radiant exitance) apply to the {{unpolarized
+      radiation, urn:iec:std:iec:60050-845-21-021}} as emitted.
+  - content: For the up-to-date values of the Planck constant, stem:[h], the {{speed
+      of light in vacuum, urn:iec:std:iec:60050-113-01-34}}, stem:[c]~0~, and the
+      Boltzmann constant, stem:[k], see CODATA.
+  - content: This entry was numbered 845-04-05 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Planck's law
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: e228714b-89ba-52bc-9b10-ab047ea04449

@@ -1,0 +1,29 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: sequence of {{data elements, urn:iec:std:iec:60050-171-02-01}} of the
+      same nature, such as {{characters, urn:iec:std:iec:60050-702-05-10}} or {{binary
+      digits, urn:iec:std:iec:60050-171-02-10}}, treated as a whole
+  examples:
+  - content: "{{Byte, urn:iec:std:iec:60050-171-02-12}}, {{word, urn:iec:std:iec:60050-171-02-27}}."
+  id: 171-02-26
+  notes:
+  - content: A string can be empty or contain only one element.
+  - content: Usually a string is enclosed by {{delimiters, urn:iec:std:iec:60050-171-02-39}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: string
+  domain: section-171-02
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: be53a2a3-fd2e-52f5-80c5-87d2a2a0bd9c

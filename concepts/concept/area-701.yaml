@@ -1,0 +1,27 @@
+---
+data:
+  identifier: area-701
+  localized_concepts:
+    eng: 5737a483-c65f-53fc-abe8-1ed69e76e174
+  domains:
+  - concept_id: area-701
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-701-01
+  type: narrower
+  ref:
+    source: IEV
+    id: section-701-01
+- content: section-701-02
+  type: narrower
+  ref:
+    source: IEV
+    id: section-701-02
+- content: section-701-03
+  type: narrower
+  ref:
+    source: IEV
+    id: section-701-03
+schema_version: '3'
+id: area-701

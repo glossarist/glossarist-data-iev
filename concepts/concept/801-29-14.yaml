@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 801-29-14
+  localized_concepts:
+    ara: 2ddb508a-9c9b-538f-9758-3aee504bca19
+    deu: f98039d7-342f-58d1-a34d-62c98ebdd740
+    eng: 3c22be9b-70c3-5b94-8421-befdd5ab97b4
+    spa: 81aabedb-9328-5639-9094-68ba9025d69d
+    fin: c1ce1538-6ba0-566f-80ff-fc951331dcbe
+    fra: c93fe30f-2db3-5e36-805d-78c5eeacb714
+    ita: 8457e431-8be6-5fdd-b752-4df5e854c625
+    jpn: '089db060-e700-5c95-97c6-934880d55373'
+    kor: e1ccdefa-21f1-5c28-949f-f3829a402e20
+    pol: 77b59268-e73e-5776-8b1c-5504ba50d863
+    por: 601b715e-2cd7-58a9-b548-18b2e8fb941f
+  domains:
+  - concept_id: area-801
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-801-29
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-801-29
+  type: broader
+  ref:
+    source: IEV
+    id: section-801-29
+status: valid
+schema_version: '3'
+id: 801-29-14

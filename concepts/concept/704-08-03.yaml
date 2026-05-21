@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 704-08-03
+  localized_concepts:
+    ara: 1268237d-c054-5ed3-8267-c03bcf2dda96
+    deu: 94d881d8-2112-5f99-8ded-cc1c62ab1313
+    eng: 6a8f268e-14f7-55db-be29-5d5b3d83691e
+    spa: a3c8a26b-baa3-5ec1-8883-aa3bd5bcd8b7
+    fin: fe35e83f-1fba-5f77-a81f-2b54d8f26a29
+    fra: 3521412c-85e6-51f1-9af8-1fb27ed59a32
+    ita: aad7f7d6-b21e-5519-9b53-c290b94933c3
+    jpn: 416ee44b-b489-50be-b16d-97e9890e9856
+    kor: e895fc9c-5e0c-5af8-8270-b39738e8f794
+    pol: e1467beb-2fa7-5057-beaa-cf00fdf47906
+    por: 3784dc8c-ea53-5fea-afec-504fc593cdfa
+    swe: add3004b-a785-50f8-b1af-7d68d90a1fd0
+    zho: 71c7cb40-3938-5eb4-9b8d-d001415e53b3
+  domains:
+  - concept_id: area-704
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-704-08
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-704-08
+  type: broader
+  ref:
+    source: IEV
+    id: section-704-08
+- type: supersedes
+  ref:
+    source: IEV
+    id: 704-08-03
+    version: 1993-08
+status: valid
+schema_version: '3'
+id: 704-08-03

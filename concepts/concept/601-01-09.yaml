@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 601-01-09
+  localized_concepts:
+    ara: c0a809aa-4f31-5a81-86ee-f7afb1f9b6c5
+    deu: 50def3de-7255-5c6f-89bc-66bb0deb5f6c
+    eng: 2b1caa7a-2d92-5b56-999a-62b27f1ab84f
+    spa: 2281b727-7fd0-522b-94b5-9c71962cac6c
+    fin: af6054cf-ce94-547e-b358-46d9093a05c0
+    fra: a7336155-7733-5946-9730-f445986b46e1
+    ita: b3b00d2f-5160-54e8-a6e2-131cd51219ae
+    jpn: a09ed406-4de8-5ee3-a4fc-02750654a47d
+    kor: 1ac9d6c6-05be-51aa-8c4d-fcad2fd97bec
+    mon: 834d31fa-bb70-5ab3-abc9-cf6a90a485e7
+    pol: 64276074-6d36-5106-bdfb-77aec4b1a3bb
+    por: 27df0cd1-1f74-5fa9-b974-7c2e38f2ed0d
+    srp: 0b038ba5-b746-5380-a456-bee27d31b5e8
+    swe: 7973069b-9f9c-5fde-a113-fb9b90e8dda8
+  domains:
+  - concept_id: area-601
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-601-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-601-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-601-01
+status: valid
+schema_version: '3'
+id: 601-01-09

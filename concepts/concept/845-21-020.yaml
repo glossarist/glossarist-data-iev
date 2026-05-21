@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 845-21-020
+  localized_concepts:
+    ara: '08cfaf91-296f-595f-bebe-abee5c3122b7'
+    deu: 89a829e4-05ba-5571-ad5b-656680b5bf67
+    eng: 1a517f8f-f24d-58c7-90fb-e0b2b1310a1d
+    fra: ddfa87c1-cd62-5b7d-95ae-5ae191393fb0
+    ita: 479f41e9-9fce-548e-b288-f086a334c5ab
+    jpn: 9f4c0813-abe1-57c1-96c9-2deb3fc8602c
+    kor: a44e55ce-f1f5-5069-a0f4-68bae6fb410b
+    pol: 5c83c42d-f82d-574a-b8e7-0529d4b41ee7
+    por: '0238b13c-dab7-57f7-ad1c-c78ac9384552'
+    zho: 7b85cbaf-22b2-551c-86a4-6f9b7cb05f79
+  domains:
+  - concept_id: area-845
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-845-21
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-845-21
+  type: broader
+  ref:
+    source: IEV
+    id: section-845-21
+status: valid
+schema_version: '3'
+id: 845-21-020

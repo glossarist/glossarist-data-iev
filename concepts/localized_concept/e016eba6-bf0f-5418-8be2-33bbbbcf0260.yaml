@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2016-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: single sequence of operations made by a user of a {{telecommunication
+      network, urn:iec:std:iec:60050-701-02-07}} trying to obtain the desired user,
+      {{terminal, urn:iec:std:iec:60050-715-01-06}} or service
+  examples: []
+  id: 701-03-04
+  notes:
+  - content: Such a sequence is sufficient in favourable cases; it cannot suffice
+      in situations such as {{blocking, urn:iec:std:iec:60050-715-02-15}}, {{faults,
+      urn:iec:std:iec:60050-192-04-01}}, etc.
+  - content: At a given point of the network a call attempt is manifested by a single
+      unsuccessful {{bid, urn:iec:std:iec:60050-715-02-03}}, or a successful bid and
+      all the subsequent identifiable activity related to the establishment of a {{connection,
+      urn:iec:std:iec:60050-701-03-01}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: call attempt
+  domain: section-701-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-12-01T00:00:00+00:00'
+id: e016eba6-bf0f-5418-8be2-33bbbbcf0260

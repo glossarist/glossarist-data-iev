@@ -1,0 +1,68 @@
+---
+data:
+  dates:
+  - date: '1982-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '1982-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: en un point donné d'une ligne de transmission ou d'un guide d'ondes,
+      rapport complexe des valeurs d'une même composante spécifiée d'un vecteur de
+      champ pour une onde électromagnétique d'un mode donné et pour une onde de référence
+      du même mode
+  examples: []
+  id: 726-05-08
+  notes:
+  - content: Pour un mode de propagation, l'onde de référence, ou onde d'amplitude
+      unité, est celle qui transporte la puissance unité et dont une composante de
+      champ spécifiée a la phase zéro en un point spécifié de la section droite de
+      référence. On choisit habituellement la composante transversale du vecteur champ
+      électrique au centre de la section droite de référence.
+  - content: Pour un mode évanescent, la puissance transportée par l'onde est nulle.
+      On peut alors égaler à l'unité imaginaire le flux, à travers la section droite
+      de référence, du vecteur de Poynting complexe longitudinal, ou définir une autre
+      méthode de normalisation.
+  - content: Il est préférable de considérer séparément les modes de propagation et
+      les modes évanescents, car la notion d'amplitude complexe normalisée est surtout
+      appliquée aux premiers.
+  - content: Pour les cas peu fréquents où la matrice de répartition est étendue aux
+      modes évanescents, il est préférable de laisser libre le choix de l'onde de
+      référence.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: amplitude complexe normalisée
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: facteur normalisé d'amplitude
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-726-05
+  language_code: fra
+  entry_status: valid
+  review_date: '1982-01-01T00:00:00+00:00'
+  review_decision_date: '1982-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1982-01-01T00:00:00+00:00'
+id: af161591-0b33-5d79-973a-a896c9110ac2
+classification: preferred

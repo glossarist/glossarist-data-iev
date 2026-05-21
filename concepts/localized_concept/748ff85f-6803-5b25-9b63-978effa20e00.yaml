@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: imaginary part stem:[g](stem:[t]) of an {{analytic signal, urn:iec:std:iec:60050-702-04-52}}
+  examples: []
+  id: 702-04-53
+  notes:
+  - content: 'The name "quadrature signal" is justified by the fact that, apart from
+      sign changes, sin stem:[ωt] and cos stem:[ωt] are Hilbert transforms of each
+      other and that consequently the analytic signal corresponding to the real signal
+      cos stem:[ωt] is: e^jstem:[ωt]^'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quadrature signal
+  - type: expression
+    normative_status: preferred
+    designation: harmonic conjugate signal
+  domain: section-702-04
+  language_code: eng
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: 748ff85f-6803-5b25-9b63-978effa20e00
+classification: preferred

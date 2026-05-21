@@ -1,0 +1,40 @@
+---
+data:
+  identifier: section-704-23
+  localized_concepts:
+    eng: '0780498c-f0d6-5390-b165-506d8baa50e5'
+  domains:
+  - concept_id: area-704
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-704-23
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-704
+  type: broader
+  ref:
+    source: IEV
+    id: area-704
+- content: 704-23-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 704-23-01
+- content: 704-23-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 704-23-02
+- content: 704-23-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 704-23-03
+- content: 704-23-04
+  type: narrower
+  ref:
+    source: IEV
+    id: 704-23-04
+schema_version: '3'
+id: section-704-23

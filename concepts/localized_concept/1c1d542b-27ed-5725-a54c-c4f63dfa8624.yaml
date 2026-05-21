@@ -1,0 +1,39 @@
+---
+data:
+  definition:
+  - content: valeur moyenne du {{déplacement maximal, urn:iec:std:iec:60050-523-03-04}}
+      et du {{déplacement minimal, urn:iec:std:iec:60050-523-03-05}} en charge d’{{amplitude,
+      urn:iec:std:iec:60050-523-03-11}} constante, ou des {{cycles, urn:iec:std:iec:60050-103-05-08}}
+      individuels
+  examples: []
+  id: 523-03-06
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62047-6:2009
+      locality:
+        type: clause
+        reference_from: '3.11'
+      original: IEC 62047-6:2009, 3.11
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: déplacement moyen
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-523-03
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 1c1d542b-27ed-5725-a54c-c4f63dfa8624

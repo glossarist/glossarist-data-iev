@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2019-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: device, specified by the residual current device manufacturer, which
+      has to be installed in the circuit in series with the residual current device
+      in order to protect it against short-circuits only
+  examples: []
+  id: 442-05-12
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62873-2:2016
+      locality:
+        type: clause
+        reference_from: 3.4.14
+      original: IEC 62873-2:2016, 3.4.14
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: short-circuit protective device
+    usage_info: for a residual current device
+  - type: expression
+    normative_status: preferred
+    designation: SCPD
+  domain: section-442-05
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-05-01T00:00:00+00:00'
+  review_decision_date: '2019-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-05-01T00:00:00+00:00'
+id: 38b61c03-bd5b-54b4-9ae9-dc8add15045e
+classification: preferred

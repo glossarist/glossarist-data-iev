@@ -1,0 +1,48 @@
+---
+data:
+  definition:
+  - content: quotient du rendement d'un luminaire à un {{instant, urn:iec:std:iec:60050-113-01-08}}
+      donné par la valeur de rendement initiale
+  examples: []
+  id: 845-29-148
+  notes:
+  - content: Le facteur de conservation d'un luminaire n'inclut pas la dépréciation
+      du flux lumineux en sortie de la source de lumière.
+  - content: L'unité de facteur de conservation d'un luminaire est un.
+  - content: Le terme abrégé "LMF" est dérivé du terme anglais développé correspondant
+      "luminaire maintenance factor".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de conservation d'un luminaire
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: LMF
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: ef201ccf-fccc-5a2c-af0f-aa19d0409162
+classification: admitted

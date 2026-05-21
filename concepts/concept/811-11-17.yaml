@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 811-11-17
+  localized_concepts:
+    ara: 57c2897b-d373-5e1f-868a-dc668866cf0f
+    deu: 4fb82c83-16d2-5a34-885c-8fb565468763
+    eng: 98b15985-fd69-5669-b928-4953e8671be2
+    spa: '08de54c4-3194-502e-a2be-d0539f49deb9'
+    fra: 9852b61d-0dda-5ef7-9c23-1f3e27280906
+    ita: 567b7fdb-60ea-514a-95ec-fc8237d76a12
+    jpn: 42a18fc5-97d1-51ec-a139-e15266f1704a
+    kor: 218dc913-a256-5346-a7d9-1829e80011df
+    pol: c337dc3d-6027-57b4-a2fd-fe7954955e7f
+    por: f29af257-a79a-563e-9150-a89a2936f82b
+    zho: aae2c566-c537-512d-81e3-477fd3cd8938
+  domains:
+  - concept_id: area-811
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-811-11
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-811-11
+  type: broader
+  ref:
+    source: IEV
+    id: section-811-11
+status: valid
+schema_version: '3'
+id: 811-11-17

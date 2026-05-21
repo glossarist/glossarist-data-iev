@@ -1,0 +1,103 @@
+---
+data:
+  definition:
+  - content: expression de la dépendance d’une grandeur par rapport aux {{grandeurs
+      de base, urn:iec:std:iec:60050-112-01-08}} d'un système de grandeurs sous la
+      forme d'un produit de puissances de facteurs correspondant aux grandeurs de
+      base, en omettant tout facteur numérique
+  examples: []
+  id: 112-01-11
+  notes:
+  - content: Une puissance d'un facteur est le facteur muni d'un exposant. Chaque
+      facteur exprime la dimension d'une grandeur de base.
+  - content: Par convention, la représentation symbolique de la dimension d'une grandeur
+      de base est une lettre majuscule unique en caractère romain (droit) sans empattement.
+      Par convention, la représentation symbolique de la dimension d'une grandeur
+      dérivée est le produit de puissances des dimensions des grandeurs de base conformément
+      à la définition de la grandeur dérivée. La dimension de la grandeur stem:[Q]
+      est notée dim stem:[Q].
+  - content: Pour établir la dimension d'une grandeur, on ne tient pas compte du caractère
+      scalaire, vectoriel ou tensoriel.
+  - content: "Dans un système de grandeurs donné, \r\n* les grandeurs de même nature
+      (voir IEV 112-01-04) ont la même dimension,* des grandeurs de dimensions différentes
+      sont toujours de nature différente,* des grandeurs ayant la même dimension ne
+      sont pas nécessairement de même nature. Par exemple, dans le Système international
+      de grandeurs (ISQ), la pression et l'énergie volumique ont la même dimension
+      L–1MT–2. Voir aussi la note 5."
+  - content: "Dans le Système international de grandeurs (ISQ), les symboles représentant
+      les dimensions des grandeurs de base sont:\n\n<table cellpadding=\"2\" border=\"solid\">\r\n<tbody>\r\n<tr>\r\n<td
+      width=\"198\">\n\nGrandeur de base\r\n</td>\r\n<td width=\"159\">\n\nSymbole
+      de la dimension\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\nlongueur\r\n</td>\r\n<td
+      width=\"159\">\n\n`L`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\nmasse\r\n</td>\r\n<td
+      width=\"159\">\n\n`M`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\ntemps\r\n</td>\r\n<td
+      width=\"159\">\n\n`T`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\ncourant
+      électrique\r\n</td>\r\n<td width=\"159\">\n\n`I`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      width=\"198\">\n\ntempérature thermodynamique\r\n</td>\r\n<td width=\"159\">\n\n`Θ`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      width=\"198\">\n\nquantité de matière\r\n</td>\r\n<td width=\"159\">\n\n`N`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      width=\"198\">\n\nintensité lumineuse\r\n</td>\r\n<td width=\"159\">\n\n`J`\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nLa
+      dimension d'une grandeur stem:[Q] est donc notée dim stem:[Q] = `L`stem:[^α^]`M`stem:[^β^]`T`stem:[^γ^]`I`stem:[^δ^]`Θ`stem:[^ε^]`N`stem:[^ζ^]`J`stem:[^η^],
+      où les exposants, appelés exposants dimensionnels, sont positifs, négatifs ou
+      nuls. Les facteurs d’exposant zéro sont généralement omis. Lorsque tous les
+      exposants sont nuls, le symbole `1`, imprimé sans empattement, est utilisé pour
+      représenter la dimension. Des exemples sont:\r\n* La dimension de la force est
+      dim F = LMT–2.* La concentration en masse d’un constituant donné et la masse
+      volumique ont la même dimension ML–3.* Le courant électrique et le potentiel
+      magnétique scalaire ont la même dimension I1 = I, bien que ces grandeurs ne
+      soient pas de même nature."
+  - content: "Un exposant peut être fractionnaire.\r\nEn un lieu où l’accélération
+      locale de la pesanteur est stem:[g], la période stem:[T] d’un pendule de longueur
+      stem:[l] est:\r\nstem:[T = 2 pi sqrt(frac(1)(g))] ou stem:[T = C ( g ) sqrt(l)]
+      où\n\nstem:[C ( g ) = frac(2 pi)(sqrt(g))]\r\nPar consequent dim stem:[C](stem:[g])
+      = `T`· `L`^−1/2^."
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 99:2007
+      locality:
+        type: clause
+        reference_from: '1.7'
+      original: ISO/IEC Guide 99:2007, 1.7, modifié – Ajout d'une utilisation spécifique
+        du terme privilégié, ajout de renvois dans la définition et la note 4, transfert
+        des exemples 1 et 2 dans la Note 5 à l'article et ajout d'un nouvel exemple,
+        transfert de l'exemple 3 dans une nouvelle Note 6 à l'article
+    status: modified
+    type: authoritative
+    modification: Ajout d'une utilisation spécifique du terme privilégié, ajout de
+      renvois dans la définition et la note 4, transfert des exemples 1 et 2 dans
+      la Note 5 à l'article et ajout d'un nouvel exemple, transfert de l'exemple 3
+      dans une nouvelle Note 6 à l'article
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dimension
+    usage_info: d’une grandeur
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: dimension d'une grandeur
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-112-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: c03eacc2-7cfd-5b5a-b922-1f2c5fe66b70
+classification: preferred

@@ -1,0 +1,35 @@
+---
+data:
+  identifier: section-426-07
+  localized_concepts:
+    eng: ed498411-994b-598b-96b9-b2e6b435f714
+  domains:
+  - concept_id: area-426
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-426-07
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-426
+  type: broader
+  ref:
+    source: IEV
+    id: area-426
+- content: 426-07-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 426-07-01
+- content: 426-07-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 426-07-02
+- content: 426-07-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 426-07-03
+schema_version: '3'
+id: section-426-07

@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{device, urn:iec:std:iec:60050-151-11-20}} or assembly of devices used
+      for {{information processing, urn:iec:std:iec:60050-171-01-19}}"
+  examples:
+  - content: "{{Peripheral devices, urn:iec:std:iec:60050-171-04-07}}, {{transmission
+      lines, urn:iec:std:iec:60050-704-02-02}}."
+  id: 171-01-20
+  notes:
+  - content: The devices can use electronic, electric, mechanical or optical phenomena.
+  - content: Hardware requires {{software, urn:iec:std:iec:60050-171-01-21}} to execute
+      computer programs, and to store and transmit data.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hardware
+    usage_info: in information processing
+  domain: section-171-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 8ea982af-0048-5d40-ac0c-817e0ce3a4e9

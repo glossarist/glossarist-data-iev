@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2014-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2014-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: frequency-domain measure of the short-term frequency stability of an
+      oscillator
+  examples: []
+  id: 561-03-22
+  notes:
+  - content: "This phase noise is normally expressed as the power spectral density
+      of the phase fluctuations, stem:[S_(phi) (f)], where the phase fluctuation function
+      is stem:[phi (t) = 2 pi F t - 2 pi F_(0) t]. The spectral density of phase fluctuation
+      can be directly related to the spectral density of frequency fluctuation by
+      the following formula: \r\nstem:[S_(phi) (f) = (frac(F_(0))(f)) S_(y) (f) \" \"
+      \"rad\"^(\"2\") \"/Hz\"]\r\nIn the preceding formulae: stem:[F] is the oscillator
+      frequency; stem:[F]~0~ is the average oscillator frequency; stem:[f] is the
+      Fourier frequency."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phase noise
+  domain: section-561-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2014-11-01T00:00:00+00:00'
+  review_decision_date: '2014-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2014-11-01T00:00:00+00:00'
+id: 50b3fdf9-2e31-5870-8ad5-2b8aabfef4e6

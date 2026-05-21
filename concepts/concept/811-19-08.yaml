@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 811-19-08
+  localized_concepts:
+    ara: 0a15c9db-c802-5e0f-9884-3586685ba3f4
+    deu: e64f3398-e9b4-5006-b1e3-da5631b08de3
+    eng: 17ac8e7a-7d22-574d-9349-44d479b0156f
+    spa: 3b6f309b-ca69-54f6-ba20-0a61966a3157
+    fra: c3c4a242-a927-5602-bdee-dd7e0e96709e
+    ita: f2b598b4-7639-5992-97b2-025505659214
+    jpn: da89062b-2f04-5791-9eb6-2ffa5b409d90
+    kor: 2185b65b-546c-533e-8129-bb0d7ef5e8b7
+    pol: dbce66d9-04ee-56b2-a183-90e958110ce9
+    por: 5f29cf09-81ed-5c10-8a04-f6e1b47dc956
+    zho: 241afd44-d599-53d4-9b39-860252e2f2cc
+  domains:
+  - concept_id: area-811
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-811-19
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-811-19
+  type: broader
+  ref:
+    source: IEV
+    id: section-811-19
+status: valid
+schema_version: '3'
+id: 811-19-08

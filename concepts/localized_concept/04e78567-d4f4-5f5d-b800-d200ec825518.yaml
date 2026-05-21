@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2020-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: one or more conduits that supply fluid to or collect it from the {{fuel
+      cell, urn:iec:std:iec:60050-485-08-01}} or the {{fuel cell stack, urn:iec:std:iec:60050-485-06-01}}
+  examples: []
+  id: 485-06-15
+  notes:
+  - content: External manifold design refers to a fuel cell stack where the gas mixtures
+      are supplied from a central source to large fuel and oxidant inlets covering
+      adjacent sides of the fuel cell stack and sealed with properly designed gaskets.
+      The exhaust gases are collected on the opposite sides with similar systems.
+  - content: Internal manifold design refers to a system of ducts inside the fuel
+      cell stack and penetrating the {{bipolar plates, urn:iec:std:iec:60050-485-06-04}}
+      that distributes the gas flows among the cells.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: manifold
+  domain: section-485-06
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-02-01T00:00:00+00:00'
+  review_decision_date: '2020-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-02-01T00:00:00+00:00'
+id: 04e78567-d4f4-5f5d-b800-d200ec825518

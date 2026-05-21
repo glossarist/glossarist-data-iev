@@ -1,0 +1,32 @@
+---
+data:
+  identifier: area-601
+  localized_concepts:
+    eng: feb3be94-750f-59a8-b041-4d892a1c5cf7
+  domains:
+  - concept_id: area-601
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-601-01
+  type: narrower
+  ref:
+    source: IEV
+    id: section-601-01
+- content: section-601-02
+  type: narrower
+  ref:
+    source: IEV
+    id: section-601-02
+- content: section-601-03
+  type: narrower
+  ref:
+    source: IEV
+    id: section-601-03
+- content: section-601-04
+  type: narrower
+  ref:
+    source: IEV
+    id: section-601-04
+schema_version: '3'
+id: area-601

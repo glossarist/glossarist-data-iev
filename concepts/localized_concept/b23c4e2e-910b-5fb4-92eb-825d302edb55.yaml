@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '1991-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '1991-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: half the vertex angle of that cone within which optical power may be
+      coupled into bound modes of an optical fibre
+  examples: []
+  id: 731-03-84
+  notes:
+  - content: "Acceptance angle is a function of position on the entrance face of the
+      core when the refractive index is a function of radius in the core. In that
+      case, it is:\n\nstem:[\"arcsin\" &amp;lsqb; n^(2) (r) - n_(2)^(2) &amp;rsqb;^(1
+      / 2)]\r\nwhere stem:[n] (stem:[r]) is the refractive index and stem:[n]~2~ is
+      the minimum refractive index of the cladding."
+  - content: Power may be coupled into leaky modes at angles exceeding the acceptance
+      angle.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: acceptance angle
+  domain: section-731-03
+  language_code: eng
+  entry_status: valid
+  review_date: '1991-10-01T00:00:00+00:00'
+  review_decision_date: '1991-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1991-10-01T00:00:00+00:00'
+id: b23c4e2e-910b-5fb4-92eb-825d302edb55

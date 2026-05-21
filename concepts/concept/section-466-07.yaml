@@ -1,0 +1,40 @@
+---
+data:
+  identifier: section-466-07
+  localized_concepts:
+    eng: b32fa5fb-0ec5-5531-bb3f-7353ac179357
+  domains:
+  - concept_id: area-466
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-466-07
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-466
+  type: broader
+  ref:
+    source: IEV
+    id: area-466
+- content: 466-07-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 466-07-01
+- content: 466-07-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 466-07-02
+- content: 466-07-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 466-07-03
+- content: 466-07-04
+  type: narrower
+  ref:
+    source: IEV
+    id: 466-07-04
+schema_version: '3'
+id: section-466-07

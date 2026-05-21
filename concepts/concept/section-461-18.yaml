@@ -1,0 +1,30 @@
+---
+data:
+  identifier: section-461-18
+  localized_concepts:
+    eng: 98ee064e-0763-56ac-86d4-90d91a2c3911
+  domains:
+  - concept_id: area-461
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-461-18
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-461
+  type: broader
+  ref:
+    source: IEV
+    id: area-461
+- content: 461-18-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 461-18-01
+- content: 461-18-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 461-18-02
+schema_version: '3'
+id: section-461-18

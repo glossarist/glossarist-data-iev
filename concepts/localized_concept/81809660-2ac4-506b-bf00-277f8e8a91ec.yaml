@@ -1,0 +1,87 @@
+---
+data:
+  definition:
+  - content: "{{constante physique fondamentale, urn:iec:std:iec:60050-112-03-09}}
+      qui régit les propriétés générales de l’{{espace-temps, urn:iec:std:iec:60050-113-01-01}}
+      et affecte toutes les particules et champs, dont la valeur est fixée à 299 792 458 {{m,
+      urn:iec:std:iec:60050-112-02-05}}/{{s, urn:iec:std:iec:60050-112-02-04}}\r\nNote
+      1 à l’article: Toute onde électromagnétique ou onde gravitationnelle se propage
+      dans le vide à la vitesse de la lumière dans le vide. La vitesse de la lumière
+      dans le vide est aussi la limite supérieure de la vitesse pour tout transfert
+      de matière, d’énergie ou d’information."
+  examples: []
+  id: 113-01-34
+  notes:
+  - content: La vitesse de la lumière dans le vide est employée dans le {{SI, urn:iec:std:iec:60050-112-02-02}}
+      pour définir le {{mètre, urn:iec:std:iec:60050-112-02-05}}.
+  - content: "Le terme \"vitesse luminique\" est utilisé en théorie de la relativité.
+      Des concepts connexes sont \"{{vitesse subluminique, urn:iec:std:iec:60050-113-01-37}}\"
+      et \"{{vitesse supraluminique, urn:iec:std:iec:60050-113-01-36}}\".\r\nLe terme
+      \"vitesse de la lumière\" ne doit être employé que lorsque le contexte indique
+      sans ambiguïté qu’il s’agit de la forme abrégée de \"vitesse de la lumière dans
+      le vide\" puisque \"vitesse de la lumière\" est également observée dans la matière
+      où sa valeur est toujours inférieure à celle dans le vide.\r\nEn anglais, le
+      terme \"light speed\" est déconseillé car n’est pas une forme abrégée du terme
+      privilégié."
+  sources:
+  - origin:
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      locality:
+        type: clause
+        reference_from: '2.2'
+      original: Brochure sur le SI, 9e édition, 2019, 2.2, modifié – L'information
+        de la Brochure sur le SI a été révisée à des fins de mise en conformité avec
+        les règles de l’IEV.
+    status: modified
+    type: authoritative
+    modification: L'information de la Brochure sur le SI a été révisée à des fins
+      de mise en conformité avec les règles de l’IEV.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vitesse de la lumière dans le vide
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: vitesse de la lumière
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: vitesse luminique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-113-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 81809660-2ac4-506b-bf00-277f8e8a91ec
+classification: admitted

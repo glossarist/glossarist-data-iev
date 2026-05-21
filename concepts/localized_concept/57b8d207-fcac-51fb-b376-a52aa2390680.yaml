@@ -1,0 +1,41 @@
+---
+data:
+  definition:
+  - content: technique produisant les données de sortie qui sont calculées au moyen
+      d’un algorithme utilisant les données d’entrée et une clé comme paramètre
+  examples: []
+  id: 821-11-09
+  notes:
+  - content: Connaissant les données de sortie, il est impossible de calculer les
+      données d’entrée dans un délai raisonnable sans connaître la clé. Il est également
+      impossible de déduire la clé des données de sorties dans un délai raisonnable,
+      même si les données d’entrée sont connues.
+  sources:
+  - origin:
+      ref: IEC 62280:2014
+      locality:
+        type: clause
+        reference_from: 3.1.10
+      original: IEC 62280:2014, 3.1.10, modifié
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: technique cryptographique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-821-11
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 57b8d207-fcac-51fb-b376-a52aa2390680

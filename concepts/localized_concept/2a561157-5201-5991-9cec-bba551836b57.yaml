@@ -1,0 +1,46 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: issue of a statement, based on a decision following {{review, urn:iec:std:iec:60050-902-04-01}},
+      that fulfilment of {{specified requirements, urn:iec:std:iec:60050-902-02-01}}
+      has been demonstrated
+  examples: []
+  id: 902-04-02
+  notes:
+  - content: The resulting statement, referred to in ISO/IEC 17000 as a “statement
+      of conformity”, conveys the assurance that the specified requirements have been
+      fulfilled. Such an assurance does not, of itself, afford contractual or other
+      legal guarantees.
+  - content: First-party and third-party attestation activities are distinguished
+      by the terms {{902-04-04, urn:iec:std:iec:60050-902-04-04}} to {{902-04-06,
+      urn:iec:std:iec:60050-902-04-06}}. For second-party attestation, no special
+      term is available.
+  sources:
+  - origin:
+      ref: ISO/IEC 17000:2004
+      locality:
+        type: clause
+        reference_from: '5.2'
+      original: ISO/IEC 17000:2004, 5.2, modified – The references to other terms
+        within ISO/IEC 17000 have been replaced by hyperlinks to entries in the IEV.
+    status: modified
+    type: authoritative
+    modification: The references to other terms within ISO/IEC 17000 have been replaced
+      by hyperlinks to entries in the IEV.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: attestation
+  domain: section-902-04
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 2a561157-5201-5991-9cec-bba551836b57

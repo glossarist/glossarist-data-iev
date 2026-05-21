@@ -1,0 +1,45 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: unit of {{amount of data, urn:iec:std:iec:60050-171-02-09}}, corresponding
+      to one {{binary digit, urn:iec:std:iec:60050-171-02-10}}
+  examples: []
+  id: 171-02-11
+  notes:
+  - content: The bit can be combined with SI prefixes, e.g. kilobit (kbit), or with
+      binary prefixes, e.g. kibibit (Kibit). For binary multiples (powers of 2), the
+      use of binary prefixes is recommended to avoid ambiguity.
+  - content: The unit bit can be combined with other units, e.g. bit per second (bit/s).
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-9.b
+      original: IEC 80000-13:2008, 13-9.b, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bit
+    usage_info: unit
+  - type: symbol
+    designation: bit
+    international: true
+  domain: section-171-02
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: a9b1b27f-09bb-5cd8-81cf-80bdebd911ea

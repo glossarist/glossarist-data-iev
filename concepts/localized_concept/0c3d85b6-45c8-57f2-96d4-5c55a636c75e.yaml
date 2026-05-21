@@ -1,0 +1,66 @@
+---
+data:
+  definition:
+  - content: "{{grandeur scalaire, urn:iec:std:iec:60050-102-02-19}} additive, attribuée
+      à toute {{particule, urn:iec:std:iec:60050-113-05-01}}, et plus généralement
+      à tout système de particules, pour caractériser ses {{ interactions électromagnétiques,
+      urn:iec:std:iec:60050-881-03-26}}\n\nNote 1 à l’article: La charge électrique
+      est toujours un multiple entier de la {{charge électrique élémentaire, urn:iec:std:iec:60050-113-05-16}},
+      sauf pour les quarks. Le résultat peut être positif, négatif ou nul. Par suite
+      de l’additivité, la charge électrique pour tout système de particules est exactement
+      égale à la somme de leurs charges. \r\r\nNote 2 à l’article: La charge électrique
+      est soumise à une loi de conservation. Elle est invariante par la transformation
+      de Lorentz et ne dépend donc pas du choix d'un référentiel. \r\r\nNote 3 à l’article:
+      Les charges électriques obéissent à la {{loi de Coulomb, urn:iec:std:iec:60050-121-11-02}}.\n\nNote
+      4 à l’article:  Le courant électrique à travers une surface est la dérivée par
+      rapport au temps de la charge électrique transférée à travers cette surface.
+      \r\r\nNote 5 à l’article: Un condensateur chargé n’est pas un corps électriquement
+      chargé contenant une charge électrique positive ou négative. Pour cette raison,
+      la charge électrique est définie en théorie des circuits comme l’intégrale par
+      rapport au temps du courant électrique en une borne (voir {{IEV 131-12-11, urn:iec:std:iec:60050-131-12-11}})."
+  examples: []
+  id: 113-02-10
+  notes:
+  - content: "Le terme \"quantité d'électricité\" est déconseillé pour ce concept.
+      Dans l'IEV, il est employé seulement en rapport avec les dispositifs électrolytiques,
+      tels que les accumulateurs et les batteries (voir, par exemple, {{IEV 482-03-14,
+      urn:iec:std:iec:60050-482-03-14}}).\n\nNote 7 à l’article: L'unité SI cohérente
+      de charge électrique est le coulomb, C. L’unité ampère heure est utilisée pour
+      les dispositifs électrolytiques tels que les batteries: 1 A·h = 3,6 kC. \r\r\nNote
+      8 à l’article: Pour noter la charge d’un objet ponctuel, on emploie souvent
+      le symbole stem:[q]."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: charge électrique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: quantité d'électricité
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-113-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 0c3d85b6-45c8-57f2-96d4-5c55a636c75e
+classification: deprecated

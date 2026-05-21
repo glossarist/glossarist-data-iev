@@ -1,0 +1,46 @@
+---
+data:
+  definition:
+  - content: 'valeur maximale de la {{transinformation moyenne par caractère, urn:iec:std:iec:60050-171-07-30}},
+      qui peut être atteinte avec une {{probabilité d''erreur, urn:iec:std:iec:60050-171-06-08}}
+      arbitrairement faible grâce à l''emploi d''un {{code, urn:iec:std:iec:60050-171-01-15}}
+      appropriéNote 1 à l’article: La transinformation moyenne par caractère est un
+      moyen d’exprimer quantitativement l''aptitude d''un canal soumis à des contraintes
+      spécifiées à transmettre les messages d''une source de messages donnée. Note
+      2 à l’article: La transinformation moyenne par caractère peut être exprimée
+      à l''aide d''une unité telle que le shannon par caractère.'
+  examples: []
+  id: 171-07-32
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-41
+      original: IEC 80000-13:2008, 13-41, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+    status: modified
+    type: authoritative
+    modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+      aux règles de l’IEV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capacité de canal par caractère
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-171
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: bdfb0ca7-ea71-5de9-8888-a8ca66d70594

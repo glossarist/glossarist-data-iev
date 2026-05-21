@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 444-06-05
+  localized_concepts:
+    ara: 9b370c2a-70ba-5ee9-81c1-4ab776758e98
+    deu: 3d5dbc4e-a5d3-5e5b-9aaa-b530424d7f82
+    eng: 9f353729-11cd-59d3-9268-20fcc98470bd
+    spa: ad55f90b-dd71-5913-8b08-ba5f3b0ee4ad
+    fin: 06b60f68-8b9d-50fd-a5da-fd332fc27152
+    fra: ce4f5791-c15d-54eb-ac08-f9a908c9bf35
+    ita: '0136788c-e49b-549a-92f1-167167ffaa38'
+    jpn: 716252b8-6de7-565e-82ed-4f84feb8550e
+    kor: 78b432a2-2273-5dac-aedb-95de43676b95
+    pol: 31e90706-6396-5a0b-9407-f05ea023f4a5
+    por: 41d64b2d-8552-5ee8-a1ed-da5f5c149689
+    swe: b15d468e-ed78-535d-991a-9dd61fc9751b
+    zho: f37c945a-924e-5335-9758-86d4f9b40aee
+  domains:
+  - concept_id: area-444
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-444-06
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-444-06
+  type: broader
+  ref:
+    source: IEV
+    id: section-444-06
+status: valid
+schema_version: '3'
+id: 444-06-05

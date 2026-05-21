@@ -1,0 +1,46 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for an ordered set of stem:[n] vectors in an stem:[n]-dimensional space
+      with a given base, scalar attributed to this set by the unique multilinear form
+      taking the value 0 when the vectors are linearly dependent and the value 1 for
+      the base vectors
+  examples: []
+  id: 102-03-37
+  notes:
+  - content: 'When the coordinates of the stem:[n] vectors stem:[U_(1) ", " U_(2)
+      ", " ... , " " U_(n)] are arranged as columns or rows of an stem:[n xx n] matrix,
+      the determinant of the vectors is equal to the determinant of the matrix:'
+  - content: According to the sign of the determinant, the set of vectors and the
+      given base have the same orientation or opposite orientations.
+  - content: For the three-dimensional Euclidean space, the determinant of three vectors
+      is the scalar triple product of the vectors.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: determinant
+    usage_info: of  vectors
+    grammar_info:
+    - gender:
+      - "n"
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: 7f141909-c1ba-53aa-b676-d19536c8301f

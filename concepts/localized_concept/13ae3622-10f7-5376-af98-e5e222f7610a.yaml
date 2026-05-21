@@ -1,0 +1,32 @@
+---
+data:
+  definition:
+  - content: pour deux matrices *stem:[A]* de format stem:[m] × stem:[p] et *stem:[B]*
+      de format stem:[p] × stem:[n], dont les éléments sont respectivement stem:[A~ik~]
+      et stem:[B~kj~], matrice *stem:[AB]* de format stem:[m] × stem:[n] dont les
+      éléments sont stem:[(A B)_(i j) = sum_(k = 1)^(p) A_(i k) B_(k j)].
+  examples: []
+  id: 102-06-08
+  notes:
+  - content: Le produit n'existe que si le nombre de colonnes de la première matrice
+      est égal au nombre de lignes de la deuxième matrice.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: produit de deux matrices
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-06
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 13ae3622-10f7-5376-af98-e5e222f7610a

@@ -1,0 +1,50 @@
+---
+data:
+  definition:
+  - content: "{{norme, urn:iec:std:iec:60050-901-02-02}} alignée sur une autre norme,
+      de sorte que les produits, processus, services, {{essais, urn:iec:std:iec:60050-902-03-02}}
+      et informations fournis selon la première norme sont conformes aux {{exigence,
+      urn:iec:std:iec:60050-901-05-05}}s de la seconde, mais non inversement"
+  examples: []
+  id: 901-06-08
+  notes:
+  - content: Une norme alignée unilatéralement n'est ni harmonisée avec, ni équivalente
+      à la norme sur laquelle elle est alignée.
+  - content: Les {{règlements techniques, urn:iec:std:iec:60050-901-02-11}} peuvent
+      être harmonisés comme des normes. Les termes et définitions correspondants sont
+      obtenus en remplaçant «normes» par «règlements techniques» dans les définitions
+      {{IEV 901-06-01, urn:iec:std:iec:60050-901-06-01}} à {{IEV 901-06-09, urn:iec:std:iec:60050-901-06-09}},
+      et «organismes à activités normatives» par «autorités» dans la définition {{IEV
+      901-06-01, urn:iec:std:iec:60050-901-06-01}}.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: '6.8'
+      original: Guide ISO/CEI 2:2004, 6.8, modifiée – La note du titre de l'Article
+        6 du Guide ISO/CEI 2:2004 a été rajouté à l'entrée.
+    status: modified
+    type: authoritative
+    modification: La note du titre de l'Article 6 du Guide ISO/CEI 2:2004 a été rajouté
+      à l'entrée.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: norme alignée unilatéralement
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-901-06
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 79cd9f78-06fa-5d78-baee-d1bea92844f6

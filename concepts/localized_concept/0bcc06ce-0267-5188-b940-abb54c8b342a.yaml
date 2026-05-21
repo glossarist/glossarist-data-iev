@@ -1,0 +1,43 @@
+---
+data:
+  definition:
+  - content: rapport de la {{densité spectrale de puissance, urn:iec:std:iec:60050-702-04-50}}
+      disponible du {{bruit, urn:iec:std:iec:60050-702-08-03}} apparaissant, à une
+      {{fréquence, urn:iec:std:iec:60050-103-06-02}} donnée à la sortie d'un biporte
+      linéaire, à la densité spectrale que l'on aurait à cette sortie si la seule
+      source de bruit était le {{bruit thermique, urn:iec:std:iec:60050-702-08-45}}
+      dû au dispositif {{monoporte, urn:iec:std:iec:60050-702-09-08}} connecté à l'entrée
+      dont la {{température de bruit, urn:iec:std:iec:60050-702-08-54}} est supposée
+      égale, à toute fréquence, à la {{température thermodynamique, urn:iec:std:iec:60050-113-04-14}}
+      de référence fixée conventionnellement au voisinage de 290 K
+  examples: []
+  id: 702-08-57
+  notes:
+  - content: 'Le facteur de bruit stem:[F](stem:[f]) d''un biporte linéaire est relié
+      à sa température équivalente de bruit stem:[T](stem:[f]) par la relation: stem:[F
+      (f) = 1 + frac(T (f))(T_(0))]où stem:[T]~0~ est la température thermodynamique
+      de référence.'
+  - content: En anglais, on emploie généralement "noise factor" lorsque le facteur
+      de bruit est exprimé sous forme arithmétique et "noise figure" lorsqu'il est
+      exprimé en {{décibels, urn:iec:std:iec:60050-702-07-02}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de bruit
+    usage_info: d'un biporte linéaire
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-702-08
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 0bcc06ce-0267-5188-b940-abb54c8b342a

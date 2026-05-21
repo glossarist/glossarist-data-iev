@@ -1,0 +1,72 @@
+---
+data:
+  definition:
+  - content: 'pour un ensemble donné de {{scalaires, urn:iec:std:iec:60050-102-02-18}},
+      ensemble d''éléments dans lequel la somme de deux éléments quelconques *stem:[U]*
+      et *stem:[V]* et le produit d''un élément quelconque par un scalaire stem:[α]
+      sont des éléments de l''ensemble, avec les propriétés suivantes: *    U+V=V+U
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahwfacqGHRaWkca
+      WHwbGaeyypa0JaaCOvaiabgUcaRiaahwfaaaa@3F11@   ,*    (U+V)+W=U+(V+W) MathType@MTEF@5@5@+=
+      feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe
+      aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe
+      WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaacIcacaWHvbGaey 4kaSIaaCOvaiaacMcacqGHRaWkcaWHxbGaeyypa0JaaCyvaiabgUca
+      RiaacIcacaWHwbGaey4kaSIaaC4vaiaacMcaaaa@4547@   , où W est aussi un élément
+      de l''ensemble, * il existe un élément neutre pour l''addition, appelé vecteur
+      nul et noté 0, tel que    U+0=U MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahwfacqGHRaWkie
+      qajugqbiaa=bdakiabg2da9iaahwfaaaa@3DE5@   ,* il existe un opposé    (−U) MathType@MTEF@5@5@+=
+      feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe
+      aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe
+      WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaacIcacqGHsislca WHvbGaaiykaaaa@3BF1@    tel
+      que    U+(−U)=0 MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahwfacqGHRaWkca
+      GGOaGaeyOeI0IaaCyvaiaacMcacqGH9aqpieqajugqbiaa=bdaaaa@4021@   ,*    (α+β) U=α U+β U
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaacIcacqaHXoqycq
+      GHRaWkcqaHYoGycaGGPaGaaGPaVlaahwfaimaacqWF9aqpcqaHXoqy caaMc8UaaCyvaiabgUcaRiabek7aIjaaykW7caWHvbaaaa@4AAF@   ,
+      où β est aussi un scalaire, *    α (U+V)=α U+α V MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiabeg7aHjaaykW7ca
+      GGOaGaaCyvaiabgUcaRiaahAfacaGGPaacdaGae8xpa0JaeqySdeMa aGPaVlaahwfacqGHRaWkcqaHXoqycaaMc8UaaCOvaaaa@49EC@   ,*    α (β U)=(α β) U
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiabeg7aHjaaykW7ca
+      GGOaGaeqOSdiMaaGPaVlaahwfacaGGPaacdaGae8xpa0Jae8hkaGIa eqySdeMaaGPaVlabek7aIjaacMcacaaMc8UaaCyvaaaa@4B1A@   ,*    1 U=U
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaGqaaKqzafGaa8xmai
+      aaykW7kiaahwfacqGH9aqpcaWHvbaaaa@3E8E@'
+  examples: []
+  id: 102-03-01
+  notes:
+  - content: Dans l'espace usuel à trois dimensions, les segments orientés ayant une
+      origine spécifiée constituent un espace vectoriel sur les nombres réels. Un
+      autre exemple, correspondant à l'extension du concept de scalaire (voir {{IEV
+      102-02-18, urn:iec:std:iec:60050-102-02-18}}, Note 1), est l'ensemble des mots
+      de stem:[n] bits formés des chiffres 0 et 1 avec addition modulo deux, où l'ensemble
+      de scalaires est l'ensemble des deux éléments 0 et 1 muni de l'algèbre de Boole.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: espace vectoriel
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-03
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 969450d7-2438-5c14-98dc-ae6e74bb4a0b

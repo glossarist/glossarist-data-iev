@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2008-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "for an inductive two-terminal element with terminals A and B, derivative
+      of the linked flux stem:[Ψ] between the terminals with respect to the electric
+      current stem:[i] in the element:\r\nstem:[L_(\"d\") = frac(rm(d) Psi)(rm(d)
+      i)]   \r\nwhere the sign of the linked flux is determined by taking the voltage,
+      in the time integral defining it, as the difference of the electric potentials
+      at A and B, and where the current is taken as positive if its direction is from
+      A to B and negative in the opposite case"
+  examples: []
+  id: 131-12-20
+  notes:
+  - content: For an ideal inductor, the differential inductance stem:[L]~d~ is equal
+      to its inductance stem:[L].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: differential inductance
+  - type: symbol
+    designation: stem:[L]~d~
+    international: true
+  domain: section-131-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-09-01T00:00:00+00:00'
+id: ad08b719-6a20-555a-b04e-5d1dacaa12b5

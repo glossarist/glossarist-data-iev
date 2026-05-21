@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2016-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{amplifier, urn:iec:std:iec:60050-151-13-50}} specially designed to
+      introduce the minimum possible internal noise for a given {{gain, urn:iec:std:iec:60050-702-02-11}}
+      and to obtain the maximum possible {{signal-to-noise ratio, urn:iec:std:iec:60050-702-08-61}}
+      at the output"
+  examples: []
+  id: 702-09-20
+  notes:
+  - content: The low-noise amplifier is generally used as a {{preamplifier, urn:iec:std:iec:60050-713-10-45}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: low-noise amplifier
+  - type: expression
+    normative_status: preferred
+    designation: LNA
+  domain: section-702-09
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-12-01T00:00:00+00:00'
+id: 5c7c0b7b-020d-5722-b395-7356253447dd
+classification: preferred

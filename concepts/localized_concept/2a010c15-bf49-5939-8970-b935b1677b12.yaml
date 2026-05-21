@@ -1,0 +1,49 @@
+---
+data:
+  definition:
+  - content: 'nombre d’{{éléments de données, urn:iec:std:iec:60050-171-02-01}} de
+      nature spécifiée qui sont ou peuvent être contenus dans une mémoire donnée ou
+      qui sont ou peuvent être transférés pendant un intervalle de temps donnéNote
+      1 à l’article: Les éléments de données spécifiés sont par exemple des {{éléments
+      binaires, urn:iec:std:iec:60050-171-02-10}}, des {{octets, urn:iec:std:iec:60050-171-02-12}},
+      des {{mots, urn:iec:std:iec:60050-171-02-27}} formés d’un nombre déterminé de
+      bits, des {{blocs, urn:iec:std:iec:60050-721-03-11}}. Note 2 à l’article: Pour
+      les {{mémoires, urn:iec:std:iec:60050-171-04-14}}, on utilise, dans le même
+      sens, les termes "capacité de mémoire" ou "taille de mémoire" (voir {{IEV 171-04-16,
+      urn:iec:std:iec:60050-171-04-16}}). Pour les {{registres, urn:iec:std:iec:60050-171-04-19}},
+      on utilise, dans le même sens, le terme "longueur de registre".'
+  examples: []
+  id: 171-02-09
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-9
+      original: IEC 80000-13:2008, 13-9, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+    status: modified
+    type: authoritative
+    modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+      aux règles de l’IEV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantité de données
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-171-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 2a010c15-bf49-5939-8970-b935b1677b12

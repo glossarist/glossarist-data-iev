@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2014-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2014-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: flat conductive surface that is at the same {{electric potential, urn:iec:std:iec:60050-121-11-25}}  as
+      {{reference ground, urn:iec:std:iec:60050-195-01-01}}, which is used as a common
+      reference, and which contributes to a reproducible parasitic capacitance with
+      the surroundings of the equipment under test (EUT)
+  examples: []
+  id: 161-04-36
+  notes:
+  - content: A reference-ground plane is needed for the measurements of {{conducted
+      disturbances, urn:iec:std:iec:60050-161-03-27}}, and serves as reference for
+      the measurement of unsymmetrical and asymmetrical {{disturbance voltages, urn:iec:std:iec:60050-161-04-01}}.
+  - content: In some regions, the term ‘earth’ is used in place of ‘ground’.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference-ground plane
+  - type: expression
+    normative_status: preferred
+    designation: RGP
+  - type: expression
+    normative_status: admitted
+    designation: reference-earth plane
+  domain: section-161-04
+  language_code: eng
+  entry_status: valid
+  review_date: '2014-11-01T00:00:00+00:00'
+  review_decision_date: '2014-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2014-11-01T00:00:00+00:00'
+id: 30d5ab7d-1e66-57e9-895d-90552a3c4081
+classification: preferred

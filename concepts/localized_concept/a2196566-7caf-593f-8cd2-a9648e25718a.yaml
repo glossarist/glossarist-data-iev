@@ -1,0 +1,49 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: the complex ratio of a sinusoidal field quantity, such as a reflected
+      current or reflected wave component, to the corresponding field quantity of
+      the incident current or incident wave at a point near the surface separating
+      two propagation media, near a port of an electrical network or near a discontinuity
+      in a transmission line
+  examples: []
+  id: 702-07-24
+  notes:
+  - content: "– When the field quantity is a component of a plane electromagnetic
+      wave, the sign of the reflection factor is different for an electric field component
+      and the corresponding magnetic field component."
+  - content: "– When the field quantity refers to a port of an electrical network,
+      or to a discontinuity in a transmission line, a voltage reflection factor can
+      be defined with a sign opposite to that of the current reflection factor."
+  - content: "– When impedances can be defined, the complex current reflection factor
+      stem:[<u>r</u>] equals:\r\nstem:[underline(r) = frac(underline(Z) - underline(Z)^(prime))(underline(Z)
+      + underline(Z)^(prime))]\r\nwhere stem:[<u>Z</u>] is the characteristic impedance
+      of the transmission line ahead of the discontinuity or the impedance of the
+      source and stem:[<u>Z</u>]′ is the impedance after the discontinuity or the
+      load impedance seen from the junction between the source and the load."
+  - content: "– The reflection factor depends in the case of waveguides on the electromagnetic
+      mode considered."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: complex reflection factor
+  - type: expression
+    normative_status: preferred
+    designation: complex reflection coefficient
+  - type: symbol
+    designation: "<u>stem:[r]</u>"
+    international: true
+  domain: section-702-07
+  language_code: eng
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: a2196566-7caf-593f-8cd2-a9648e25718a
+classification: preferred

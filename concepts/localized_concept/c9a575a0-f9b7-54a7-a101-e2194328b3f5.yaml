@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2008-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: |-
+      pour un bipôle résistif, élémentaire ou non, de bornes A et B, dérivée de la tension électrique stem:[u]~AB~ &amp;lsqb;{{131-11-56, urn:iec:std:iec:60050-131-11-56}}&amp;rsqb; entre les bornes par rapport au courant électrique stem:[i] dans le bipôle:
+
+      stem:[R_(rm(d)) = frac(rm(d) u_(rm(AB)))(rm(d) i)]
+
+      où le courant est positif si le sens du courant est de A vers B et négatif dans le cas contraire
+  examples: []
+  id: 131-12-05
+  notes:
+  - content: Pour une résistance idéale, la résistance différentielle stem:[R]~d~
+      est égale à sa résistance stem:[R].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: résistance différentielle
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-131-12
+  language_code: fra
+  entry_status: valid
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-09-01T00:00:00+00:00'
+id: c9a575a0-f9b7-54a7-a101-e2194328b3f5

@@ -1,0 +1,58 @@
+---
+data:
+  definition:
+  - content: "temps de propagation d'un {{signal, urn:iec:std:iec:60050-101-12-02}}
+      entre deux points d'un {{trajet de transmission, urn:iec:std:iec:60050-701-02-11}}
+      défini à partir de la {{vitesse de groupe, urn:iec:std:iec:60050-103-10-15}}
+      par l'{{intégrale curviligne, urn:iec:std:iec:60050-102-05-03}} prise le long
+      du trajet de propagation:\n\nstem:[int frac(1)(v_(\"g\")) \" \" rm(d) s]\r\noù
+      stem:[v]~g~ est la valeur algébrique de la projection du vecteur vitesse de
+      groupe sur la tangente orientée au trajet, et dstem:[s] est l'{{élément scalaire
+      d'arc, urn:iec:std:iec:60050-102-05-01}}"
+  examples: []
+  id: 702-02-20
+  notes:
+  - content: Dans un milieu de propagation {{homogène, urn:iec:std:iec:60050-113-02-01}},
+      ou sur une {{ligne de transmission uniforme, urn:iec:std:iec:60050-131-12-87}},
+      le temps de propagation de groupe est égal à la dérivée, par rapport à la {{pulsation,
+      urn:iec:std:iec:60050-103-07-03}}, de la différence au même instant des {{phases,
+      urn:iec:std:iec:60050-103-07-04}}, aux deux points considérés, du signal qui
+      sert à définir la vitesse de groupe.
+  - content: En pratique, si le milieu est ni trop absorbant, ni trop anisotrope,
+      ni trop dispersif, le temps de propagation de groupe est égal au temps de propagation
+      du signal qui sert à définir la vitesse de groupe.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de propagation de groupe
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: retard de groupe
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-702-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 682502d8-ba3e-55ed-8411-f3bf6c57c0ba
+classification: deprecated

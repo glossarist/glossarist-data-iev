@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of the detector output, stem:[Y], and the detector input, stem:[X]stem:[s
+      = frac(Y)(X)]
+  examples: []
+  id: 845-25-061
+  notes:
+  - content: If the detector signal is stem:[Y]~0~ in the absence of input, and is
+      stem:[Y]~t~ when there is an input stem:[X], the responsivity is stem:[s = frac(Y_("t")
+      - Y_("0"))(X)].
+  - content: The term "sensitivity" is no longer used.
+  - content: This entry was numbered 845-05-54 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: responsivity
+    usage_info: of a detector
+  - type: expression
+    normative_status: deprecated
+    designation: sensitivity
+  - type: symbol
+    designation: stem:[s]
+    international: true
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: b2a2ad02-3234-5f5e-a182-9452fea0410e
+classification: deprecated

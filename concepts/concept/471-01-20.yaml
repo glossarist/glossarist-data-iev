@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 471-01-20
+  localized_concepts:
+    ara: 15f33a9e-24e9-523d-8070-5d1fff5b3de5
+    deu: 699257a4-dd56-5803-a117-41fed4a9ab05
+    eng: 1af686e3-9281-5acc-87e1-efdf27f3f1c8
+    spa: 0da8b73f-ee62-5912-addd-8f0e1e5a62e8
+    fra: ce49fa27-3898-5735-9cd4-d9d44bd7492d
+    ita: 4d7642a2-8610-59d8-99ac-067991a2aa9d
+    jpn: 53abb38a-922b-5ffb-9d54-249227ac5dcf
+    kor: 01d951d2-12cb-5f3a-b20c-12e7503536ad
+    mon: 7066498e-c26a-5b9d-b595-d03c6041503d
+    nob: c4734d38-42e7-52ef-97b2-e8560ba6bc0e
+    nno: '097dc8cc-65a7-5c12-bcca-a3056f641251'
+    pol: 552dd801-919c-5f64-b6a5-bf2196aeb580
+    por: f5757e0c-bbc5-55cd-9d66-2b36c1213e7b
+    slv: d27588f4-9a40-52f0-943f-0b4627665c2a
+    srp: 37e3c1c0-d4f1-56da-b9af-5c98c1ab583a
+    swe: b46102c5-dbc6-5d6f-b10a-bf1602a88d0e
+    zho: 36e03131-6265-5161-9be5-0bf29c0f586e
+  domains:
+  - concept_id: area-471
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-471-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-471-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-471-01
+- type: supersedes
+  ref:
+    source: IEV
+    id: 471-01-20
+    version: 2007-05
+status: valid
+schema_version: '3'
+id: 471-01-20

@@ -1,0 +1,35 @@
+---
+data:
+  definition:
+  - content: espérance mathématique de la {{quantité d'information conjointe, urn:iec:std:iec:60050-171-07-20}}
+      des événements d'un ensemble exhaustif d'événements s'excluant mutuellement
+      stem:[H ( X , Y ) = sum_(i = 1)^(n) sum_(j = 1)^(m) p ( x_(i) , y_(j) ) * I
+      ( x_(i) , y_(j) )] où stem:[X = {x_(1) , " " ... , " " x_(n)}] est l'ensemble
+      d'événements stem:[x_(i) (i = 1, " " ... , " " n)], stem:[Y = {y_(1) , " " ...
+      , " " y_(m)}] est l'ensemble d'événements stem:[y_(j) (j = 1, " " ... , " "
+      m)], stem:[I (x_(i) , y_(j))] est la quantité d'information conjointe de stem:[x_(i)]
+      et stem:[y_(j)], and stem:[p (x_(i) , y_(j))] est la probabilité de réalisation
+      simultanée des deux événements
+  examples: []
+  id: 171-07-22
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entropie conjointe
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-171
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 3c479b10-67cd-56c9-9616-42a9e18c735f

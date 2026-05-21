@@ -1,0 +1,28 @@
+---
+data:
+  dates:
+  - date: '2020-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{all-or-nothing relay, urn:iec:std:iec:60050-444-01-02}} that assists
+      a {{measuring relay, urn:iec:std:iec:60050-447-01-02}} in performing its function"
+  examples: []
+  id: 447-01-46
+  notes:
+  - content: All-or-nothing relay is defined in {{IEV 444-01-02, urn:iec:std:iec:60050-444-01-02}},
+      which is either an {{"elementary relay", urn:iec:std:iec:60050-444-01-03}} or
+      a {{"time relay", urn:iec:std:iec:60050-445-01-01}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: auxiliary relay
+  domain: section-447-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-05-01T00:00:00+00:00'
+id: 8542f908-b8fd-503a-a702-dc2c6abff5cb

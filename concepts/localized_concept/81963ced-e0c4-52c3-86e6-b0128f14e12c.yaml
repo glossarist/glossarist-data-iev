@@ -1,0 +1,60 @@
+---
+data:
+  dates:
+  - date: '2011-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: moyenne temporelle de l’intensité instantanée en un point particulier
+      dans un champ acoustique
+  examples: []
+  id: 802-01-14
+  notes:
+  - content: En principe, la moyenne temporelle est prise en fonction d’un nombre
+      entier de périodes acoustiques de répétition. Dans le cas contraire, il convient
+      de préciser la période d’intégration.
+  - content: Dans une onde acoustique plane en un milieu fluide non absorbant, l'intensité
+      acoustique est la même en tous les points de l'onde, lorsqu'elle est moyennée
+      sur un cycle complet.
+  - content: Dans une onde stationnaire parfaite, l'intensité dérivée de la moyenne
+      temporelle est égale à zéro.
+  - content: "(relative aux systèmes de diagnostic médical à ultrasons) En principe,
+      l’intensité moyenne temporelle est une moyenne sur un intervalle de temps relativement
+      long. Pour les systèmes d’exploration non automatiques, l’intensité instantanée
+      peut être moyennée sur une ou plusieurs périodes de répétition d’impulsions.
+      Pour les systèmes d’exploration automatique, l’intensité instantanée peut être
+      moyennée sur une ou plusieurs périodes de répétition d’exploration pour un mode
+      de fonctionnement spécifié."
+  sources:
+  - origin:
+      ref: IEC 62127-1
+      locality:
+        type: clause
+        reference_from: '3.65'
+      original: définition 3.65 de la CEI 62127-1 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: intensité dérivée de la moyenne temporelle
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-802-01
+  language_code: fra
+  entry_status: valid
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-01-01T00:00:00+00:00'
+id: 81963ced-e0c4-52c3-86e6-b0128f14e12c

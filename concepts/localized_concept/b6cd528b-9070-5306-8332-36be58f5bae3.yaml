@@ -1,0 +1,61 @@
+---
+data:
+  definition:
+  - content: 'partie d''un système de communication qui relie la {{source de messages,
+      urn:iec:std:iec:60050-171-07-05}} au {{collecteur de messages, urn:iec:std:iec:60050-171-07-06}}Note
+      1 à l’article: Un codeur peut être situé entre la source de messages et l''entrée
+      du canal, et un décodeur peut être situé entre la sortie du canal et le collecteur
+      de messages. Ces deux organes ne sont en général pas considérés comme faisant
+      partie du canal. Cependant, dans certains cas, ils peuvent être considérés comme
+      faisant partie respectivement de la source et du collecteur. Note 2 à l’article:
+      En théorie de l''information selon Shannon, le canal peut être caractérisée
+      par l''ensemble des probabilités conditionnelles d''apparition de tous les messages
+      reçus au collecteur de messages lorsqu''un message déterminé est émis par la
+      source.'
+  examples: []
+  id: 171-07-07
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/IEC 2382-16:1996
+      locality:
+        type: clause
+        reference_from: 16.02.04
+      original: ISO/IEC 2382-16:1996, 16.02.04
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: canal
+    usage_info: en théorie des communications
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: voie
+    usage_info: en théorie des communications
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-171
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: b6cd528b-9070-5306-8332-36be58f5bae3

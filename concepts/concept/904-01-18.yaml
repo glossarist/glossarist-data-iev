@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 904-01-18
+  localized_concepts:
+    ara: 72755c6c-9072-5ccf-b4bb-28a158d1f0e5
+    deu: aefd0670-e036-534e-901f-bdeb67a40589
+    eng: aa365937-58cc-5990-9240-9f8c12ddc957
+    spa: 71fa4523-e428-538d-921d-b65d87aa21c5
+    fin: d021609b-2eb2-5170-a88d-643a11cddde0
+    fra: c34be1a4-16b0-51f5-88fa-e877090d2efc
+    jpn: 46af90d1-952e-5ecd-b4a2-e732d20af5ec
+    kor: 2854c9e3-d14b-5c6d-8e1e-1b3d5f600726
+    pol: fe628a7c-25c9-5034-b819-bc2f85a774a5
+    por: 99fea696-98f7-56f0-8cae-24ac4731eb4d
+    srp: 2f29dfea-0d8f-5ca8-85d5-1a86e613b610
+    zho: db7334c2-221b-506b-bd22-18cd4e4c8260
+  domains:
+  - concept_id: area-904
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-904-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-904-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-904-01
+status: valid
+schema_version: '3'
+id: 904-01-18

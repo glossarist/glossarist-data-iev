@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{transmission channel, urn:iec:std:iec:60050-701-02-01}} associated
+      with the {{forward channel, urn:iec:std:iec:60050-721-11-06}} permitting the
+      dispatch of acknowledge and other function control signals in the direction
+      opposite to that of the forward channel"
+  examples: []
+  id: 721-11-07
+  notes:
+  - content: In the case of simultaneous transfer of information in both directions,
+      the backward channel is at any instant in the direction opposite to that of
+      the transfer of user's information.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: backward channel
+  domain: section-721-11
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: 54773873-6b4c-5a66-818a-83912cf43df6

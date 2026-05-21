@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '1999-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '1999-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: basic extreme wind speed parameter used for defining wind turbine classes.
+  examples: []
+  id: 415-03-12
+  notes:
+  - content: Other design related climatic parameters are derived from the reference
+      wind speed and other basic class parameters
+  - content: A turbine designed for a wind turbine class corresponding to a reference
+      wind speed, is designed to withstand climates for which the extreme 10 min average
+      wind speed with a recurrence period of 50 years at turbine hub height is lower
+      than or equal to the reference wind speed.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference wind speed
+  domain: section-415-03
+  language_code: eng
+  entry_status: valid
+  review_date: '1999-04-01T00:00:00+00:00'
+  review_decision_date: '1999-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1999-04-01T00:00:00+00:00'
+id: 6e647d29-28cc-5613-9d6d-5929cd49947e

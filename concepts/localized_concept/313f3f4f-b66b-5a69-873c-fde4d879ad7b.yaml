@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2018-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ratio of the number of erroneous received elements of a message to the
+      total number of elements transmitted during a given {{time interval, urn:iec:std:iec:60050-113-01-10}}
+  examples:
+  - content: "{{bit error ratio, urn:iec:std:iec:60050-704-18-04}}, {{digit error
+      ratio, urn:iec:std:iec:60050-721-08-11}}, {{block error ratio, urn:iec:std:iec:60050-721-08-13}}"
+  id: 702-07-39
+  notes:
+  - content: The elements can be, for example, {{digits, urn:iec:std:iec:60050-702-05-02}},
+      {{code words, urn:iec:std:iec:60050-702-05-17}} or {{blocks, urn:iec:std:iec:60050-721-03-11}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error ratio
+  - type: expression
+    normative_status: deprecated
+    designation: error rate
+  domain: section-702-07
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-09-01T00:00:00+00:00'
+  review_decision_date: '2018-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-09-01T00:00:00+00:00'
+id: 313f3f4f-b66b-5a69-873c-fde4d879ad7b
+classification: deprecated

@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 617-01-01
+  localized_concepts:
+    ara: a03c845d-0461-5b35-9a4e-5af406fdc5a0
+    deu: 17dc8b3f-2b08-53c4-bbe0-d0c449be31d7
+    eng: 684310c3-6969-50bd-ad44-65799fc861fd
+    fin: 80fc8f68-84f3-542c-be16-318a1c2039dd
+    fra: e80c4eac-c78b-55b8-8029-44d54b9c387d
+    jpn: 18429344-4db3-5f96-855d-224f72129952
+    kor: 62ec90e2-24b2-57c7-962c-6b5be051af5c
+    mon: e32ea54c-2314-5922-9083-7cc93206f9d5
+    pol: 4c70cc2b-1add-5d60-b9f7-06d22938964d
+    por: 65ae2a2e-62ab-5212-802e-7619a411d4a6
+    slv: 981034b3-8b95-5e41-9c13-fbfa99ef82ac
+    srp: 89c4bab7-d79e-5597-abd2-954ef001dd64
+    zho: d04e2d37-c7db-5df1-9687-4e453c7509e2
+  domains:
+  - concept_id: area-617
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-617-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-617-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-617-01
+status: valid
+schema_version: '3'
+id: 617-01-01

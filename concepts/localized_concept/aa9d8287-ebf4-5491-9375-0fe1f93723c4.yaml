@@ -1,0 +1,72 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: 'for a given set of {{scalars, urn:iec:std:iec:60050-102-02-18}}, set
+      of elements for which the sum of any two elements *stem:[U]* and *stem:[V]*
+      and the product of any element and a scalar stem:[α] are elements of the set,
+      with the following properties: *    U+V=V+U MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahwfacqGHRaWkca
+      WHwbGaeyypa0JaaCOvaiabgUcaRiaahwfaaaa@3F11@   ,*    (U+V)+W=U+(V+W) MathType@MTEF@5@5@+=
+      feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe
+      aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe
+      WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaacIcacaWHvbGaey 4kaSIaaCOvaiaacMcacqGHRaWkcaWHxbGaeyypa0JaaCyvaiabgUca
+      RiaacIcacaWHwbGaey4kaSIaaC4vaiaacMcaaaa@4547@   , where W is also an element
+      of the set, * there exists a neutral element for addition, called zero vector
+      and denoted by 0, such that:    U+0=U MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahwfacqGHRaWkie
+      qajugqbiaa=bdakiabg2da9iaahwfaaaa@3DE5@   ,* there exists an opposite    (−U)
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaacIcacqGHsislca
+      WHvbGaaiykaaaa@3BF1@    such that    U+(−U)=0 MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahwfacqGHRaWkca
+      GGOaGaeyOeI0IaaCyvaiaacMcacqGH9aqpieqajugqbiaa=bdaaaa@4021@   ,*    (α+β) U=α U+β U
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaacIcacqaHXoqycq
+      GHRaWkcqaHYoGycaGGPaGaaGPaVlaahwfaimaacqWF9aqpcqaHXoqy caaMc8UaaCyvaiabgUcaRiabek7aIjaaykW7caWHvbaaaa@4AAF@   ,
+      where β is also a scalar, *    α (U+V)=α U+α V MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiabeg7aHjaaykW7ca
+      GGOaGaaCyvaiabgUcaRiaahAfacaGGPaacdaGae8xpa0JaeqySdeMa aGPaVlaahwfacqGHRaWkcqaHXoqycaaMc8UaaCOvaaaa@49EC@   ,*    α (β U)=(α β) U
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiabeg7aHjaaykW7ca
+      GGOaGaeqOSdiMaaGPaVlaahwfacaGGPaacdaGae8xpa0Jae8hkaGIa eqySdeMaaGPaVlabek7aIjaacMcacaaMc8UaaCyvaaaa@4B1A@   ,*    1 U=U
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaGqaaKqzafGaa8xmai
+      aaykW7kiaahwfacqGH9aqpcaWHvbaaaa@3E8E@'
+  examples: []
+  id: 102-03-01
+  notes:
+  - content: In the usual three-dimensional space, the directed line segments with
+      a specified origin form an example of a vector space over real numbers. Another
+      example, corresponding to the extended concept of scalar (see {{IEV 102-02-18,
+      urn:iec:std:iec:60050-102-02-18}}, Note 1) is the set of stem:[n-]bit words
+      formed of the digits 0 and 1 with addition modulo two, where the set of scalars
+      is the set of two elements 0 and 1 subject to Boolean algebra.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: vector space
+  - type: expression
+    normative_status: preferred
+    designation: linear space
+  domain: section-102-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: aa9d8287-ebf4-5491-9375-0fe1f93723c4
+classification: preferred

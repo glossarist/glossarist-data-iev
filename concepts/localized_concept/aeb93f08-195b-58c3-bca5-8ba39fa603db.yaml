@@ -1,0 +1,45 @@
+---
+data:
+  dates:
+  - date: '2011-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: grandeur scalaire égale à la circulation d’une force *stem:[F]* agissant
+      sur une particule le long d’un trajet donné C, soit stem:[W] = ∫~C~ *stem:[F]* ⋅ d*stem:[r]*,
+      où d*stem:[r]* est l'élément vectoriel d'arc
+  examples: []
+  id: 113-03-44
+  notes:
+  - content: Le travail est une énergie transférée d'une manière particulière et est
+      donc une grandeur de processus ({{113-04-10, urn:iec:std:iec:60050-113-04-10}}).
+      Le travail stem:[W] fait varier de Δstem:[E] = stem:[W] l'énergie interne stem:[E]
+      ({{113-04-20, urn:iec:std:iec:60050-113-04-20}}) d'un corps, où stem:[E] est
+      une grandeur d'état ({{113-04-09, urn:iec:std:iec:60050-113-04-09}}).
+  - content: 'Dans les applications, un travail est souvent calculé en intégrant une
+      puissance stem:[P] dans le temps: stem:[W = int_(t_(1))^(t_(2)) P d t].'
+  - content: L'unité SI cohérente de travail est le joule, J.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: travail
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-113-03
+  language_code: fra
+  entry_status: valid
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-04-01T00:00:00+00:00'
+id: aeb93f08-195b-58c3-bca5-8ba39fa603db

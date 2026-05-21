@@ -1,0 +1,49 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: rapport de la puissance totale du bruit apparaissant à la sortie d'un
+      biporte linéaire donné dans une bande de Fréquences spécifiée à la partie de
+      cette puissance qui provient du monoporte connecté à l'entrée du biporte, la
+      température de bruit du monoporte étant supposée égale, à toute fréquence, à
+      la température thermodynamique de référence fixée conventionnellement au voisinage
+      de 290 K
+  examples: []
+  id: 702-08-59
+  notes:
+  - content: |-
+      Le facteur de bruit moyen stem:[bar(F)] d'un biporte est relié à sa température moyenne de bruit stem:[T] par la relation:
+
+      stem:[bar(F) = 1 + frac(overset(mathbf(bar))(T))(T_(0))]
+
+      où stem:[T]~0~ est la température thermodynamique de référence.
+  - content: Le facteur de bruit moyen peut s'exprimer en décibels. En anglais, on
+      emploie généralement "noise factor" pour désigner un facteur de bruit exprimé
+      sous forme arithmétique, et "noise figure" lorsqu'il est exprimé en décibels.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de bruit (moyen)
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-702-08
+  language_code: fra
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: 69d7767c-f334-5825-920c-2e4417447a25

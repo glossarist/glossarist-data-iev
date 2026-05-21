@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2016-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: constant representing the efficiency of electromechanical coupling
+  examples: []
+  id: 561-05-03
+  notes:
+  - content: "It represents the efficiency of converting electric energy into mechanical
+      energy by the electro-mechanical coupling effect, and it is defined as the square
+      root of the ratio of the mechanical energy stored (stem:[U]~m~) to the total
+      input electric energy transferred (stem:[U]~i~):\r\nstem:[k = sqrt(frac(U_(\"m\")
+      \" \")(U_(\"i\")))]"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coupling factor
+    usage_info: of a piezoelectric ceramic
+  - type: expression
+    normative_status: deprecated
+    designation: coupling coefficient
+    usage_info: of a piezoelectric ceramic
+  - type: symbol
+    designation: stem:[k]
+    international: true
+  domain: section-561-05
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-07-01T00:00:00+00:00'
+  review_decision_date: '2016-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-07-01T00:00:00+00:00'
+id: 5805bd83-adef-51eb-880e-4fd7b4f0b46b
+classification: deprecated

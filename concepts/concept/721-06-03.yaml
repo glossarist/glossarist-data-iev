@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 721-06-03
+  localized_concepts:
+    ara: 45fc1664-bc6f-5e55-b732-6529cfa1bdbc
+    deu: 4d445344-e54c-5d3d-a2a9-43d80514ed63
+    eng: 4d56004c-5085-5595-8288-be7726485d11
+    spa: 3e529385-1fb0-5e35-885b-a0108a8c6678
+    fra: e324faf9-290f-56c7-a4d8-8ce2ce595bb1
+    ita: 66ea0068-fbd6-5e79-8754-86ec31589dca
+    jpn: 398ddc96-ad4a-5e22-90d6-7b273371245a
+    kor: 3dd93eed-d624-55b1-8e86-6743d9c2c405
+    pol: ce182d45-8b26-57d8-80af-32a7f88ee893
+    por: 6ec9ae0f-9126-5627-8ae9-8968581cc086
+    swe: 278963f5-3140-55cd-8e8b-aa513d888c72
+    zho: 0673d1da-ac13-5294-8329-3ddcbad65870
+  domains:
+  - concept_id: area-721
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-721-06
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-721-06
+  type: broader
+  ref:
+    source: IEV
+    id: section-721-06
+- type: supersedes
+  ref:
+    source: IEV
+    id: 721-06-03
+    version: 1991-11
+status: valid
+schema_version: '3'
+id: 721-06-03

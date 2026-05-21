@@ -1,0 +1,39 @@
+---
+data:
+  dates:
+  - date: '2002-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: entre deux noeuds donnés d'un réseau, ensemble ordonné de branches numérotées
+      1, 2 ... tel que la branche de rang stem:[i] est connectée par une de ses extrémités
+      à la branche de rang stem:[i] − 1 et par l'autre à la branche de rang stem:[i]
+      + 1
+  examples: []
+  id: 131-13-08
+  notes:
+  - content: Le chemin est dit fermé lorsque les deux noeuds coïncident.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chemin
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-131-13
+  language_code: fra
+  entry_status: valid
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-06-01T00:00:00+00:00'
+id: 72e86088-86ca-587c-bc3a-b1e49f111abb

@@ -1,0 +1,51 @@
+---
+data:
+  dates:
+  - date: '1998-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "en un point donné d’un élément de surface d’aire quasi-infinitésimale
+      stem:[S], grandeur vectorielle égale au quotient, par l’aire stem:[S], de la
+      somme, étendue à tous les porteurs de charge libres confinés sur l’élément de
+      surface, des produits de leur charge électrique par leur vitesse:\r\nstem:[A
+      = frac(1)(S) sum_(i = 1)^(n) Q_(i) \" \" v_(i)]   \r\noù stem:[n]  est le nombre
+      de porteurs de charge libres confinés sur l’élément de surface,  stem:[Q]~stem:[i]~
+      la charge électrique du porteur de rang stem:[i]  et *stem:[v]*~i~  sa vitesse"
+  examples: []
+  id: 121-11-12
+  notes:
+  - content: "Pour des porteurs de charge confinés sur une surface, l’intégrale étendue
+      à une courbe de cette surface joignant deux points a et b, dont l’élément différentiel
+      est le produit scalaire de la densité linéique de courant stem:[*A*]  et du
+      vecteur   stem:[*e*]~n~dstem:[s] normal à la courbe dans une direction spécifiée
+      tangente à la surface et de norme égale à l’élément scalaire d’arc dstem:[s],
+      est égale à la limite du quotient de la charge électrique  stem:[Q] traversant
+      cette courbe dans la direction spécifiée pendant un intervalle de temps par
+      la durée stem:[τ] de cet intervalle lorsque stem:[τ] tend vers zéro:\r\nstem:[int_(s_(\"a\"))^(s_(\"b\"))
+      A * e_(\"n\") \"d\" s = underset(tau vec 0)(\"lim\") \" \" frac(Q)(tau)]\n\noù
+      stem:[s]~a~ et stem:[s]~b~ sont les abscisses curvilignes de a et b respectivement."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: densité linéique de courant (électrique)
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-121-11
+  language_code: fra
+  entry_status: valid
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-08-01T00:00:00+00:00'
+id: 6a3a40e5-144f-5641-bdf5-c6b72e91947a

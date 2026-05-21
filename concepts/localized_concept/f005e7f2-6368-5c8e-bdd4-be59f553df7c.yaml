@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: density of radiant flux with respect to solid angle in a specified directionstem:[I_("e")
+      = frac("d" Phi_("e"))("d" Omega)]where stem:[Φ]~e~ is the radiant flux emitted
+      in a specified direction, and stem:[Ω] is the solid angle containing that direction
+  examples: []
+  id: 845-21-044
+  notes:
+  - content: The definition holds strictly only for a {{point source, urn:iec:std:iec:60050-845-21-033}}.
+  - content: The distribution of the radiant intensities as a function of the direction
+      of emission, e.g. given by the polar angles (stem:[ϑ], stem:[φ]), is used to
+      determine the radiant flux, stem:[Φ]~e~, within a certain solid angle, stem:[Ω],
+      of a source:stem:[Phi_("e") = "P{iint}"_(Omega) I_("e") (vartheta , phi) sinvartheta
+      " " "d" phi \  "d" vartheta].
+  - content: The corresponding photometric quantity is "luminous intensity". The corresponding
+      quantity for photons is "photon intensity".
+  - content: The radiant intensity is expressed in watt per steradian (W·sr^−1^).
+  - content: This entry was numbered 845-01-30 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiant intensity
+  - type: symbol
+    designation: |-
+      stem:[I]~e~
+      stem:[I]
+    international: true
+  domain: section-845-21
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: f005e7f2-6368-5c8e-bdd4-be59f553df7c

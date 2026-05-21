@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2020-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{output circuit, urn:iec:std:iec:60050-447-04-01}} which, when the
+      {{measuring relay, urn:iec:std:iec:60050-447-01-02}} or {{protection equipment,
+      urn:iec:std:iec:60050-447-01-49}} is in its {{operate condition, urn:iec:std:iec:60050-447-02-01}},
+      either is closed by a contact or is effectively conducting, and when the relay
+      is in its {{reset condition, urn:iec:std:iec:60050-447-02-02}}, either is open
+      by a contact or is effectively non-conducting"
+  examples: []
+  id: 447-04-08
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 60050-444:2002
+      locality:
+        type: clause
+        reference_from: 444-04-15
+      original: IEC 60050-444:2002, 444-04-15, modified – "relay" has been replaced
+        by "measuring relay or protection equipment", "release" has been replaced
+        by "reset"
+    status: modified
+    type: authoritative
+    modification: '"relay" has been replaced by "measuring relay or protection equipment",
+      "release" has been replaced by "reset"'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: output make circuit
+  domain: section-447-04
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-05-01T00:00:00+00:00'
+id: 6c327756-b218-5661-9495-51b3d9b0b8ee

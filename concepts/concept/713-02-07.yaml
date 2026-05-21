@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 713-02-07
+  localized_concepts:
+    ara: 60a70634-14a4-580e-b1a8-75464d4303a9
+    deu: 1ec3a7aa-ab64-5569-8de2-345d044d6a4b
+    eng: 9764db53-69f5-5282-92fe-7956121c0356
+    spa: ff300770-f489-5cbb-97cd-45cf4519ba51
+    fin: 2254dcd2-e6a7-5944-8de9-dff30e7971f6
+    fra: ae0ec06d-1722-5035-a690-41d466f51647
+    ita: 99c5bfcc-89c0-5127-814b-9dfe6695f636
+    jpn: d241da70-d3ef-5f30-b24d-a07319ee2b48
+    kor: 376906c4-aa09-57c0-9595-cb0b95fab2a1
+    pol: 3e711672-fcfc-53b3-8ea2-eb1d80471706
+    por: 5f95b2fe-7419-5f57-a927-ebb148248811
+    swe: 5508970f-24ba-551e-80cc-a2126378f22e
+    zho: 902078f0-23d0-55cd-ba97-95f954faa49a
+  domains:
+  - concept_id: area-713
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-713-02
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-713-02
+  type: broader
+  ref:
+    source: IEV
+    id: section-713-02
+- type: supersedes
+  ref:
+    source: IEV
+    id: 713-02-07
+    version: 1998-04
+status: valid
+schema_version: '3'
+id: 713-02-07

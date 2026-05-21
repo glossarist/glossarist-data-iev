@@ -1,0 +1,34 @@
+---
+data:
+  dates:
+  - date: '2020-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: current delivered by a {{fuel cell, urn:iec:std:iec:60050-485-08-01}},
+      at a given voltage, referred to the mass of {{electrocatalyst, urn:iec:std:iec:60050-485-01-02}}
+      in the {{electrodes, urn:iec:std:iec:60050-485-02-01}}
+  examples: []
+  id: 485-02-11
+  notes:
+  - content: The specific activity can also be referred to the {{electrochemical surface
+      area, urn:iec:std:iec:60050-485-02-09}}, or the volume of the {{catalyst layer,
+      urn:iec:std:iec:60050-485-02-06}}. These can be referred to as area specific
+      activity or volume specific activity, respectively.
+  - content: The specific activity is usually expressed in A/g, and can be expressed
+      as A/cm^2^ or A/cm^3^.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: specific activity
+  - type: expression
+    designation: mass activity
+  domain: section-485-02
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-02-01T00:00:00+00:00'
+  review_decision_date: '2020-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-02-01T00:00:00+00:00'
+id: 56f94e65-73b1-5ac8-9031-f3e6d7bc2997

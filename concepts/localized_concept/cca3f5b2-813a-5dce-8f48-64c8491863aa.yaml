@@ -1,0 +1,48 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of illuminance produced by the lighting installation after a
+      certain {{time interval, urn:iec:std:iec:60050-113-01-10}} and the illuminance
+      produced by the installation when new
+  examples: []
+  id: 845-29-146
+  notes:
+  - content: The English term "light loss factor" and the French term "facteur de
+      perte de lumière" are no longer used.
+  - content: The English term "depreciation factor" and the French term "facteur de
+      dépréciation" were formerly used to designate the reciprocal of the above quotient.
+  - content: The maintenance factor takes into account light losses caused by dirt
+      accumulation on luminaires and room surfaces (in interiors) or other relevant
+      surfaces (in exteriors, where appropriate), and the decrease in the luminous
+      flux of lamps.
+  - content: The maintenance factor has unit one.
+  - content: This note applies to the French language only.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maintenance factor
+    usage_info: of a lighting installation
+  - type: expression
+    designation: MF
+  - type: expression
+    normative_status: deprecated
+    designation: light loss factor
+  - type: expression
+    normative_status: deprecated
+    designation: depreciation factor
+  - type: symbol
+    designation: stem:[f]~m~
+    international: true
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: cca3f5b2-813a-5dce-8f48-64c8491863aa

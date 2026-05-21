@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: at each point of a given space region, scalar stem:[φ] the negative of
+      the gradient of which is the vector *stem:[U]* of a given field*stem:[U]* =
+      −*grad* stem:[φ]
+  examples: []
+  id: 102-05-24
+  notes:
+  - content: The vector field *stem:[U]* is a {{conservative field, urn:iec:std:iec:60050-102-05-34}}
+      and is said to be derived from the scalar field stem:[φ].
+  - content: The scalar potential is not unique since any constant scalar can be added
+      to a given scalar potential without changing its gradient.
+  - content: Examples of potential are the {{electric potential, urn:iec:std:iec:60050-121-11-25}}
+      and the potential in mechanics (see {{IEV 113-03-19, urn:iec:std:iec:60050-113-03-19}}).
+  - content: The term "scalar potential" is only used in place of the term "potential"
+      to distinguish it from the term "vector potential".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: potential
+  - type: expression
+    normative_status: preferred
+    designation: scalar potential
+  domain: section-102-05
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: d6538cae-161f-58f0-bcd2-4ab3c7e2fe20
+classification: preferred

@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2014-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '2014-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: disintegrations per unit time dstem:[N]/dstem:[t] for an {{atomic nucleus,
+      urn:iec:std:iec:60050-113-05-21}} divided by the number of nuclei stem:[N] existing
+      at the same time stem:[t] stem:[lambda = - frac(1)(N) xx frac("d" N)("d" t)]
+  examples: []
+  id: 395-01-11
+  notes:
+  - content: The decay constant is expressed in reciprocal seconds (s^−1^).
+  - content: The decay constant may be considered the total probability of radioactive
+      decay (disintegration and/or nuclear transition).
+  - content: This entry was numbered 393-14-18 in IEC 60050-393:2003.
+  sources:
+  - origin:
+      ref: ISO 921:1997
+      locality:
+        type: clause
+        reference_from: definition 282
+      original: ISO 921:1997, definition 282, modified
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: decay constant
+  - type: symbol
+    designation: stem:[λ]
+    international: true
+  domain: section-395-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2014-03-01T00:00:00+00:00'
+  review_decision_date: '2014-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2014-03-01T00:00:00+00:00'
+id: 7ff8bbf2-ae87-5c10-856a-4dff9c60f218

@@ -1,0 +1,64 @@
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2010-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: unité dérivée qui, pour un système de grandeurs donné et pour un ensemble
+      choisi d'unités de base, est un produit de puissances des unités de base sans
+      autre facteur de proportionnalité que le nombre un
+  examples: []
+  id: 112-01-20
+  notes:
+  - content: Une puissance d'une unité de base est l'unité munie d'un exposant.
+  - content: La cohérence ne peut être déterminée que par rapport à un système de
+      grandeurs particulier et un ensemble donné d'unités de base. Si par exemple
+      le mètre, la seconde et la mole sont des unités de base, le mètre par seconde
+      est l'unité dérivée cohérente de vitesse lorsque la vitesse est définie par
+      l'équation aux grandeurs stem:[ν] = dstem:[r] /dstem:[t], et la mole par mètre
+      cube est l'unité dérivée cohérente de concentration en quantité de matière lorsque
+      la concentration en quantité de matière est définie par l'équation aux grandeurs
+      stem:[c = n/V]. Le kilomètre par heure et le nœud ne sont pas des unités dérivées
+      cohérentes dans un tel système.
+  - content: Une unité dérivée peut être cohérente par rapport à un système de grandeurs,
+      mais non par rapport à un autre. Par exemple, le centimètre par seconde est
+      l'unité cohérente de vitesse dans les systèmes CGS mais n'est pas une unité
+      cohérente de vitesse dans le SI.
+  - content: Dans tout système de grandeurs, l'unité dérivée cohérente des grandeurs
+      sans dimension est le nombre un, de symbole 1. Aussi bien le nom que le symbole
+      de l'unité sont généralement omis, sauf s'il existe un nom spécial pour l'unité
+      un.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 99:2007
+      locality:
+        type: clause
+        reference_from: '1.12'
+      original: ISO/IEC GUIDE 99:2007 1.12
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unité dérivée cohérente
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-112-01
+  language_code: fra
+  entry_status: valid
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2010-01-01T00:00:00+00:00'
+id: b5217cd0-2ee6-5173-bd17-d62f463367a8

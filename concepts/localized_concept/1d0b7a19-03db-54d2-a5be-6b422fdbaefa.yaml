@@ -1,0 +1,37 @@
+---
+data:
+  definition:
+  - content: adresse d'un nœud sur le bus de train (6 bits), égal aux 6 bits de poids
+      faible de l'adresse de dispositif codée sur 8 bits sur le bus de train filaire
+  examples: []
+  id: 811-37-75
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 61375-2-1:2012
+      locality:
+        type: clause
+        reference_from: 3.1.114
+      original: IEC 61375-2-1:2012, 3.1.114
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adresse de nœud
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-811
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 1d0b7a19-03db-54d2-a5be-6b422fdbaefa

@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '1995-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '1995-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: protection, generally distance protection, using telecommunication, with
+      overreach protection at each section end and in which a blocking signal is transmitted
+      continuously to the other section end until a fault is detected by the overreach
+      protection which removes the blocking signal and sends an unblocking signal
+      to the other end. Removal of the blocking signal together with the receipt of
+      the unblocking signal permits the initiation of tripping by the local protection
+  examples: []
+  id: 448-15-15
+  notes:
+  - content: |-
+      If no unblocking signal is received following removal of the blocking signal, it is usually arranged to permit the overreach protection to initiate tripping within a variable time interval usually in the range 100-200 ms.See figure 448-9.
+
+      image::/assets/images/parts/448/[]
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unblocking overreach protection
+  - type: expression
+    normative_status: preferred
+    designation: UOP
+  - type: expression
+    normative_status: preferred
+    designation: unblocking directional comparison protection
+  domain: section-448-15
+  language_code: eng
+  entry_status: valid
+  review_date: '1995-12-01T00:00:00+00:00'
+  review_decision_date: '1995-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1995-12-01T00:00:00+00:00'
+id: e976e511-c547-59ce-8892-9b1708599a91
+classification: preferred

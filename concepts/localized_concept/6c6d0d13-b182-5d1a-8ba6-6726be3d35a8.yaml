@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '2008-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: two-port, for which the inverse of the frequency response ({{131-15-21,
+      urn:iec:std:iec:60050-131-15-21}}) has an argument which is an odd function
+      of frequency and has, at every positive frequency, the smallest possible value
+      for a given modulus
+  examples: []
+  id: 131-15-22
+  notes:
+  - content: A lumped-element minimum-phase network has a transfer function ({{131-15-20,
+      urn:iec:std:iec:60050-131-15-20}}), expressed as a function of complex frequency,
+      with no zeros in the right-half plane.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: minimum-phase network
+  domain: area-131
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-09-01T00:00:00+00:00'
+id: 6c6d0d13-b182-5d1a-8ba6-6726be3d35a8

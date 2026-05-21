@@ -1,0 +1,54 @@
+---
+data:
+  definition:
+  - content: méthode, préconisée par l’ISO/IEC 13239 pour éviter le risque de confusion
+      entre les données de trame et un délimiteur, qui consiste à insérer un "0" supplémentaire
+      après chaque séquence de cinq "1" consécutifs, et à supprimer ce "0" lors de
+      la réception
+  examples: []
+  id: 811-37-08
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 61375-2-1:2012
+      locality:
+        type: clause
+        reference_from: 3.1.17
+      original: IEC 61375-2-1:2012, 3.1.17, modifié
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bit de bourrage
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: bit-stuffing
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-811
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: d18c49cb-e7be-5ad2-aec1-60db2f21a144
+classification: preferred

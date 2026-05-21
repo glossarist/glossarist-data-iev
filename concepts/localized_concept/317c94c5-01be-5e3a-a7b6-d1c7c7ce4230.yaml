@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: product of the {{carrier power, urn:iec:std:iec:60050-713-09-20}} stem:[P]~c~
+      and the {{period of binary digits, urn:iec:std:iec:60050-171-06-06}} stem:[T]~b~stem:[E]~b~
+      = stem:[P]~c~·stem:[T]~b~
+  examples: []
+  id: 171-06-07
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-19
+      original: IEC 80000-13:2008, 13-19, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: signal energy per binary digit
+  - type: symbol
+    designation: |-
+      stem:[E]~b~
+      stem:[E]~bit~
+    international: true
+  domain: area-171
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 317c94c5-01be-5e3a-a7b6-d1c7c7ce4230

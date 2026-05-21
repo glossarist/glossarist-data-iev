@@ -1,0 +1,71 @@
+---
+data:
+  dates:
+  - date: '1998-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: milieu dans lequel un champ électrique variable en fonction du temps
+      produit une densité de courant électrique dont la composante suivant une direction
+      donnée a une norme grande par rapport à celle de la composante suivant cette
+      direction de la densité de courant de déplacement, dans une bande de fréquences
+      déterminée
+  examples: []
+  id: 121-12-02
+  notes:
+  - content: "Dans un milieu isotrope, la propriété d’être conducteur se traduit en
+      régime sinusoïdal par la condition:\r\nstem:[frac(gamma)(epsilon_(0) omega)
+      gg epsilon^(prime)_(\"r\")]\n\noù stem:[γ] est la conductivité, stem:[ε]~0~
+      la constante électrique, stem:[ω] la pulsation et stem:[ε′]~r~ la permittivité
+      relative réelle. En régime statique, le milieu est conducteur si la conductivité
+      n’est pas nulle."
+  - content: Un milieu anisotrope peut n’être conducteur que dans certaines directions.
+  - content: Le terme "conducteur" désigne aussi tout élément destiné à assurer le
+      passage d’un courant électrique.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 705-03-09
+      original: 705-03-09 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: milieu conducteur
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: conducteur
+    usage_info: milieu
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-121-12
+  language_code: fra
+  entry_status: valid
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-08-01T00:00:00+00:00'
+id: ef879ed2-09bd-58a6-8873-7f8f90a6e2e9

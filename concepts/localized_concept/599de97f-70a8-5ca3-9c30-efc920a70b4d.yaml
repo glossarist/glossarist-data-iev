@@ -1,0 +1,33 @@
+---
+data:
+  definition:
+  - content: champ vectoriel dont le rotationnel est nul
+  examples: []
+  id: 102-05-23
+  notes:
+  - content: Tout {{champ conservatif, urn:iec:std:iec:60050-102-05-34}} est un champ
+      irrotationnel, mais un champ irrotationnel n’est un champ conservatif que dans
+      un domaine simplement connexe, c.-à-d. un domaine tel que tout chemin entre
+      deux points peut être transformé de façon continue en un autre chemin quelconque
+      entre les mêmes points en restant dans le domaine.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: champ irrotationnel
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-05
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 599de97f-70a8-5ca3-9c30-efc920a70b4d
+classification: preferred

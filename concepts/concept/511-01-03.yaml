@@ -1,0 +1,27 @@
+---
+data:
+  identifier: 511-01-03
+  localized_concepts:
+    deu: 27bb0268-b79f-5dac-8e89-a9d99082832a
+    eng: 04e77df0-5c68-5fec-a088-b674574f5898
+    fra: 2c252d34-7957-5b11-8116-ac3bafe49ee9
+    jpn: 4820b2aa-cd89-50b6-a834-aa3fc2ff848b
+    pol: 319faa6e-bee5-5a42-affc-3cec2c363ff5
+    por: 92e51eeb-e8b9-5336-a0af-5b06741719fd
+    zho: e63e96e6-0bad-530b-ad97-9b935bedde82
+  domains:
+  - concept_id: area-511
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-511-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-511-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-511-01
+status: valid
+schema_version: '3'
+id: 511-01-03

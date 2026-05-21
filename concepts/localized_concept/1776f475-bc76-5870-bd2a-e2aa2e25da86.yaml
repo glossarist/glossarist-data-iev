@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2018-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: phenomenon in which a moving structure is stuck to another structure
+      or {{substrate, urn:iec:std:iec:60050-521-05-28}} by adhesion forces
+  examples: []
+  id: 523-02-04
+  notes:
+  - content: When structures become smaller, stiction appears significant owing to
+      the {{scale effect, urn:iec:std:iec:60050-523-02-01}}, meaning that surface
+      forces predominate over body forces. Stiction frequently occurs in the MEMS
+      fabrication process when small structures are released during wet etching processes
+      owing to the {{surface tension, urn:iec:std:iec:60050-113-03-42}} of liquid.
+      Representative adhesion forces that cause stiction are van der Waals force,
+      electrostatic force, and surface tension of liquid between structures.
+  sources:
+  - origin:
+      ref: IEC 62047-1:2016
+      locality:
+        type: clause
+        reference_from: 2.2.7
+      original: IEC 62047-1:2016, 2.2.7
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stiction
+  domain: section-523-02
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-12-01T00:00:00+00:00'
+id: 1776f475-bc76-5870-bd2a-e2aa2e25da86

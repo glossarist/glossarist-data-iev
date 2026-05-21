@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{binary prefix, urn:iec:std:iec:60050-112-01-27}} used to form the
+      multiple 2^70^ of a measurement unit"
+  examples:
+  - content: One zebibit = 1 Zibit = (1 024)^7^ bit.
+  id: 171-02-20
+  notes:
+  - content: The prefix zebi has for origin zettabinary, (2^10^)^7^, derived from
+      the SI prefix zetta, (10^3^)^7^.
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: '4'
+      original: IEC 80000-13:2008, 4, modified – Addition of information useful for
+        the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: zebi
+  - type: symbol
+    designation: Zi
+    international: true
+  domain: section-171-02
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 0acb94dd-4cf5-5801-8dcb-6e56f88c2e00

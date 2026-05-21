@@ -1,0 +1,47 @@
+---
+data:
+  definition:
+  - content: "{{circuit de sortie, urn:iec:std:iec:60050-447-04-01}} qui est soit
+      fermé par un contact ou à l'état passant quand le {{relais de mesure, urn:iec:std:iec:60050-447-01-02}}
+      ou l'{{équipement de protection, urn:iec:std:iec:60050-447-01-49}} est à l'{{état
+      de travail, urn:iec:std:iec:60050-447-02-01}} et qui est soit ouvert par un
+      contact ou bloqué quand le relais ou le dispositif est à l'{{état de repos,
+      urn:iec:std:iec:60050-447-02-02}}"
+  examples: []
+  id: 447-04-08
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 60050-444:2002
+      locality:
+        type: clause
+        reference_from: 444-04-15
+      original: IEC 60050-444:2002, 444-04-15, modifié – "relais" a été remplacé par
+        "relais de mesure ou équipement de protection", "repos" a été remplacé par
+        "repos". L'ordre des mots a été modifié afin de rendre la définition plus
+        compréhensible.
+    status: modified
+    type: authoritative
+    modification: '"relais" a été remplacé par "relais de mesure ou équipement de
+      protection", "repos" a été remplacé par "repos". L''ordre des mots a été modifié
+      afin de rendre la définition plus compréhensible.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: circuit de sortie de travail
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-447-04
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 7e583524-ceb4-5a70-b1a3-6abf7468b987

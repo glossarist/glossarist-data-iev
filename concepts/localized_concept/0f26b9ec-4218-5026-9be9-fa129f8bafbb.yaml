@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2009-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2009-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a sinusoidal quantity stem:[a ( t ) = hat(A) "cos" ( omega " " t
+      + vartheta_(0) )], complex quantity stem:[underline(a) ( t ) = hat(A) &amp;lsqb;
+      "cos" ( omega " " t + vartheta_(0) ) + rm(j) " " "s" "i" "n" ( omega " " t +
+      vartheta_(0) ) &amp;rsqb; = hat(A) "exp" &amp;lsqb; rm(j) ( omega " " t + vartheta_(0)
+      ) &amp;rsqb; = hat(A) "exp" ( rm(j) omega " " t ) "exp" ( rm(j) vartheta_(0)
+      )] where j is the imaginary unit, stem:[hat(A)] is complex amplitude, stem:[omega]
+      is angular frequency, and stem:[vartheta_(0)] is initial phase
+  examples: []
+  id: 103-07-12
+  notes:
+  - content: The instantaneous value of the quantity is the real part of its complex
+      representation.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instantaneous complex value
+  - type: expression
+    normative_status: preferred
+    designation: rotating phasor
+  - type: expression
+    normative_status: preferred
+    designation: complex representation
+    usage_info: of a sinusoidal quantity
+  domain: section-103-07
+  language_code: eng
+  entry_status: valid
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2009-12-01T00:00:00+00:00'
+id: 0f26b9ec-4218-5026-9be9-fa129f8bafbb
+classification: preferred

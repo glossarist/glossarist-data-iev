@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 482-01-10
+  localized_concepts:
+    ara: a9f9210f-5c33-5c12-b90c-6d934dcd9e2b
+    deu: d8316741-ec8a-5f4d-9f54-8371d3c7bd5e
+    eng: 92a5c3f0-e64d-5ab9-a834-e127e2389449
+    spa: 3480182a-ffc6-5e1c-bee6-febec3fc59d9
+    fin: '0927adf9-c61d-5904-8c6a-66930a1f63c9'
+    fra: f870f606-e948-5bd8-b9bf-7b11c574d55c
+    ita: 724d799f-3a82-5ab8-8da0-9a917e08ac83
+    jpn: ddea3727-a3c8-5eaa-b6e5-361c19a44d0e
+    kor: 594022f5-176f-5c9a-8834-cde3009463f3
+    pol: 725c4fb5-20f3-58e6-8410-e8daaab142ac
+    por: 81fc60ac-f64a-58d4-986b-f9ef920ff1d7
+    srp: 7197495f-7233-5c17-ae07-df533f6028c0
+    swe: 3653c6af-6000-5a9c-8dd3-a64a9b379ec9
+    zho: 44470244-3b81-5bc4-9e7c-43ae5ef75806
+  domains:
+  - concept_id: area-482
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-482-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-482-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-482-01
+status: valid
+schema_version: '3'
+id: 482-01-10

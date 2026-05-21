@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '1995-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '1995-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: milieu dans lequel un champ électrique variable produit un vecteur densité
+      de courant électrique stem:[vec(J)], dont la projection selon une direction
+      donnée a une norme grande par rapport à celle de la projection du vecteur stem:[frac(del
+      vec(D))(del t)], dans une bande de fréquence déterminée
+  examples: []
+  id: 705-03-09
+  notes:
+  - content: "Dans un milieu isotrope, la propriété d'être conducteur se traduit en
+      régime sinusoïdal par la condition:\r\nstem:[frac(sigma)(epsilon_(0) omega)
+      gg epsilon_(\"r\")^(prime)]\n\noù  stem:[epsilon_(\"r\")^(prime)] est la permittivité
+      relative réelle, stem:[ε]~0~ est la constante électrique, stem:[σ] est la conductivité,
+      stem:[ω] est la pulsation."
+  - content: Un milieu anisotrope peut n'être conducteur que dans certaines directions.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(milieu) conducteur"
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-705-03
+  language_code: fra
+  entry_status: valid
+  review_date: '1995-09-01T00:00:00+00:00'
+  review_decision_date: '1995-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1995-09-01T00:00:00+00:00'
+id: b5d4eccc-7364-5358-8951-aa1b958c3978

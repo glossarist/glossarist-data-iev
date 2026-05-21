@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '1996-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '1996-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a given circuit group or destination code and during a specified
+      time interval, the ratio of the number of seizures that result in an answer
+      signal to the total number of seizures
+  examples: []
+  id: 715-02-20
+  notes:
+  - content: At some points of the network this ratio may be lower than completion
+      ratio due to automatic reattempts.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: answer seizure ratio
+  - type: expression
+    designation: ASR
+  domain: section-715-02
+  language_code: eng
+  entry_status: valid
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1996-12-01T00:00:00+00:00'
+id: f7b3747a-8b62-5ff5-8602-42327908d141

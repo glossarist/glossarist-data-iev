@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: a unit used to express the ratio of two powers by ten times the decimal
+      logarithm of this ratio
+  examples: []
+  id: 702-07-02
+  notes:
+  - content: "– The decibel may also be used to express the ratio of two field quantities.
+      To obtain the same numerical value as for the corresponding power ratio, the
+      logarithm of the field quantity ratio is multiplied by the factor 20, assuming
+      that the impedances are equal.\r\nIf stem:[P]~1~ and stem:[P]~2~ are two powers,
+      their ratio expressed in decibels is:\r\nstem:[10 \" \" \"lg\" frac(P_(1))(P_(2))]\r\nThe
+      relation between a field quantity ratio and the corresponding power ratio is
+      dependent on the impedances.\r\nIf stem:[P]~1~ and stem:[P]~2~ represent the
+      powers dissipated by currents stem:[I]~1~ and stem:[I]~2~ in resistances stem:[R]~1~
+      and stem:[R]~2~, then:\r\nstem:[10 \" \" \"lg\" frac(P_(1))(P_(2)) = 10 \" \"
+      \"lg\" frac(I_(1)^(2))(I_(2)^(2)) frac(R_(1))(R_(2)) = 20 \" \" \"lg\" frac(I_(1))(I_(2))
+      + 10 \" \" \"lg\" frac(R_(1))(R_(2))]"
+  - content: "– Guidance for the use of the decibel and appropriate symbols to represent
+      the ratios of various quantities is given in CCIR Recommendation 574, in CCITT
+      Recommendation B.12, and in IEC publication 27-3."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: decibel
+  - type: symbol
+    designation: dB
+    international: true
+  domain: section-702-07
+  language_code: eng
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: 9d8769ff-ccc6-5886-bec1-c0827fc55f39

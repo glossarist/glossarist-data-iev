@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '2000-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2000-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "intégrale du carré du courant pour un intervalle de temps donné:\r\nstem:[I^(2)
+      t = int_(t_(0))^(t_(1)) i^(2) rm(d) t]"
+  examples: []
+  id: 441-18-23
+  notes:
+  - content: L'stem:[I]^2^stem:[t] de préarc est l'intégrale stem:[I]^2^stem:[t] pour
+      la durée de préarc du fusible.
+  - content: L'stem:[I]^2^stem:[t] de fonctionnement est l'intégrale stem:[I]^2^stem:[t]
+      pour la durée de fonctionnement du fusible.
+  - content: L'énergie en joules libérée dans une portion ayant une résistance de
+      un ohm d'un circuit protégé par un fusible est égale à la valeur de stem:[I]^2^stem:[t]
+      de fonctionnement exprimée en stem:[A]^2^ • stem:[s].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stem:[I]^2^stem:[t]
+  - type: expression
+    normative_status: preferred
+    designation: intégrale de Joule
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-441-18
+  language_code: fra
+  entry_status: valid
+  review_date: '2000-07-01T00:00:00+00:00'
+  review_decision_date: '2000-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2000-07-01T00:00:00+00:00'
+id: 3eabc984-9b59-5085-9541-f0fef5f3c0e4
+classification: preferred

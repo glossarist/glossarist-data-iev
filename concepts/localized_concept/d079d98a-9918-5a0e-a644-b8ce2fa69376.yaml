@@ -1,0 +1,48 @@
+---
+data:
+  definition:
+  - content: "{{signal, urn:iec:std:iec:60050-171-01-03}} dont la valeur de la caractéristique
+      support d’informations n’est définie qu’en des instants {{discrets, urn:iec:std:iec:60050-171-01-05}}
+      successifsNote 1 à l’article: Un signal temporel discret est composé d'une suite
+      temporelle d'éléments, chacun ayant une ou plusieurs caractéristiques telles
+      que sa durée, sa position dans le temps, sa forme, son amplitude, qui représentent
+      des informations. Note 2 à l’article: Un signal temporel discret peut être un
+      {{signal à valeurs continues, urn:iec:std:iec:60050-171-01-09}}, tel qu’un {{
+      signal échantillonné, urn:iec:std:iec:60050-351-41-26}}, ou un {{signal discret,
+      urn:iec:std:iec:60050-171-01-11}}, et donc un {{signal numérique, urn:iec:std:iec:60050-171-01-13}}."
+  examples: []
+  id: 171-01-12
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: signal temporel discret
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: signal à temps discret
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-171-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: d079d98a-9918-5a0e-a644-b8ce2fa69376

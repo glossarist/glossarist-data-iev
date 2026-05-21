@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2008-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "for a linear capacitive stem:[n]-terminal element, matrix stem:[m] ×
+      stem:[m], where stem:[m] &amp;equals; stem:[n] − 1, used to express the electric
+      charges stem:[q]~stem:[i]~ \r\n({{131-12-11, urn:iec:std:iec:60050-131-12-11}})
+      at stem:[m] terminals as functions of the voltages ({{131-11-56, urn:iec:std:iec:60050-131-11-56}})
+      stem:[u]~stem:[jn]~ between these terminals and the remaining stem:[n]^th^ terminal:\r\nstem:[([q_(1)],
+      [q_(2)], [vdots], [q_(i)], [vdots], [q_(m)]) = ([C_(11), C_(12), cdots, C_(1
+      j), cdots, C_(1 m)], [C_(21), C_(22), cdots, C_(2 j), cdots, C_(2 m)], [vdots,
+      vdots, ddots, vdots, ddots, vdots], [C_(i 1), C_(i 2), cdots, C_(i j), cdots,
+      C_(i m)], [vdots, vdots, ddots, vdots, ddots, vdots], [C_(m 1), C_(m 2), cdots,
+      C_(m j), cdots, C_(m m)]) * ([u_(1 n)], [u_(2 n)], [vdots], [u_(j n)], [vdots],
+      [u_(m n)])]"
+  examples: []
+  id: 131-12-32
+  notes:
+  - content: A capacitance matrix is always symmetric and positive definite.
+  - content: A capacitance matrix can also be determined for a set of electric circuit
+      elements having capacitive couplings between any pair of them.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: capacitance matrix
+  - type: symbol
+    designation: stem:[C]
+    international: true
+  domain: section-131-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-09-01T00:00:00+00:00'
+id: 3a2b81b9-8287-50a0-963b-cc8c2b22f917

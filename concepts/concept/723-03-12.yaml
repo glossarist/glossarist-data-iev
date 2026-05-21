@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 723-03-12
+  localized_concepts:
+    ara: 06ed79db-7f89-5c9b-8f3c-9cf3d075d5a0
+    deu: f4075f40-4ec3-55fc-b2b0-af1aa1edc99e
+    eng: a0ec3ec4-fe5f-507e-8f7a-1b3d0ee8d8fa
+    spa: 2f801027-e012-5102-b960-e7f95279bcee
+    fra: 68acbdb8-2ea8-57fa-bb77-60a2d3ff3a8e
+    ita: dc6f5420-054d-51e5-9101-84478186052c
+    jpn: 71ef8313-4144-5f90-9db5-07c7e50a4449
+    kor: 8a33db62-477a-57cd-a177-afee4d29572b
+    pol: cdf771a7-dce7-50bc-ba1b-ee18cd5fe82b
+    por: 43448f6b-d966-5eed-a6de-9b15d133f6db
+    swe: 21919d10-923b-5a6a-bd39-aecff7942b04
+  domains:
+  - concept_id: area-723
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-723-03
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-723-03
+  type: broader
+  ref:
+    source: IEV
+    id: section-723-03
+status: valid
+schema_version: '3'
+id: 723-03-12

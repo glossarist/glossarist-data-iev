@@ -1,0 +1,48 @@
+---
+data:
+  definition:
+  - content: "{{temps de propagation de groupe, urn:iec:std:iec:60050-702-02-20}}
+      des {{composantes spectrales, urn:iec:std:iec:60050-702-04-41}} significatives
+      d'un {{signal, urn:iec:std:iec:60050-101-12-02}}, en supposant que ce temps
+      est sensiblement le même pour toutes ces composantes significatives"
+  examples: []
+  id: 702-02-21
+  notes:
+  - content: La notion de temps de propagation de signal n'a de sens que si l'{{amplitude,
+      urn:iec:std:iec:60050-702-04-54}} du signal ne subit pas de distorsion appréciable
+      dans le milieu de propagation.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de propagation de signal
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: temps de propagation d'enveloppe
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-702-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: ff3e0f41-11e6-5770-bf30-5c702e01548d
+classification: preferred

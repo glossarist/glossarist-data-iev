@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: average value of the instantaneous unavailability over a given time interval
+      (stem:[t]~1~, stem:[t]~2~)
+  examples: []
+  id: 192-08-06
+  notes:
+  - content: "The mean unavailability is related to the instantaneous unavailability
+      stem:[U](stem:[t]) as:\r\nstem:[bar(U) ( t_(1) , \" \" t_(2) ) = frac(1)(t_(2)
+      - t_(1)) int_(\" \" t_(1))^(\" \" \" \" t_(2)) U ( t ) \" \" \"d\" t]"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mean unavailability
+  - type: expression
+    normative_status: preferred
+    designation: average unavailability
+  - type: symbol
+    designation: stem:[bar(() t_(1) , " " t_(2) )]
+    international: true
+  domain: section-192-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: ef16b297-3f67-5d00-8281-a41f6cf8af4e
+classification: preferred

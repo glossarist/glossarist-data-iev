@@ -1,0 +1,47 @@
+---
+data:
+  definition:
+  - content: ensemble des {{disposition, urn:iec:std:iec:60050-901-05-01}}s qui contiennent
+      la substance d'un {{document normatif, urn:iec:std:iec:60050-901-02-01}}
+  examples: []
+  id: 901-05-11
+  notes:
+  - content: Dans le cas d'une {{norme, urn:iec:std:iec:60050-901-02-02}}, le corps
+      comprend des éléments généraux relatifs à son objet et à ses définitions, et
+      des éléments principaux qui comportent les dispositions.
+  - content: Certaines parties du corps d'un document normatif peuvent prendre la
+      forme d'annexes («annexes normatives»), pour des raisons pratiques, mais d'autres
+      annexes (informatives) peuvent n'être constituées que par des {{éléments complémentaires,
+      urn:iec:std:iec:60050-901-05-12}}.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: '8.1'
+      original: Guide ISO/CEI 2:2004, 8.1, modifiée – Le “domaine” a été transféré
+        en attribut du terme «utilisation spécifique».
+    status: modified
+    type: authoritative
+    modification: Le “domaine” a été transféré en attribut du terme «utilisation spécifique».
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: corps
+    usage_info: d'un document normatif
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-901-05
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: e05b8218-ec11-5858-918b-7842d8caa104

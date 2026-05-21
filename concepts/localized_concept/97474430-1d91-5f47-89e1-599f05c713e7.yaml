@@ -1,0 +1,60 @@
+---
+data:
+  dates:
+  - date: '2011-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ligne droite passant par les points centraux d’un faisceau de deux plans
+      perpendiculaires à la droite associant le point de l’intégrale de pression d'impulsion
+      au carré maximum au centre de l’ouverture du transducteur externe
+  examples: []
+  id: 802-01-08
+  notes:
+  - content: L’emplacement du premier plan est celui du plan contenant l’intégrale
+      de pression d'impulsion au carré maximum, ou, alternativement, celui contenant
+      un seul lobe principal se trouvant dans la zone focale. L’emplacement du second
+      plan est, dans la mesure du possible, issu du premier plan et parallèle au premier
+      avec les deux mêmes lignes d'exploration orthogonales (axes stem:[x] et stem:[y])
+      utilisées pour le premier plan.
+  - content: "Dans un certain nombre de cas, l'expression intégrale de pression d'impulsion
+      au carré est remplacée dans la définition ci-dessus par une grandeur associée
+      de manière linéaire, par exemple\r\na) dans le cas d’un signal à ondes entretenues,
+      l’expression intégrale de pression d'impulsion au carré est remplacée par la
+      pression acoustique moyenne au carré telle que définie dans la CEI 61689,\r\nb)
+      si la synchronisation du signal avec cadre de balayage n’est pas disponible,
+      l’expression intégrale de pression d’impulsion au carré peut être remplacée
+      par l’intensité dérivée de la moyenne temporelle."
+  sources:
+  - origin:
+      ref: IEC 62127-1
+      locality:
+        type: clause
+        reference_from: '3.8'
+      original: définition 3.8 de la CEI 62127-1 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: axe (d’alignement) du faisceau
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-802-01
+  language_code: fra
+  entry_status: valid
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-01-01T00:00:00+00:00'
+id: 97474430-1d91-5f47-89e1-599f05c713e7

@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: method used to reduce the incidence of {{errors, urn:iec:std:iec:60050-192-03-02}}
+      in the recording, processing or transfer of {{information, urn:iec:std:iec:60050-701-01-01}}
+  examples: []
+  id: 702-07-40
+  notes:
+  - content: Error control can use {{error detection, urn:iec:std:iec:60050-702-07-41}},
+      {{error correction, urn:iec:std:iec:60050-702-07-42}} and {{error concealment,
+      urn:iec:std:iec:60050-723-10-97}}, either separately or in combination.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: error control
+  - type: expression
+    normative_status: preferred
+    designation: error protection
+  domain: section-702-07
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: 050bff17-b6d5-56f1-b030-9b53b637e77e
+classification: preferred

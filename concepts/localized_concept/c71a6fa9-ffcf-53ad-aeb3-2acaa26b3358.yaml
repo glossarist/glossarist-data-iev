@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '1990-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '1990-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "the arithmetic difference between the no-load voltage of a winding and
+      the voltage developed at the terminals of the same winding at a specified load
+      and power factor, the voltage supplied to (one of) the other winding(s) being
+      equal to:\r\n- its rated value if the transformer is connected on the principal
+      tapping (the no-load voltage of the former winding is then equal to its rated
+      value);\n\n- the tapping voltage if the transformer is connected on another
+      tapping.\r\nThis difference is generally expressed as a percentage of the no-load
+      voltage of the former winding"
+  examples: []
+  id: 421-07-03
+  notes:
+  - content: For multi-winding transformers, the voltage drop or rise depends not
+      only on the load and power factor of the winding itself, but also on the load
+      and power factor of the other windings.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: voltage drop or rise for a specified load condition
+  - type: expression
+    designation: voltage regulation for a specified load condition
+  domain: section-421-07
+  language_code: eng
+  entry_status: valid
+  review_date: '1990-10-01T00:00:00+00:00'
+  review_decision_date: '1990-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1990-10-01T00:00:00+00:00'
+id: c71a6fa9-ffcf-53ad-aeb3-2acaa26b3358

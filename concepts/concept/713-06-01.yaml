@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 713-06-01
+  localized_concepts:
+    ara: 106c2dbd-8312-5919-a5ef-bd220ead21b9
+    deu: 60f49dcf-79ef-57c2-9fe9-b8a56167cd11
+    eng: 62131af8-7056-5739-b6f5-9578e0e2b033
+    spa: aaf4e20f-5336-58ab-8ddc-d8bf9fe39152
+    fin: 2f913333-438f-52fa-a075-eaf83af92008
+    fra: dc25e6cc-74b9-5c68-b2bd-97d88e0b9b97
+    ita: c34e6e5a-ea8f-5109-90a7-1dde71819361
+    jpn: 3b8b85a5-017b-5995-96b9-a8cf624c5a17
+    kor: b0a6509d-35d6-51fb-9390-d254e62cbcef
+    pol: cfe1332f-19a1-50f7-a499-aaa56af1e4be
+    por: f035a756-d4ca-5d16-89d6-3ed78d22693c
+    swe: f2b70d3c-ea63-5730-8b65-f16f1d30ccca
+  domains:
+  - concept_id: area-713
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-713-06
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-713-06
+  type: broader
+  ref:
+    source: IEV
+    id: section-713-06
+status: valid
+schema_version: '3'
+id: 713-06-01

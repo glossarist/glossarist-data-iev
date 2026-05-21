@@ -1,0 +1,63 @@
+---
+data:
+  definition:
+  - content: quotient du flux énergétique ou lumineux stem:[Φ]~2~ (ou stem:[Φ]~1~)
+      que la surface S~1~ (ou S~2~) envoie sur la surface S~2~ (ou S~1~) par l'{{exitance
+      énergétique, urn:iec:std:iec:60050-845-21-080}} ou l'{{exitance lumineuse, urn:iec:std:iec:60050-845-21-081}}
+      stem:[M]~1~ (ou stem:[M]~2~)stem:[g = frac(Phi_(2))(M_(1)) = frac(Phi_(1))(M_(2))]
+  examples: []
+  id: 845-29-092
+  notes:
+  - content: Puisque stem:[M] = πstem:[L], et dans le cas particulier où tous les
+      points de S~1~ sont vus de tous les points de S~2~stem:[g = frac(1)(pi) int_(A_(2))
+      int_(A_(1)) frac(costheta_(1) costheta_(2))(l^(2)) "d" A_(1) "d" A_(2) = frac(1)(pi)
+      G]où stem:[l] est la distance entre les aires élémentaires dstem:[A]~1~ et dstem:[A]~2~
+      prises sur les surfaces S~1~ et S~2~, stem:[G] est l'étendue géométrique du
+      faisceau délimité par les contours de S~1~ et S~2~, et stem:[θ]~1~ et stem:[θ]~2~
+      sont les angles entre les perpendiculaires de surface des deux aires élémentaires
+      dstem:[A]~1~ et dstem:[A]~2~ respectivement et la droite reliant ces deux aires.
+  - content: Pour deux aires élémentaires dstem:[A]~1~ et dstem:[A]~2~stem:["d" g
+      = frac(1)(pi) "d" A_(1) "d" Omega_(1) cos theta_(1) = frac(1)(pi) "d" A_(2)
+      "d" Omega_(2) cos theta_(2)]où dstem:[Ω]~1~ (or dstem:[Ω]~2~) est l'angle solide
+      sous lequel l'aire dstem:[A]~2~ (ou dstem:[A]~1~) est vue du centre de dstem:[A]~1~
+      (ou dstem:[A]~2~).
+  - content: La luminance énergétique ou lumineuse stem:[L] du faisceau délimité par
+      les contours de dstem:[A]~1~ et dstem:[A]~2~ eststem:[L = frac(1)(pi) frac("d"
+      Phi)("d" g)].
+  - content: Le coefficient d'échange mutuel est exprimé en mètre carré (m^2^).
+  - content: Cet article était numéroté 845-09-71 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coefficient d'échange mutuel
+    usage_info: de la luminance énergétique ou lumineuse entre des surfaces
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: coefficient d'échange
+    usage_info: de la luminance énergétique ou lumineuse entre des surfaces
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 3d39623c-47fd-516c-9c71-1768afeacffe

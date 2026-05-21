@@ -1,0 +1,45 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of the radiance per unit emission bandpass, dstem:[λ], at a
+      specified emission wavelength, stem:[λ], due to photoluminescence from the specimen
+      when irradiated at a specified excitation wavelength, stem:[μ], and the radiance
+      of the perfect reflecting diffuser identically irradiated and viewed
+  examples: []
+  id: 845-21-101
+  notes:
+  - content: Spectral quantities with a subscript stem:[λ] in their designation indicate
+      differential spectral radiometric quantities.
+  - content: When integrated or summed over the spectral bandpass of the instrument,
+      this quantity becomes the bandpass-weighted bispectral luminescent radiance
+      factor, stem:[β]~L,~stem:[~λ~](stem:[μ])Δstem:[λ].
+  - content: The complete tabular form of bispectral luminescent radiance factor and
+      reflected radiance factor data is the Donaldson matrix representation of bispectral
+      radiance factor, stem:[D](stem:[μ], stem:[λ]). The excitation wavelengths, stem:[μ],
+      are tabulated in the vertical direction, the emission wavelengths, stem:[λ],
+      in the horizontal direction, the reflected radiance factors, stem:[β]~R~(stem:[λ]),
+      appear on the diagonal where the excitation and emission (detection) wavelengths
+      are equal, and the array of bandpass-weighted bispectral luminescent radiance
+      factor data, stem:[β]~L~stem:[~,λ~](stem:[μ])Δstem:[λ], appear on the off-diagonals.
+  - content: The bispectral luminescent radiance factor is expressed in nanometre
+      to the power minus one (nm^−1^).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bispectral luminescent radiance factor
+  - type: symbol
+    designation: stem:[β]~L,~stem:[~λ~](stem:[μ])
+    international: true
+  domain: section-845-21
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 248bda6c-0aa9-51ec-8ada-4c836e05c8d8

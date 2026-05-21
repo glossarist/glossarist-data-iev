@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 131-12-64
+  localized_concepts:
+    ara: 8b95ad10-2048-5d38-9f1e-19790dcc4908
+    deu: 5baefcb3-0284-548e-8d9b-5cc176c0f0b3
+    eng: 5cd39f26-37a1-52ff-adb1-7613a0d025dd
+    spa: bb317c52-5358-5194-a434-b51ad4ddfb76
+    fra: 1665244d-d824-5aa6-93c9-0b441c762aa8
+    ita: fb4de33c-a194-5e51-be2b-84ccfdf6f429
+    jpn: 63806d26-55b2-575e-a5e4-8bc377364f1c
+    kor: 874f60f6-e183-5d6a-b94f-d159f95db3b2
+    nob: d2e20ac6-03c1-5021-b44e-8ebd6202f1fc
+    nno: 6f3a40d7-2d0d-5241-b290-acea13b715ab
+    pol: 54932e80-1f07-508d-a20f-b4e1bdcc49c2
+    por: 5bcb234f-e976-51be-a82f-0462ddd4c3b7
+    swe: a34d87ad-4583-5853-9712-f32673fff31a
+    zho: c299daab-6381-5e0e-a8f1-4c56ccdbe329
+  domains:
+  - concept_id: area-131
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-131-12
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-131-12
+  type: broader
+  ref:
+    source: IEV
+    id: section-131-12
+- type: supersedes
+  ref:
+    source: IEV
+    id: 131-12-64
+    version: 2002-06
+status: valid
+schema_version: '3'
+id: 131-12-64

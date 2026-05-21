@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2017-11-17T00:00:00+00:00'
+    type: accepted
+  - date: '2017-11-17T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: data exchange at the application layer, consisting of a call message
+      and a reply message (the latter is missing in the multicast protocol)
+  examples: []
+  id: 811-37-25
+  notes:
+  - content: A conversation starts with the first connect request frame and ceases
+      when the last acknowledgement for the reply message has been received or is
+      no longer expected.
+  sources:
+  - origin:
+      ref: IEC 61375-2-1:2012
+      locality:
+        type: clause
+        reference_from: 3.1.37
+      original: IEC 61375-2-1:2012, 3.1.37
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: conversation
+    usage_info: in a train communication network
+  domain: area-811
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-11-17T00:00:00+00:00'
+  review_decision_date: '2017-11-17T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-11-17T00:00:00+00:00'
+id: 102e126b-e9b7-5789-ab5a-e399346e2aef

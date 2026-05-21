@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 581-23-01
+  localized_concepts:
+    deu: 172f681e-218b-5f3d-be1e-192edc06e604
+    eng: f0b687fc-f6b9-5f60-afe2-8d94bd9b0dc4
+    fin: 99e74e12-fe7c-5dae-a3f3-e073ae9bc27a
+    fra: c4528a45-e6c7-558a-a010-3e8d087e9d85
+    jpn: bc51427a-0426-53cd-9dd6-9155952acafb
+    kor: b8da6575-6bb1-5ce8-b0f1-ec870fd83024
+    pol: 66268bdd-10a9-5836-accd-245a4904e091
+    por: a7494ef4-4501-51c3-93dc-44eadf78470f
+    zho: 93605b7b-8fc0-5951-a92a-1b3e8b68e6ba
+  domains:
+  - concept_id: area-581
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-581-23
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-581-23
+  type: broader
+  ref:
+    source: IEV
+    id: section-581-23
+status: valid
+schema_version: '3'
+id: 581-23-01

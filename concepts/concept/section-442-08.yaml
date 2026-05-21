@@ -1,0 +1,40 @@
+---
+data:
+  identifier: section-442-08
+  localized_concepts:
+    eng: 816cc24e-26b5-50a2-893d-3c745d4e7bd2
+  domains:
+  - concept_id: area-442
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-442-08
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-442
+  type: broader
+  ref:
+    source: IEV
+    id: area-442
+- content: 442-08-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 442-08-01
+- content: 442-08-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 442-08-02
+- content: 442-08-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 442-08-03
+- content: 442-08-04
+  type: narrower
+  ref:
+    source: IEV
+    id: 442-08-04
+schema_version: '3'
+id: section-442-08

@@ -1,0 +1,45 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{entropy, urn:iec:std:iec:60050-171-07-15}} of a set of events when
+      they are equiprobable, i.e. stem:[p](stem:[x]~stem:[i]~) &equals; 1/stem:[n]
+      for stem:[i] &equals; 1, …, stem:[n]"
+  examples: []
+  id: 171-07-16
+  notes:
+  - content: When the same integer base is used for the same number of events, the
+      maximum entropy equals the {{decision content, urn:iec:std:iec:60050-171-07-10}}.
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-26
+      original: IEC 80000-13:2008, 13-26, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum entropy
+  - type: symbol
+    designation: |-
+      stem:[H]~0~
+      stem:[H]~max~
+    international: true
+  domain: area-171
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 80fc1609-dcfe-5f3b-ac40-4c73e19c695d

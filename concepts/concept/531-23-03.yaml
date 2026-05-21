@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 531-23-03
+  localized_concepts:
+    ara: 34aa96fb-29eb-55c4-b31f-4ece09eeca78
+    deu: 60840a64-b076-5626-b1e0-2687391d76bb
+    eng: 4d6eb07e-6aa3-5c13-b202-0d53f5451043
+    spa: eee46ffd-89ab-5943-996d-e5639dd83619
+    fra: 3433760e-8853-5d08-a86a-57ea0961889b
+    ita: f4eceeb3-bd04-5722-a060-b919957ea780
+    jpn: ce045818-7b30-5524-89a5-a63484cdd175
+    kor: 39679081-d03f-5242-9b5b-d8c2ea6cb4a5
+    pol: d5ba22bc-35c5-5bcd-87bd-2ccc2c07e6c8
+    por: 73534f2c-bde7-5c7b-a65a-52f0fa5592c5
+    srp: dbb13a46-c157-5a93-9618-526a4766bdea
+    swe: 43b5d466-a6fd-5034-b4f5-19d89982b62c
+    zho: a36dafff-4c0c-51ca-a826-29a4d9e065af
+  domains:
+  - concept_id: area-531
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-531-23
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-531-23
+  type: broader
+  ref:
+    source: IEV
+    id: section-531-23
+- type: supersedes
+  ref:
+    source: IEV
+    id: 531-23-03
+    version: '1974'
+status: valid
+schema_version: '3'
+id: 531-23-03

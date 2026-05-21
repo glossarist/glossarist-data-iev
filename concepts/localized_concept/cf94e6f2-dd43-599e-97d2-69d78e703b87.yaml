@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2015-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "ratio of penetration depth, stem:[λ], to coherence length, stem:[ξ]
+      \r\nstem:[kappa_(\"GL\") = lambda / xi]"
+  examples: []
+  id: 815-10-34
+  notes:
+  - content: For a type II superconductor, stem:[kappa_("GL") gt "1" / sqrt("2")];
+      stem:[kappa_("GL") = H_("c2") / (sqrt("2") H_("c"))], where stem:[H_("c2")]
+      is the upper critical field strength and stem:[H_("c")] is the critical field
+      strength.
+  - content: For a type I superconductor, stem:[kappa_("GL") lt "1" / sqrt("2")].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Ginzburg-Landau parameter
+  - type: expression
+    normative_status: preferred
+    designation: G-L parameter
+  - type: symbol
+    designation: stem:[κ]~GL~
+    international: true
+  domain: area-815
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-11-01T00:00:00+00:00'
+  review_decision_date: '2015-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-11-01T00:00:00+00:00'
+id: cf94e6f2-dd43-599e-97d2-69d78e703b87
+classification: preferred

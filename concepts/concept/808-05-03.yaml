@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 808-05-03
+  localized_concepts:
+    ara: 26748fad-cc96-5dfd-a017-c25dcb3cea55
+    deu: 7b433f22-6c12-5269-aaf6-4436a9146126
+    eng: 583d55aa-3bff-5ae6-a9c0-7c5bc1545257
+    spa: ca929c61-62a8-509c-b542-2f4c7667e2b4
+    fra: 5a12e626-2f00-5bce-84bd-0ae3cd320f18
+    ita: 8d489f1f-eff2-502a-bff6-92cdabd39e18
+    jpn: 1ccd3647-3f42-57bc-b7c6-3d1d1d0d56a8
+    kor: 48dba234-16d1-5a98-a6e1-6c29effcabe1
+    pol: 63adcff8-6871-5305-98e9-85812681dd21
+    por: 7ee12df0-ef90-5d1c-990b-1057e47a2dda
+    zho: e67ee7ab-75e6-53c3-aa9b-4272131acc37
+  domains:
+  - concept_id: area-808
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-808-05
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-808-05
+  type: broader
+  ref:
+    source: IEV
+    id: section-808-05
+status: valid
+schema_version: '3'
+id: 808-05-03

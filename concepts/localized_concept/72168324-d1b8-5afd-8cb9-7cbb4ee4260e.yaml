@@ -1,0 +1,28 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{signal, urn:iec:std:iec:60050-171-01-03}} in which the characteristic
+      carrying information is defined at any instant of a time interval"
+  examples: []
+  id: 171-01-10
+  notes:
+  - content: A continuous-time signal can be a {{continuous-value signal, urn:iec:std:iec:60050-171-01-09}},
+      and therefore an {{analogue signal, urn:iec:std:iec:60050-171-01-14}}, or a
+      {{discrete-value signal, urn:iec:std:iec:60050-171-01-11}}, as a quantized signal.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: continuous-time signal
+  domain: section-171-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 72168324-d1b8-5afd-8cb9-7cbb4ee4260e

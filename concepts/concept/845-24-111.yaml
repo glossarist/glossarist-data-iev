@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 845-24-111
+  localized_concepts:
+    ara: 4f68a412-e6fa-5bb5-8b72-e35e2e442e4b
+    deu: ada7a8a8-1336-5125-9378-38f781cc309c
+    eng: ca9eb5e9-81df-52fd-9c04-b68726c0f432
+    fra: 436348ee-5aa7-509e-b4e2-33361ac36d11
+    ita: 886a0f35-4289-51b8-a835-fa8e9cae03e4
+    jpn: 70a31c2e-2cb5-5375-bbdc-5caf1bba9ab6
+    kor: 6c0c6429-b1ba-5874-bd7e-c5140e7aeb28
+    pol: '089249b3-f7e7-5025-b9d6-dd1cc2c8074c'
+    por: 128ce57a-c7c7-5c3d-823c-d104d626f880
+    zho: 00c8a7b4-e404-5600-86ed-b6380009ddba
+  domains:
+  - concept_id: area-845
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-845-24
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-845-24
+  type: broader
+  ref:
+    source: IEV
+    id: section-845-24
+status: valid
+schema_version: '3'
+id: 845-24-111

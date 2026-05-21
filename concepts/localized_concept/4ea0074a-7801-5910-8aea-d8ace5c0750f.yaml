@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ordered set of exactly stem:[n] {{binary digits, urn:iec:std:iec:60050-171-02-10}},
+      treated as a whole
+  examples:
+  - content: "{{Doublet, urn:iec:std:iec:60050-702-05-07}}, {{triplet, urn:iec:std:iec:60050-702-05-08}},
+      {{byte, urn:iec:std:iec:60050-171-02-12}}."
+  id: 171-02-23
+  notes:
+  - content: The term "stem:[n]-bit byte" and the French term "stem:[n]-uplet" are
+      also used for a generic concept, where the number of elements is not given explicitly
+      (see {{IEV 171-02-22, urn:iec:std:iec:60050-171-02-22}}).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: stem:[n]-bit byte
+    usage_info: exactly
+    grammar_info:
+    - gender:
+      - "n"
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-171-02
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 4ea0074a-7801-5910-8aea-d8ace5c0750f

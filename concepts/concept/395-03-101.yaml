@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 395-03-101
+  localized_concepts:
+    deu: 37ad4066-cb3a-594b-8e8c-f60a60305dfa
+    eng: '08bde3f3-eb05-5f2b-97aa-1d3fe0b03b1a'
+    spa: ce27228f-e944-5fa7-bab6-1231804f788d
+    fra: 03eb6c9e-8bd1-5c36-bc7f-60f2c1fea8d7
+    ita: 4dc745ee-b48e-59fc-87f2-de5c62997c7b
+    jpn: b2be4d67-c1d5-52f4-9adc-03d9d44b781d
+    kor: 07f3fb95-425f-50b3-b2a5-aa0eb3a5326d
+    pol: 8d037e6f-cfb7-503e-8e67-dd9cc43422a6
+    por: 98176387-2c9d-55ff-a352-c4159b2c4256
+    zho: 8ef78931-01ec-50ac-a73f-1793b9ab2fe1
+  domains:
+  - concept_id: area-395
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-395-03
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-395-03
+  type: broader
+  ref:
+    source: IEV
+    id: section-395-03
+status: valid
+schema_version: '3'
+id: 395-03-101

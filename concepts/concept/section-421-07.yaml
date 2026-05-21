@@ -1,0 +1,40 @@
+---
+data:
+  identifier: section-421-07
+  localized_concepts:
+    eng: 6e091429-7b75-5a59-aeed-033071e23786
+  domains:
+  - concept_id: area-421
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-421-07
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-421
+  type: broader
+  ref:
+    source: IEV
+    id: area-421
+- content: 421-07-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 421-07-01
+- content: 421-07-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 421-07-02
+- content: 421-07-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 421-07-03
+- content: 421-07-04
+  type: narrower
+  ref:
+    source: IEV
+    id: 421-07-04
+schema_version: '3'
+id: section-421-07

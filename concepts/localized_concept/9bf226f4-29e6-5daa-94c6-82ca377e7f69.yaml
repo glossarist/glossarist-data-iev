@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: diagram showing gain and phase angle contours of the closed-loop frequency
+      response stem:[frac(G_(0))(1 + G_(0))] plotted in the rectangular coordinates
+      of logarithmic gain and phase difference of the open-loop frequency response
+      stem:[G]~0~
+  examples: []
+  id: 351-46-09
+  notes:
+  - content: stem:[frac(G_(0))(1 + G_(0))] is the closed-loop frequency response for
+      changes of the reference variable in the case that the controlled variable stem:[x]
+      is used as the feedback variable stem:[r] directly. The transfer function of
+      the measuring element is assumed unity.
+  - content: This entry was numbered 351-25-09 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Nichols plot
+  domain: area-351
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 9bf226f4-29e6-5daa-94c6-82ca377e7f69

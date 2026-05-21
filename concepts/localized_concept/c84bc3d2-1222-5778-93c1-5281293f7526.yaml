@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ratio of the power of the {{wanted signal, urn:iec:std:iec:60050-702-08-01}}
+      to the total power of {{interfering signals, urn:iec:std:iec:60050-161-01-04}}
+      and {{noise, urn:iec:std:iec:60050-702-08-03}}, evaluated under specified conditions
+      at a specified point of a {{transmission channel, urn:iec:std:iec:60050-701-02-01}}
+  examples: []
+  id: 702-08-63
+  notes:
+  - content: "The signal-to-interference ratio\r\nis generally expressed in {{decibels,
+      urn:iec:std:iec:60050-702-07-02}}."
+  - content: "The specified conditions comprise among others:\r\n* the nature and
+      characteristics of the wanted signal,* the nature and characteristics of the
+      interfering signals and the noise,* the characteristics of the receiver, such
+      as the bandwidth."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: signal-to-interference ratio
+  - type: expression
+    normative_status: preferred
+    designation: signal/interference ratio
+  - type: symbol
+    designation: stem:[S]/stem:[I]
+    international: true
+  domain: section-702-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: c84bc3d2-1222-5778-93c1-5281293f7526
+classification: preferred

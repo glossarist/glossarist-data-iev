@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 521-04-22
+  localized_concepts:
+    ara: 03b0214d-c8ce-5077-bbd5-cd8f35403bcc
+    deu: a9e07451-4c3b-5e77-96e4-7b02e5ee6903
+    eng: 4234f740-5eec-5b08-97f4-b49f9b1aa79a
+    spa: bcc5fd0b-c1a2-53c0-9523-e155d86e8c49
+    fin: 44c128c9-e002-596e-9a16-d5f1aabfd09d
+    fra: cd0b9d44-a6cd-50d4-9853-9a4e4d9161f1
+    ita: 78b34e88-2c8c-59b4-82ca-300a1371f5f0
+    jpn: 7f7ba7d4-0a10-5f56-a9d0-48db98e1fef9
+    kor: 49356b5a-7c63-5942-b762-20f06fc88bef
+    pol: 909d7e3e-d973-5b1c-8c89-a7a58b4c2c1c
+    por: d73076e1-08e2-54ae-851e-2e4652313d12
+    srp: 9ca3168c-77c7-58b5-8fc4-986bdb6f8e3c
+    swe: 23d9fccd-13c6-5862-bae3-e578143fb502
+    zho: 1df8d7e2-b330-585a-b709-961450f8aac5
+  domains:
+  - concept_id: area-521
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-521-04
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-521-04
+  type: broader
+  ref:
+    source: IEV
+    id: section-521-04
+status: valid
+schema_version: '3'
+id: 521-04-22

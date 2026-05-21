@@ -1,0 +1,56 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{standard, urn:iec:std:iec:60050-901-02-02}}s on the same products,
+      processes or services, approved by different {{standardizing bodies, urn:iec:std:iec:60050-901-03-03}},
+      in which different {{requirement, urn:iec:std:iec:60050-901-05-05}}s are based
+      on the same characteristics and assessed by the same methods, thus permitting
+      unambiguous comparison of differences in the requirements"
+  examples: []
+  id: 901-06-09
+  notes:
+  - content: Comparable standards are not {{harmonized (or equivalent) standards,
+      urn:iec:std:iec:60050-901-06-01}}.
+  - content: "{{Technical regulations, urn:iec:std:iec:60050-901-02-11}} can be harmonized
+      like standards. Corresponding terms and definitions are obtained by replacing
+      “standards” by “technical regulations” in the definitions {{IEV 901-06-01, urn:iec:std:iec:60050-901-06-01}}
+      to {{IEV 901-06-09, urn:iec:std:iec:60050-901-06-09}}, and “standardizing bodies”
+      by “authorities” in definition {{IEV 901-06-01, urn:iec:std:iec:60050-901-06-01}}."
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: '6.9'
+      original: ISO/IEC Guide 2:2004, 6.9, modified – The note from the title of Clause
+        6 in ISO/IEC Guide 2:2004 has been added to the entry.
+    status: modified
+    type: authoritative
+    modification: The note from the title of Clause 6 in ISO/IEC Guide 2:2004 has
+      been added to the entry.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: comparable standards
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-901-06
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 6055fef9-a6af-5af7-904d-26048735a911

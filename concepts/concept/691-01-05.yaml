@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 691-01-05
+  localized_concepts:
+    ara: 06e8ddae-ecf5-570a-9ab9-0609a685ff09
+    eng: fa1e29a7-5228-5f64-be7e-794845386b94
+    spa: d83e6738-f911-51e5-8a91-8bb01a3e117b
+    fra: ab765806-8c92-5119-b470-b9f49bae7903
+    ita: bf30cb64-cd34-56aa-80ff-a4a37f0f5fe2
+    jpn: 86726776-d572-55f3-b5bc-7921a8ffd940
+    kor: b82b1990-7854-5df3-8bf4-f9c1e9032d84
+    mon: b8d624e1-b6d7-5c98-877a-7a35c79be0a1
+    pol: 621a338a-c64d-541c-8a63-e5b908f90c3c
+    por: 510ea339-f3ca-519d-be7f-22fe6d3b7654
+    swe: 94e4b00c-dba8-58ad-aee9-c117fec50197
+  domains:
+  - concept_id: area-691
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-691-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-691-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-691-01
+status: valid
+schema_version: '3'
+id: 691-01-05

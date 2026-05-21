@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{distortion, urn:iec:std:iec:60050-702-07-43}} of a {{signal, urn:iec:std:iec:60050-101-12-02}}
+      resulting from the {{quantization, urn:iec:std:iec:60050-702-04-07}} of an original
+      signal"
+  examples: []
+  id: 702-07-69
+  notes:
+  - content: The terms "quantizing distortion" and "quantizing noise" are usually
+      restricted to the effect occurring within the {{working range, urn:iec:std:iec:60050-704-24-10}}
+      of the quantizer.
+  - content: The term “quantizing noise” originated because the distortion usually
+      has the appearance of a {{random noise, urn:iec:std:iec:60050-161-02-14}} superimposed
+      on the signal carrying {{information, urn:iec:std:iec:60050-101-12-01}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: quantizing distortion
+  - type: expression
+    normative_status: preferred
+    designation: quantizing noise
+  domain: section-702-07
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: fb423e2d-d3ef-5d9a-ac50-3c1b272aa9a2
+classification: preferred

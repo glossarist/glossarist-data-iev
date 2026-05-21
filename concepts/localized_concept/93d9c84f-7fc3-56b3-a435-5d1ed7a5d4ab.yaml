@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: error recovery in which a system, program, database, or other system
+      resource is restored to a previous state in which it can perform required functions
+  examples: []
+  id: 192-10-17
+  notes:
+  - content: Backward error recovery is employed in system software.
+  - content: Backward error recovery requires the internal state of the item to be
+      recorded at certain points during its operation.
+  sources:
+  - origin:
+      ref: ISO/IEC/IEEE 24765:2010
+      locality:
+        type: clause
+        reference_from: 3.234 (2)
+      original: ISO/IEC/IEEE 24765:2010,  _Systems and software engineering – Vocabulary_,
+        3.234 (2), modified by omission of "type of" or other relevant words and addition
+        of Notes 1 and 2
+    status: modified
+    type: authoritative
+    modification: by omission of "type of" or other relevant words and addition of
+      Notes 1 and 2
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: backward recovery
+  - type: expression
+    designation: backward error recovery
+  domain: section-192-10
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: 93d9c84f-7fc3-56b3-a435-5d1ed7a5d4ab

@@ -1,0 +1,43 @@
+---
+data:
+  definition:
+  - content: période pendant laquelle un {{document normatif, urn:iec:std:iec:60050-901-02-01}}
+      est actuel et qui s'étend de la date d'entrée en vigueur faisant suite à une
+      décision de l'{{organisme, urn:iec:std:iec:60050-901-03-01}} qui en est responsable
+      jusqu'à son retrait ou son remplacement
+  examples: []
+  id: 901-04-04
+  notes:
+  - content: L'expression “période” se refère à la "durée" de l'intervalle de temps
+      définit en {{IEV 113-01-13, urn:iec:std:iec:60050-113-01-13}}.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: '9.3'
+      original: Guide ISO/CEI 2:2004, 9.3, modifiée – La Note 1 à l'article a été
+        ajoutée.
+    status: modified
+    type: authoritative
+    modification: La Note 1 à l'article a été ajoutée.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: période de validité
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-901-04
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: b57c55fc-df7f-55bf-930a-35a3da435cb0

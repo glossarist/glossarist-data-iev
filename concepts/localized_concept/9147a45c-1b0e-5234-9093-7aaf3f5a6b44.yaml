@@ -1,0 +1,28 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{address, urn:iec:std:iec:60050-171-05-35}} that designates the storage
+      location of another address"
+  examples: []
+  id: 171-05-38
+  notes:
+  - content: The designated storage location can contain the address of the desired
+      operand or another indirect address; this chain of addresses eventually leads
+      to the operand.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: indirect address
+  domain: section-171-05
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 9147a45c-1b0e-5234-9093-7aaf3f5a6b44

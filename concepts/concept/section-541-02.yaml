@@ -1,0 +1,35 @@
+---
+data:
+  identifier: section-541-02
+  localized_concepts:
+    eng: 8001c6c2-00ee-5341-b9e4-1c42b808e8b4
+  domains:
+  - concept_id: area-541
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-541-02
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-541
+  type: broader
+  ref:
+    source: IEV
+    id: area-541
+- content: 541-02-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 541-02-01
+- content: 541-02-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 541-02-02
+- content: 541-02-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 541-02-03
+schema_version: '3'
+id: section-541-02

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 821-06-02
+  localized_concepts:
+    ara: 63d03206-06d8-5575-aad6-69d45f4bb93b
+    deu: 4a206f16-6e2a-51c0-b0c4-143071f30dd5
+    eng: 6fe83a0a-3edd-5b1a-abc9-c9017eea58aa
+    spa: 7785c0db-3070-577e-8248-020daff02b3c
+    fra: 15b23741-5b8a-5ad2-82e0-58068f646397
+    ita: fe591938-2611-5953-a84b-370cd95f273a
+    jpn: db7cb4be-581f-511e-a07f-d0def4a5bd00
+    kor: a3fe85c8-41fe-5650-b8ee-c88bab118a31
+    pol: 16fa253f-3a68-5d25-ab0e-9e77665407ed
+    por: 9a6e1b6a-cd05-5371-904a-de6585c8861c
+    zho: c3e916ee-6387-5589-9a54-7cf16380524d
+  domains:
+  - concept_id: area-821
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-821-06
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-821-06
+  type: broader
+  ref:
+    source: IEV
+    id: section-821-06
+status: valid
+schema_version: '3'
+id: 821-06-02

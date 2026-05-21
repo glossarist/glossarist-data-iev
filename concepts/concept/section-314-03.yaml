@@ -1,0 +1,35 @@
+---
+data:
+  identifier: section-314-03
+  localized_concepts:
+    eng: 62ffec25-67cb-57ba-8ea2-ac218236b9dd
+  domains:
+  - concept_id: area-314
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-314-03
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-314
+  type: broader
+  ref:
+    source: IEV
+    id: area-314
+- content: 314-03-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 314-03-01
+- content: 314-03-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 314-03-02
+- content: 314-03-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 314-03-03
+schema_version: '3'
+id: section-314-03

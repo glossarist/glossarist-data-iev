@@ -1,0 +1,48 @@
+---
+data:
+  dates:
+  - date: '2018-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: technology by which electric energy is derived from environmental sources
+      and stored in a storage {{device, urn:iec:std:iec:60050-151-11-20}}
+  examples: []
+  id: 523-08-04
+  notes:
+  - content: MEMS technology is often used for typical energy conversion devices.
+      Examples of energy derived from environmental sources are solar energy, thermal
+      energy, wind energy and mechanical vibration energy. Typical storage devices
+      are a {{capacitor, urn:iec:std:iec:60050-151-13-28}}, super capacitor, and battery.
+      The important applications for energy harvesting are environmental monitoring
+      systems in wide or remote areas, security systems, building maintenance systems,
+      and factory maintenance systems.
+  sources:
+  - origin:
+      ref: IEC 62047-1:2016
+      locality:
+        type: clause
+        reference_from: 2.8.5
+      original: IEC 62047-1:2016, 2.8.5
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: energy harvesting
+  - type: expression
+    normative_status: preferred
+    designation: power harvesting
+  - type: expression
+    normative_status: admitted
+    designation: energy scavenging
+  domain: section-523-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-12-01T00:00:00+00:00'
+id: cff67372-b0e8-5708-a75a-eec1c4ca7947
+classification: preferred

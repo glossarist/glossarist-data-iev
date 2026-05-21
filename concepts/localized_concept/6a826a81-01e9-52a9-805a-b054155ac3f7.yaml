@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: 'unique positive value, if it exists, associated with a three-dimensional
+      domain, with the following properties: * for a rectangular parallelepiped, the
+      value is the product of the three side lengths, * for a disjoint union of domains,
+      the value is the sum of the values associated to these domains, * for more complicated
+      domains, the value can be approximated by sums and given by an integral'
+  examples: []
+  id: 102-04-40
+  notes:
+  - content: The volume stem:[V] of the three-dimensional domain D is determined by
+      the volume integral stem:["P{iiint}"_("D") rm(d) V], where dstem:[V] is the
+      volume element ({{IEV 102-05-10, urn:iec:std:iec:60050-102-05-10}}).
+  - content: In the usual geometrical space, the volume is a quantity of dimension
+      length cubed.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: volume
+  - type: symbol
+    designation: stem:[V]
+    international: true
+  domain: section-102-04
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: 6a826a81-01e9-52a9-805a-b054155ac3f7

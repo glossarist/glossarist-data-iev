@@ -1,0 +1,46 @@
+---
+data:
+  definition:
+  - content: |-
+      valeur de la {{grandeur caractéristique, urn:iec:std:iec:60050-447-07-01}} à laquelle un {{relais de mesure, urn:iec:std:iec:60050-447-01-02}} ou un {{équipement de protection, urn:iec:std:iec:60050-447-01-49}} {{démarre, urn:iec:std:iec:60050-447-02-08}} (reprend)<simg usemap="#1-60050-447-Ed2-IS-CDV-Fig3-fr-4web"><map name="1-60050-447-Ed2-IS-CDV-Fig3-fr-4web"> <area title="temps de démarrage" href="IEV447-05-11" shape="rect" coords="250,403,357,447" target="_self" alt="temps de démarrage"> <area title="grandeur caractéristique (pour relais à minimum de ...)" href="IEV447-01-24" shape="rect" coords="5,142,170,112" target="_self" alt="grandeur caractéristique (pour relais à minimum de ...)"> <area title="grandeur caractéristique (pour relais à maximum de ...)" href="IEV447-01-23" shape="rect" coords="3,264,173,295" target="_self" alt="grandeur caractéristique (pour relais à maximum de ...)"> <area title="état initial" href="IEV447-02-03" shape="rect" coords="182,37,266,86" target="_self" alt="état initial"> <area title="valeur de démarrage" href="IEV447-02-14" shape="rect" coords="182,133,253,193" target="_self" alt="valeur de démarrage"> <area title="valeur de démarrage" href="IEV447-02-14" shape="rect" coords="183,213,251,274" target="_self" alt="valeur de démarrage"> <area title="démarrer" href="IEV447-02-08" shape="rect" coords="307,17,374,49" target="_self" alt="démarrer"> <area title="état de démarrage" href="IEV447-02-19" shape="rect" coords="356,59,462,90" target="_self" alt="état de démarrage">
+      <area title="signaux de sortie" href="IEV447-04-03" shape="rect" coords="70,367,169,383" target="_self" alt="signaux de sortie"></map>
+
+      Figure 3 – Diagramme explicatif de l'état de démarrage (état de reprise)</b></p></simg>
+  examples: []
+  id: 447-02-14
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: valeur de démarrage
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: valeur de reprise
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-447-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 9eb69bc0-5521-5c85-9b69-868f4c38cb39
+classification: preferred

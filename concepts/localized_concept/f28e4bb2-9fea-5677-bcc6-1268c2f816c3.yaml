@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2007-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2007-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "distortion of voltage waveform caused by a non-linear relation between
+      the magnetic flux density and the magnetic field strength in the magnetic core
+      and expressed in decibels by:\r\nstem:[THD] &amp;equals; 20 lg(stem:[V]~m~/stem:[V]~f~)
+      dB\n\nwhere\n\nstem:[V_(\"m\") = sqrt(sum_(n = 1)^(oo) V_(n)^(2))]\r\nstem:[V]~stem:[n]~
+      is the amplitude of the stem:[n]-th harmonic component of the waveform and stem:[V]~f~
+      is the amplitude of its fundamental component"
+  examples: []
+  id: 221-03-42
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: "(magnetic) total harmonic distortion"
+  - type: symbol
+    designation: stem:[THD]
+    international: true
+  domain: section-221-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2007-04-01T00:00:00+00:00'
+  review_decision_date: '2007-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2007-04-01T00:00:00+00:00'
+id: f28e4bb2-9fea-5677-bcc6-1268c2f816c3

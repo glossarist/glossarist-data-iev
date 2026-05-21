@@ -1,0 +1,50 @@
+---
+data:
+  definition:
+  - content: "{{dispositif, urn:iec:std:iec:60050-151-11-20}} constitué de {{conducteurs,
+      urn:iec:std:iec:60050-121-12-02}}, d'{{isolants, urn:iec:std:iec:60050-151-15-35}}
+      et d'{{accessoires, urn:iec:std:iec:60050-151-11-24}} destiné au transfert de
+      l'{{energie, urn:iec:std:iec:60050-113-03-45}} {{électromagnétique, urn:iec:std:iec:60050-151-11-09}}
+      entre deux dispositifs {{électriques, urn:iec:std:iec:60050-151-11-03}}"
+  examples:
+  - content: une ligne bifilaire, une {{ligne polyphasée, urn:iec:std:iec:60050-141-03-01}},
+      une {{ligne coaxiale, urn:iec:std:iec:60050-726-01-15}}, un {{guide d'ondes,
+      urn:iec:std:iec:60050-151-12-34}}.
+  id: 151-12-27
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ligne électrique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: ligne
+    usage_info: pour le transfert de l'énergie électrique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-151-12
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 999464d7-edcb-5bd1-84b6-107cc2b9e936
+classification: preferred

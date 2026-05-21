@@ -1,0 +1,39 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: time integral of radiance, stem:[L]~e~, over a given duration, Δstem:[t]stem:[L_("e"
+      "," t) = int_(Delta t) L_("e") " " "d" t]
+  examples: []
+  id: 845-21-067
+  notes:
+  - content: The corresponding photometric quantity is "luminance dose". The corresponding
+      quantity for photons is "photon radiance dose".
+  - content: The radiance dose is expressed in joule per square metre per steradian
+      (J·m^−2^·sr^−1^).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance dose
+  - type: expression
+    designation: integrated radiance
+  - type: expression
+    normative_status: admitted
+    designation: time-integrated radiance
+  - type: symbol
+    designation: |-
+      stem:[L]~e,~stem:[~t~]
+      stem:[L~t~]
+    international: true
+  domain: section-845-21
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 40646905-bfb4-541c-af97-e189cf2dc429

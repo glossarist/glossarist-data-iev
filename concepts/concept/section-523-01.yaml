@@ -1,0 +1,35 @@
+---
+data:
+  identifier: section-523-01
+  localized_concepts:
+    eng: b178fcee-f194-50ec-bc9e-79c06ae4ea92
+  domains:
+  - concept_id: area-523
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-523-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-523
+  type: broader
+  ref:
+    source: IEV
+    id: area-523
+- content: 523-01-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 523-01-01
+- content: 523-01-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 523-01-02
+- content: 523-01-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 523-01-03
+schema_version: '3'
+id: section-523-01

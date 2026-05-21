@@ -1,0 +1,50 @@
+---
+data:
+  dates:
+  - date: '2016-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: qualifying a time-varying phenomenon, a {{timescale, urn:iec:std:iec:60050-702-04-11}}
+      or a {{signal, urn:iec:std:iec:60050-701-01-02}} the consecutive {{significant
+      instants, urn:iec:std:iec:60050-704-13-03}} of which are separated by {{time
+      intervals, urn:iec:std:iec:60050-113-01-10}} which are not all constrained to
+      have the same rated {{duration, urn:iec:std:iec:60050-113-01-13}} or to have
+      rated durations equal to integral multiples of a unit duration
+  examples: []
+  id: 702-04-15
+  notes:
+  - content: The term “asynchronous” with a different meaning is used in the technique
+      of rotating machines (see for example {{IEV 411-31-09, urn:iec:std:iec:60050-411-31-09}}
+      “asynchronous machine").
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: anisochronous
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: asynchronous
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-702-04
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-12-01T00:00:00+00:00'
+id: 46720098-e539-5bbd-9e60-329c24c0fa48
+classification: deprecated

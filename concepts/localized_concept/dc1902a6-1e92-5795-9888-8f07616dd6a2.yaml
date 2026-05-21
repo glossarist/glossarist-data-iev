@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2011-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: somme des durées caractérisées par des conditions données à l'intérieur
+      d'un intervalle de temps donné
+  examples: []
+  id: 113-01-14
+  notes:
+  - content: Les intervalles de temps correspondant aux différentes durées peuvent
+      se chevaucher ou non. Un exemple où les intervalles de temps ne se chevauchent
+      pas est la durée cumulée d'indisponibilité. Un exemple où ils se chevauchent
+      est la durée équivalente de maintenance ou durée en hommes-heures. (Voir la
+      CEI 60050-191:1990).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durée cumulée
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-113-01
+  language_code: fra
+  entry_status: valid
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-04-01T00:00:00+00:00'
+id: dc1902a6-1e92-5795-9888-8f07616dd6a2

@@ -1,0 +1,54 @@
+---
+data:
+  definition:
+  - content: pour tout vecteur *stem:[U]*, scalaire positif ou nul, noté généralement
+      stem:[|U|], égal à la racine carrée non négative du produit scalaire, ou du
+      produit hermitien dans le cas d'un vecteur complexe, du vecteur par lui-même
+  examples: []
+  id: 102-03-23
+  notes:
+  - content: 'La norme d''un vecteur *stem:[U]* a les propriétés suivantes: *    U=0
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahwfacqGH9aqpie
+      qajugqbiaa=bdaaaa@3C1B@    si et seulement si    |U|=0 MathType@MTEF@5@5@+=
+      feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe
+      aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe
+      WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaamaaemaabaGaaCyvaa Gaay5bSlaawIa7aiabg2da9iaaicdaaaa@3E8D@   ,*    |
+      αU|=|α|⋅|U| MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaamaaemaabaGaeqySde
+      MaaCyvaaGaay5bSlaawIa7aiabg2da9maaemaabaGaeqySdegacaGL hWUaayjcSdGaeyyXIC9aaqWaaeaacaWHvbaacaGLhWUaayjcSdaaaa@4A7D@    où
+      α est un scalaire, *    | U+V|≤|U|+|V| MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaamaaemaabaGaaCyvai
+      abgUcaRiaahAfaaiaawEa7caGLiWoacqGHKjYOdaabdaqaaiaahwfa aiaawEa7caGLiWoacqGHRaWkdaabdaqaaiaahAfaaiaawEa7caGLiW
+      oaaaa@4926@    où V est un autre vecteur quelconque.'
+  - content: Pour un vecteur *stem:[U]* dans l'espace vectoriel euclidien ou hermitien
+      à trois dimensions muni d'une base orthonormée, la norme est donnée par stem:[|U|
+      = sqrt(|U_(1)|^(2) + |U_(2)|^(2) + |U_(3)|^(2))].
+  - content: Les termes «norme euclidienne» et «norme hermitienne» peuvent être employés
+      dans les cas réel et complexe, respectivement.
+  - content: La norme d'un vecteur *stem:[U]* est notée stem:[|U|] ou stem:[U]; stem:[normUnorm]
+      est aussi utilisé.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: norme
+    usage_info: d'un vecteur
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-03
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: fcc6152d-55cd-5809-a29a-5f2f96c7d650

@@ -1,0 +1,59 @@
+---
+data:
+  definition:
+  - content: voie de transmission dont la {{bande de fréquences, urn:iec:std:iec:60050-704-09-02}}
+      permet la transmission de {{signaux son, urn:iec:std:iec:60050-723-02-06}}
+  examples: []
+  id: 704-09-06
+  notes:
+  - content: En {{stéréophonie, urn:iec:std:iec:60050-723-03-43}}, il faut associer
+      deux voies radiophoniques.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: voie radiophonique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: voie son
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: circuit radiophonique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-704-09
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 6c4338c4-a51f-5104-9ff8-5e6ca7292768
+classification: preferred

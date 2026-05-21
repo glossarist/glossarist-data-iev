@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: part of a communication system that connects the {{message source, urn:iec:std:iec:60050-171-07-05}}
+      with the {{message sink, urn:iec:std:iec:60050-171-07-06}}
+  examples: []
+  id: 171-07-07
+  notes:
+  - content: An encoder can be inserted between the message source and the input to
+      the channel, and a decoder between the output of the channel and the message
+      sink. Generally, these two units are not considered as being parts of the channel.
+      In certain cases, however, they can be considered as parts of the message source
+      and message sink, respectively.
+  - content: In information theory according to Shannon, the channel can be characterized
+      by the set of conditional probabilities of occurrence of all the messages received
+      at the message sink when a given message emanates from the message source.
+  sources:
+  - origin:
+      ref: ISO/IEC 2382-16:1996
+      locality:
+        type: clause
+        reference_from: 16.02.04
+      original: ISO/IEC 2382-16:1996, 16.02.04
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: channel
+    usage_info: in communication theory
+  domain: area-171
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: be71eb6d-d511-5985-b6f9-c80b64cfff78

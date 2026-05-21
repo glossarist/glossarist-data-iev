@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: sum of the reflected spectral radiance factor, stem:[β]~R~(stem:[λ]),
+      and the luminescent spectral radiance factor, stem:[β]~L~(stem:[λ])stem:[β]~T~(stem:[λ]) =
+      stem:[β]~R~(stem:[λ]) + stem:[β]~L~(stem:[λ])
+  examples: []
+  id: 845-24-076
+  notes:
+  - content: For fluorescence colorimetric applications, it is implicit that the quantity
+      used in the colorimetric calculations is the total radiance factor, and it is
+      common to omit the subscript T.
+  - content: The total spectral radiance factor has unit one.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: total spectral radiance factor
+  - type: symbol
+    designation: stem:[β]~T~(stem:[λ])
+    international: true
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: e68c4efc-f749-5db2-a1fb-368df4ed4cbd
