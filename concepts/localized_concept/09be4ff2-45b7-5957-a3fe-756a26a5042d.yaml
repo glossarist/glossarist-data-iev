@@ -1,0 +1,52 @@
+---
+data:
+  dates:
+  - date: '2002-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ensemble de branches d'un graphe tel que la suppression de toutes ces
+      branches augmente le nombre de parties non connexes du graphe alors que le maintien
+      d'une seule d'entre elles ne l'augmente pas
+  examples: []
+  id: 131-13-19
+  notes:
+  - content: "Pour le réseau de la figure ci-dessous, deux ensembles de coupure sont
+      (2-3, 6-7) et (1-5, 2-6, 3-7, 3-4).\r\nimage::/assets/images/parts/131/[]"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ensemble de coupure
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: coupure
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-131-13
+  language_code: fra
+  entry_status: valid
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-06-01T00:00:00+00:00'
+id: '09be4ff2-45b7-5957-a3fe-756a26a5042d'

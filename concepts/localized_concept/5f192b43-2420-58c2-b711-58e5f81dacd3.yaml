@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{regulation, urn:iec:std:iec:60050-901-02-10}} that provides technical
+      {{requirement, urn:iec:std:iec:60050-901-05-05}}s, either directly or by referring
+      to or incorporating the content of a {{standard, urn:iec:std:iec:60050-901-02-02}},
+      {{technical specification, urn:iec:std:iec:60050-901-02-08}} or {{code of practice,
+      urn:iec:std:iec:60050-901-02-09}}"
+  examples: []
+  id: 901-02-11
+  notes:
+  - content: A technical regulation may be supplemented by technical guidance that
+      outlines some means of compliance with the requirements of the regulation, i.e.
+      {{deemed-to-satisfy provision, urn:iec:std:iec:60050-901-05-08}}.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: 3.6.1
+      original: ISO/IEC Guide 2:2004, 3.6.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: technical regulation
+  domain: section-901-02
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 5f192b43-2420-58c2-b711-58e5f81dacd3

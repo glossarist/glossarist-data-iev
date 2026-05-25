@@ -1,0 +1,29 @@
+---
+data:
+  dates:
+  - date: '2020-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{measuring relay, urn:iec:std:iec:60050-447-01-02}}, the {{characteristic
+      quantity, urn:iec:std:iec:60050-447-07-01}} of which is frequency"
+  examples: []
+  id: 447-01-29
+  notes:
+  - content: The respective operation is defined by one of the four terms {{"over…
+      relay", urn:iec:std:iec:60050-447-01-23}}, {{"under… relay", urn:iec:std:iec:60050-447-01-24}},
+      {{"under and over… relay", urn:iec:std:iec:60050-447-01-25}}, and {{"rate of
+      change of… relay", urn:iec:std:iec:60050-447-01-26}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: frequency relay
+  domain: section-447-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-05-01T00:00:00+00:00'
+  review_decision_date: '2020-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-05-01T00:00:00+00:00'
+id: 047ac8e8-af39-591a-91be-32b25ddadf22

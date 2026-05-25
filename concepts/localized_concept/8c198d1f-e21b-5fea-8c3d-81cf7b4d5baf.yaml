@@ -1,0 +1,68 @@
+---
+data:
+  definition:
+  - content: "tout microscope utilisant une {{sonde, urn:iec:std:iec:60050-313-09-11}}
+      avec une pointe d’échelle atomique et qui la balaie dans une configuration de
+      {{trame, urn:iec:std:iec:60050-531-14-20}} près du spécimen pour la mesure des
+      grandeurs physiques entre la sonde et la surface en vue d’obtenir une image\r\nNote
+      1 à l’article: En approchant une pointe de sonde très pointue de la surface
+      du spécimen, diverses forces physiques qui travaillent entre la sonde et le
+      spécimen peuvent être mesurées à une résolution d’échelle atomique. En général,
+      la sonde est déplacée sur la surface du spécimen dans une configuration de trame
+      tout en gardant la grandeur physique mesurée à un niveau constant, et ce faisant
+      le {{déplacement, urn:iec:std:iec:60050-113-01-29}} de la sonde est utilisé
+      pour fournir les données permettant de dessiner une image fine du spécimen.
+      Il s’agit du principe commun de différents types de microscopes sondes à balayage,
+      c’est-à-dire le microscope à effet tunnel à balayage, le {{microscope à force
+      atomique, urn:iec:std:iec:60050-523-07-02}}, le microscope à force électrostatique,
+      le microscope ionique à balayage, le microscope à champ magnétique à balayage,
+      le microscope à température à balayage et le microscope à force de friction
+      à balayage. \r\nNote 2 à l’article: Le terme abrégé \"SPM\" est dérivé du terme
+      anglais développé correspondant \"scanning probe microscope\"."
+  examples: []
+  id: 523-07-01
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 62047-1:2016
+      locality:
+        type: clause
+        reference_from: 2.7.1
+      original: IEC 62047-1:2016, 2.7.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: microscope sonde à balayage
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: SPM
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-523-07
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 8c198d1f-e21b-5fea-8c3d-81cf7b4d5baf
+classification: preferred

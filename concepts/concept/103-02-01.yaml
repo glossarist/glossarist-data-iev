@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 103-02-01
+  localized_concepts:
+    ara: 797938ee-dcf6-5e46-9c0e-a2c1817ffaf8
+    deu: 167833f6-2ea9-5d3d-bf87-2199b763a4c5
+    eng: ed759c78-7861-5247-8daf-2e63ca27359b
+    spa: 694d92b9-2cee-5682-a9ae-191218e45a6a
+    fra: 56017e4d-3522-56e4-aa21-85a380180d58
+    ita: badfb94d-6440-597b-8183-808a4c47e16e
+    jpn: 4ed1f856-ab2a-547d-9edd-22298f0f6546
+    kor: 380135de-47ea-57f3-8c56-0965eece118f
+    pol: 3f02cfa6-4b60-52ea-8a47-002cb1bf39df
+    por: ffe31811-8de2-51ed-ad7d-39cfe5055243
+    srp: aee9659b-2893-577b-b4ad-244cb0e602d7
+    swe: 73c31335-5928-5977-bf37-35ea4e5243a2
+    zho: 21b3ea9a-abd4-51ba-b622-f85787d39318
+  domains:
+  - concept_id: area-103
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-103-02
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-103-02
+  type: broader
+  ref:
+    source: IEV
+    id: section-103-02
+- type: supersedes
+  ref:
+    source: IEV
+    id: 103-02-01
+    version: 2009-12
+status: valid
+schema_version: '3'
+id: 103-02-01

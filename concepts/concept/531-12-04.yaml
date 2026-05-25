@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 531-12-04
+  localized_concepts:
+    ara: db44f028-afcb-547d-b0c5-53c0fb427dd7
+    deu: 5cc032ce-6e18-555b-a966-c37c90f8e67c
+    eng: f89fa4b8-ebc3-5775-b833-6284570e1c3d
+    spa: ba09e93e-7193-5609-a6ab-06268f4cb067
+    fra: 1d1d4657-3983-5e7b-a265-1732a0beefc0
+    ita: 0ed66617-f973-5f3c-9d84-8144b20abef6
+    jpn: 957dffa0-3cfa-5d60-9c3e-be5371e5c9cf
+    kor: e524930d-276d-591a-b3b4-ef4c3059c12d
+    pol: 9577e9d6-59e6-5cbe-9db5-7acf6a0d1e57
+    por: a68dd21e-91dc-5a5e-9a4c-f2ba3a98562a
+    srp: ec63634c-0c8a-573e-aff2-56d51f021d55
+    swe: 67fabb01-f3fa-52be-8fdd-94ed77ae9f44
+    zho: 42751d5c-567c-5d6f-8312-18288bffce94
+  domains:
+  - concept_id: area-531
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-531-12
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-531-12
+  type: broader
+  ref:
+    source: IEV
+    id: section-531-12
+- type: supersedes
+  ref:
+    source: IEV
+    id: 531-12-04
+    version: '1974'
+status: valid
+schema_version: '3'
+id: 531-12-04

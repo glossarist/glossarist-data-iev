@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2018-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{angle modulation, urn:iec:std:iec:60050-702-06-30}} in which each
+      {{significant condition, urn:iec:std:iec:60050-702-05-21}} in a modulating {{discretely
+      timed signal, urn:iec:std:iec:60050-702-04-04}} is represented by a specified
+      value of the difference between the {{phase, urn:iec:std:iec:60050-103-07-04}}
+      of the {{modulated signal, urn:iec:std:iec:60050-702-06-05}} and the phase of
+      the {{carrier, urn:iec:std:iec:60050-702-06-03}} in the absence of {{modulation,
+      urn:iec:std:iec:60050-701-03-08}}"
+  examples: []
+  id: 702-06-40
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phase shift keying
+  - type: expression
+    normative_status: preferred
+    designation: PSK
+  - type: expression
+    normative_status: admitted
+    designation: phase shift modulation
+  - type: expression
+    normative_status: admitted
+    designation: phase shift signalling
+  domain: section-702-06
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-09-01T00:00:00+00:00'
+  review_decision_date: '2018-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-09-01T00:00:00+00:00'
+id: e0f3aad9-245d-57cc-89cf-6dd759e29e84
+classification: preferred

@@ -1,0 +1,33 @@
+---
+data:
+  definition:
+  - content: matrice carrée régulière *stem:[A]* à éléments complexes dont l’inverse
+      *stem:[A]*^−1^ est égale à l’adjointe *stem:[A]*^H^
+  examples: []
+  id: 102-06-28
+  notes:
+  - content: 'Pour une matrice unitaire d''éléments stem:[A~ij~]: stem:[sum_(i) A_(i
+      j) A_(i k)^(*) = rm(delta)_(j k)] et stem:[sum_(k) A_(i k) A_(j k)^(*) = rm(delta)_(i
+      j)] où stem:[rm(delta)_(j k)] et stem:[rm(delta)_(i j)] sont des symboles de
+      Kronecker.'
+  - content: Toute matrice orthogonale à éléments réels est une matrice unitaire.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matrice unitaire
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-06
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 07bb7e4e-4490-5fe1-8f12-9eca0170ce69

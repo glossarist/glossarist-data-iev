@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "a unidirectional pulse defined as a function of time stem:[t] by the
+      expressions:\r\nstem:[y] = k sin^2^ (stem:[π t]/2stem:[T]) for 0 ≤ stem:[t]
+      ≤ 2stem:[T]\n\nstem:[y] = 0 for stem:[t] <0 and stem:[t] > 2stem:[T]\r\nwhere:\n\nstem:[y]
+      is the instantaneous value of the characteristic quantity,\n\nk is the peak
+      value of the pulse,\n\n2stem:[T] is the duration of the pulse, stem:[T] being
+      the length of time during which the characteristic quantity is greater than
+      k/2"
+  examples: []
+  id: 702-03-13
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: sine-squared pulse
+  domain: section-702-03
+  language_code: eng
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: 46e1404c-0014-5ffb-9e6d-eddd6b85299a

@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2017-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2017-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ratio of the {{RMS value, urn:iec:std:iec:60050-103-02-03}} of the {{fundamental
+      component, urn:iec:std:iec:60050-103-07-19}} of an alternating quantity to the
+      RMS value of the quantity
+  examples: []
+  id: 103-07-23
+  notes:
+  - content: For an alternating quantity stem:[x] with RMS value stem:[X_("eff")]
+      and RMS fundamental component stem:[X_("1 eff")], the fundamental factor is
+      stem:[g = X_("1 eff") / X_("eff")].
+  - content: The extension to a {{reference fundamental component, urn:iec:std:iec:60050-103-07-20}}
+      is given in {{IEV 551-20-17, urn:iec:std:iec:60050-551-20-17}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fundamental factor
+  - type: expression
+    normative_status: preferred
+    designation: relative fundamental content
+  - type: symbol
+    designation: stem:[g]
+    international: true
+  domain: section-103-07
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-07-01T00:00:00+00:00'
+id: 18c8b416-bafc-58d9-a493-24c6a2e84903
+classification: preferred

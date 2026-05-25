@@ -1,0 +1,54 @@
+---
+data:
+  dates:
+  - date: '1998-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "en régime sinusoïdal, dans un milieu tel qu'une relation linéaire existe
+      en chaque point entre les phaseurs <u>stem:[D]</u>, <u>stem:[E]</u> et <u>stem:[J]</u>
+      représentant respectivement l'induction électrique, le champ électrique et la
+      densité de courant électrique, grandeur complexe stem:[<u>ε</u>]~re~ définie
+      par la relation\r\nstem:[epsilon_(0) \" \" \" \" underline(epsilon)_(\"re\")
+      \" \" underline(E) = underline(D) + frac(underline(J))(\"j\" omega) = underline(D)
+      - \"j\" frac(gamma \" \" underline(E))(omega)]\n\noù stem:[γ] est la conductivité
+      du milieu, stem:[ω] la pulsation et stem:[ε]~0~ la constante électrique"
+  examples: []
+  id: 121-12-18
+  notes:
+  - content: La permittivité relative complexe équivalente, généralement fonction
+      de la fréquence, est une grandeur scalaire dans un milieu isotrope, une grandeur
+      tensorielle dans un milieu anisotrope.
+  - content: "La permittivité relative complexe équivalente et la permittivité relative
+      complexe stem:[<u>ε</u>]~r~ sont reliées par la relation\n\nstem:[\" \" underline(epsilon)_(\"re\")
+      \" \" = underline(epsilon)_(\"r\") - frac(\"j\" gamma \" \")(epsilon_(0) omega)]\r\nDans
+      les milieux conducteurs, tels que les bons conducteurs et les diélectriques
+      imparfaits, la grandeur utile et mesurable est la permittivité relative complexe
+      équivalente."
+  - content: L'opposé de la partie imaginaire de la permittivité relative complexe
+      équivalente caractérise l'ensemble des pertes diélectriques et des pertes dues
+      à la conductivité, la contribution de ces dernières étant représentée par stem:[γ]/stem:[ε]~0~stem:[ω].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permittivité relative complexe équivalente
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-121-12
+  language_code: fra
+  entry_status: valid
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-08-01T00:00:00+00:00'
+id: b6f65724-405b-5a3d-87b2-234f9db3554e

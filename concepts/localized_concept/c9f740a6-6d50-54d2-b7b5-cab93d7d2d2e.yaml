@@ -1,0 +1,53 @@
+---
+data:
+  definition:
+  - content: phase du {{cycle de vie, urn:iec:std:iec:60050-901-07-12}} d’un produit
+      débutant lorsqu’il est définitivement retiré de sa phase d’{{utilisation prévue,
+      urn:iec:std:iec:60050-903-01-13}}[CEI 62075:2008, définition 3.4, modifiée]
+  examples: []
+  id: 901-07-15
+  notes: []
+  sources:
+  - origin:
+      ref: IEC Guide 109:2012
+      locality:
+        type: clause
+        reference_from: '3.1'
+      original: Guide CEI 109:2012, 3.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fin de vie
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: EOL
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-901-07
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: c9f740a6-6d50-54d2-b7b5-cab93d7d2d2e
+classification: preferred

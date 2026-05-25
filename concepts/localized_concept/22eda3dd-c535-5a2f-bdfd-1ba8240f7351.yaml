@@ -1,0 +1,80 @@
+---
+data:
+  dates:
+  - date: '2010-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2010-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: grandeur pour laquelle tous les exposants des facteurs correspondant
+      aux grandeurs de base dans sa dimension sont nuls
+  examples: []
+  id: 112-01-13
+  notes:
+  - content: Le terme « grandeur sans dimension » est d'usage courant en français.
+      Il provient du fait que tous les exposants sont nuls dans la représentation
+      symbolique de la dimension de telles grandeurs. Le terme « grandeur de dimension
+      un » reflète la convention selon laquelle la représentation de la dimension
+      de telles grandeurs est le symbole `1`, imprimé sans empattement. Cette dimension
+      n’est pas le nombre un, mais l’élément neutre pour la multiplication des dimensions.
+  - content: Les unités de mesure et les valeurs des grandeurs sans dimension sont
+      des nombres, mais ces grandeurs portent plus d'information qu'un nombre.
+  - content: |-
+      Certaines grandeurs sans dimension sont définies comme des rapports de deux grandeurs de même nature. Exemples: angle plan, angle solide, indice de réfraction, perméabilité relative, fraction massique, facteur de frottement, nombre de Mach. S'il n'existe pas de nom spécial, le nom d'une telle grandeur comporte souvent un des termes facteur ou rapport, ou parfois nombre, fraction ou indice, ou encore l'adjectif relatif (voir la section 112-03). L’unité dérivée cohérente est un. La dimension de ces grandeurs peut être notée comme celle du dividende élevée à la puissance zéro. Exemples:
+
+      dim(angle plan) = L^0^,
+
+      dim(indice de réfraction stem:[n] = stem:[c]~0~/stem:[c]) = (LT^–1^)^0^,
+
+      dim(fraction massique) = M^0^,
+
+      dim(facteur de frottement stem:[μ] = stem:[F]~r~ /stem:[F]~n~) = dim(force)^0^ = (MLT^–2^)^0^.
+  - content: Les grandeurs sans dimension peuvent aussi être des nombres d'entités
+      (IEV 112-01-09).
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 99:2007
+      locality:
+        type: clause
+        reference_from: '1.8'
+      original: ISO/IEC GUIDE 99:2007 1.8
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur sans dimension
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: grandeur de dimension un
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-112-01
+  language_code: fra
+  entry_status: valid
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2010-01-01T00:00:00+00:00'
+id: 22eda3dd-c535-5a2f-bdfd-1ba8240f7351
+classification: preferred

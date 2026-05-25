@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: excluding from a particular assessment, data obtained either after a
+      given duration or a given number of events
+  examples: []
+  id: 192-09-15
+  notes:
+  - content: Events are usually failures, but, in a maintainability test, the events
+      would be restorations.
+  - content: A test terminated when there are still unfailed items may be called a
+      “censored test", and test duration data from such a test referred to as censored
+      data.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: censoring
+  domain: section-192-09
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: 235c3e12-5acd-59b6-b5c3-64a4bbb0e4cf

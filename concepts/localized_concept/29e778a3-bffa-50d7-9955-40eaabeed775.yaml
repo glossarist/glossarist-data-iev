@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '1982-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '1982-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "a quantity defined for a mode of propagation at a given frequency in
+      a specific uniform transmission line or uniform waveguide by one of the three
+      following relations:\r\n<u>stem:[Z]</u>~1~ = <u>stem:[S]</u>/ |<u>stem:[I]</u>|^2^\n\n<u>stem:[Z]</u>~2~
+      = |<u>stem:[U]</u>|^2^ / <u>stem:[S]</u>\n\n<u>stem:[Z]</u>~3~ = <u>stem:[U]</u>
+      / <u>stem:[I]</u>\r\nwhere <u>stem:[Z]</u> is the complex characteristic impedance,
+      <u>stem:[S]</u> the complex power and <u>stem:[U]</u> and <u>stem:[I]</u> are
+      the values, usually complex, respectively of a voltage and a current conventionally
+      defined for each type of mode by analogy with transmission line equations"
+  examples:
+  - content: "1. — For a parallel-wire transmission line, <u>stem:[U]</u> and <u>stem:[I]</u>
+      can be uniquely defined and the three equations are consistent. If the transmission
+      line is lossless, the characteristic impedance is real.\r\n2. — For a waveguide,
+      the conventional definitions for <u>stem:[U]</u> and <u>stem:[I]</u> depend
+      on the type of mode and generally lead to three different values of the characteristic
+      impedance. \r\n3. — For a circular waveguide in the dominant mode stem:[ТЕ]~11~,
+      stem:[U] = r.m.s. voltage along the diameter where the magnitude of the electric
+      field strength vector is a maximum, stem:[I] = the r.m.s. longitudinal current.\r\n4.
+      — For a rectangular waveguide in the dominant mode stem:[TE]~10~, stem:[U] =
+      the r.m.s. voltage between midpoints of the two conductor faces normal to the
+      electric field strength vector, stem:[I] = the r.m.s. longitudinal current following
+      on one surface normal to the electric field strength vector."
+  id: 726-07-01
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: characteristic impedance
+  domain: section-726-07
+  language_code: eng
+  entry_status: valid
+  review_date: '1982-01-01T00:00:00+00:00'
+  review_decision_date: '1982-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1982-01-01T00:00:00+00:00'
+id: 29e778a3-bffa-50d7-9955-40eaabeed775

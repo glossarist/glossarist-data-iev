@@ -1,0 +1,42 @@
+---
+data:
+  definition:
+  - content: qualifie un phénomène variable dans le temps, une {{trame temporelle,
+      urn:iec:std:iec:60050-702-04-11}} ou un {{signal, urn:iec:std:iec:60050-701-01-02}}
+      dont les {{instants significatifs, urn:iec:std:iec:60050-704-13-03}} consécutifs
+      sont séparés par des {{intervalles de temps, urn:iec:std:iec:60050-113-01-10}}
+      qui ne sont pas tous astreints à avoir la même {{durée, urn:iec:std:iec:60050-113-01-13}}
+      assignée ou des durées assignées égales à l'un des multiples d'une durée unitaire
+  examples: []
+  id: 702-04-15
+  notes:
+  - content: Le terme "asynchrone" est employé dans la technique des machines électriques
+      tournantes avec un sens différent (voir par exemple {{IEV 411-31-09, urn:iec:std:iec:60050-411-31-09}}
+      “machine asynchrone”).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: anisochrone
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: asynchrone
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-702-04
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: f457f31c-1c78-5ed5-8d4b-7edae072b19e
+classification: deprecated

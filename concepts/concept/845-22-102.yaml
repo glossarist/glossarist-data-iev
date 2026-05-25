@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 845-22-102
+  localized_concepts:
+    ara: 1890a219-93be-5349-9a6a-9bdf259436ed
+    deu: d16fcafa-8ec6-5afa-b9d1-ebc2462c8c0a
+    eng: 3f5f3c72-d087-5f24-a6ac-4a5887de9d0d
+    fra: ceb96951-60f2-5855-a66c-394af7e3ebbd
+    ita: 327a2a3e-f87a-55d7-b234-af77ee8a6e5c
+    jpn: 883067a6-8c9d-5ddb-a3a5-f22f632edc3b
+    kor: 918133e1-41a6-5ed6-8baf-ae2d28febbaf
+    pol: 9b0bbf8b-79d7-586e-85fe-a79dc4e1fa7d
+    por: 6d8e6e03-69e5-5681-89d5-2d550d08a4c8
+    zho: 45006dd4-9d2f-517c-8c48-fe0393706d83
+  domains:
+  - concept_id: area-845
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-845-22
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-845-22
+  type: broader
+  ref:
+    source: IEV
+    id: section-845-22
+status: valid
+schema_version: '3'
+id: 845-22-102

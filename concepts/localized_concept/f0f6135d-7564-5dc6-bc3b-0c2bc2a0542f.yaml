@@ -1,0 +1,65 @@
+---
+data:
+  definition:
+  - content: facteur par lequel les valeurs lues d'un photomètre physique peuvent
+      être multipliées afin de corriger l'erreur due à la différence entre la sensibilité
+      spectrale relative du photomètre et l'{{efficacité lumineuse relative spectrale,
+      urn:iec:std:iec:60050-845-21-035}} pour la vision photopique, stem:[V](stem:[λ]).
+      Ce facteur est destiné à simuler les conditions d‘utilisation du photomètre
+      afin de mesurer une source dont la {{répartition spectrale relative, urn:iec:std:iec:60050-845-21-030}}
+      est différente de celle de la source d'étalonnage du photomètre
+  examples: []
+  id: 845-25-115
+  notes:
+  - content: La plupart des photomètres sont conçus pour simuler l'efficacité lumineuse
+      relative spectrale pour la vision photopique, stem:[V](stem:[λ]), et sont étalonnés
+      au moyen d'une source correspondant à l'{{illuminant CIE normalisé, urn:iec:std:iec:60050-845-23-021}}
+      A. Pour ce type de photomètre, le facteur spectral de correction de désadaptation
+      peut être calculé à l'aide de l'équation:stem:[F^(*) = frac(int_(lambda) S (
+      lambda ) V ( lambda ) "d" lambda)(int_(lambda) S ( lambda ) s_("rel") ( lambda
+      ) "d" lambda) frac(int_(lambda) S_("A") ( lambda ) s_("rel") ( lambda ) "d"
+      lambda)(int_(lambda) S_("A") ( lambda ) V ( lambda ) "d" lambda)]où stem:[s]~rel~(stem:[λ])
+      est la sensibilité spectrale relative du photomètre et stem:[S](stem:[λ]) et
+      stem:[S]~A~(stem:[λ]) sont les répartitions spectrales relatives d'énergie de
+      la source à mesurer et de l'illuminant CIE normalisé A.
+  - content: Le terme "facteur de correction des couleurs" n'est plus usité.
+  - content: Le terme "facteur spectral de correction de désadaptation" peut également
+      être appliqué à d'autres détecteurs dont la réponse est destinée à simuler une
+      fonction d'observation particulière, tels que les radiomètres actiniques.
+  - content: L'unité de facteur spectral de correction de désadaptation est un.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur spectral de correction de désadaptation
+    usage_info: pour un photomètre
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: facteur de correction des couleurs
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: f0f6135d-7564-5dc6-bc3b-0c2bc2a0542f
+classification: deprecated

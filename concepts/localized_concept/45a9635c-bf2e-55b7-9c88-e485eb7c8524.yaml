@@ -1,0 +1,37 @@
+---
+data:
+  definition:
+  - content: "{{code, urn:iec:std:iec:60050-101-12-04}} selon lequel on utilise un
+      plus grand nombre de caractères, de symboles ou d'éléments de signal qu'il n'est
+      strictement nécessaire pour représenter des {{informations, urn:iec:std:iec:60050-701-01-01}}"
+  examples:
+  - content: "{{Code détecteur d'erreurs, urn:iec:std:iec:60050-702-05-19}}; {{code
+      correcteur d'erreurs, urn:iec:std:iec:60050-702-05-20}}."
+  id: 702-05-18
+  notes:
+  - content: En télégraphique, un code à cinq moments utilisant tous les caractères
+      de l'{{alphabet télégraphique international N° 2, urn:iec:std:iec:60050-721-09-10}}
+      n'est pas redondant. Un code à sept moments tel que l'{{alphabet télégraphique
+      international N° 3, urn:iec:std:iec:60050-721-09-11}} n'utilisant que les signaux
+      composés avec quatre éléments d'{{état A, urn:iec:std:iec:60050-721-03-19}}
+      et trois éléments d'{{état Z, urn:iec:std:iec:60050-721-03-20}} est redondant.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: code redondant
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-702-05
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 45a9635c-bf2e-55b7-9c88-e485eb7c8524

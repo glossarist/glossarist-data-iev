@@ -1,0 +1,54 @@
+---
+data:
+  definition:
+  - content: qualifie une {{liaison, urn:iec:std:iec:60050-701-02-06}} par laquelle
+      le transfert des informations des usagers peut se faire dans les deux sens à
+      la fois entre deux points
+  examples: []
+  id: 701-03-19
+  notes:
+  - content: La capacité ou le débit des {{voies de transmission, urn:iec:std:iec:60050-701-02-01}}
+      associées entre les deux points ne sont pas nécessairement les mêmes dans les
+      deux sens.
+  - content: Il convient de ne pas utiliser les termes "bilatéral" et "bidirectionnel"
+      pour qualifier le sens d'établissement des communications (qui est désigné par
+      le terme "{{à double sens, urn:iec:std:iec:60050-701-03-21}}").
+  - content: En français, il convient de ne pas confondre les termes "bilatéral" et
+      "bidirectionnel" et le terme "{{duplex, urn:iec:std:iec:60050-701-03-17}}".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: bilatéral
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: bidirectionnel
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: duplex
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-701-03
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: c89b1782-bb86-5828-a659-0c23292a1d1d
+classification: preferred

@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '2001-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2001-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: impédance du circuit de sortie entre les bornes de sortie dans les conditions
+      de fonctionnement
+  examples: []
+  id: 312-06-19
+  notes:
+  - content: L'impédance peut être exprimée en termes d'admittance.
+  - content: Dans certains cas, par exemple les dispositifs d'échantillonnage ou les
+      potentiomètres à rééquilibrage automatique, l'impédance peut être différente
+      selon l’instant où elle est déterminée, avant, pendant ou après la mesure.
+  - content: Lorsque le circuit de sortie est tel que la valeur instantanée du courant
+      traversant les bornes de sortie est une fonction non linéaire de la valeur instantanée
+      de la tension de sortie dans des conditions spécifiées de fréquence et de tension,
+      l'impédance d'une combinaison formée par une résistance et une réactance qui
+      absorberaient la même puissance active et dans laquelle circulerait un courant
+      réactif égal à la composante fondamentale qui circule dans le circuit de sortie
+      réel, est parfois appelée "impédance équivalente de sortie".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: impédance du circuit de sortie
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-312-06
+  language_code: fra
+  entry_status: valid
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2001-07-01T00:00:00+00:00'
+id: e3885b6f-baf9-55dd-83af-ebfb68b0a855

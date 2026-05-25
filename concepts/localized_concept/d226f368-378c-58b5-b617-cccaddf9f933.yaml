@@ -1,0 +1,61 @@
+---
+data:
+  definition:
+  - content: "{{dispositif, urn:iec:std:iec:60050-511-01-01}} photovoltaïque dont
+      les propriétés optiques sont modifiées en déposant des {{nanoparticules, urn:iec:std:iec:60050-511-01-12}}
+      métalliques sur la couche {{semiconductrice, urn:iec:std:iec:60050-121-12-06}}
+      du dispositif"
+  examples: []
+  id: 511-02-07
+  notes:
+  - content: La {{nanostructure, urn:iec:std:iec:60050-511-01-08}} des particules
+      métalliques augmente l'{{absorption, urn:iec:std:iec:60050-705-02-07}} et la
+      {{diffusion, urn:iec:std:iec:60050-705-04-46}} de la lumière incidente et supporte
+      de fortes excitations collectives localisées d'électrons connues sous le nom
+      de plasmons de surface.
+  - content: Les nanostructures métalliques qui génèrent une résonance plasmonique
+      sont déposées sur la couche semiconductrice du dispositif pour produire, par
+      résonance, un couplage de la lumière dans la couche absorbante et pour transporter
+      les {{porteurs de charge, urn:iec:std:iec:60050-113-06-25}} photo-induits hors
+      de la couche absorbante, améliorant ainsi la performance du dispositif.
+  sources:
+  - origin:
+      ref: IEC/TS 80004-9:2017
+      locality:
+        type: clause
+        reference_from: 3.2.7
+      original: IEC TS 80004-9:2017, 3.2.7, modifié – Dans la définition, suppression
+        de "type particulier de" et remplacement de "nanostructure des nanoparticules"
+        par "structures métalliques à l'échelle nanométrique".  Dans la Note 1 à l'article,
+        remplacement de "La nanostructure des nanoparticules métalliques" par "Les
+        structures métalliques à l'échelle nanométrique".  Dans la Note 2 à l'article,
+        remplacement d'"Une nanostructure métallique qui génère" par "Les nanostructures
+        métalliques qui génèrent".
+    status: modified
+    type: authoritative
+    modification: Dans la définition, suppression de "type particulier de" et remplacement
+      de "nanostructure des nanoparticules" par "structures métalliques à l'échelle
+      nanométrique".  Dans la Note 1 à l'article, remplacement de "La nanostructure
+      des nanoparticules métalliques" par "Les structures métalliques à l'échelle
+      nanométrique".  Dans la Note 2 à l'article, remplacement d'"Une nanostructure
+      métallique qui génère" par "Les nanostructures métalliques qui génèrent".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cellule photovoltaïque plasmonique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-511-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: d226f368-378c-58b5-b617-cccaddf9f933

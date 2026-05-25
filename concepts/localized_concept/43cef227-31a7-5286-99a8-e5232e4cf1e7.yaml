@@ -1,0 +1,76 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "density of radiant intensity with respect to projected area in a specified
+      direction at a specified point on a real or imaginary surfacestem:[L_(\"e\")
+      = frac(\"d\" I_(\"e\"))(\"d\" A) frac(1)(cosalpha)]\r\nwhere stem:[I]~e~ is
+      radiant intensity, stem:[A] is area, and stem:[α] is the angle between the normal
+      to the surface at the specified point and the specified direction"
+  examples: []
+  id: 845-21-049
+  notes:
+  - content: "In a practical sense, the definition of radiance can be thought of as
+      dividing a real or imaginary surface into an infinite number of infinitesimally
+      small surfaces which can be considered as {{ point sources, urn:iec:std:iec:60050-845-21-033}},
+      each of which has a specific radiant intensity, stem:[I]~e~, in the specified
+      direction. The radiance of the surface is then the integral of these radiance
+      elements over the whole surface.\r\nThe equation in the definition can mathematically
+      be interpreted as a derivative (i.e. a rate of change of radiant intensity with
+      projected area) and could alternatively be rewritten in terms of the average
+      radiant intensity, stem:[bar(I)_(\"e\")], as:\r\nstem:[L_(\"e\") = underset(A
+      vec \"0\")(\"lim\") frac(bar(I)_(\"e\"))(A) \" \" frac(\"1\")(cosalpha)].\r\nHence,
+      radiance is often considered as a quotient of averaged quantities; the area,
+      stem:[A], should be small enough so that uncertainties due to variations in
+      radiant intensity within that area are negligible; otherwise, the quotient stem:[bar(L)_(\"e\")
+      = frac(bar(I)_(\"e\"))(A) \" \" frac(\"1\")(cosalpha)] gives the average radiance
+      and the specific measurement conditions have to be reported with the result."
+  - content: For a surface being irradiated, an equivalent formula in terms of irradiance,
+      stem:[E]~e~, and solid angle, stem:[Ω], is stem:[L_("e") = frac("d" E_("e"))("d"
+      Omega) " " frac("1")(costheta)], where stem:[θ] is the angle between the normal
+      to the surface being irradiated and the direction of irradiation. This form
+      is useful when the source has no surface (e.g. the sky, the plasma of a discharge).
+  - content: An equivalent formula is stem:[L_("e") = frac("d" Phi_("e"))("d" G)],
+      where stem:[Φ]~e~ is radiant flux and stem:[G] is geometric extent.
+  - content: 'Radiant flux can be obtained by integrating radiance over projected
+      area, stem:[A]·cos stem:[α], and solid angle, stem:[Ω]: stem:[Phi_("e") = "​"
+      "P{iint}" L_("e") * cosalpha " " "d" A " " "d" Omega].'
+  - content: Since the {{optical extent, urn:iec:std:iec:60050-845-21-048}}, expressed
+      by stem:[G·n]^2^, where stem:[G] is geometric extent and stem:[n] is refractive
+      index, is invariant, the quantity expressed by stem:[L]~e~stem:[·n]^−2^ is also
+      invariant along the path of the beam if the losses by absorption, reflection
+      and diffusion are taken as 0. That quantity is called "basic radiance".
+  - content: "The equation in the definition can also be described as a function of
+      radiant flux, stem:[Φ]~e~. In this case, it is mathematically interpreted as
+      a second partial derivative of the radiant flux at a specified point (stem:[x], stem:[y])
+      in space in a specified direction (stem:[ϑ], stem:[φ]) with respect to projected
+      area, stem:[A]·cos stem:[α], and solid angle, stem:[Ω]:\r\nstem:[L_(\"e\") (
+      x , y , vartheta , phi ) = frac(del^(2) Phi_(\"e\") ( x , y , vartheta , phi
+      ))(del A ( x , y ) * cosalpha * del Omega (vartheta , phi)) \" \"]\r\nwhere
+      stem:[α] is the angle between the normal to that area at the specified point
+      and the specified direction."
+  - content: The corresponding photometric quantity is "luminance". The corresponding
+      quantity for photons is "photon radiance".
+  - content: The radiance is expressed in watt per square metre per steradian (W·m^−2^·sr^−1^).
+  - content: This entry was numbered 845-01-34 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance
+  - type: symbol
+    designation: |-
+      stem:[L]~e~
+      stem:[L]
+    international: true
+  domain: section-845-21
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 43cef227-31a7-5286-99a8-e5232e4cf1e7

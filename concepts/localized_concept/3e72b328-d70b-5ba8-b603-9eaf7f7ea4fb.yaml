@@ -1,0 +1,57 @@
+---
+data:
+  definition:
+  - content: "fonction décrivant la variation, avec la direction d'irradiation (stem:[θ]~i~,stem:[&amp;phiv;]~i~)
+      et la direction de vision (stem:[θ]~r~,stem:[&amp;phiv;]~r~) de la luminance
+      énergétique d'un élément de surface (stem:[x]~r~,stem:[y]~r~) dans une direction
+      d'observation donnée et à une longueur d'onde donnée stem:[λ], stem:[L_(\"r\")
+      ( theta_(\"r\") , phi_(\"r\") , x_(\"r\") , y_(\"r\") , lambda )], par rapport
+      à l'éclairement énergétique incident sur le milieu à partir de la direction
+      d'irradiation donnée à la longueur d'onde donnée, stem:[E_(\"i\") ( theta_(\"i\")
+      , phi_(\"i\") , lambda )]\r\nstem:[rho ( theta_(\"i\") , phi_(\"i\") , theta_(\"r\")
+      , phi_(\"r\") , x_(\"r\") , y_(\"r\") , lambda ) = frac(rm(d) L_(\"r\") ( theta_(\"r\")
+      , phi_(\"r\") , x_(\"r\") , y_(\"r\") , lambda ))(rm(d) E_(\"i\") ( theta_(\"i\")
+      , phi_(\"i\") , lambda ))]"
+  examples: []
+  id: 845-25-089
+  notes:
+  - content: La fonction de répartition bidirectionnelle du facteur de réflexion est
+      exprimée en stéradian à la puissance moins un (sr^−1^).
+  - content: Voir aussi "{{coefficient de luminance énergétique, urn:iec:std:iec:60050-845-24-078}}".
+  - content: Le terme abrégé "BRDF" est dérivé du terme anglais développé correspondant
+      "bi-directional reflectance distribution function".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: fonction de répartition bidirectionnelle du facteur de réflexion
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: BRDF
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 3e72b328-d70b-5ba8-b603-9eaf7f7ea4fb
+classification: admitted

@@ -1,0 +1,58 @@
+---
+data:
+  definition:
+  - content: quotient du flux lumineux par le flux énergétique correspondant pour
+      une condition photométrique spécifiée
+  examples: []
+  id: 845-21-090
+  notes:
+  - content: Il convient de spécifier la condition photométrique (par exemple, photopique,
+      scotopique, mésopique). En l'absence de spécification, la vision photopique
+      est par hypothèse utilisée, de même que le symbole stem:[K.] Pour les autres
+      conditions photométriques, le symbole respectif pour l'identification doit être
+      utilisé.
+  - content: L'efficacité lumineuse d'un rayonnement pour la vision photopique est
+      exprimée parstem:[K = frac(Phi_("v"))(Phi_("e"))]où stem:[Φ]~v~ est le flux
+      lumineux et stem:[Φ]~e~ est le flux énergétique.
+  - content: 'La valeur de l''efficacité lumineuse d''un rayonnement pour la vision
+      photopique pour un {{radiation monochromatique, urn:iec:std:iec:60050-845-21-014}}
+      de {{fréquence, urn:iec:std:iec:60050-103-06-02}} stem:[ν]~cd~ = 540 × 10^12^ Hz
+      est définie comme étant égale à 683 lm·W^−1^ et désignée par stem:[K]~cd~. Il
+      est admis que la longueur d''onde correspondante, stem:[lambda_("cd") \  = n^(-
+      1) "P{cdotp}" c_(0) "P{cdotp}" nu_("cd")^(- 1)] (où stem:[n] est l''indice de
+      réfraction et stem:[c]~0~ est la {{vitesse de la lumière dans le vide, urn:iec:std:iec:60050-113-01-34}})
+      dans de l''air normal, c''est-à-dire de l''air sec à 15 °C et à une pression
+      de 101 325 Pa, contenant 0,045 % de dioxyde de carbone par volume (voir P.E.
+      Ciddor: _Refractive index of air: new equations for the visible and near infrared,
+      Appl. Opt. Vol 35, No. 9_, 1996, pp. 1566-1573), soit de 555,017 nm (arrondie
+      de 555,017 069 nm). Cette valeur est très proche de 555 nm, qui correspond à
+      la longueur d''onde à laquelle stem:[V](stem:[λ]) atteint sa valeur maximale.
+      Pour les mesurages photométriques réalisés dans l''air dans des conditions environnementales
+      réelles, l''influence de la variation de l''indice de réfraction sur stem:[λ]~cd~
+      par rapport à l''air normal se situe généralement dans la plage de quelques
+      picomètres et peut ne pas être prise en compte dans la plupart des cas.'
+  - content: Voir aussi "{{efficacité lumineuse relative spectrale, urn:iec:std:iec:60050-845-21-091}}".
+  - content: L'efficacité lumineuse d'un rayonnement est exprimée en lumen par watt
+      (lm·W^−1^).
+  - content: Cet article était numéroté 845-01-56 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: efficacité lumineuse d'un rayonnement
+    usage_info: pour une condition photométrique spécifiée
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-845-21
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 1a605495-aadf-58d3-b9bb-0789c524fecb

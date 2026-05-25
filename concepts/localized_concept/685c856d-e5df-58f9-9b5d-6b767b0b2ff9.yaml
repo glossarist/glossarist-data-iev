@@ -1,0 +1,46 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: measurement of the protective quality of a fabric sample against solar
+      {{ultraviolet radiation, urn:iec:std:iec:60050-845-21-008}}, determined by in-vitro
+      testing
+  examples: []
+  id: 845-26-075
+  notes:
+  - content: For in-vitro testing, the erythemal irradiance measured by a detector
+      with the fabric sample under test in place is compared to the erythemal irradiance
+      measured with no fabric present, where the source is typically a solar simulator.
+      This is expressed as the quotient of the erythemal irradiance without fabric
+      to the erythemal irradiance through fabric:stem:[F_("UVP") = frac(int_("290 nm")^("400 nm")
+      E_(lambda) " " s_("er") ( lambda ) " " "d" lambda)(int_("290 nm")^("400 nm")
+      E_(lambda) " " s_("er") ( lambda ) " " tau ( lambda ) " " "d" lambda)]where
+      stem:[s]~er~(stem:[λ]) is the erythema spectral weighting function, stem:[E~λ~]
+      is the spectral irradiance, stem:[τ](stem:[λ]) is the measured spectral transmittance
+      of the item, and stem:[λ] is the wavelength.
+  - content: The ultraviolet hazard spectral weighting function, stem:[S]~UV~(stem:[λ]),
+      has been substituted for stem:[s]~er~(stem:[λ]) in special instances. If so
+      used, the ultraviolet protection factor, stem:[F]~UVP~, has to be noted as stem:[F]~UVP~
+      &lsqb;stem:[S](stem:[λ])-weighted&rsqb;.
+  - content: The ultraviolet protection factor has unit one.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ultraviolet protection factor
+  - type: expression
+    designation: UPF
+  - type: symbol
+    designation: stem:[F]~UVP~
+    international: true
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 685c856d-e5df-58f9-9b5d-6b767b0b2ff9

@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2017-11-20T00:00:00+00:00'
+    type: accepted
+  - date: '2017-11-20T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: technique producing output data which are calculated by an algorithm
+      using input data and a key as a parameter
+  examples: []
+  id: 821-11-09
+  notes:
+  - content: Even if the output data are known, it is impossible within a reasonable
+      time to calculate the input data without knowledge of the key. It is also impossible
+      within a reasonable time to derive the key from the output data, even if the
+      input data are known.
+  sources:
+  - origin:
+      ref: IEC 62280:2014
+      locality:
+        type: clause
+        reference_from: 3.1.10
+      original: IEC 62280:2014, 3.1.10, modified
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: cryptographic technique
+  domain: section-821-11
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-11-20T00:00:00+00:00'
+  review_decision_date: '2017-11-20T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-11-20T00:00:00+00:00'
+id: 38221ee5-5d32-5b93-91e0-ee54e225bdc8

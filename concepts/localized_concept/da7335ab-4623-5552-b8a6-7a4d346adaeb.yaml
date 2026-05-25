@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a square matrix *stem:[A]* of order stem:[n] with the elements stem:[A~ij~],
+      scalar denoted by det *stem:[A]*, equal to the algebraic sum of the products
+      obtained by taking as factors in all possible ways one and only one element
+      from each row and each column, each product with the sign plus or minus depending
+      whether the total number of inversions of the two subscripts is even or odd  where
+      stem:[σ] = (stem:[σ](1), stem:[σ](2), …, stem:[σ](stem:[n])) is a permutation
+      of the subscripts (1, 2, …, stem:[n]), stem:[ε](stem:[σ]) is the number of inversions
+      in permutation stem:[σ], and the sum denoted by Σ is for all permutations
+  examples: []
+  id: 102-06-20
+  notes:
+  - content: The determinant of a matrix is equal to the determinant of the stem:[n]
+      vectors, the coordinates of which are the elements of the rows or of the columns.
+  - content: The determinant of the matrix stem:[mathbf(A) = ([A_(11), cdots, A_(1
+      n)], [vdots, ddots, vdots], [A_(n 1), cdots, A_(n n)])] is denoted *stem:[A]*
+      or stem:[" " " " |[A_(11), cdots, A_(1 n)], [vdots, ddots, vdots], [A_(n 1),
+      cdots, A_(n n)]|].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: determinant
+    usage_info: of a matrix
+  domain: section-102-06
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: da7335ab-4623-5552-b8a6-7a4d346adaeb

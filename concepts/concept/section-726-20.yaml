@@ -1,0 +1,35 @@
+---
+data:
+  identifier: section-726-20
+  localized_concepts:
+    eng: 7100f285-5d0e-5252-87d5-540ba6dd56a4
+  domains:
+  - concept_id: area-726
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-726-20
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-726
+  type: broader
+  ref:
+    source: IEV
+    id: area-726
+- content: 726-20-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 726-20-01
+- content: 726-20-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 726-20-02
+- content: 726-20-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 726-20-03
+schema_version: '3'
+id: section-726-20

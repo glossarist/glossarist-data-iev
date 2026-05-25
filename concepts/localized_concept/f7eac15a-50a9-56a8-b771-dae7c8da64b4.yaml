@@ -1,0 +1,39 @@
+---
+data:
+  definition:
+  - content: équipement qui envoie de manière spontanée des informations sur un bus
+      à destination de plusieurs dispositifs esclaves
+  examples: []
+  id: 811-37-62
+  notes:
+  - content: Le maître peut autoriser un esclave à transmettre une trame esclave uniquement
+      dans un certain laps de temps.
+  sources:
+  - origin:
+      ref: IEC 61375-2-1:2012
+      locality:
+        type: clause
+        reference_from: 3.1.94
+      original: IEC 61375-2-1:2012, 3.1.94
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maître
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-811
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: f7eac15a-50a9-56a8-b771-dae7c8da64b4

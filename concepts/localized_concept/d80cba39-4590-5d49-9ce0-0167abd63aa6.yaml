@@ -1,0 +1,48 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "élément linéaire de transfert invariant dans le temps, dont la fonction
+      de transfert peut être écrite comme un quotient de deux polynômes en stem:[sG
+      (s) = frac(V (s))(U (s)) = frac(b_(0) + b_(1) * s + ... + b_(m) * s^(m))(a_(0)
+      + a_(1) * s + ... + a_(n) * s^(n))] avec stem:[a~j~] et stem:[b~j~] réel, stem:[a~n~]
+      ≠ 0, stem:[b~m~] ≠ 0oú<table>\r\n<tr>\n<td>\nstem:[ai], stem:[bi]\n</td>\n<td>sont
+      les polynom coefficients;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>est la
+      variable complexe de la transformée de Laplace;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n<td>est
+      la transformée de la variable d’entrée;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n<td>est
+      la transformée de la variable de sortie.</td>\n</tr>\n</table>Note 1 à l’article:
+      Dans les systèmes commandés réels, stem:[m] &lt; stem:[n]. Eu égard à la dénomination
+      mathématique, ces éléments devraient être nommés \"élément de transfert rationnel
+      à fraction propre\" mais ce terme n’est pas usité.Note 2 à l’article: Un élément
+      avec temps mort est un exemple d'élément de transfert non-rationnel."
+  examples: []
+  id: 351-45-51
+  notes:
+  - content: Cet article était numéroté 351-24-43 dans la CEI 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: élément de transfert rationnel
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-351-45
+  language_code: fra
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: d80cba39-4590-5d49-9ce0-0167abd63aa6

@@ -1,0 +1,47 @@
+---
+data:
+  definition:
+  - content: matrice n'ayant qu'une seule colonne
+  examples: []
+  id: 102-06-04
+  notes:
+  - content: Une matrice-colonne à stem:[m] lignes est de format stem:[m] × 1.
+  - content: On emploie généralement une matrice-colonne pour représenter les coordonnées
+      d'un vecteur.
+  - content: On emploie une matrice-colonne en théorie des circuits pour représenter
+      les tensions ou les courants aux accès d'un réseau.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matrice-colonne
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: vecteur-colonne
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-06
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: fdf6a37e-c66c-5f48-9e98-13d4a9f5d364
+classification: deprecated

@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 725-14-17
+  localized_concepts:
+    ara: 0d94f1bc-8f7c-56ac-837a-142fce3e6c21
+    deu: bd212c57-c5ea-5678-8a05-4c98d3877758
+    eng: 2864c448-cc59-5b0a-a1b3-173d95d14ab3
+    spa: 7c43dd04-90af-5ab3-a474-83124e0d2eda
+    fin: 2c829a55-90d0-558f-82df-68a62a46ca56
+    fra: f4ba0d2f-42c6-5c5c-b540-46af7bcb4993
+    ita: 8e3a8f82-3f30-558c-a9a1-bc1e2b98b58a
+    jpn: ae58ecf9-0ba4-5505-bd0b-9ad59a85ca9a
+    kor: caf1b184-0b63-59e6-971e-992775239fd2
+    pol: e8df58a3-ed12-5560-8ca5-e025d3a8aa56
+    por: a52d9a04-ed9a-5434-a8b9-4793288852bc
+    slv: 5ac873fd-7124-54dd-9625-e1fb965e3aa0
+    swe: 1de9f5da-67fe-5bff-a12a-417c5000a9a4
+    zho: c32c3736-901f-533e-b823-08ffda4a3012
+  domains:
+  - concept_id: area-725
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-725-14
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-725-14
+  type: broader
+  ref:
+    source: IEV
+    id: section-725-14
+- type: supersedes
+  ref:
+    source: IEV
+    id: 725-14-17
+    version: 1994-08
+status: valid
+schema_version: '3'
+id: 725-14-17

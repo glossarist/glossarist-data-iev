@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2013-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: condition in which there is a fault of a single protection (but not a
+      {{reinforced protection, urn:iec:std:iec:60050-903-02-08}}) or of a single component
+      or a device
+  examples: []
+  id: 903-01-15
+  notes:
+  - content: If a single fault condition results in one or more other fault conditions,
+      all are considered as one single fault condition.
+  sources:
+  - origin:
+      ref: IEC Guide 104:2010
+      locality:
+        type: clause
+        reference_from: '3.8'
+      original: IEC Guide 104:2010, 3.8
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: single fault condition
+  domain: section-903-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-06-01T00:00:00+00:00'
+  review_decision_date: '2013-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-06-01T00:00:00+00:00'
+id: 3dfacddc-ec4a-53cd-8a79-19646453fef7

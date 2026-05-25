@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 442-01-15
+  localized_concepts:
+    ara: 206f1175-44f6-510a-9864-0566d001d1b2
+    deu: 5f61ede6-2427-59b9-b9bd-e3afd383e4cb
+    eng: b505a028-819e-5e4f-a82b-b3d0dcf0e3a2
+    fin: 7fdb6139-73a6-569b-82bb-fecc1e530bcb
+    fra: 502c700e-a22d-5cfd-b6c7-c81c33119914
+    ita: fa9005d8-f7f9-5f59-8e9c-75f2c356420f
+    jpn: c594f67c-9c20-5105-8777-eb00426acc3a
+    kor: d91cac09-c091-5b01-b0c2-cde2086fb7d3
+    pol: 1ca47b73-146b-54ca-9668-f5b8929cb3e9
+    por: 8a68ff92-3205-5751-9bbc-f3497ad7b21f
+    rus: f4ef8c53-e2bb-5c04-9cea-4cc154515ce2
+    srp: c7db7aef-0b4c-5bb3-a5f7-623b365d8f50
+    swe: 353372c9-0ea6-59fe-acf3-f7f4cb968935
+  domains:
+  - concept_id: area-442
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-442-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-442-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-442-01
+status: valid
+schema_version: '3'
+id: 442-01-15

@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: law relating the illuminance, stem:[E], on a real or imaginary surface
+      to the luminous intensity, stem:[I], of an illuminating {{point source, urn:iec:std:iec:60050-845-21-033}}
+      wherebystem:[E = frac(I costheta)(d^(2))]where stem:[θ] is the angle between
+      the normal to the surface and the line between the surface and the source and
+      stem:[d] is the distance between the source and the surface
+  examples: []
+  id: 845-25-104
+  notes:
+  - content: The photometric distance law strictly only applies for a point source.
+      However, it can also be applied for non-point sources at sufficiently large
+      distances within acceptable limits of error or measurement uncertainty; in this
+      case the degree of approximation at the distance used should be confirmed by
+      measurement.
+  - content: For radiometric sources the equivalent term is "radiometric distance
+      law".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: photometric distance law
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: e16d174a-036c-5f41-a863-8bc05846224d

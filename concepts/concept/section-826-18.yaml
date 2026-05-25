@@ -1,0 +1,40 @@
+---
+data:
+  identifier: section-826-18
+  localized_concepts:
+    eng: a8db7eb9-9e1e-55da-996d-f6485f6e67a6
+  domains:
+  - concept_id: area-826
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-826-18
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-826
+  type: broader
+  ref:
+    source: IEV
+    id: area-826
+- content: 826-18-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 826-18-01
+- content: 826-18-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 826-18-02
+- content: 826-18-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 826-18-03
+- content: 826-18-04
+  type: narrower
+  ref:
+    source: IEV
+    id: 826-18-04
+schema_version: '3'
+id: section-826-18

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 692-01-03
+  localized_concepts:
+    ara: d87b86d2-b3e4-5946-96c0-4b5f5fc8db66
+    deu: 4389803c-f97e-5a65-b829-9160da4f9618
+    eng: bf491942-d188-5690-8aeb-5e3f13e5de9f
+    spa: a92970cf-9538-5a2c-b9f6-54c473c18fd4
+    fra: 789ba142-1ae2-5528-8b2b-7d2d7978a3a8
+    jpn: c0f0e305-2097-5e3d-a7bc-1c51c1dcdb0a
+    kor: 89fce7a7-e522-58ba-aa18-5ea5a7b35a10
+    mon: 7eb29c9e-4b87-56c1-8e39-c9ae4212f0f0
+    pol: 19296d88-d3b1-5ac7-90a3-7cacb1c80209
+    por: 4f532a85-632d-5426-967a-b50454f30c13
+    zho: d283b7ba-e5bc-56d8-890e-e5f464c4878b
+  domains:
+  - concept_id: area-692
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-692-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-692-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-692-01
+status: valid
+schema_version: '3'
+id: 692-01-03

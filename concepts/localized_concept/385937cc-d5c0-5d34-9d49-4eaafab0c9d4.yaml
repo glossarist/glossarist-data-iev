@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "for a linear time-invariant system described by the second order differential
+      equationstem:[frac(\"d\"^(2) x)(\"d\" t^(2)) + 2 * vartheta * omega_(0) * frac(\"d\"
+      x)(\"d\" t) + omega_(0)^(2) * x = 0]the value of the coefficient stem:[vartheta],where<table>\r\n<tr>\n<td>stem:[t]</td>\n<td>is
+      the time;</td>\n</tr>\r\n<tr>\n<td>stem:[x]</td>\n<td>is a state variable of
+      the system;</td>\n</tr>\r\n<tr>\n<td>\nstem:[ω]~0~\n</td>\n<td>is the characteristic
+      angular frequency of the system</td>\n</tr>\n</table>"
+  examples: []
+  id: 351-45-19
+  notes:
+  - content: When stem:[vartheta lt 1], stem:[omega_("d") = omega_(0) * sqrt(1 - vartheta^(2))]
+      is the eigen angular frequency of the system.
+  - content: This entry was numbered 351-24-18 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: damping ratio
+  domain: section-351-45
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 385937cc-d5c0-5d34-9d49-4eaafab0c9d4

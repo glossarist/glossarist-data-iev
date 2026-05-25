@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: addressable {{storage device, urn:iec:std:iec:60050-171-04-14}} directly
+      controlled by a {{processor, urn:iec:std:iec:60050-171-04-01}}
+  examples: []
+  id: 171-04-18
+  notes:
+  - content: Internal storage is used to store programs while they are being processed.
+  - content: Internal storage includes {{main storage, urn:iec:std:iec:60050-171-04-21}}
+      and possibly other kinds of storage devices such as cache memory and registers.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: internal storage
+  - type: expression
+    normative_status: preferred
+    designation: internal memory
+  domain: section-171-04
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 96f22799-cb79-50fc-ae85-4495d267b4fb
+classification: preferred

@@ -1,0 +1,42 @@
+---
+data:
+  identifier: 161-06-20
+  localized_concepts:
+    ara: c07b3655-afd5-5282-b767-e0f92dec21f2
+    deu: eed0d2b2-c983-5433-9100-3310d1356def
+    eng: 459ffd12-c20c-5335-aa41-2384d9620fe3
+    spa: 70545578-1aa4-56a8-affc-49879bbf9a22
+    fin: 3560a415-75e2-585a-8b46-0eea58f91195
+    fra: 6e454aa1-9fb4-5565-99f8-a833149e7faa
+    ita: b532d8d5-7571-5f52-a608-2fbe24718392
+    jpn: 49622117-5eb3-5b57-91f1-825ef8c70326
+    kor: 79893e16-4db6-5aca-bf8a-c6284f9f1452
+    nob: 55e50b46-c528-5b80-a88c-a13a7ca1c541
+    nno: a4bb9802-bdbe-52a8-ac16-6dc9a15f8cc8
+    pol: 97be2927-7d28-57ce-a2b4-f3d26c1a3b5e
+    por: 7155487f-75d3-5fbb-a69a-cf1059f611eb
+    slv: 9f0bc798-aba3-51a4-86db-09a0f86f2bff
+    srp: dc3a9c50-315c-5d87-921b-3187d515948e
+    swe: 26e3a0aa-bdf3-5fb7-9949-d7485b9dd14b
+    zho: ee5cbaa6-ee15-5274-bb70-4c6ba173a7bb
+  domains:
+  - concept_id: area-161
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-161-06
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-161-06
+  type: broader
+  ref:
+    source: IEV
+    id: section-161-06
+- type: supersedes
+  ref:
+    source: IEV
+    id: 161-06-20
+    version: 1990-08
+status: valid
+schema_version: '3'
+id: 161-06-20

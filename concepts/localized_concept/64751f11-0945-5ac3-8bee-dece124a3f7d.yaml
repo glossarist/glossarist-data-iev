@@ -1,0 +1,34 @@
+---
+data:
+  dates:
+  - date: '2008-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "for a resistive two-terminal element or two-terminal circuit with terminals
+      A and B, derivative of the electric current i in the element or circuit with
+      respect to the voltage u~AB~ ({{131-11-56, urn:iec:std:iec:60050-131-11-56}})
+      between the terminals:\r\nstem:[G_(\"d\") = frac(rm(d) i)(rm(d) u_(rm(AB)))]
+      \ \r\nwhere the electric current is taken as positive if its direction is from
+      A to B and negative in the opposite case"
+  examples: []
+  id: 131-12-07
+  notes:
+  - content: For an ideal resistor, the differential conductance G~d~ is equal to
+      its conductance G.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: differential conductance
+  - type: symbol
+    designation: stem:[G]~d~
+    international: true
+  domain: section-131-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-09-01T00:00:00+00:00'
+  review_decision_date: '2008-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-09-01T00:00:00+00:00'
+id: 64751f11-0945-5ac3-8bee-dece124a3f7d

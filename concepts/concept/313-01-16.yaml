@@ -1,0 +1,41 @@
+---
+data:
+  identifier: 313-01-16
+  localized_concepts:
+    ara: 3db2099f-39ad-506b-a0e9-142f82a25af6
+    deu: d3b2d970-bcc6-5470-984a-2deeecabab3c
+    eng: 9f8eea82-90cf-5d45-bc33-ca5f0b4a8a86
+    spa: d862f595-df01-5180-8584-96707045d82d
+    fin: e634ad9d-19a8-582b-8f2a-2764f4357dc0
+    fra: c2894e97-6a78-53d2-bc09-b852d665e332
+    ita: 01a1304d-9116-5acd-84e3-d85cdc7c8399
+    jpn: 7323ce06-7eba-54a7-9e1e-0648474df547
+    kor: e1c2f45e-36e1-56a9-a097-50745f2898ca
+    mon: 3631b4e8-dd61-5590-a25e-68088bc0b8cf
+    pol: b81c5c55-19c3-5c14-afe0-40936a66f027
+    por: d27d2f25-aa23-5269-951b-f0dc9a928c25
+    rus: 8eda3675-8387-538c-84f3-44c9c252e533
+    srp: 2b1a1678-754f-55d7-b3e4-4030a2e214c0
+    swe: 8413b9e1-bbcd-5920-a813-972f72d7718c
+    zho: a5094994-fc5e-5291-84d9-351d34fdb07c
+  domains:
+  - concept_id: area-313
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-313-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-313-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-313-01
+- type: supersedes
+  ref:
+    source: IEV
+    id: 313-01-16
+    version: 2001-07
+status: valid
+schema_version: '3'
+id: 313-01-16

@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2020-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{device, urn:iec:std:iec:60050-151-11-20}} consisting of {{conductors,
+      urn:iec:std:iec:60050-121-12-02}}, {{insulating materials, urn:iec:std:iec:60050-151-15-35}}
+      and {{accessories, urn:iec:std:iec:60050-151-11-24}} for the purpose of conveying
+      {{electromagnetic, urn:iec:std:iec:60050-151-11-09}} {{energy, urn:iec:std:iec:60050-113-03-45}}
+      between two {{electric, urn:iec:std:iec:60050-151-11-03}} devices"
+  examples:
+  - content: two-wire line, {{polyphase line, urn:iec:std:iec:60050-141-03-01}}, {{coaxial
+      line, urn:iec:std:iec:60050-726-01-15}}, {{waveguide, urn:iec:std:iec:60050-151-12-34}}.
+  id: 151-12-27
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electric line
+  - type: expression
+    normative_status: preferred
+    designation: line
+    usage_info: for transfer of electric energy
+  domain: section-151-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-06-01T00:00:00+00:00'
+  review_decision_date: '2020-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-06-01T00:00:00+00:00'
+id: 1099f892-d6d6-5bbc-ba77-8cf15ecf0887
+classification: preferred

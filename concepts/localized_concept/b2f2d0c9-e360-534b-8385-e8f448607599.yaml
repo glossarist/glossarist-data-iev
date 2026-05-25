@@ -1,0 +1,46 @@
+---
+data:
+  definition:
+  - content: "{{transmission, urn:iec:std:iec:60050-701-01-03}} des {{informations,
+      urn:iec:std:iec:60050-701-01-01}} dans des {{intervalles de temps, urn:iec:std:iec:60050-113-01-10}}
+      successifs dont les durées sont très courtes par rapport aux durées des intervalles
+      de temps où il n'y a pas de transmission"
+  examples: []
+  id: 704-01-13
+  notes:
+  - content: Les suites de transmission sont appelées "{{salves, urn:iec:std:iec:60050-161-02-07}}".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transmission par salves
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: transmission par rafales
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-704-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: b2f2d0c9-e360-534b-8385-e8f448607599
+classification: preferred

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 806-16-25
+  localized_concepts:
+    ara: 6c5353f4-803d-5c32-9230-51239c872701
+    deu: fcd7f268-06b4-52cf-b5e0-835141a2959f
+    eng: a74b5c26-2f88-51d1-9bc2-9b71c8376637
+    spa: beb2f15d-24b2-5906-89f3-3e9cf1042521
+    fra: aed3da66-cc58-5a9a-93b2-4d5c02e852d0
+    ita: 902a7d97-613f-5ea8-ab7c-3b078377b77c
+    jpn: f082d776-b2a0-54d3-975e-4388937218c7
+    kor: 8354415d-f8f2-549f-a3d2-8cf697f7d797
+    pol: d0c70e48-6193-5977-bf27-260cf2260990
+    por: bfe2ccf5-2ef1-5bd4-a78c-a67f536c3f64
+    swe: 6789b931-b42d-5caa-8994-54cbd29733e2
+  domains:
+  - concept_id: area-806
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-806-16
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-806-16
+  type: broader
+  ref:
+    source: IEV
+    id: section-806-16
+status: valid
+schema_version: '3'
+id: 806-16-25

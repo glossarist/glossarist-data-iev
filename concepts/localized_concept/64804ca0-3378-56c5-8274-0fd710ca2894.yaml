@@ -1,0 +1,40 @@
+---
+data:
+  definition:
+  - content: identificateur qui est assigné à chaque entité
+  examples: []
+  id: 821-11-49
+  notes:
+  - content: L’identificateur de source et de destination peut être un nom, un nombre
+      ou un motif de bits arbitraire, et sera utilisé pour une transmission de sécurité.
+  - content: L’identificateur de source et de destination est rajouté d’habitude aux
+      données utilisateur.
+  sources:
+  - origin:
+      ref: IEC 62280:2014
+      locality:
+        type: clause
+        reference_from: 3.1.55
+      original: IEC 62280:2014, 3.1.55
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: identificateur de source et de destination
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-821-11
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 64804ca0-3378-56c5-8274-0fd710ca2894

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 845-30-001
+  localized_concepts:
+    ara: 51022883-d8d8-56db-9a27-4372f6790ed5
+    deu: 1c69f84e-001f-5a79-b9ec-cf32753daa0f
+    eng: 9d0944d8-6a8c-519e-9f18-fedc3aa0fe1e
+    fra: 1de9c352-7394-5a02-aa6f-4a1e3ae8f1cd
+    ita: 9fd11e5a-a83d-5f6e-a835-db3d0ec4e468
+    jpn: 3ec0c53a-613e-55bc-b721-ce4b8d49d47a
+    kor: 6bf54257-b773-5e1a-b2fd-78a6e0cbfbe9
+    pol: 36e4e252-2d74-51b4-834f-1153b9c70c4b
+    por: 73a189dd-95d5-5a69-bc2a-21d43c087b17
+    zho: d23af1ab-7be5-5d62-a7e9-f7c651759d2c
+  domains:
+  - concept_id: area-845
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-845-30
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-845-30
+  type: broader
+  ref:
+    source: IEV
+    id: section-845-30
+status: valid
+schema_version: '3'
+id: 845-30-001

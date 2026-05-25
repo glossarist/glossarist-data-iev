@@ -1,0 +1,44 @@
+---
+data:
+  definition:
+  - content: codage numérique de valeurs chromatiques, associé aux informations éventuelles
+      nécessaires pour l'interprétation correcte des valeurs chromatiques telles que
+      l'état d'une image, l'environnement prévu d'observation de l'image et le support
+      de référence
+  examples: []
+  id: 845-32-013
+  notes:
+  - content: Dans certains cas, l'environnement prévu d'observation de l'image est
+      défini de manière explicite pour le codage d'image couleur. Dans d'autres cas,
+      cet environnement, c'est-à-dire les informations détaillées de l'état d'une
+      image, peut être spécifié image par image en utilisant les métadonnées associées
+      à l'image numérique.
+  - content: Certains codages d'images couleurs indiquent des caractéristiques de
+      support de référence particulières, telles qu'une impression par réflexion avec
+      une plage de densité spécifiée. Dans d'autres cas, le support de référence n'est
+      pas applicable, comme avec le codage en référence à la scène, ou est spécifié
+      en utilisant les métadonnées d'images.
+  - content: Les codages d'images couleurs ne se limitent pas aux images numériques
+      picturales provenant d'une scène d'origine, mais s'appliquent également aux
+      images numériques dont le contenu se présente sous la forme d'un texte, d'un
+      dessin au trait, d'un graphique vectoriel et sous d'autres formes d'œuvres originales.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: codage d'image couleur
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 308ec5f3-478c-5d1a-8c4e-ee3f61be6c96

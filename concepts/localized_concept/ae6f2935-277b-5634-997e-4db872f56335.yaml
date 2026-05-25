@@ -1,0 +1,45 @@
+---
+data:
+  dates:
+  - date: '2017-11-20T00:00:00+00:00'
+    type: accepted
+  - date: '2017-11-20T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: data which represent the states or events of a user process, without
+      any additional data
+  examples: []
+  id: 821-11-57
+  notes:
+  - content: In the case of communication between safety-related equipment, the user
+      data contain safety-related data.
+  sources:
+  - origin:
+      ref: IEC 62280:2014
+      locality:
+        type: clause
+        reference_from: 3.1.64
+      original: IEC 62280:2014, 3.1.64
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: user data
+    grammar_info:
+    - number:
+      - plural
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-821-11
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-11-20T00:00:00+00:00'
+  review_decision_date: '2017-11-20T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-11-20T00:00:00+00:00'
+id: ae6f2935-277b-5634-997e-4db872f56335

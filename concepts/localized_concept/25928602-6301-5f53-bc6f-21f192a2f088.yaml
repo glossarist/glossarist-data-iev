@@ -1,0 +1,60 @@
+---
+data:
+  definition:
+  - content: champ électrique dont le gradient de tension entre électrodes n'est pas
+      essentiellement constant
+  examples: []
+  id: 442-09-03
+  notes:
+  - content: La condition de champ hétérogène d'une configuration point par rapport
+      à une électrode plane est le cas le plus contraignant vis-à-vis de la tenue
+      aux surtensions et est représenté par le cas A dans l'IEC 60664-1. Elle est
+      représentée par une électrode point ayant un rayon de 30 stem:[mu]m et une surface
+      plane de 1 m &times; 1 m.
+  - content: Pour les fréquences dépassant 30 kHz, le champ est considéré comme étant
+      non homogène, lorsque le rayon de courbure des parties conductrices est inférieur
+      à 20 % de la distance d’isolement.
+  sources:
+  - origin:
+      ref: IEC 60664-1:2007
+      locality:
+        type: clause
+        reference_from: '3.15'
+      original: IEC 60664-1:2007, 3.15
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: champ électrique hétérogène
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: champ électrique non uniforme
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-442-09
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 25928602-6301-5f53-bc6f-21f192a2f088
+classification: preferred

@@ -1,0 +1,46 @@
+---
+data:
+  definition:
+  - content: 'moyenne par {{caractère, urn:iec:std:iec:60050-702-05-10}} de l''{{entropie,
+      urn:iec:std:iec:60050-171-07-15}}, étendue à tous les messages issus d''une
+      {{source de messages stationnaire, urn:iec:std:iec:60050-171-07-09}} stem:[H^(prime)
+      = underset(m vec oo)(lim) frac(H_(m))(m)] où stem:[H~m~] est l''entropie de
+      l''ensemble de toutes les suites de stem:[m] caractères issues de la sourceNote
+      1 à l’article: L''entropie moyenne par caractère peut être exprimée à l''aide
+      d''une unité telle que le shannon par caractère. Note 2 à l’article: La limite
+      pourrait ne pas exister si la source n''était pas stationnaire.'
+  examples: []
+  id: 171-07-28
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-37
+      original: IEC 80000-13:2008, 13-37, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+    status: modified
+    type: authoritative
+    modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+      aux règles de l’IEV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entropie moyenne par caractère
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-171
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: faf9c51a-539a-5138-914e-488e615f0e13

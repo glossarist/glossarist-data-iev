@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '1992-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: compteur de trafic affecté à un groupe de lignes pour enregistrer le
+      nombre de tentatives d'appel qui n'ont pas trouvé de sorties libres
+  examples: []
+  id: 714-19-07
+  notes:
+  - content: Dans certains systèmes de commutation, chacun de ces appels déclenche
+      un enregistrement individuel tandis que dans d'autres systèmes, deux ou plusieurs
+      demandes simultanées de sortie non satisfaites sont enregistrées comme un seul
+      cas de débordement.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: compteur de débordement
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-714-19
+  language_code: fra
+  entry_status: valid
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-04-01T00:00:00+00:00'
+id: 004e83fe-ce24-5f6f-b58a-e8937636fbe6

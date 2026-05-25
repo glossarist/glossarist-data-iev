@@ -1,0 +1,39 @@
+---
+data:
+  definition:
+  - content: pour un ensemble ordonné de stem:[n] vecteurs dans un espace à stem:[n]
+      dimensions muni d'une base donnée, scalaire attribué à cet ensemble par la seule
+      forme multilinéaire qui prend la valeur 0 lorsque les vecteurs sont linéairement
+      dépendants et la valeur 1 pour les vecteurs de base
+  examples: []
+  id: 102-03-37
+  notes:
+  - content: 'Lorsque les coordonnées des stem:[n] vecteurs stem:[U_(1) ", " U_(2)
+      ", " ... , " " U_(n)] sont disposés selon les colonnes ou les lignes d''une
+      matrice stem:[n xx n] , le déterminant des vecteurs est égal au déterminant
+      de la matrice:'
+  - content: Selon le signe du déterminant, l'ensemble de vecteurs et la base donnée
+      ont la même orientation ou des orientations contraires.
+  - content: Pour l'espace euclidien à trois dimensions, le déterminant de trois vecteurs
+      est le produit mixte des vecteurs.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: déterminant
+    usage_info: de  vecteurs
+    grammar_info:
+    - gender:
+      - "n"
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-03
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 16cf37b7-8512-55a3-a6ee-19a8725665ae

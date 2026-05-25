@@ -1,0 +1,45 @@
+---
+data:
+  definition:
+  - content: "{{adresse, urn:iec:std:iec:60050-171-05-35}} qui, en {{langage machine,
+      urn:iec:std:iec:60050-171-05-13}}, identifie directement un emplacement de mémoire
+      ou un dispositif, sans référence intermédiaire telle qu’une {{adresse de base,
+      urn:iec:std:iec:60050-171-05-39}}"
+  examples: []
+  id: 171-05-36
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adresse absolue
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: adresse machine
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-171-05
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: e00cb7a9-8f40-5c6e-bb91-ce04dabb84c6
+classification: deprecated

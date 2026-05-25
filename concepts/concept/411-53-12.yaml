@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 411-53-12
+  localized_concepts:
+    deu: 994381f1-0dbb-5976-a963-335bb11b6cc5
+    eng: 1e1079dd-db23-5c18-b287-d3f3d8042687
+    spa: 4bff6eba-208e-5444-89f0-a47a41223d24
+    fin: 0e987656-cd87-5843-8543-be33e8163945
+    fra: 69dc64b6-f451-5e1e-b5b5-3b32e01bcf66
+    ita: 05c45461-b33f-52d2-b45d-ffbf21629546
+    kor: 6f0651b3-77a5-5a30-8b6f-36e0e4cfe225
+    pol: db088e7b-6444-530a-840a-d4fb022984cd
+    por: b7a4f6e2-63e8-5b6f-b199-81be0c388dc8
+    slv: 1d134ce8-b24f-5a81-923c-6d29498bfd6e
+    srp: f8b53f55-e742-5f11-8d6b-c916d1cb5feb
+    zho: 25550acc-dc16-5323-b885-18453f172dc9
+  domains:
+  - concept_id: area-411
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-411-53
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-411-53
+  type: broader
+  ref:
+    source: IEV
+    id: section-411-53
+status: valid
+schema_version: '3'
+id: 411-53-12

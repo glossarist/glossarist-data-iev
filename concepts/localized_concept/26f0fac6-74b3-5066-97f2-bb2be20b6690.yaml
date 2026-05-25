@@ -1,0 +1,42 @@
+---
+data:
+  definition:
+  - content: pour un contact qui ouvre/ferme son circuit, durée entre l'instant où
+      un {{circuit de contact, urn:iec:std:iec:60050-447-04-05}} se ferme ou s'ouvre
+      pour la première fois et l'instant où un circuit de contact est définitivement
+      fermé ou ouvert
+  examples: []
+  id: 447-05-07
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 60050-444:2002
+      locality:
+        type: clause
+        reference_from: 444-05-04
+      original: IEC 60050-444:2002, 444-05-04, modifié – "intervalle de temps" remplacé
+        par "durée", et "pour un contact qui ouvre/ferme son circuit" a été ajouté.
+    status: modified
+    type: authoritative
+    modification: '"intervalle de temps" remplacé par "durée", et "pour un contact
+      qui ouvre/ferme son circuit" a été ajouté.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de rebondissement
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-447-05
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 26f0fac6-74b3-5066-97f2-bb2be20b6690

@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '1998-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: |-
+      vector quantity obtained at a given point by subtracting the magnetization stem:[*M*] from the magnetic flux density stem:[*B*] divided by the magnetic constant stem:[μ]~0~:
+
+      stem:[H = frac(B)(mu_(0)) - M]
+  examples: []
+  id: 121-11-56
+  notes:
+  - content: "In vacuum, the magnetic field strength is at all points equal to the
+      magnetic flux density divided by the magnetic constant:\r\nstem:[H = frac(B)(mu_(0))]"
+  - content: |-
+      The rotation of the magnetic field strength is the total current density *stem:[J]*~t~:
+
+      *rot stem:[H]* = *stem:[J]*~t~
+  - content: The magnetic flux density stem:[*B*] is sometimes called “magnetic field”,
+      risking confusion with the magnetic field strength stem:[*H*].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: magnetic field strength
+  - type: expression
+    normative_status: preferred
+    designation: magnetizing field strength
+  - type: symbol
+    designation: "*stem:[H]*"
+    international: true
+  domain: section-121-11
+  language_code: eng
+  entry_status: valid
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-08-01T00:00:00+00:00'
+id: 04ead051-6665-5d79-81f7-6e02b1689c9d
+classification: preferred

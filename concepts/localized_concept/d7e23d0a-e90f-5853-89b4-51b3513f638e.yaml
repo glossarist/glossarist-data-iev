@@ -1,0 +1,45 @@
+---
+data:
+  definition:
+  - content: "{{relais de mesure, urn:iec:std:iec:60050-447-01-02}}, dont le fonctionnement
+      et la sélectivité dépendent de la mesure locale de grandeurs électriques à partir
+      desquelles la distance équivalente d'un {{défaut dans un réseaux d'énergie,
+      urn:iec:std:iec:60050-448-13-02}} est évaluée par comparaison avec des {{valeurs
+      de réglage, urn:iec:std:iec:60050-447-07-02}} de zones"
+  examples: []
+  id: 447-01-32
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 60050-448:1995
+      locality:
+        type: clause
+        reference_from: 448-14-01
+      original: IEC 60050-448:1995, 448-14-01, modifié –"protection à sélectivité
+        relative de section" a été remplacé par "relais de mesure" et "du défaut"
+        a été remplacé par "d'un défaut dans un réseau d'énergie"
+    status: modified
+    type: authoritative
+    modification: –"protection à sélectivité relative de section" a été remplacé par
+      "relais de mesure" et "du défaut" a été remplacé par "d'un défaut dans un réseau
+      d'énergie"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relais de distance
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-447-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: d7e23d0a-e90f-5853-89b4-51b3513f638e

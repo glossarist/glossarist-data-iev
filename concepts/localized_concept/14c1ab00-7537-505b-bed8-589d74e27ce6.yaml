@@ -1,0 +1,48 @@
+---
+data:
+  definition:
+  - content: pour deux grandeurs sinusoïdales de même fréquence prises dans un ordre
+      donné, différence entre leurs phases à l'origine, avec addition éventuelle d'un
+      multiple de 2stem:[pi] de façon que cette différence soit supérieure à &minus;stem:[pi]
+      et inférieure ou égale à stem:[pi]
+  examples: []
+  id: 103-07-06
+  notes:
+  - content: Pour les grandeurs stem:[a^(prime) ( t ) = hat(A^(prime)) "cos" ( omega
+      " " t + vartheta^(prime)_(0) )] et stem:[a^(dprime) ( t ) = hat(A^(dprime))
+      "cos" ( omega " " t + vartheta^(dprime)_(0) )], la différence de phase est stem:[phi
+      = vartheta^(dprime)_(0) - vartheta^(prime)_(0) + 2 pi n], où stem:[n] est un
+      entier choisi de telle sorte que stem:[- pi lt phi le pi].
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: différence de phase
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: déphasage
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-103-07
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 14c1ab00-7537-505b-bed8-589d74e27ce6

@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '1990-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '1990-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: the interval of time between the instants at which the instantaneous
+      value of a pulse first reaches a specified lower value and then a specified
+      upper value
+  examples: []
+  id: 161-02-05
+  notes:
+  - content: Unless otherwise specified, the lower and upper values are fixed at 10
+      % and 90 % of the pulse magnitude.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 702-03-05
+      original: 702-03-05
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rise time
+    usage_info: of a pulse
+  domain: section-161-02
+  language_code: eng
+  entry_status: valid
+  review_date: '1990-08-01T00:00:00+00:00'
+  review_decision_date: '1990-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1990-08-01T00:00:00+00:00'
+id: f9575952-bba8-56dc-bf1f-fd96f47ffa7d

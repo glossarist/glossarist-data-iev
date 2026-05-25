@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 802-01-25
+  localized_concepts:
+    ara: e194d193-69e2-5074-83da-471143eb864f
+    deu: 7618393c-43fe-5f69-9d92-f447045a1367
+    eng: f7c4c686-0af9-51e3-9c7d-dde98b589a35
+    spa: d2f3ac29-d65b-5f31-8a77-14a134bde892
+    fra: aeae695b-7167-551c-b98e-77068a01ae80
+    jpn: 05d25041-9b50-5335-b4d1-e03b68ad89e1
+    kor: 0eb084cc-647a-5fbf-adf7-ef3e855f5435
+    pol: fa4ac97a-186a-579f-8217-38d299ce98bb
+    por: d6bf273c-96bc-5ee3-b7a2-3e6b035abc61
+    srp: 97456a85-54ea-5a72-b7c4-7febbbc03829
+    zho: c341899c-7b34-5277-b2e8-0f2371f7f88f
+  domains:
+  - concept_id: area-802
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-802-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-802-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-802-01
+status: valid
+schema_version: '3'
+id: 802-01-25

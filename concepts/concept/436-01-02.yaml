@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 436-01-02
+  localized_concepts:
+    ara: de0612e4-24cd-5f7f-b07f-7ea84d0786db
+    deu: 0ca2f88f-eb22-519d-9923-3b80e46c60f3
+    eng: 55dd0d77-4206-5fec-8e8b-083e8340d3b9
+    spa: 28b117c0-cd9e-5370-a1e3-ca8e669dcb76
+    fra: c5c75281-2b5e-56fd-9c27-83f7cb4a0007
+    ita: '0149ecc7-4b2f-5ed2-8869-2bcea32d99ce'
+    jpn: add42627-1d67-5ec4-8d7e-d9b8184904ad
+    kor: 618512ca-10a4-54ff-89d8-7ea24b82654d
+    mon: dd2e6207-2ffa-5f66-8919-8604802d5393
+    pol: f74dc2b6-1be4-516e-8f07-b75ad8fa21ba
+    por: d8bb79b4-3382-5f04-8b45-2193210bd73e
+    slv: e24038e7-f9c5-5fdf-a675-4e04497506aa
+    srp: 1164c802-ffb0-53a0-b6c3-83d11155079c
+    swe: 7ad890e3-46b1-5d65-bbb2-c28c80c436be
+  domains:
+  - concept_id: area-436
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-436-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-436-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-436-01
+status: valid
+schema_version: '3'
+id: 436-01-02

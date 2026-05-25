@@ -1,0 +1,29 @@
+---
+data:
+  dates:
+  - date: '2008-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2008-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for two matrices *stem:[A]* of type stem:[m] × stem:[p] and *stem:[B]*
+      of type stem:[p] × stem:[n], with elements stem:[A~ik~] and stem:[B~kj~], respectively,
+      matrix *stem:[AB]* of type stem:[m] × stem:[n] with the elements stem:[(A B)_(i
+      j) = sum_(k = 1)^(p) A_(i k) B_(k j)].
+  examples: []
+  id: 102-06-08
+  notes:
+  - content: The product only exists if the number of columns of the first matrix
+      is equal to the number of rows of the second matrix.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: product of two matrices
+  domain: section-102-06
+  language_code: eng
+  entry_status: valid
+  review_date: '2008-08-01T00:00:00+00:00'
+  review_decision_date: '2008-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2008-08-01T00:00:00+00:00'
+id: c8a87763-6abd-5f41-9e8d-d205cda37e91

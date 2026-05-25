@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: legal or administrative entity that has specific tasks and composition
+  examples:
+  - content: Examples of bodies are {{organizations, urn:iec:std:iec:60050-901-03-02}},
+      {{authorities, urn:iec:std:iec:60050-901-03-10}}, companies and foundations.
+  id: 901-03-01
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: '4.1'
+      original: ISO/IEC Guide 2:2004, 4.1, modified – The domain <responsible for
+        standards and regulations> has been replaced by <entity> and has been transferred
+        to the term attribute "specific use". The examples have been transferred to
+        an Example.</entity></responsible>
+    status: modified
+    type: authoritative
+    modification: The domain <responsible for standards and regulations> has been
+      replaced by <entity> and has been transferred to the term attribute "specific
+      use". The examples have been transferred to an Example.</entity></responsible>
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: body
+    usage_info: entity
+  domain: section-901-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 162a8968-60a3-5076-8f34-6805a6052cd9

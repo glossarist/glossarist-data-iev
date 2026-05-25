@@ -1,0 +1,48 @@
+---
+data:
+  definition:
+  - content: référence à une ou plusieurs {{norme, urn:iec:std:iec:60050-901-02-02}}s
+      se substituant à l'énoncé de {{disposition, urn:iec:std:iec:60050-901-05-01}}s
+      détaillées dans un {{règlement, urn:iec:std:iec:60050-901-02-10}}
+  examples: []
+  id: 901-06-14
+  notes:
+  - content: Une référence aux normes peut être datée, non datée ou générale; elle
+      peut être exclusive ou indicative.
+  - content: Une référence aux normes peut être liée à une disposition légale plus
+      générale se référant à l'{{état actuel de la technique, urn:iec:std:iec:60050-901-01-04}}
+      ou à des {{règles techniques reconnues, urn:iec:std:iec:60050-901-01-05}}. Une
+      telle disposition peut également se suffire à elle-même.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: '11.1'
+      original: Guide ISO/CEI 2:2004, 11.1, modifiée – L'expression entre parenthèses
+        après le terme a été transformée en attribut du terme «utilisation spécifique».
+    status: modified
+    type: authoritative
+    modification: L'expression entre parenthèses après le terme a été transformée
+      en attribut du terme «utilisation spécifique».
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: référence aux normes
+    usage_info: dans la réglementation
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-901-06
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: '09ad9a1c-8e04-5435-9219-64f6a5bc8878'

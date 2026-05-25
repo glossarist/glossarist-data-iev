@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: spectral radiance distribution as seen by an image capture or measurement
+      device and converted to colour signals that are considered to be perfectly achromatic
+      and to have an observer adaptive luminance factor of unity
+  examples: []
+  id: 845-32-058
+  notes:
+  - content: The colour signals are considered to correspond to a perfect white diffuser.
+  - content: The adopted white can vary within a scene.
+  - content: No assumptions should be made concerning the relation between the {{adapted
+      white, urn:iec:std:iec:60050-845-23-081}} or adopted white and measurements
+      of nearly perfect reflecting diffusers in a scene, because measurements of such
+      diffusers will depend on the illumination and viewing geometry, and other elements
+      in the scene that can affect perception. It is easy to arrange conditions for
+      which a nearly perfect reflecting diffuser will appear to be grey or coloured.
+  - content: The adopted white can be a visual percept or a computational attribute.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adopted white
+    usage_info: image capture
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: b3f4306f-5a7d-549c-9a06-a027c36cc7b8

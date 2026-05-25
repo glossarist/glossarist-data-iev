@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 716-03-03
+  localized_concepts:
+    ara: 80220864-1d39-51c1-b0d0-7c98cb85e71e
+    deu: 3054cefd-6e0f-580d-988c-eebe1556da26
+    eng: 4581f62e-b11e-550c-9eab-0bd315a2942b
+    spa: 48795afa-d3d5-54a3-be2e-aa16b41e7f21
+    fra: c5408ed6-93aa-5d0b-93cf-ecf44b822c60
+    ita: 75ec2a93-bc4f-56f1-9766-bf994ba76e54
+    jpn: d42ce013-bd50-5368-8e06-ff21c89ad576
+    kor: 01dfdf29-7e63-53d5-8bbf-ef5fb3abd77b
+    pol: fb84f5ac-a75f-5bf2-9060-245947dd29df
+    por: bbceaf66-678a-58ae-b631-aa582efb16de
+    swe: 439acc35-5f62-59f9-9eba-677466fc5154
+  domains:
+  - concept_id: area-716
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-716-03
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-716-03
+  type: broader
+  ref:
+    source: IEV
+    id: section-716-03
+status: valid
+schema_version: '3'
+id: 716-03-03

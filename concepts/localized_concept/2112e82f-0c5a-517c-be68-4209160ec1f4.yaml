@@ -1,0 +1,48 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: change in {{luminous energy, urn:iec:std:iec:60050-845-21-037}} with
+      timestem:[Phi_("v") = frac("d" Q_("v"))("d" t)]where stem:[Q]~v~ is the luminous
+      energy emitted, transferred or received, and stem:[t] is time
+  examples: []
+  id: 845-21-039
+  notes:
+  - content: Luminous flux is a quantity derived from the radiant flux, stem:[Φ]~e~,
+      by evaluating the radiation according to its action upon the {{CIE standard
+      photometric observer, urn:iec:std:iec:60050-845-21-036}}. Luminous flux can
+      be derived from the spectral radiant flux distribution bystem:[Phi_("v") = K_("m")
+      int_(0)^(oo) Phi_("e" "," lambda) ( lambda ) " " " " V ( lambda ) " " "d" lambda]where
+      stem:[K]~m~ is maximum luminous efficacy, stem:[Φ]~e,stem:[λ]~(stem:[λ]) is
+      spectral radiant flux, stem:[V](stem:[λ]) is {{spectral luminous efficiency,
+      urn:iec:std:iec:60050-845-21-035}} and stem:[λ] is wavelength.
+  - content: The distribution of the luminous intensities as a function of the direction
+      of emission, e.g. given by the polar angles (stem:[ϑ], stem:[φ]), is used to
+      determine the luminous flux, stem:[Φ]~v~, within a certain solid angle, stem:[Ω],
+      of a source:stem:[Phi_("v") = "P{iint}"_(Omega) I_("v") (vartheta , phi) "sin"
+      vartheta " d" phi " d" vartheta].
+  - content: The corresponding radiometric quantity is "radiant flux". The corresponding
+      quantity for photons is "photon flux".
+  - content: The luminous flux is expressed in lumen (lm).
+  - content: This entry was numbered 845-01-25 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: luminous flux
+  - type: symbol
+    designation: |-
+      stem:[Φ]~v~
+      stem:[Φ]
+    international: true
+  domain: section-845-21
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 2112e82f-0c5a-517c-be68-4209160ec1f4

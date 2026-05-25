@@ -1,0 +1,34 @@
+---
+data:
+  dates:
+  - date: '2004-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '2004-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for a polyphase line consisting of stem:[m] line conductors and one neutral
+      conductor, sum of the stem:[m] instantaneous powers expressed for each line
+      conductor by the product of the polyphase line-to-neutral voltage and the corresponding
+      line current
+  examples: []
+  id: 141-03-10
+  notes:
+  - content: If there is no neutral conductor, the voltages between the line conductors
+      and any reference point have to be used instead of the polyphase line-to-neutral
+      voltages.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instantaneous power
+    usage_info: for a polyphase line
+  - type: symbol
+    designation: stem:[p]
+    international: true
+  domain: section-141-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2004-08-01T00:00:00+00:00'
+  review_decision_date: '2004-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2004-08-01T00:00:00+00:00'
+id: 133160c4-ae12-5c41-999a-2332df316b17

@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 112-01-19
+  localized_concepts:
+    ara: b0bfcccb-72f6-5d8e-a528-55a9286516ae
+    deu: 463921fb-a5bc-553a-b556-e8ab672ed59a
+    eng: 753ea301-b6ad-56da-8b69-92bcbc07311b
+    fra: e72c494d-1c1f-531f-b440-3e817bd5c424
+    ita: 2bb2015e-5658-570d-9409-ad83c7cb1866
+    jpn: b369a833-e035-57b7-8501-fac847d0cf9d
+    kor: 33f164f3-5594-5789-9c98-c8cfc0709b72
+    pol: aaec212d-d726-523f-8134-2be2a9fc04a5
+    por: 3274be65-0321-58fb-a612-9124bd7208f0
+    srp: 7a969010-3baf-5d6c-b4a5-d4e473ddf35d
+    swe: 1fafb4c7-ad03-5b25-9be5-acb120f3b233
+    zho: 2bebb922-36e4-5b8a-a408-b57cfdc420fc
+  domains:
+  - concept_id: area-112
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-112-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-112-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-112-01
+status: valid
+schema_version: '3'
+id: 112-01-19

@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{signal, urn:iec:std:iec:60050-171-01-03}} that is both a {{continuous-value
+      signal, urn:iec:std:iec:60050-171-01-09}} and a {{continuous-time signal, urn:iec:std:iec:60050-171-01-10}}"
+  examples: []
+  id: 171-01-14
+  notes:
+  - content: The characteristic carrying information can at any instant assume any
+      value within a continuous interval. For instance, an analogue signal can follow
+      continuously the values of another physical quantity representing information.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: analogue signal
+  - type: expression
+    geographical_area: US
+    designation: analog signal
+  domain: section-171-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: c632c3f4-986e-5a73-a00e-48e0a07d7c2f

@@ -1,0 +1,32 @@
+---
+data:
+  identifier: area-112
+  localized_concepts:
+    eng: a224cf30-d072-5b25-9557-b508e3e4f1fc
+  domains:
+  - concept_id: area-112
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-112-01
+  type: narrower
+  ref:
+    source: IEV
+    id: section-112-01
+- content: section-112-02
+  type: narrower
+  ref:
+    source: IEV
+    id: section-112-02
+- content: section-112-03
+  type: narrower
+  ref:
+    source: IEV
+    id: section-112-03
+- content: section-112-04
+  type: narrower
+  ref:
+    source: IEV
+    id: section-112-04
+schema_version: '3'
+id: area-112

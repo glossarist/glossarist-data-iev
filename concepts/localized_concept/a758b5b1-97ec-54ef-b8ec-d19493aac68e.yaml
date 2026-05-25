@@ -1,0 +1,42 @@
+---
+data:
+  definition:
+  - content: "{{élément de calcul, urn:iec:std:iec:60050-741-02-501}} ou {{élément
+      de données, urn:iec:std:iec:60050-171-02-01}}"
+  examples: []
+  id: 741-01-14
+  notes:
+  - content: Une entité numérique peut exister en tant que {{service informatique
+      en nuage, urn:iec:std:iec:60050-741-01-08}} ou en tant que {{service, urn:iec:std:iec:60050-741-01-28}}
+      dans un {{centre de données, urn:iec:std:iec:60050-741-01-501}}, ou en tant
+      qu'élément d'un {{réseau, urn:iec:std:iec:60050-741-01-25}} ou encore en tant
+      que {{passerelle IdO, urn:iec:std:iec:60050-741-02-06}}.
+  sources:
+  - origin:
+      ref: ISO/IEC 20924:2018
+      locality:
+        type: clause
+        reference_from: 3.1.14
+      original: ISO/IEC 20924:2018, 3.1.14
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: entité numérique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-741-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: a758b5b1-97ec-54ef-b8ec-d19493aac68e

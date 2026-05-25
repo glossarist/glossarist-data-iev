@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2011-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: greatest distance between two points on a specified axis perpendicular
+      to the beam axis, where the pulse-pressure-squared integral falls below its
+      maximum on the specified axis by a specified amount
+  examples: []
+  id: 802-01-20
+  notes:
+  - content: Commonly used beamwidths are specified at –6 dB, –10 dB and –20 dB levels
+      below the maximum. The decibel calculation implies taking 10 times the logarithm
+      (to the base 10) of the ratios of the integrals.
+  sources:
+  - origin:
+      ref: IEC 62127-1
+      locality:
+        type: clause
+        reference_from: '3.11'
+      original: definition 3.11 of IEC 62127-1 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: beamwidth
+  - type: symbol
+    designation: stem:[w]~6~, stem:[w]~10~, stem:[w]~20~
+    international: true
+  domain: section-802-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-01-01T00:00:00+00:00'
+id: 8df43187-2d79-5dd3-aebe-cb52475a5ae6

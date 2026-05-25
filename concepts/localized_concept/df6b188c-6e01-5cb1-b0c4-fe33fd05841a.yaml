@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '1994-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '1994-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: niveau, ехрrimé en décibels, de l'intégrale par rapport au temps, pendant
+      le survol de l'aéronef, de l'antilogarithme du dixième du niveau de bruit perçu
+      corrigé pour les sons purs; la durée de référence est égale à 10 s
+  examples: []
+  id: 801-29-15
+  notes:
+  - content: L'intégrale est habituellement évaluée approximativement en faisant la
+      demi-somme pour les dix valeurs supérieures durant un survol, des antilogarithmes
+      du dixième des niveaux de bruit perçu corrigés pour les sons purs, dans des
+      intervalles successifs de durée 0,5 s.
+  - content: Le niveau effectif de bruit perçu est censé représenter la bruyance subjective.
+  - content: Le niveau effectif de bruit perçu, pour le survol d'un aéronef, est d'environ
+      2 dB à 3 dB supérieur au niveau d'exposition au bruit pondéré A.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: niveau effectif de bruit perçu
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-801-29
+  language_code: fra
+  entry_status: valid
+  review_date: '1994-07-01T00:00:00+00:00'
+  review_decision_date: '1994-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1994-07-01T00:00:00+00:00'
+id: df6b188c-6e01-5cb1-b0c4-fe33fd05841a

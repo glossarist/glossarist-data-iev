@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '2009-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2009-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: distribution being the derivative of the Dirac function
+  examples: []
+  id: 103-03-06
+  notes:
+  - content: 'The unit doublet can be used to express the value for stem:[x]~0~ of
+      the derivative of a function stem:[f](stem:[x]) differentiable at stem:[x =
+      x_(0)]: stem:[f^(prime) ( x_(0) ) = - int_(" " - oo)^(" " + oo) delta^(prime)
+      ( x - x_(0) ) f ( x ) rm(d) x]'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unit doublet
+  - type: symbol
+    designation: stem:[delta]&prime;
+    international: true
+  domain: section-103-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2009-12-01T00:00:00+00:00'
+id: cde24c42-bb77-5773-a0d7-0692dcf92311

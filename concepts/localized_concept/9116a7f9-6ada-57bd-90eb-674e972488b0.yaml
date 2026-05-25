@@ -1,0 +1,37 @@
+---
+data:
+  definition:
+  - content: source de lumière LED comportant au moins un culot PCB ou ne comportant
+      aucun culot, et intégrant au moins un boîtier LED
+  examples: []
+  id: 845-27-058
+  notes:
+  - content: Un module LED peut être un {{module LED intégré, urn:iec:std:iec:60050-845-27-059}}
+      (module LEDi), un {{module LED semi-intégré, urn:iec:std:iec:60050-845-27-060}}
+      (module LEDsi), ou un {{module LED non intégré, urn:iec:std:iec:60050-845-27-061}}
+      (module LEDni).
+  - content: Un module LED est habituellement conçu pour faire partie intégrante d'une
+      lampe LED ou d'un luminaire LED.
+  - content: 'Un module LED peut inclure un ou plusieurs des éléments suivants: composants
+      électriques, optiques, mécaniques et thermiques, interfaces et appareillage
+      de commande.'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: module LED
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 9116a7f9-6ada-57bd-90eb-674e972488b0

@@ -1,0 +1,44 @@
+---
+data:
+  definition:
+  - content: 'valeur positive unique, si elle existe, associée à un sous-ensemble
+      d''une surface dans l''espace euclidien à trois dimensions, avec les propriétés
+      suivantes: * pour un rectangle, la valeur est le produit des longueurs des côtés,
+      * pour une union disjointe de sous-ensembles, la valeur est la somme des valeurs
+      qui leur sont associées, * pour des sous-ensembles plus compliqués, la valeur
+      peut être approchée par des sommes et donnée par une intégrale'
+  examples: []
+  id: 102-04-33
+  notes:
+  - content: Pour la partie d'un plan limitée par les droites stem:[x] = stem:[a],
+      stem:[x] = stem:[b], stem:[y] = 0 et l'arc de courbe stem:[y = f](stem:[x])
+      avec stem:[a] &lt; stem:[b] et stem:[f](stem:[x]) ≥ 0, l'aire est stem:[int_(a)^(b)
+      f ( x ) rm(d) x].
+  - content: Pour une surface définie par stem:[r = f ( u " " , " " v )], où stem:[(
+      u , v ) in "U" subseteq R^("2")], l'aire est stem:["P{iint}"_("U") |frac(del
+      f)(del u) * frac(del f)(del u)| * rm(d) u rm(d) v].
+  - content: Pour une surface définie par l'équation stem:[z] = stem:[f](stem:[x,
+      y]), l'aire est stem:["P{iint}"_("S") sqrt(1 + (frac(del f)(del x))^(2) + (frac(del
+      f)(del y))^(2)) rm(d) x rm(d) y].
+  - content: Dans l'espace géométrique usuel, l'aire d'une surface est une grandeur
+      ayant la dimension du carré d'une longueur.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: aire
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-04
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 6fb36b1e-6574-5bad-a7cb-42c43a51d131

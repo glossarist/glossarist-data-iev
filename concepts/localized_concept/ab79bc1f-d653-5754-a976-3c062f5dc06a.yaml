@@ -1,0 +1,66 @@
+---
+data:
+  definition:
+  - content: "{{distribution, urn:iec:std:iec:60050-103-01-03}} associant à toute
+      fonction stem:[f](stem:[x]), continue pour stem:[x = 0], la valeur stem:[f](0)"
+  examples: []
+  id: 103-03-05
+  notes:
+  - content: La distribution de Dirac peut être considérée comme la limite d'une fonction
+      nulle en dehors d'un petit intervalle contenant l'origine et dont l'intégrale
+      reste égale à l'unité lorsque cet intervalle tend vers zéro. Voir la Figure&nbsp;2,
+      où le triangle peut être remplacé par n’importe quelle forme d’aire unité.
+  - content: La distribution de Dirac est la dérivée de la fonction échelon unité
+      considérée comme une distribution.
+  - content: 'La distribution de Dirac peut être définie pour toute valeur stem:[x]~0~
+      de la variable stem:[x]. La notation usuelle est: stem:[f ( x_(0) ) = int_(" "
+      - oo)^(" " + oo) delta ( x - x_(0) ) f ( x ) rm(d) x]'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: distribution de Dirac
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: impulsion unité
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: percussion unité
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-103-03
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: ab79bc1f-d653-5754-a976-3c062f5dc06a
+classification: preferred

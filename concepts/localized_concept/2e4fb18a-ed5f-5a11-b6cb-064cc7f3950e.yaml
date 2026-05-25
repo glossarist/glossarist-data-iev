@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '1982-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '1982-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: at a given point in a transmission line or waveguide, the complex ratio
+      of a specified field vector component in an electromagnetic wave in a given
+      mode to the same field vector component in a reference wave in the same mode
+  examples: []
+  id: 726-05-08
+  notes:
+  - content: For a mode of propagation, the reference wave may be one that carries
+      unit power and in which a specified field component has zero phase at a specified
+      point in the reference transverse cross-section. Usually, the transverse component
+      of the electric field vector at the centre point of the reference cross-section
+      is chosen for that purpose.
+  - content: For an evanescent mode, the power carried by the wave is zero. One can
+      then make the integral of the longitudinal complex Poynting vector, over the
+      reference cross-section, equal to the imaginary unit, or use any other well-defined
+      normalization.
+  - content: It is preferable to consider separately the modes of propagation and
+      the evanescent modes because the normalized complex wave amplitude concept is
+      mostly applied to the former.
+  - content: In rare cases where the scattering matrix has to be extended to evanescent
+      modes, it is better to give the user freedom to choose and define his own reference
+      waves.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: normalized complex wave amplitude
+  - type: expression
+    designation: "(complex) wave amplitude"
+  domain: section-726-05
+  language_code: eng
+  entry_status: valid
+  review_date: '1982-01-01T00:00:00+00:00'
+  review_decision_date: '1982-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1982-01-01T00:00:00+00:00'
+id: 2e4fb18a-ed5f-5a11-b6cb-064cc7f3950e

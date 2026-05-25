@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '2001-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2001-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{electric line, urn:iec:std:iec:60050-151-12-27}} with one or more
+      conductors or a cable supported above ground by appropriate means"
+  examples: []
+  id: 151-12-33
+  notes:
+  - content: An overhead line may consist of only one conductor when the circuit is
+      closed by the Earth.
+  - content: An overhead line may be constructed with bare conductors, generally supported
+      by insulators, or with insulated conductors.
+  - content: The concept of overhead line generally includes the supporting elements.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 466-01-02
+      original: 466-01-02 MOD
+    status: modified
+    type: authoritative
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 601-03-04
+      original: 601-03-04 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: overhead line
+  domain: section-151-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2001-07-01T00:00:00+00:00'
+id: 85cb2bc7-f9d4-5594-a880-55278e7fe4cf

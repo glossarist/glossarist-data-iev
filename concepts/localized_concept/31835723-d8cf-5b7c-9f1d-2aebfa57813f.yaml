@@ -1,0 +1,50 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: 'distribution, defined as the limit of a positive function, equal to
+      zero outside a small interval containing the origin, the integral of which remains
+      equal to one when this interval tends to zerostem:[delta ( t ) = { [[0], [oo],
+      [0]] [[" " "for" " " t lt 0], [" " "for" " " t = 0], [" " "for" " " t gt 0]]
+      " " "with" int_(- oo)^(+ oo) delta ( t ) " " rm(d) t = 1]SEE: Figure 4a) and
+      IEC 60027-6.'
+  examples: []
+  id: 351-45-20
+  notes:
+  - content: A distribution assigns a number to any function stem:[f](stem:[t]), sufficiently
+      smooth for stem:[t] = stem:[t]~0~ [see CEI 60050-103:2009, 103-03-05].The Dirac
+      impulse does this according tostem:[f (t_(0)) = int_(- oo)^(oo) delta (t - t_(0))
+      f (t) "d" t].
+  - content: Any shape with area 1 may be used for the definition of δ(stem:[t]),
+      e.g. a rectangular pulse with width stem:[τ] and height stem:[τ]^–1^, or a triangular
+      pulse, as shown in Figure 4a), as well as a Gaussian functionstem:[frac(1)(tau
+      * sqrt(pi)) * e^(- " " frac(t^(2))(tau^(2)))].
+  - content: Any of the shapes mentioned in Note 2 to entry with stem:[τ] much smaller
+      than the smallest time constant at work in the system under consideration may
+      be used for a technical approximation of the Dirac impulse.
+  - content: In control technology the Dirac function is mainly important for the
+      definition of impulses and exclusively used as a function of time. Therefore
+      the term Dirac impulse is used and the definition is adapted accordingly.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unit impulse
+  - type: expression
+    normative_status: preferred
+    designation: Dirac impulse
+  - type: symbol
+    designation: δ(stem:[t])
+    international: true
+  domain: section-351-45
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 31835723-d8cf-5b7c-9f1d-2aebfa57813f
+classification: preferred

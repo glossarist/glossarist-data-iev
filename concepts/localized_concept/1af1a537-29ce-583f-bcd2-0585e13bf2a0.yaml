@@ -1,0 +1,41 @@
+---
+data:
+  definition:
+  - content: "en {{régime sinusoïdal, urn:iec:std:iec:60050-131-11-28}}, dans un milieu
+      tel qu'une relation linéaire existe en chaque point entre les {{phaseurs, urn:iec:std:iec:60050-131-11-26}}
+      <u>stem:[\n\nD]</u>  et <u>stem:[\n\nE]</u>  représentant respectivement l'{{induction
+      électrique, urn:iec:std:iec:60050-121-11-40}}  et le {{champ électrique, urn:iec:std:iec:60050-121-11-18}},
+      grandeur complexe stem:[<u>ε</u>]~ r~  définie par la relation\n\n<u>stem:[\n\nD]</u>
+      = stem:[ε]~0~stem:[<u>ε</u>]~ r~ <u>stem:[\n\nE]</u>\r\noù stem:[ε]~0~  est
+      la {{constante électrique, urn:iec:std:iec:60050-121-11-03}}"
+  examples: []
+  id: 121-12-14
+  notes:
+  - content: La permittivité relative complexe, généralement fonction de la fréquence,
+      est une {{grandeur scalaire, urn:iec:std:iec:60050-102-02-19}} dans un milieu
+      isotrope, une {{grandeur tensorielle, urn:iec:std:iec:60050-102-03-40}} dans
+      un milieu anisotrope.
+  - content: On écrit en général stem:[<u>ε</u>]~ r~ = stem:[ε']~r~ − jstem:[ε'']~r~,
+      où stem:[ε']~r~ est la {{permittivité relative réelle, urn:iec:std:iec:60050-121-12-15}}
+      et stem:[ε'']~r~ est l'{{indice de pertes diélectriques, urn:iec:std:iec:60050-121-12-16}}
+      qui caractérise les {{pertes diélectriques, urn:iec:std:iec:60050-121-12-11}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: permittivité relative complexe
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-121-12
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 1af1a537-29ce-583f-bcd2-0585e13bf2a0

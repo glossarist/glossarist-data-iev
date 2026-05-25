@@ -1,0 +1,43 @@
+---
+data:
+  definition:
+  - content: répartition spectrale de luminance énergétique telle qu'observée par
+      un dispositif de capture ou de mesure d'image et convertie en signaux de couleurs
+      considérés comme parfaitement achromatiques et comme ayant un facteur unitaire
+      de luminance adaptable à l'observateur
+  examples: []
+  id: 845-32-058
+  notes:
+  - content: Les signaux de couleurs sont considérés comme correspondant à un diffuseur
+      de blanc parfait.
+  - content: Le blanc adopté peut varier dans une scène.
+  - content: Il convient de ne formuler aucune hypothèse concernant la relation entre
+      le {{blanc adapté, urn:iec:std:iec:60050-845-23-081}} ou le blanc adopté et
+      les mesurages de diffuseurs réfléchissants quasi parfaits dans une scène, étant
+      donné que les mesurages de ces diffuseurs dépendent de l'éclairage et de la
+      géométrie de vision, ainsi que d'autres éléments de la scène susceptibles d'affecter
+      la perception. Il est facile d'aménager les conditions pour lesquelles un diffuseur
+      réfléchissant quasi parfait apparaît gris ou coloré.
+  - content: Le blanc adopté peut être un élément de perception visuelle ou un attribut
+      de calcul.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blanc adopté
+    usage_info: capture d'image
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 25f96748-97b3-5561-b431-d283110ddc64

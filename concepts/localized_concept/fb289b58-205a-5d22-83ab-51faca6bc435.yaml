@@ -1,0 +1,57 @@
+---
+data:
+  dates:
+  - date: '2002-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: température théorique basée sur une représentation simplifiée du comportement
+      thermique et électrique d’un dispositif à semiconducteurs
+  examples: []
+  id: 521-05-14
+  notes:
+  - content: La température virtuelle n’est pas nécessairement la température la plus
+      élevée du dispositif.
+  - content: "Basée sur la puissance dissipée et sur la résistance ou impédance thermique
+      qui correspond à ce mode de fonctionnement, la température virtuelle peut être
+      calculée à l’aide de la relation:\r\nstem:[T_(\"j\") = T_(\"boitier\") + frac(P)(R_(\"th\"))]\r\nou
+      stem:[T_(\"j\") = T_(\"amb\") + frac(P)(R_(\"th\"))]"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: température virtuelle
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: température équivalente interne
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-521
+  language_code: fra
+  entry_status: valid
+  review_date: '2002-05-01T00:00:00+00:00'
+  review_decision_date: '2002-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-05-01T00:00:00+00:00'
+id: fb289b58-205a-5d22-83ab-51faca6bc435
+classification: preferred

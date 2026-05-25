@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 903-04-14
+  localized_concepts:
+    deu: 6b0b03b4-1227-5cda-9251-758b9802a456
+    eng: c44ff863-6ab6-5411-bf4c-aa6bce8a1cd3
+    fra: 5a9c1c71-fda4-5f3a-89e5-3ba9978be148
+    jpn: df684847-d883-5702-b165-a2527b2db67e
+    kor: 15812aab-518d-5cc6-bfeb-8d0812659ca6
+    por: 266ed350-f56b-525f-845d-de25a12006e9
+    srp: 23b81d6f-7184-5f0f-8e29-f86d2ed13060
+    zho: 4bb36907-a966-5b11-ba8f-d610b324e82f
+    spa: c57d5f79-d9e4-56a7-90fc-3b7ba59993a6
+    pol: 26ae9405-35e0-5a30-8361-4ec7bcc1e0d6
+  domains:
+  - concept_id: area-903
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-903-04
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-903-04
+  type: broader
+  ref:
+    source: IEV
+    id: section-903-04
+- type: supersedes
+  ref:
+    source: IEV
+    id: 903-04-14
+    version: 2014-04
+status: valid
+schema_version: '3'
+id: 903-04-14

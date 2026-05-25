@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '2002-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "for a network containing stem:[n] nodes and stem:[b] branches and in
+      which a reference direction is chosen for each branch, matrix of type stem:[n] × stem:[b]
+      where the element stem:[a]~stem:[ij]~ is:\r\n* 0 if branch j is not incident
+      at node i* 1 if branch j is pointing away from node i* −1 if branch j is pointing
+      towards node i"
+  examples: []
+  id: 131-13-21
+  notes:
+  - content: "– The figure below gives a network and the corresponding branch-node
+      incidence matrix."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: branch-node incidence matrix
+  domain: section-131-13
+  language_code: eng
+  entry_status: valid
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-06-01T00:00:00+00:00'
+id: ee8e1f45-01a8-55b0-9ea9-9983692cc877

@@ -1,0 +1,46 @@
+---
+data:
+  definition:
+  - content: "{{rapport, urn:iec:std:iec:60050-102-01-23}} de la masse de la vapeur
+      d’eau à la masse de l’air sec dans un volume donné d’air"
+  examples: []
+  id: 113-04-62
+  notes:
+  - content: Le rapport de mélange à saturation est noté  stem:[x]~sat~.
+  - content: Le rapport de mélange est généralement exprimé en grammes par kilogramme.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rapport de mélange
+    usage_info: de la vapeur d'eau
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: rapport de la masse de vapeur d’eau à la masse de gaz sec
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-113-04
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 61e3ec3d-af8a-58be-9363-19f25d420c95
+classification: deprecated

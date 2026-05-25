@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 732-10-03
+  localized_concepts:
+    deu: 100810b1-19be-5d10-b914-e401e64df80f
+    eng: 2349f684-f552-5435-a298-d8e9b0effad8
+    spa: 116af025-a2a5-5b27-8b26-51e6edc86ded
+    fra: e81f83b7-db4b-51fa-89f1-f761c3b7d451
+    jpn: e3160ed5-6daf-5801-9a4f-0e2bab67f9b6
+    kor: 997bc69e-d1af-5b38-995a-9d6349865a97
+    pol: 29b4d7b4-3d5a-5d56-8ad7-1c2afc0e96e4
+    por: 309d5e4f-1cf4-5389-bed5-ffda91b75f02
+    srp: 4608a6f2-92e9-51cf-8bd5-ff7559984bfc
+    zho: a350ab22-9b54-5ac8-b00e-e8c3d67684dc
+  domains:
+  - concept_id: area-732
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-732-10
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-732-10
+  type: broader
+  ref:
+    source: IEV
+    id: section-732-10
+- type: supersedes
+  ref:
+    source: IEV
+    id: 732-10-03
+    version: 2014-01
+status: valid
+schema_version: '3'
+id: 732-10-03

@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: real or virtual object that forms the smallest possible retinal image
+      (considering the accommodation range of the human eye) for a given evaluation
+      location of the retinal hazard
+  examples: []
+  id: 845-26-076
+  notes:
+  - content: The accommodation range of the eye is assumed to be variable from 100&#160;mm
+      to infinity. The location of the apparent source for a given viewing position
+      in the beam is that location to which the eye accommodates to produce the most
+      hazardous retinal irradiance condition.
+  - content: This definition is used to determine, for a given evaluation position,
+      the location of the apparent origin of laser radiation in the wavelength range
+      of 380&#160;nm to 1&#160;400&#160;nm. In the limit of vanishing divergence,
+      i.e. in the case of a well-collimated beam, the location of the apparent source
+      goes to infinity.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: apparent source
+    usage_info: retinal hazard
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 52eda693-af98-592f-8d98-feb94207e7ca

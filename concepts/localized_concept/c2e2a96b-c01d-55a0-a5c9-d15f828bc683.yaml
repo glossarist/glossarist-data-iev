@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of reflected radiant flux, stem:[Φ]~r~, and incident radiant
+      flux, stem:[Φ]~m~stem:[rho = frac(Phi_("r"))(Phi_("m"))]
+  examples: []
+  id: 845-24-064
+  notes:
+  - content: Reflectance is also defined spectrally in terms of wavelength, in which
+      case, "spectral" is added before the quantity name.
+  - content: Due to energy conservation, stem:[α] + stem:[ρ] + stem:[τ] = 1 except
+      when {{polarized radiation, urn:iec:std:iec:60050-845-21-017}} is observed,
+      where stem:[α] is absorptance and stem:[τ] is transmittance.
+  - content: 'Reflectance, stem:[ρ], is the sum of regular reflectance, stem:[ρ]~r~,
+      and diffuse reflectance, stem:[ρ]~d~: stem:[ρ] = stem:[ρ]~r~ + stem:[ρ]~d~.'
+  - content: The reflectance has unit one.
+  - content: This entry was numbered 845-04-58 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reflectance
+  - type: symbol
+    designation: stem:[ρ]
+    international: true
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: c2e2a96b-c01d-55a0-a5c9-d15f828bc683

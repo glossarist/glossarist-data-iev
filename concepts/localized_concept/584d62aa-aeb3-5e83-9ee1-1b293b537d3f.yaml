@@ -1,0 +1,45 @@
+---
+data:
+  definition:
+  - content: "{{probabilité, urn:iec:std:iec:60050-103-08-02}} pour qu’un {{élément
+      de données, urn:iec:std:iec:60050-171-02-01}} soit reçu de façon erronée"
+  examples:
+  - content: 'Probabilité d’erreur sur les bits ou probabilité d’erreur binaire, stem:[P]~b~
+      ou stem:[P]~bit~; probabilité d’erreur sur les blocs, stem:[P]~bl~.Note 1 à
+      l’article: La valeur mesurée est désignée par "{{taux d’erreurs, urn:iec:std:iec:60050-702-07-39}}",
+      par exemple: {{taux d’erreur binaire, urn:iec:std:iec:60050-704-18-04}} ou taux
+      d’erreur sur les bits (TEB); {{taux d’erreur sur les blocs, urn:iec:std:iec:60050-721-08-13}}.'
+  id: 171-06-08
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-20
+      original: IEC 80000-13:2008, 13-20, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+    status: modified
+    type: authoritative
+    modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+      aux règles de l’IEV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: probabilité d'erreur
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-171
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 584d62aa-aeb3-5e83-9ee1-1b293b537d3f

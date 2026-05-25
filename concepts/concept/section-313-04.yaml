@@ -1,0 +1,35 @@
+---
+data:
+  identifier: section-313-04
+  localized_concepts:
+    eng: cc467877-5c38-519a-9d95-6bfb9a01c3bb
+  domains:
+  - concept_id: area-313
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-313-04
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-313
+  type: broader
+  ref:
+    source: IEV
+    id: area-313
+- content: 313-04-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 313-04-01
+- content: 313-04-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 313-04-02
+- content: 313-04-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 313-04-03
+schema_version: '3'
+id: section-313-04

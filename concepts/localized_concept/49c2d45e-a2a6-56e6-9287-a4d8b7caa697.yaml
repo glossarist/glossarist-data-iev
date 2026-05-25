@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2010-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2010-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: functional unit that mediates all traffic between two networks and protects
+      one of them or some part thereof against unauthorized access
+  examples: []
+  id: 732-06-01
+  notes:
+  - content: "– The protected network is generally a private network, internal to
+      an organization."
+  - content: "– A firewall may permit messages or files to be transferred to a high-security
+      workstation within the internal network, without permitting such transfer in
+      the opposite direction."
+  - content: "– The firewall may have different types of implementation. Examples
+      are dual-homed-host, screened subnet,  screening router, or bastion host."
+  - content: "– See Figure 3.\r\nimage::/assets/images/parts/732/[]"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: firewall
+  domain: section-732-06
+  language_code: eng
+  entry_status: valid
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2010-06-01T00:00:00+00:00'
+id: 49c2d45e-a2a6-56e6-9287-a4d8b7caa697

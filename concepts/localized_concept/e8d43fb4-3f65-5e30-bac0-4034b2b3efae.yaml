@@ -1,0 +1,38 @@
+---
+data:
+  definition:
+  - content: un ou plusieurs conduits qui alimentent en fluide ou qui recueillent
+      des fluides de la {{cellule élémentaire à combustible, urn:iec:std:iec:60050-485-08-01}}
+      ou de la {{pile à combustible, urn:iec:std:iec:60050-485-06-01}}
+  examples: []
+  id: 485-06-15
+  notes:
+  - content: Une conception avec un collecteur externe fait référence à une pile à
+      combustible où les mélanges de gaz sont transférés d'une source centrale vers
+      des entrées de combustible et d'oxydant de grande taille, couvrant les côtés
+      adjacents de la pile à combustible et rendus hermétiques avec des joints conçus
+      correctement. Les gaz d'échappement sont collectés sur les côtés opposés avec
+      des systèmes similaires.
+  - content: La conception avec un collecteur interne fait référence à un système
+      de conduite à l'intérieur de la pile à combustible pénétrant dans les {{plaques
+      bipolaires, urn:iec:std:iec:60050-485-06-04}} et qui distribue le gaz aux cellules.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: collecteur
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-485-06
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: e8d43fb4-3f65-5e30-bac0-4034b2b3efae

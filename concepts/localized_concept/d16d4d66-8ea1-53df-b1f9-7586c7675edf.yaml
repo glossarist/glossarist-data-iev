@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2014-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2014-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: measure of the transfer characteristic of a modulation system as compared
+      to an ideal (straight line) function, usually expressed as an allowable non-linearity
+      in per cent of the specified full range deviation
+  examples: []
+  id: 561-03-15
+  notes:
+  - content: Modulation linearity can also be expressed in terms of the permissible
+      distortion of base-band signals produced by the modulation device (for example,
+      intermodulation and harmonic distortion products shall not exceed –40 dB relative
+      to the total modulating signal power).
+  - content: Figure 19 is a plot of the output frequency of a typical modulated oscillator
+      specified to have a modulation characteristic of 133,3 Hz/V over a range of
+      ± 3 V, with an allowed non-linearity of ± 5 %. Curve D is the actual characteristic
+      compared with the ideal (curve A) and the limits (curves B and C). image::/assets/images/parts/561/[]
+      *Figure 19 – Typical frequency fluctuation characteristics*
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: linearity of frequency modulation deviation
+  domain: section-561-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2014-11-01T00:00:00+00:00'
+  review_decision_date: '2014-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2014-11-01T00:00:00+00:00'
+id: d16d4d66-8ea1-53df-b1f9-7586c7675edf

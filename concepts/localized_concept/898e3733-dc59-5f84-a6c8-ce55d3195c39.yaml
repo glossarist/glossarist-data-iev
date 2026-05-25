@@ -1,0 +1,46 @@
+---
+data:
+  dates:
+  - date: '1996-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '1996-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: qualifie une ressource qui n'est pas en cours d'utilisation et qui n'est
+      pas en panne
+  examples: []
+  id: 715-02-06
+  notes:
+  - content: Une ressource au repos peut être libre ou bloquée.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 714-02-11
+      original: 714-02-11 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: au repos
+  - type: expression
+    normative_status: preferred
+    designation: de repos
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-715-02
+  language_code: fra
+  entry_status: valid
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1996-12-01T00:00:00+00:00'
+id: 898e3733-dc59-5f84-a6c8-ce55d3195c39
+classification: preferred

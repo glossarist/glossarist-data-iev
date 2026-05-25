@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 723-10-40
+  localized_concepts:
+    ara: 1cc14092-b3a2-5ce1-a3a8-927acc10f3db
+    deu: 8c43eb43-8fe3-5662-ac67-852c07ee2395
+    eng: b139edce-5951-5763-a26f-306adfc26854
+    spa: 11592ce9-e298-5483-ba89-06b3a64cc67e
+    fra: 4c5ce627-e056-5bf2-97d8-886682f8779f
+    ita: ae34c4c6-94a8-5743-8b71-03700d0d2f74
+    jpn: ae69706c-faab-5596-9561-63d7ee17c943
+    kor: 5436411d-9b4b-5cd6-a2e1-8c7a4cab37d7
+    pol: 6343340b-61ee-5265-9734-bb50348c4f3e
+    por: fee87f89-e939-5be7-88c8-c81121b6591c
+    swe: 7cbfa9d4-a26b-5be6-a0c1-3acd26e99dda
+  domains:
+  - concept_id: area-723
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-723-10
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-723-10
+  type: broader
+  ref:
+    source: IEV
+    id: section-723-10
+status: valid
+schema_version: '3'
+id: 723-10-40

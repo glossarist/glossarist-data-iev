@@ -1,0 +1,39 @@
+---
+data:
+  definition:
+  - content: "{{entité, urn:iec:std:iec:60050-741-01-18}} d'un {{système IdO, urn:iec:std:iec:60050-741-02-07}}
+      qui relie un ou plusieurs {{réseaux, urn:iec:std:iec:60050-741-01-25}} de proximité
+      et les {{dispositifs IdO, urn:iec:std:iec:60050-741-02-04}} sur ces réseaux
+      les uns avec les autres et à un ou plusieurs réseaux d'accès"
+  examples: []
+  id: 741-02-06
+  notes: []
+  sources:
+  - origin:
+      ref: ISO/IEC 20924:2018
+      locality:
+        type: clause
+        reference_from: 3.2.6
+      original: ISO/IEC 20924:2018, 3.2.6
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: passerelle IdO
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-741-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 3c5bff20-2121-5d3e-80f7-2869ad7ccb1b

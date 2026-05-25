@@ -1,0 +1,63 @@
+---
+data:
+  dates:
+  - date: '2001-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2001-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: étendue d’échelle que l’on obtient pour une position donnée des commandes
+      d’un appareil de mesure
+  examples: []
+  id: 311-03-14
+  notes:
+  - content: Le calibre nominal est normalement exprimé par ses limites inférieure
+      et supérieure. Lorsque la limite inférieure est zéro, le calibre est habituellement
+      exprimé par la seule limite supérieure.
+  sources:
+  - origin:
+      ref: JCGM VIM
+      locality:
+        type: clause
+        reference_from: '5.1'
+      original: VIM 5.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: calibre (nominal)
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: gamme (nominale)
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-311-03
+  language_code: fra
+  entry_status: valid
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2001-07-01T00:00:00+00:00'
+id: 99d08311-ea48-53d9-b04b-2542cc30cc08
+classification: preferred

@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2020-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: human- or machine-readable mark, or digital identity used to communicate
+      {{information, urn:iec:std:iec:60050-741-01-500}} about an {{entity, urn:iec:std:iec:60050-741-01-18}}
+  examples: []
+  id: 741-01-31
+  notes:
+  - content: A tag can contain information that can be read by {{sensors, urn:iec:std:iec:60050-741-02-09}}
+      to aid in identification of the {{physical entity, urn:iec:std:iec:60050-741-01-26}}.
+  sources:
+  - origin:
+      ref: ISO/IEC 20924:2018
+      locality:
+        type: clause
+        reference_from: 3.1.31
+      original: ISO/IEC 20924:2018, 3.1.31
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tag
+  domain: section-741-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-04-01T00:00:00+00:00'
+  review_decision_date: '2020-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-04-01T00:00:00+00:00'
+id: fef0b03c-7651-5936-9af2-23c1ba2f8ddf

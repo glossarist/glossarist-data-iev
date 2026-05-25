@@ -1,0 +1,91 @@
+---
+data:
+  definition:
+  - content: "{{système cohérent d'unités, urn:iec:std:iec:60050-112-01-22}} fondé
+      sur le {{Système international de grandeurs, urn:iec:std:iec:60050-112-02-01}}
+      (ISQ), comportant les noms et symboles des unités, une série de préfixes avec
+      leurs noms et symboles, ainsi que des règles pour leur emploi, adopté par la
+      Conférence générale des poids et mesures (CGPM)"
+  examples: []
+  id: 112-02-02
+  notes:
+  - content: "Le SI est fondé sur les sept grandeurs de base de l'ISQ. Les noms et
+      les symboles des unités de base sont donnés dans le tableau suivant:\n\n<table
+      style=\"width: 430px;\" cellpadding=\"5\" border=\"solid\">\r\n<tbody>\r\n<tr>\r\n<td
+      style=\"width: 300.95px;\">\n\n<strong><span>Grandeur de base</span></strong></p>\r\n</td>\r\n<td
+      colspan=\"2\" style=\"width: 146.05px;\">\n\n<strong><span>Unité de base</span></strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"width: 300.95px;\">\n\n<strong><span>Nom</span></strong></p>\r\n</td>\r\n<td
+      style=\"width: 77.05px;\">\n\n<strong><span>Nom</span></strong></p>\r\n</td>\r\n<td
+      style=\"width: 69px;\">\n\n<strong><span>Symbole</span></strong></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"width: 300.95px;\">\n\n<span>longueur</span></p>\r\n</td>\r\n<td style=\"width:
+      77.05px;\">\n\n<span>mètre</span></p>\r\n</td>\r\n<td style=\"width: 69px;\">\n\n<span>m</span></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"width: 300.95px;\">\n\n<span>masse</span></p>\r\n</td>\r\n<td style=\"width:
+      77.05px;\">\n\n<span>kilogramme</span></p>\r\n</td>\r\n<td style=\"width: 69px;\">\n\n<span>kg</span></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"width: 300.95px;\">\n\n<span>temps, durée</span></p>\r\n</td>\r\n<td
+      style=\"width: 77.05px;\">\n\n<span>seconde</span></p>\r\n</td>\r\n<td style=\"width:
+      69px;\">\n\n<span>s</span></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width:
+      300.95px;\">\n\n<span>courant électrique</span></p>\r\n</td>\r\n<td style=\"width:
+      77.05px;\">\n\n<span>ampère</span></p>\r\n</td>\r\n<td style=\"width: 69px;\">\n\n<span>A</span></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"width: 300.95px;\">\n\n<span>température thermodynamique</span></p>\r\n</td>\r\n<td
+      style=\"width: 77.05px;\">\n\n<span>kelvin</span></p>\r\n</td>\r\n<td style=\"width:
+      69px;\">\n\n<span>K</span></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td style=\"width:
+      300.95px;\">\n\n<span>quantité de matière</span></p>\r\n</td>\r\n<td style=\"width:
+      77.05px;\">\n\n<span>mole</span></p>\r\n</td>\r\n<td style=\"width: 69px;\">\n\n<span>mol</span></p>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      style=\"width: 300.95px;\">\n\n<span>intensité lumineuse</span></p>\r\n</td>\r\n<td
+      style=\"width: 77.05px;\">\n\ncandela</p>\r\n</td>\r\n<td style=\"width: 69px;\">\n\ncd</p>\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+  - content: Les unités de base et les unités dérivées cohérentes du SI forment un
+      ensemble cohérent, appelé "ensemble des unités SI cohérentes".
+  - content: Pour une description et une explication complètes du Système international
+      d’unités, voir la dernière édition de la brochure du SI publiée par le Bureau
+      international des poids et mesures (BIPM) et disponible sur le site internet
+      du BIPM.
+  - content: En algèbre des grandeurs, la grandeur "nombre d’entités" est souvent
+      considérée comme une grandeur de base, avec l’unité de base un, symbole 1.
+  - content: Les préfixes SI pour les multiples et sous-multiples des unités sont
+      donnés en {{IEV 112-02-03, urn:iec:std:iec:60050-112-02-03}}.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 99:2007
+      locality:
+        type: clause
+        reference_from: '1.16'
+      original: ISO/IEC Guide 99:2007, 1.16, modifié – Adjonction de “cohérent” dans
+        la définition.
+    status: modified
+    type: authoritative
+    modification: Adjonction de “cohérent” dans la définition.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Système international d'unités
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: SI
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-112-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 81c782cb-cd9e-5b85-9332-a2e9ce4a9902
+classification: preferred

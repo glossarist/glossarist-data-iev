@@ -1,0 +1,62 @@
+---
+data:
+  definition:
+  - content: forme approchée de la loi de Planck, valable avec une approximation meilleure
+      que 1 pour mille lorsque le produit stem:[λT] est plus petit que 0,002 m·Kstem:[L_("e"
+      "," lambda) "(" lambda , T ")" = frac(c_(1))(pi) lambda^(- 5) "e"^(frac(c_(2))(lambda
+      T))]où stem:[L]~e,~stem:[~λ~] est la luminance spectrale, stem:[λ] est la longueur
+      d'onde dans le vide, stem:[T] est la température thermodynamique, stem:[c_(1)
+      \  = 2 \  pi \  h \  c_(0)^(2)], stem:[c_(2) \  = h \  c_(0) \  / \  k], stem:[h]
+      est la constante de Planck, stem:[c]~0~ est la {{vitesse de la lumière dans
+      le vide, urn:iec:std:iec:60050-113-01-34}}, et stem:[k] est la constante de
+      Boltzmann
+  examples: []
+  id: 845-24-006
+  notes:
+  - content: La formule s'écrit parfois avec stem:[frac(c_(1))(pi " " Omega_(0))]
+      au lieu de stem:[frac(c_(1))(pi)], où stem:[Ω]~0~ est l'angle solide de 1 sr.
+  - content: Pour un récepteur dans un milieu d'indice de réfraction stem:[n], la
+      luminance énergétique mesurée est stem:[n]^−2^stem:[L]~e,~stem:[~λ~](stem:[λ],
+      stem:[T]).
+  - content: La loi de Wien peut aussi être exprimée pour donner la {{répartition
+      spectrale, urn:iec:std:iec:60050-845-21-029}} approchée de l'exitance énergétique
+      stem:[M]~e,~stem:[~λ~](stem:[λ], stem:[T]); dans la formule, le premier facteur
+      est alors stem:[c]~1~ au lieu de stem:[frac(c_(1))(pi)].
+  - content: Les grandeurs luminance énergétique (mentionnée dans la Note 2 à l'article)
+      et exitance énergétique (mentionnée dans la Note 3 à l'article) s'appliquent
+      au {{rayonnement non polarisé, urn:iec:std:iec:60050-845-21-021}} tel qu'il
+      est émis.
+  - content: Cet article était numéroté 845-04-06 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: loi du rayonnement de Wien
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: loi de Wien
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 4ad24fa3-2999-5343-969c-ec5c985e1cc5

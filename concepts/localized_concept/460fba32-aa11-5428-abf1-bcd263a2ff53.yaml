@@ -1,0 +1,58 @@
+---
+data:
+  dates:
+  - date: '2013-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: source potentielle de {{dommage, urn:iec:std:iec:60050-903-01-01}}
+  examples: []
+  id: 903-01-02
+  notes:
+  - content: En anglais, le terme «hazard» peut être qualifié afin de définir l’origine
+      du phénomène dangereux ou la nature du dommage attendu (par exemple, «electric
+      shock hazard», «crushing hazard», «cutting hazard», «toxic hazard», «fire hazard»,
+      «drowning hazard»).
+  - content: En français, le synonyme «risque» est employé avec un qualificatif ou
+      un complément afin de définir l’origine du phénomène dangereux ou la nature
+      du dommage attendu (par exemple, «risque de choc électrique», «risque d'écrasement»,
+      «risque de coupure», «risque toxique», «risque d'incendie», «risque de noyade»).
+  - content: En français, le terme «risque» désigne aussi la combinaison de la probabilité
+      d'un dommage et de sa gravité, en anglais «risk» (voir {{903-01-07, urn:iec:std:iec:60050-903-01-07}}).
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 51:1999
+      locality:
+        type: clause
+        reference_from: '3.5'
+      original: ISO/IEC Guide 51:1999, définition 3.5, modifiée – L’information dans
+        la note a été étendue afin de clarifier l’utilisation des termes “hazard”
+        en anglais et “risque” en français.
+    status: modified
+    type: authoritative
+    modification: L’information dans la note a été étendue afin de clarifier l’utilisation
+      des termes “hazard” en anglais et “risque” en français.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: phénomène dangereux
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-903-01
+  language_code: fra
+  entry_status: valid
+  review_date: '2013-06-01T00:00:00+00:00'
+  review_decision_date: '2013-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-06-01T00:00:00+00:00'
+id: 460fba32-aa11-5428-abf1-bcd263a2ff53

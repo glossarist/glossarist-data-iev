@@ -1,0 +1,46 @@
+---
+data:
+  dates:
+  - date: '2011-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: intervalle de temps entre points équivalents de deux impulsions successives
+      de la même forme
+  examples: []
+  id: 802-01-12
+  notes:
+  - content: Les impulsions peuvent comprendre des salves de tonalité.
+  sources:
+  - origin:
+      ref: IEC 62127-1
+      locality:
+        type: clause
+        reference_from: '3.51'
+      original: définition 3.51 de la CEI 62127-1 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: période de répétition des impulsions
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-802-01
+  language_code: fra
+  entry_status: valid
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-01-01T00:00:00+00:00'
+id: 4fae23ed-26e8-5a8b-81d4-e233a8071d51

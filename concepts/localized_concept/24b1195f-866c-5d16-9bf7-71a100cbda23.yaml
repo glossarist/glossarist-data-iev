@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{requirement, urn:iec:std:iec:60050-901-05-05}} of a {{normative document,
+      urn:iec:std:iec:60050-901-02-01}} that must be fulfilled in order to comply
+      with a particular option permitted by that document"
+  examples: []
+  id: 901-05-07
+  notes:
+  - content: An optional requirement may be either. one of two or more alternative
+      requirements; or. an additional requirement that must be fulfilled only if applicable
+      and that may otherwise be disregarded.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: 7.5.2
+      original: ISO/IEC Guide 2:2004, 7.5.2
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: optional requirement
+  domain: section-901-05
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 24b1195f-866c-5d16-9bf7-71a100cbda23

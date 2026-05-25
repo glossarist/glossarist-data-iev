@@ -1,0 +1,29 @@
+---
+data:
+  dates:
+  - date: '2009-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2009-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: representation of a real or complex function stem:[f](stem:[t]) of the
+      real variable stem:[t] by the integral transformation stem:[f ( t ) = frac(1)(2
+      pi "j") int_(" " sigma - "j" oo)^(" " sigma + "j" oo) F ( s ) "e"^(s " " t)
+      "d" s] where stem:[F ( s )] is the Laplace transform of the function stem:[f](stem:[t]),
+      stem:[σ] is greater or equal to the abscissa of convergence of stem:[F ( s )]
+      and j is the imaginary unit
+  examples: []
+  id: 103-04-07
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inverse Laplace transform
+  domain: section-103-04
+  language_code: eng
+  entry_status: valid
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2009-12-01T00:00:00+00:00'
+id: 98e18a7c-c595-5c04-a1e2-aa05e5719a64

@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2002-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: ratio of the complex quantity representing a time-varying quantity in
+      terms of complex frequency at the output of a linear time-invariant two-port,
+      to the complex quantity repre-senting the corresponding input quantity, the
+      two complex quantities being defined in the same manner
+  examples: []
+  id: 131-15-20
+  notes:
+  - content: The complex quantities are generally the Laplace transforms of the time-varying
+      quantities. In this case, the transfer function is the Laplace transform of
+      the impulse response, and the term "fonction de transfert isomorphe" is used
+      in French.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 702-07-27
+      original: 702-07-27 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transfer function
+  domain: area-131
+  language_code: eng
+  entry_status: valid
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-06-01T00:00:00+00:00'
+id: 0f758b77-bda0-57e9-9dcb-11d451d3733a

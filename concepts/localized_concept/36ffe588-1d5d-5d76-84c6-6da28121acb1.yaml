@@ -1,0 +1,45 @@
+---
+data:
+  dates:
+  - date: '2002-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "relation algébrique donnant le nombre dstem:[N] de particules d'un système
+      non quantifié dont les composantes de vitesse sont comprises respectivement
+      dans les intervalles (stem:[u], stem:[u] + dstem:[u]), (stem:[v], stem:[v] +
+      dstem:[v]), (stem:[w], stem:[w] + dstem:[w]) :\r\nstem:[\"d\" N = A * \"exp\"
+      &amp;lsqb; frac(- m (u^(2) + v^(2) + w^(2)))(2 k T) &amp;rsqb; \"d\" \" \" u
+      * \"d\" \" \" v * \"d\" \" \" w] \r\noù\r\nstem:[A = N &amp;lsqb; frac(m)((2
+      pi * k T)) &amp;rsqb;^(3 / 2)] \r\nstem:[N] désigne le nombre total de particules\n\nstem:[m]
+      la masse d'une particule\n\nstem:[T] la température thermodynamique\n\nstem:[k]
+      la constante de Boltzmann"
+  examples: []
+  id: 521-01-05
+  notes:
+  - content: dstem:[N]/stem:[N] représente la probabilité pour qu'une particule ait
+      ses composantes de vitesse comprises dans les intervalles considérés.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: loi de distribution des vitesses de Maxwell-Boltzmann
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-521-01
+  language_code: fra
+  entry_status: valid
+  review_date: '2002-05-01T00:00:00+00:00'
+  review_decision_date: '2002-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-05-01T00:00:00+00:00'
+id: 36ffe588-1d5d-5d76-84c6-6da28121acb1

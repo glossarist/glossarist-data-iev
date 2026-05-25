@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2016-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2016-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: changing of the representation of {{information, urn:iec:std:iec:60050-701-01-01}}
+      according to a given {{code, urn:iec:std:iec:60050-101-12-04}} into a representation
+      of the same information according to another code
+  examples:
+  - content: Conversion of {{character signals, urn:iec:std:iec:60050-721-03-10}}
+      or groups of character signals in one {{telegraph code, urn:iec:std:iec:60050-721-09-05}}
+      into corresponding signals or group of signals in another code.
+  id: 702-05-16
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: code conversion
+  - type: expression
+    normative_status: preferred
+    designation: transcoding
+  domain: section-702-05
+  language_code: eng
+  entry_status: valid
+  review_date: '2016-12-01T00:00:00+00:00'
+  review_decision_date: '2016-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2016-12-01T00:00:00+00:00'
+id: 71ddd84a-4b87-5641-898d-f484da722fdc
+classification: preferred

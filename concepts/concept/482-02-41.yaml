@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 482-02-41
+  localized_concepts:
+    deu: f6f9feb2-02fe-5ec9-a4f1-416d4edeb233
+    eng: 344a8c07-0c1d-5364-81b3-e47567b32ed5
+    fra: 47d07e3f-d332-56f3-8662-11108dd02075
+    jpn: 9aa7f7b7-4f20-5ad1-a6fd-016fad992f33
+    kor: 4393fb50-8866-5aa9-b6ab-7261fda59f15
+    pol: 29080745-3200-5d6e-b703-32f08d21480d
+    por: a1eb0225-06b4-5d75-a355-acb717285a73
+    zho: 7d46e1d7-097d-58ac-9bf6-06fcdbd73508
+  domains:
+  - concept_id: area-482
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-482-02
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-482-02
+  type: broader
+  ref:
+    source: IEV
+    id: section-482-02
+- type: supersedes
+  ref:
+    source: IEV
+    id: 482-05-12
+    version: 2004-04
+status: valid
+schema_version: '3'
+id: 482-02-41

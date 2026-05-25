@@ -1,0 +1,45 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{conditional entropy, urn:iec:std:iec:60050-171-07-23}} of a specific
+      set of messages stem:[X] at a message source given a specific set of messages
+      stem:[Y] at a message sink that is connected to the message source by a specific
+      channel"
+  examples: []
+  id: 171-07-24
+  notes:
+  - content: The equivocation is the mean additional {{information content, urn:iec:std:iec:60050-171-07-14}}
+      that shall be supplied per message at the message sink to correct the received
+      messages affected by a noisy channel.
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-33
+      original: IEC 80000-13:2008, 13-33, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: equivocation
+  - type: symbol
+    designation: stem:[H_(+) (X | Y)]
+    international: true
+  domain: area-171
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 74e27411-af10-5c3e-a04b-199b2678cd17

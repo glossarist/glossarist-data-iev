@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: form of fault-tolerant software design in which several diverse modules
+      are invoked in sequence to perform a given task until one of them is successful
+  examples: []
+  id: 192-10-19
+  notes:
+  - content: Each of the modules is capable of performing the given task, but in a
+      different way. ‘Success’ is judged by the fact that the output satisfies an
+      acceptance test performed by an adjudicator. A module in the sequence is invoked
+      only if all earlier modules fail.
+  - content: If a module fails then backward error recovery is performed before invoking
+      the next module.
+  - content: The recovery block scheme is an example of standby redundancy.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: recovery block scheme
+  domain: section-192-10
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: 28594e52-bf25-5b3b-803a-a63b8b1e3bd8

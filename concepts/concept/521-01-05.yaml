@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 521-01-05
+  localized_concepts:
+    ara: 422b889e-1356-5be0-b4f2-a1d9b4c69821
+    deu: 0e7b3421-a884-5f3c-adf3-c485f14dbad6
+    eng: 43993ec3-d498-57ee-beff-eb47bf1c2457
+    spa: 2bdc04a6-5e01-5f82-8893-e93ab5c2b269
+    fin: f3d4763f-6a2e-5ce9-a2fd-2936c6b4c999
+    fra: 36ffe588-1d5d-5d76-84c6-6da28121acb1
+    ita: 6614be18-c9be-5e17-87c1-d70f7a7d1fe6
+    jpn: a526972f-e5e0-5c3c-9a2e-8fa582685065
+    kor: 8764d669-4bed-56df-bcf3-5e92b9ae2bff
+    pol: 906bbe55-8dfd-52f9-9c00-096846241a68
+    por: f159e896-8a6e-5942-acad-5d5b2773f703
+    srp: 11641f30-a452-5f2d-9a7a-d2f22d2eb0ca
+    swe: 57ab3cc4-1e10-5c29-bf7e-241b4d307643
+    zho: 1731b7ee-5d18-56c7-8e22-70e6fea6aa62
+  domains:
+  - concept_id: area-521
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-521-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-521-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-521-01
+status: valid
+schema_version: '3'
+id: 521-01-05

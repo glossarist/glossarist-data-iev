@@ -1,0 +1,43 @@
+---
+data:
+  definition:
+  - content: quotient du nombre dstem:[N] de désintégrations d’un {{noyau atomique,
+      urn:iec:std:iec:60050-113-05-21}}, pendant un court intervalle de temps, par
+      la durée dstem:[t] de cet intervalle et par le nombre stem:[N] de noyaux existants
+      au même instant stem:[t] stem:[lambda = - frac(1)(N) xx frac("d" N)("d" t)]
+  examples: []
+  id: 395-01-11
+  notes:
+  - content: Cette grandeur s'exprime en secondes à la puissance moins un (s^−1^).
+  - content: La constante de désintégration est la probabilité totale de décroissance
+      radioactive (désintégration ou transition nucléaire).
+  - content: Cet article était numéroté 393-14-18 dans la CEI 60050-393:2003.
+  sources:
+  - origin:
+      ref: ISO 921:1997
+      locality:
+        type: clause
+        reference_from: définition 282
+      original: ISO 921:1997, définition 282, modifiée
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: constante de désintégration
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-395-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: a6d0f0d7-0460-5199-b6d5-927cb2d8abac

@@ -1,0 +1,32 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: operating time accumulated from the first use until failure
+  examples: []
+  id: 192-05-02
+  notes:
+  - content: Operating time to first failure is a special case of operating time to
+      failure ({{192-05-01, urn:iec:std:iec:60050-192-05-01}}).
+  - content: In the case of non-repairable items, the operating time to first failure
+      is the operating time to failure ({{192-05-01, urn:iec:std:iec:60050-192-05-01}}).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: operating time to first failure
+    usage_info: of an item
+  - type: expression
+    designation: time to first failure
+    usage_info: of an item
+  domain: section-192-05
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: d4ff7afc-15c9-548f-884d-87d5b91c758e

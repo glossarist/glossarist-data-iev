@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: relationship between the log of the input levels and the corresponding
+      digital output levels for an opto-electronic digital image capture system
+  examples: []
+  id: 845-32-059
+  notes:
+  - content: If the input log exposure points are very finely spaced and the output
+      noise is small compared to the quantization interval, the opto-electronic conversion
+      function can have a step-like character. Such behaviour is an artefact of the
+      quantization process and should be removed by using an appropriate smoothing
+      algorithm or by fitting a smooth curve to the data.
+  - content: This note applies to the French language only.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: opto-electronic conversion function
+  - type: expression
+    designation: OECF
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 8f3b6bf7-6473-5e04-bb9b-e636e0d16fbb

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 426-01-11
+  localized_concepts:
+    ara: 9303af0e-1bff-55d1-b8e1-22739e3601f6
+    deu: be14dc46-7364-5ce2-8b42-a3972dba3fbe
+    eng: 84ec67c0-0618-5800-957a-7a271181fa33
+    spa: 0de00559-83f9-5021-a6c6-68ebcdc5204f
+    fra: 4bdd6ea8-847e-5927-a548-5ec3ddcbc27d
+    ita: f67acb0f-5fde-54d3-a377-113889a8ef7c
+    jpn: dcd94226-91f0-5a3c-851b-8c1267c71023
+    pol: '0983f0c1-328d-5859-99a7-6e1ef5820212'
+    por: 3fe4461d-a6e8-57e1-b29b-977ccad645e4
+    rus: 0c78e280-a3d6-53f4-91b4-44b105583ade
+    zho: f34656db-b4d6-59ef-811c-d1d71cbf4c2e
+  domains:
+  - concept_id: area-426
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-426-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-426-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-426-01
+status: valid
+schema_version: '3'
+id: 426-01-11

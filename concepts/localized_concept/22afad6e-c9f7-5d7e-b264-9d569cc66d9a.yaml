@@ -1,0 +1,56 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "élément d'un vecteur *stem:[x]*(stem:[t]) dans un système d'équations
+      différentielles<table>\r\n<tr>\n<td>stem:[overset(˙)(x) (t) = f &amp;lsqb; x
+      (t) , \" \" \" \" u (t) &amp;rsqb;]</td>\n<td>équation d'état</td>\n</tr>\r\n<tr>\n<td>stem:[v
+      (t) = g &amp;lsqb; x (t) , \" \" \" \" u (t) &amp;rsqb;]</td>\n<td>équation
+      de sortie,</td>\n</tr>\r\n</table>\r\net pour les systèmes linéaires<table>\r\n<tr>\n<td>stem:[overset(˙)(x)
+      (t) = A * x (t) + B * u (t)]</td>\n<td>équation d'état</td>\n</tr>\r\n<tr>\n<td>stem:[v
+      (t) = C * x (t) + D * u (t)]</td>\n<td>équation de sortie,</td>\n</tr>\r\n</table>à
+      partir desquelles la course des éléments du vecteur de sortie *stem:[v]*(stem:[t])
+      peut être calculée, avec des valeurs initiales connues des éléments du vecteur
+      stem:[x](stem:[t]) à tout instant stem:[t]~0~ (souvent avec stem:[t]~0~ = 0),
+      avec une course connue des éléments du vecteur d’entrée *stem:[u]*(stem:[t]),
+      et en partant de stem:[t]~0~ VOIR: Figure 3."
+  examples: []
+  id: 351-41-08
+  notes:
+  - content: "En cas de variables à temps discret, les équations sont les suivantes:<table>\r\n<tr>\n<td>\n\nstem:[x]~stem:[i]+1~
+      =\n\nstem:[f] (\n\nstem:[x]~stem:[i]~,\n\nstem:[u]~stem:[i]~)</td>\n<td>équation
+      d'état</td>\n</tr>\r\n<tr>\n<td>\n\nstem:[v]~stem:[i]~ =\n\nstem:[g] (\n\nstem:[x]~stem:[i]~,\n\nstem:[u]~stem:[i]~)</td>\n<td>équation
+      de sortie,</td>\n</tr>\r\n</table>et pour les systèmes linéaires<table>\r\n<tr>\n<td>\n\nstem:[x]~stem:[i]+1~
+      =\n\nstem:[Φ]·\n\nstem:[x]~stem:[i]~ +\n\nstem:[H]·\n\nstem:[u]~stem:[i]~\n</td>\n<td>équation
+      d'état</td>\n</tr>\r\n<tr>\n<td>\n\nstem:[v]~stem:[i]~ =\n\nstem:[C]·\n\nstem:[x]~stem:[i]~
+      +\n\nstem:[D]·\n\nstem:[u]~stem:[i]~\n</td>\n<td>équation de sortie.</td>\n</tr>\r\n</table>"
+  - content: Cet article était numéroté 351-21-08 dans la CEI 60050-351:2006.image::/assets/images/parts/351/351-fig3.png[Figure
+      3 - Linear transfer system with state variables; Système de transfert linéaire
+      avec variables d'état - ]
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: variable d'état
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-351-41
+  language_code: fra
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 22afad6e-c9f7-5d7e-b264-9d569cc66d9a

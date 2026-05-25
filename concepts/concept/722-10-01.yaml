@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 722-10-01
+  localized_concepts:
+    ara: e48ea6c1-245b-531b-8990-8308db0217b2
+    deu: 6711bdf0-7e73-5f6c-a135-1dc472ac8956
+    eng: 7f59e9c5-2123-5010-babb-fc41f6a419ec
+    spa: fd29f047-b916-52ae-a154-8b3ee2cac019
+    fin: 66a9a7cb-e9aa-5d84-a798-c3eb64d1fc58
+    fra: ae578f4e-051d-5895-a083-14e779d4670b
+    ita: '048654bd-9fac-5f26-a580-47be947e4e46'
+    jpn: 5883eef0-0e9d-5337-b83c-efd92f79b6c4
+    kor: 0b882a03-f693-578c-95d2-533cb4ed48a8
+    pol: a39ee669-1588-525b-9350-f040203fcffa
+    por: 4d6d0be9-e26e-5d3c-89ad-e8ca377b94bc
+    swe: 2084c1ef-4955-54fc-a12a-b38bc4358353
+    zho: 95f0ce07-a22e-5bf5-baff-86b62e172780
+  domains:
+  - concept_id: area-722
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-722-10
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-722-10
+  type: broader
+  ref:
+    source: IEV
+    id: section-722-10
+- type: supersedes
+  ref:
+    source: IEV
+    id: 722-10-01
+    version: 1992-11
+status: valid
+schema_version: '3'
+id: 722-10-01

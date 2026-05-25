@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of the illuminance at a point on a given plane due to the light
+      received directly and indirectly from a sky of assumed or known luminance distribution
+      and the illuminance on a horizontal plane due to an unobstructed hemisphere
+      of this sky, where the contribution of direct sunlight to both illuminances
+      is excluded
+  examples: []
+  id: 845-29-121
+  notes:
+  - content: Glazing, dirt effects, etc. are included.
+  - content: When calculating the {{lighting, urn:iec:std:iec:60050-845-29-001}} of
+      interiors, the contribution of direct sunlight has to be considered separately.
+  - content: The daylight factor has unit one.
+  - content: This entry was numbered 845-09-97 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: daylight factor
+  - type: symbol
+    designation: stem:[D]
+    international: true
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: a0bd2bbc-c9db-5098-a4b7-961b7bc3cc18

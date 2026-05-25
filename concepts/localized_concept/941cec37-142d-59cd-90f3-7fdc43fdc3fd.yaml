@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: 'continuous function, zero for all negative values of the independent
+      variable time and increasing proportionally with a slope equal to one for its
+      positive values, described bystem:[rho (t) = int_(- oo)^(t) "epsilon" (tau)
+      " " "d" tau "=" { [[0 " " " " "for" " " t lt 0], [t " " " " "for" " " t gt 0]]
+      " "], where stem:[ε](stem:[t]) is the unit-step function SEE: Figure 4b), Figure
+      4c) and CEI 60050-103:2009, 103-03-03.'
+  examples: []
+  id: 351-45-22
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unit time ramp
+  - type: expression
+    normative_status: preferred
+    designation: unit ramp
+  - type: symbol
+    designation: ρ(stem:[t])
+    international: true
+  domain: section-351-45
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 941cec37-142d-59cd-90f3-7fdc43fdc3fd
+classification: preferred

@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 311-05-05
+  localized_concepts:
+    ara: ec72d5a8-1730-58f3-9b6e-bfe3ff8b7d51
+    deu: dd2c9811-78af-55fb-a90f-6223e5655ad0
+    eng: b0784175-d62a-5b19-82cb-6df31a81e07d
+    spa: 07df6476-9c8d-5746-9d11-6cbd6a5e2992
+    fin: bea77d2f-44e5-583c-ab87-9bd0d41db4b1
+    fra: 9a27c979-a861-5b67-abaf-8fd997840f65
+    ita: ca22feb7-1ba2-5b3a-b69d-523a75966052
+    jpn: 13f3ccf6-5299-5fa6-ab0b-075b99a7c4cb
+    kor: cdcfb2f3-3003-57c9-bfd3-67438c6f349c
+    pol: '009df6a4-dd0c-5a1f-96ef-84ae0117b37b'
+    por: 2aec65fb-b44d-508e-a514-cbadfbcf4978
+    rus: 0f0618b5-6369-5abe-83ee-7c02aa5d2f25
+    srp: cb257e14-c2c0-5bd1-87cd-27cf42c276c3
+    swe: 0aa0fbae-00e4-5828-92be-417650805308
+    zho: 03c90a44-3123-5d50-bd08-dfe7ce9a3863
+  domains:
+  - concept_id: area-311
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-311-05
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-311-05
+  type: broader
+  ref:
+    source: IEV
+    id: section-311-05
+status: valid
+schema_version: '3'
+id: 311-05-05

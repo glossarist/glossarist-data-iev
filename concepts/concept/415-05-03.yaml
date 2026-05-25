@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 415-05-03
+  localized_concepts:
+    ara: 75eed0a5-8f62-5be9-b2ab-cc2ad3f92685
+    deu: c53d13ea-8dbb-5df9-9267-7a3ecf021339
+    eng: 3f775649-5118-5e40-bc7d-938cd463bdeb
+    spa: 3efb88f2-45cf-5e34-abe1-302a6bb58f3c
+    fin: 1021bb76-5d26-5e8b-abfc-443b8f6b980d
+    fra: 4cd14cb9-9aa5-5383-8afa-46e509e0ecb2
+    ita: 4c445077-67e6-548f-9899-40c81bbc7e30
+    jpn: a3adf30e-3aba-5f58-8b06-66fd2cab5a95
+    kor: eafb4350-49af-5a18-88ea-fb3875fadc97
+    pol: 66bdc5ba-dca1-5917-9b69-601d3fd4e09a
+    por: ff4b7e82-faa6-58ba-a12b-7de82e54db37
+    swe: 1ba0659d-cc0d-5e9b-b782-9eb64b2ecfc2
+    zho: 64d11ee6-0993-5f1f-a557-152a585b2a01
+  domains:
+  - concept_id: area-415
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-415-05
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-415-05
+  type: broader
+  ref:
+    source: IEV
+    id: section-415-05
+status: valid
+schema_version: '3'
+id: 415-05-03

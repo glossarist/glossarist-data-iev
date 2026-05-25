@@ -1,0 +1,87 @@
+---
+data:
+  definition:
+  - content: 'espérance mathématique de la {{transinformation, urn:iec:std:iec:60050-171-07-26}}
+      stem:[T](stem:[x~i~],stem:[y~j~]) de deux événements stem:[x~i~] et stem:[y~j~],
+      appartenant respectivement à deux ensembles finis et exhaustifs d''événements
+      s''excluant mutuellement stem:[T (X , Y) = sum_(i = 1)^(n) sum_(j = 1)^(m) p
+      ( x_(i) , y_(j) ) * T ( x_(i) , y_(j) )] où stem:[X] &amp;equals; {stem:[x]~1~,
+      …, stem:[x]~stem:[n]~} est l''ensemble d''événements stem:[x~i~] (stem:[i] &amp;equals;
+      1, …, stem:[n]), stem:[Y] &amp;equals; {stem:[y]~1~, …, stem:[y]~stem:[m]~}
+      est l''ensemble d''événements stem:[y~j~] (stem:[j] &amp;equals; 1, …, stem:[m])
+      et stem:[p](stem:[x~i~],stem:[y~j~]) est la probabilité de réalisation simultanée
+      des deux événementsNote 1 à l’article: La transinformation moyenne est symétrique
+      par rapport à stem:[X] et stem:[Y]. Elle est aussi égale à l''excès de l''{{entropie,
+      urn:iec:std:iec:60050-171-07-15}} de l''un des ensembles d''événements sur l''{{entropie
+      conditionnelle, urn:iec:std:iec:60050-171-07-23}} de cet ensemble par rapport
+      à l''autre: stem:[T (X | Y) = H ( X ) - H ( X | Y ) = H ( Y ) - H ( Y | X )
+      = T ( X | Y )]. Note 2 à l’article: La transinformation moyenne est une mesure
+      quantitative de l''information transmise à travers un canal, lorsque stem:[X]
+      est un ensemble déterminé de messages émis par la source de messages et stem:[Y]
+      un ensemble déterminé de messages reçus par le collecteur de messages. Elle
+      est égale à l''excès de l''entropie à la source sur l''{{équivoque, urn:iec:std:iec:60050-171-07-24}}
+      ou à l''excès de l''entropie au collecteur sur l''{{altération, urn:iec:std:iec:60050-171-07-25}}.'
+  examples: []
+  id: 171-07-27
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-36
+      original: IEC 80000-13:2008, 13-36, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+    status: modified
+    type: authoritative
+    modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+      aux règles de l’IEV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transinformation moyenne
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: quantité d'information mutuelle moyenne
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: information mutuelle moyenne
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-171
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: d29fb3dc-1482-5028-8fc2-b4bbfc4a262e
+classification: preferred

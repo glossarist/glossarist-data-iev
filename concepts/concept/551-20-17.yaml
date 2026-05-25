@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 551-20-17
+  localized_concepts:
+    ara: bc2e5052-e8ec-5e50-9d7c-e891c80d9eb7
+    deu: a8322c20-49bd-5772-a176-54eda389c8e1
+    eng: 275ddb18-08e8-5aea-9f8b-96007bbef8da
+    spa: 39e4695e-eddf-5e52-b37b-4f3f694557e0
+    fin: 729e9b70-3156-58f5-b5d6-ee7ac8e0d1da
+    fra: 6612cebf-1599-5870-87d9-beb0cc5e748a
+    ita: 3077aa6a-adf2-5ad4-9e7f-59628f6cf502
+    jpn: 528f12d5-8e64-56e8-96e3-f4ebc525b860
+    kor: 95a1dee4-3d31-53d3-8805-f44aaa9fcfb3
+    pol: 76c5f746-8ca4-552f-aa74-ec7aa89348f9
+    por: 8faefed9-1096-5001-b06a-af8b54085a98
+    srp: a95575ca-e186-5e2a-b9d3-a9d411c205c1
+    swe: b4898504-3d05-56d0-b899-0847ceb22738
+    zho: 380124d0-8a94-5cd1-aff1-15e2bd46586a
+  domains:
+  - concept_id: area-551
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-551-20
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-551-20
+  type: broader
+  ref:
+    source: IEV
+    id: section-551-20
+- type: supersedes
+  ref:
+    source: IEV
+    id: 551-20-17
+    version: 2001-07
+status: valid
+schema_version: '3'
+id: 551-20-17

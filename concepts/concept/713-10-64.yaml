@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 713-10-64
+  localized_concepts:
+    ara: 9233f25c-b556-5ed0-a8ea-0a7b00c2dc42
+    deu: 793576fe-b383-5665-83b7-4cba591ba2e9
+    eng: cc77e667-4c0e-5461-95e0-db24e995e6fa
+    spa: d2547481-a4a1-5a47-9c00-3d5de79f9fa4
+    fin: bf09abf4-80a4-5543-9d2f-73b5b0f90892
+    fra: 9018e131-126e-5e75-b5f7-02bbdff6b623
+    ita: e60847d1-3086-5b89-8693-c7cf65548706
+    jpn: e8bbe88e-9910-5dfb-b31f-0637cfa5419c
+    kor: 37d09438-8146-53e6-98c8-6ec9d3350dce
+    pol: e5d61558-9ddf-51e7-b92d-f7cf0b783a39
+    por: eab0560c-f0bb-52cc-a0fa-8f7e7cfb6b48
+    swe: 18ef24f3-a713-5f8e-bfc4-57999fd6df61
+    zho: f4663878-04f1-5e73-91f7-2e3d57fd6051
+  domains:
+  - concept_id: area-713
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-713-10
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-713-10
+  type: broader
+  ref:
+    source: IEV
+    id: section-713-10
+- type: supersedes
+  ref:
+    source: IEV
+    id: 713-10-64
+    version: 1998-04
+status: valid
+schema_version: '3'
+id: 713-10-64

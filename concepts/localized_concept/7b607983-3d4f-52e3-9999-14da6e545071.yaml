@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2009-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2009-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: for two complex-valued functions, stem:[underline(f)] and stem:[underline(g)],
+      defined on the interval stem:[&amp;lsqb; a , b &amp;rsqb;] of ℝ, complex number
+      stem:[〈 underline(f) , underline(g) 〉 = int_(a)^(b) underline(() x ) underline(g)^(ast)
+      ( x ) "d" x], where stem:[underline(g)^(ast)] is the conjugate of stem:[underline(g)]
+  examples: []
+  id: 103-01-08
+  notes:
+  - content: 'The inner product has the following properties: stem:[〈 underline(f)
+      , underline(g) 〉 = 〈 underline(g) , underline(f) 〉^(ast)] and stem:[〈 underline(alpha)
+      " " underline(f) + underline(beta) " " underline(g) , underline(h) 〉 = underline(alpha)
+      〈 underline(f) , underline(h) 〉 + underline(beta) 〈 underline(g) , underline(h)
+      〉] where stem:[underline(alpha) , underline(beta) in] ℂ.'
+  - content: The inner product for complex functions is similar to the Hermitian product
+      for vectors (see IEC 60050-102, {{102-03-18, urn:iec:std:iec:60050-102-03-18}}).
+      For real functions, it is similar to the scalar product (see IEC 60050-102,
+      {{102-03-17, urn:iec:std:iec:60050-102-03-17}}).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: inner product
+  domain: section-103-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2009-12-01T00:00:00+00:00'
+id: 7b607983-3d4f-52e3-9999-14da6e545071

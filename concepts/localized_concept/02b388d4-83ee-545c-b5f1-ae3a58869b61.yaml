@@ -1,0 +1,43 @@
+---
+data:
+  dates:
+  - date: '1998-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: area associated with a terrestrial transmitting station for a given radiocommunication
+      service, within which a receiving station must be located for radiocommunication
+      of a specified nature to be established under specified technical conditions
+  examples: []
+  id: 713-02-17
+  notes:
+  - content: Several coverage areas may be associated with the same station.
+  - content: 'The technical conditions include, inter alia, the following: frequency,
+      characteristics of the equipment used both at the transmitting and receiving
+      stations, how it is installed, quality of transmission desired, e.g. protection
+      ratios, and operating conditions.'
+  - content: "The following may be distinguishable: \r\n– the coverage area in the
+      absence of RF interference, i.e. that limited solely by natural or artificial
+      noise; \r\n– the nominal coverage area which is defined, when establishing a
+      frequency plan by taking into account the foreseen transmitters; \r\n– the actual
+      coverage area, i.e., with allowance made for the noise and interference which
+      exist in practice."
+  sources:
+  - origin:
+      ref: ITU-R Recommendation 573
+      original: ITU-R Rec. 573 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: coverage area
+  domain: section-713-02
+  language_code: eng
+  entry_status: valid
+  review_date: '1998-04-01T00:00:00+00:00'
+  review_decision_date: '1998-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-04-01T00:00:00+00:00'
+id: 02b388d4-83ee-545c-b5f1-ae3a58869b61

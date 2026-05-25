@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2009-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2009-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: function, zero for all negative values of the independent variable and
+      equal to one for all positive values
+  examples: []
+  id: 103-03-01
+  notes:
+  - content: See Figure 1 below for a graphical representation of ε(stem:[t]). The
+      value ε(0) may remain undefined or may be defined according to the context.
+  - content: ε(stem:[x] − stem:[x]~0~) denotes a unit step at the value stem:[x]~0~
+      of the independent variable stem:[x].
+  - content: Notation H(stem:[x]) is also used. Notation ϑ(stem:[t]) is used for the
+      unit step function of time. Notation ϒ(stem:[x]) has also been used. image::/assets/images/parts/103/103-03-015.png[]
+      *Figure 1 – Représentation graphique de ε(stem:[t])* *Figure 1 – Graphical representation
+      of ε(stem:[t])*
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: unit step function
+  - type: expression
+    designation: Heaviside function
+  - type: symbol
+    designation: stem:[epsilon]
+    international: true
+  domain: section-103-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2009-12-01T00:00:00+00:00'
+id: a57ee283-e31c-563c-89d4-7d5b5835818b

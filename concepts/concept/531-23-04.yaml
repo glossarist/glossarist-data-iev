@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 531-23-04
+  localized_concepts:
+    ara: d0766534-0df1-5e3d-bd1e-ac13dfc848af
+    deu: 72421406-9a7a-5df4-a676-e24ea6785a44
+    eng: 4e6f5d57-e2b2-5216-9959-6b29d0757aef
+    spa: f732be72-85d3-599d-8644-9ef284543a56
+    fra: 52d74952-57b0-553f-9843-4cfa1abbc7f2
+    ita: 32a416da-a48f-519d-960c-cf7fb47355e9
+    jpn: cdcec38a-96c8-5bd1-8e3c-8254e10619f6
+    kor: c8cd8989-eca4-50c5-a088-b7c67d4252ad
+    pol: c4629d30-e4a9-55a3-b907-5677a0db8430
+    por: 1953fd82-bea7-5978-bf4b-236a9ca6ac39
+    srp: 14dbf192-c07a-5f94-afdb-8c06c8bfd1ad
+    swe: '08e0408f-76f5-50b5-a85d-16e0b5bb7356'
+    zho: eb177132-28e5-503a-b2d8-e002cfdc332d
+  domains:
+  - concept_id: area-531
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-531-23
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-531-23
+  type: broader
+  ref:
+    source: IEV
+    id: section-531-23
+- type: supersedes
+  ref:
+    source: IEV
+    id: 531-23-04
+    version: '1974'
+status: valid
+schema_version: '3'
+id: 531-23-04

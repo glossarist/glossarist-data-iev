@@ -1,0 +1,50 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of the {{character mean transinformation content, urn:iec:std:iec:60050-171-07-30}}
+      stem:[T]^′^ by the mean duration of a pair of input and output characters stem:[T]^*^
+      &amp;equals; stem:[T]^′^/stem:[t](stem:[X],stem:[Y]) where stem:[X] &amp;equals;
+      {stem:[x]~1~, …, stem:[x]~stem:[n]~} is the set of input characters stem:[x~i~]
+      (stem:[i] &amp;equals; 1, …, stem:[n]), stem:[Y] &amp;equals; {stem:[y]~1~,
+      …, stem:[y]~stem:[m]~} is the set of output characters stem:[y~j~] (stem:[j]
+      &amp;equals; 1, …, stem:[m]) and stem:[t (X , Y) = sum_(i = 1)^(n) sum_(j =
+      1)^(m) p ( x_(i) , y_(j) ) * t ( x_(i) , y_(j) )] is the mean value of the duration
+      stem:[t](stem:[x~i~],stem:[y~j~]) of the pair of characters (stem:[x~i~],stem:[y~j~])
+      which occurs with joint probability stem:[p](stem:[x~i~],stem:[y~j~]).
+  examples: []
+  id: 171-07-31
+  notes:
+  - content: The average transinformation rate can be expressed in a unit such as
+      the shannon per character and second.
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-40
+      original: IEC 80000-13:2008, 13-40, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: average transinformation rate
+  - type: symbol
+    designation: stem:[T]^*^
+    international: true
+  domain: area-171
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 14345ee4-3797-5e42-af94-538899efea47

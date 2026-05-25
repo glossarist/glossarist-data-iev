@@ -1,0 +1,67 @@
+---
+data:
+  definition:
+  - content: "constante physique conventionnelle qui relie la {{quantité de matière,
+      urn:iec:std:iec:60050-113-02-07}} au nombre d'entités élémentaires dans un échantillon
+      donné, dont la valeur est fixée à exactement 6,022 140 76 × 10^23^ {{mol, urn:iec:std:iec:60050-112-02-09}}^−1^\r\nNote
+      1 à l’article: La définition de la constante d’Avogadro en IEV 113-02-08:2014-05
+      était \"constante physique fondamentale égale au quotient du nombre stem:[N]
+      d'entités élémentaires dans un échantillon donné de matière par la quantité
+      de matière stem:[n] de cet échantillon, stem:[N]~A~=stem:[N]/stem:[n]\", décrivant
+      incorrectement la constante d’Avogadro comme \"constante physique fondamentale\".\r\nNote
+      2 à l’article: La constante d’Avogadro est employée dans le {{SI, urn:iec:std:iec:60050-112-02-02}}
+      pour définir la {{mole, urn:iec:std:iec:60050-112-02-09}}.\r\nNote 3 à l’article:
+      Le terme \"nombre d’Avogadro\" est déconseillé car un nombre est une grandeur
+      d’unité un, et il est utilisé pour un concept différent (voir {{IEV 113-02-18,
+      urn:iec:std:iec:60050-113-02-18}})."
+  examples: []
+  id: 113-02-08
+  notes: []
+  sources:
+  - origin:
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      locality:
+        type: clause
+        reference_from: '2.2'
+      original: Brochure sur le SI, 9^e^ édition, 2019, 2.2, modifié – La définition
+        de la Brochure sur le SI a été révisée à des fins de mise en conformité avec
+        les règles de l’IEV.
+    status: modified
+    type: authoritative
+    modification: La définition de la Brochure sur le SI a été révisée à des fins
+      de mise en conformité avec les règles de l’IEV.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: constante d’Avogadro
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: deprecated
+    designation: nombre d’Avogadro
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-113-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 517385bb-cfed-5e0b-aabd-86eaa958ebb3
+classification: deprecated

@@ -1,0 +1,29 @@
+---
+data:
+  dates:
+  - date: '2020-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: difference in pressure across the {{electrolyte, urn:iec:std:iec:60050-485-03-01}}
+      as measured from one {{electrode, urn:iec:std:iec:60050-485-02-01}} chamber
+      to the other electrode chamber
+  examples: []
+  id: 485-17-01
+  notes:
+  - content: The differential cell pressure is expressed in Pa.
+  - content: ISO recommends using absolute pressure. If gauge pressure is used, it
+      should be so noted.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: differential cell pressure
+  domain: section-485-17
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-02-01T00:00:00+00:00'
+  review_decision_date: '2020-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-02-01T00:00:00+00:00'
+id: 21afb837-a282-5ab2-a7df-8dba78d0a636

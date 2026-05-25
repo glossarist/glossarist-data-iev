@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 902-03-05
+  localized_concepts:
+    deu: dfc570f6-e4d5-5137-ad2b-c3c2684787a0
+    eng: af06ceec-7ae3-565f-9e56-12f06c3b2d2d
+    fin: 1822f5aa-bbf7-5c32-a023-73aab823c42c
+    fra: 030e5447-90a4-5497-9a02-722a9b1c5d00
+    ita: 1663d68b-3d2e-564c-9113-3d6d6606542a
+    jpn: b0f794ed-7b66-5fae-aa7e-53af6e0f2e63
+    kor: ba8c1764-b041-5125-ac4a-363a0204d6c4
+    pol: d754ebcb-34ab-5045-84ee-27fade21d74f
+    por: 9d47bd1b-cd91-5f84-bd21-ab88a47df692
+    srp: c9c06979-1509-58b6-9029-1e6e9e6ee084
+    zho: ea998feb-a9a4-514f-891b-696579a40d9d
+  domains:
+  - concept_id: area-902
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-902-03
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-902-03
+  type: broader
+  ref:
+    source: IEV
+    id: section-902-03
+status: valid
+schema_version: '3'
+id: 902-03-05

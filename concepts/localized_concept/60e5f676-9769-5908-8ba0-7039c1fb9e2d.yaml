@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2018-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: highest value of the applied force in a {{cycle, urn:iec:std:iec:60050-103-05-08}}
+  examples: []
+  id: 523-03-01
+  notes:
+  - content: This definition is a modified version of a definition in ASTM E 1823-05a.
+  sources:
+  - origin:
+      ref: IEC 62047-6:2009
+      locality:
+        type: clause
+        reference_from: '3.1'
+      original: IEC 62047-6:2009, 3.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maximum force
+    usage_info: in a cycle
+  - type: symbol
+    designation: stem:[P]~max~
+    international: true
+  domain: section-523-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-12-01T00:00:00+00:00'
+id: 60e5f676-9769-5908-8ba0-7039c1fb9e2d

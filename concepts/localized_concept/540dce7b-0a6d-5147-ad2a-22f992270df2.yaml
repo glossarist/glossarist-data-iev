@@ -1,0 +1,43 @@
+---
+data:
+  definition:
+  - content: expression figurant dans le contenu d'un {{document normatif, urn:iec:std:iec:60050-901-02-01}}
+      prenant la forme d'un {{énoncé, urn:iec:std:iec:60050-901-05-02}}, d'une {{instruction,
+      urn:iec:std:iec:60050-901-05-03}}, d'une {{recommandation, urn:iec:std:iec:60050-901-05-04}}
+      ou d'une {{exigence, urn:iec:std:iec:60050-901-05-05}}
+  examples: []
+  id: 901-05-01
+  notes:
+  - content: Ces types de dispositions se distinguent par leur formulation; ainsi
+      les instructions sont-elles exprimées généralement à l'infinitif, parfois à
+      l'impératif; les recommandations s'accompagnent généralement de la formule «il
+      convient de», tandis que les exigences utilisent plutôt la formule «doit».
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: '7.1'
+      original: Guide ISO/CEI 2:2004, 7.1
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: disposition
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-901-05
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 540dce7b-0a6d-5147-ad2a-22f992270df2

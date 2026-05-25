@@ -1,0 +1,42 @@
+---
+data:
+  dates:
+  - date: '2002-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "pour un réseau contenant stem:[l] boucles orientées et stem:[b] branches,
+      chacune des branches étant munie d'un sens de référence, matrice de format stem:[l] × stem:[b]
+      dont l'élément stem:[a]~stem:[ij]~ est égal à\r\n* 0 si la branche j n'est pas
+      dans la boucle i* 1 si la branche j est dans la boucle i avec le même sens*
+      −1 si la branche j est dans la boucle i avec le sens opposé"
+  examples: []
+  id: 131-13-22
+  notes:
+  - content: "– La figure représente un réseau et la matrice d'incidence branche-maille
+      correspondante lorsque les deux boucles 1 et 2 sont orientées en sens contraire
+      des aiguilles d'une montre.\r\nimage::/assets/images/parts/131/[]"
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: matrice d'incidence branche-maille
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-131-13
+  language_code: fra
+  entry_status: valid
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-06-01T00:00:00+00:00'
+id: eff62956-963b-5b3b-94ce-da65a43fdc92

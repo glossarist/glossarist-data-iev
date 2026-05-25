@@ -1,0 +1,30 @@
+---
+data:
+  dates:
+  - date: '2002-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: asymmetric resistive two-terminal element characterized by zero voltage
+      between the terminals when the electric current in it is directed from one terminal
+      denoted A to the other denoted B and zero electric current when the electric
+      potential at terminal A is less than or equal to the potential at terminal B
+  examples: []
+  id: 131-12-08
+  notes:
+  - content: "The functional relation between voltage stem:[u]~AB~ and electric current
+      stem:[i] is:\r\nstem:[u]~AB~ = 0 when stem:[i] ≥ 0\r\nstem:[i] = 0 when stem:[u]~AB~
+      ≤ 0\r\nwhere the reference direction for the electric current is from A to B."
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ideal diode
+  domain: section-131-12
+  language_code: eng
+  entry_status: valid
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-06-01T00:00:00+00:00'
+id: ace6c539-9d6c-5c78-938d-154e47a9206b

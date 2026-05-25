@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 801-21-16
+  localized_concepts:
+    ara: c7f89ba7-4c97-5432-a12b-5e4b5a4fb6b9
+    deu: 376e3c64-34bc-5ccd-a61b-2513c970e6c2
+    eng: 8caced5c-fd82-54da-99c5-8a0b11209ea6
+    spa: cfd1ba2d-c0d2-5d38-be2c-cdee1c9a7253
+    fin: 3a929648-930f-50d8-9e83-dc94b16d54ba
+    fra: 7e8b2b67-cfe6-5db7-aa64-73a5a6da1e7c
+    ita: '05222268-847a-589a-9e04-91650a9b212e'
+    jpn: 35751175-5da2-503e-a3e5-4c64192c8098
+    kor: e6caff5b-1a4d-5653-80cd-bf65da3ef726
+    pol: abba7874-3bf2-543e-8978-e30b0bfe8fa0
+    por: 564d7abd-89c1-5809-981a-66435150a1e9
+    swe: 13da51d1-d06e-56a8-b9d1-9e35137adf44
+  domains:
+  - concept_id: area-801
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-801-21
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-801-21
+  type: broader
+  ref:
+    source: IEV
+    id: section-801-21
+- type: supersedes
+  ref:
+    source: IEV
+    id: 801-21-16
+    version: 1994-07
+status: valid
+schema_version: '3'
+id: 801-21-16

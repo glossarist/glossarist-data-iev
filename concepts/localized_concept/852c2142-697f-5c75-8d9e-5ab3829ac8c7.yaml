@@ -1,0 +1,67 @@
+---
+data:
+  definition:
+  - content: température d'un radiateur de Planck dont la chromaticité est la plus
+      proche de celle associée à la répartition spectrale donnée sur un diagramme
+      de chromaticité uniforme 1976 modifié où stem:[u^(prime) , " " frac(2)(3) v^(prime)]
+      sont les coordonnées du lieu des corps noirs et du stimulus d'essai
+  examples: []
+  id: 845-23-068
+  notes:
+  - content: Il convient de ne pas appliquer la notion de température de couleur proximale
+      si la chromaticité de la source d'essai diffère de plus de stem:["Delta" C =
+      &amp;lsqb; (u^(prime)_("t") - u^(prime)_("p"))^(2) + frac(4)(9) (v^(prime)_("t")
+      - v^(prime)_("p"))^(2) &amp;rsqb;^(frac(1)(2)) = 5 xx 10^(- 2)] par rapport
+      à celle du radiateur de Planck, où stem:[u^(prime)_("t") , " " v^(prime)_("t")]
+      se rapportent à la source d'essai, et stem:[u^(prime)_("p") , " " v^(prime)_("p")]
+      au radiateur de Planck.
+  - content: La température de couleur proximale peut être calculée par un simple
+      programme informatique de recherche minimale permettant de déterminer la température
+      de Planck qui assure la plus petite différence de chromaticité entre la chromaticité
+      d'essai et le lieu des corps noirs, ou par exemple, par une méthode recommandée
+      par Robertson, A.R. "Computation of correlated color temperature and distribution
+      temperature", _J. Opt. Soc. Am_. *58*, 1528-1535, 1968. (Noter que les valeurs
+      de certains des tableaux de cette référence ne sont pas actualisées.)
+  - content: Le diagramme de chromaticité utilisé à l'origine pour déterminer la température
+      de couleur proximale était le diagramme de chromaticité uniforme CIE 1960. Le
+      diagramme de chromaticité uniforme CIE 1976 est une version modifiée du diagramme
+      de chromaticité uniforme CIE 1960 et est équivalent au diagramme (u, 3/2 v).
+  - content: La température de couleur proximale est exprimée en kelvin (K).
+  - content: Cet article était numéroté 845-03-50 dans l'IEC 60050-845:1987.
+  - content: Le terme abrégé "CCT" est dérivé du terme anglais développé correspondant
+      "correlated colour temperature".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: température de couleur proximale
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: CCT
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 852c2142-697f-5c75-8d9e-5ab3829ac8c7
+classification: admitted

@@ -1,0 +1,25 @@
+---
+data:
+  identifier: section-421-08
+  localized_concepts:
+    eng: e4172d7f-1272-58c2-a460-0aa2c320c598
+  domains:
+  - concept_id: area-421
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-421-08
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-421
+  type: broader
+  ref:
+    source: IEV
+    id: area-421
+- content: 421-08-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 421-08-01
+schema_version: '3'
+id: section-421-08

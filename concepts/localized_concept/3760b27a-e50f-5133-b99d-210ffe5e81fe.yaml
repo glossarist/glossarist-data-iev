@@ -1,0 +1,57 @@
+---
+data:
+  dates:
+  - date: '2010-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2010-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: adresse d’un ordinateur hôte utilisée dans le protocole IP
+  examples: []
+  id: 732-07-06
+  notes:
+  - content: 'L’adresse IP correspond à un nom de domaine complet. Actuellement, elle
+      consiste en 32 bits. Elle est généralement représentée par une suite de quatre
+      nombres décimaux (chacun dans la gamme de 0 à 255), séparés par des points.
+      L’adresse IP d’un ordinateur comprend généralement deux parties: une partie
+      correspondant au numéro de réseau du réseau sur lequel cet ordinateur est situé,
+      et une partie identifiant l’ordinateur à l’intérieur de ce réseau. Dans la nouvelle
+      version IPv6 du protocole IP, l''adresse IP consiste en 128 bits.'
+  - content: Le protocole IP n’est pas restreint à l’Internet et peut être utilisé
+      sur d’autres réseaux.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: adresse IP
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: numéro IP
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-732-07
+  language_code: fra
+  entry_status: valid
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2010-06-01T00:00:00+00:00'
+id: 3760b27a-e50f-5133-b99d-210ffe5e81fe

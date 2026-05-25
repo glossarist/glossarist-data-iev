@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 904-01-05
+  localized_concepts:
+    ara: efaba126-a83e-5869-8271-4084864c7f77
+    deu: a1d63db1-d4bc-549a-a398-2b8ba5eec4a2
+    eng: 2530e8f6-5d79-517c-8f7e-fbacffc5f795
+    spa: 4c78f0f5-e05b-5ab8-8f68-033cbf92e0e6
+    fin: c9a04a1c-a1eb-5bd6-84cb-13e370bfada9
+    fra: 1785663d-2448-58f2-a684-cbbe8f2e85cc
+    jpn: 33332c08-74cf-5b79-8ce4-d0147342c38f
+    kor: 87a8e13e-ecd6-514b-9119-ea33e866651e
+    pol: db101bc8-f4a8-5b37-b7eb-0e710a5befda
+    por: 8972b88d-e8ca-5fcd-99e2-3eb7b11a65cc
+    srp: 833019c6-33c0-5753-8005-fe06bd750bdc
+    zho: f2bec51c-4cc7-5396-9ba0-c46824aaa2ac
+  domains:
+  - concept_id: area-904
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-904-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-904-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-904-01
+- type: supersedes
+  ref:
+    source: IEV
+    id: 904-01-05
+    version: 2014-11
+status: valid
+schema_version: '3'
+id: 904-01-05

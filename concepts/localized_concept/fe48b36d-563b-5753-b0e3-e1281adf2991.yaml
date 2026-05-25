@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '1990-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '1990-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "forme de la courbe prise par un conducteur, assimilé à une corde infiniment
+      souple et inextensible, suspendue entre deux supports, définie par l'équation:\r\nstem:[Y
+      = rho (coshfrac(X)(rho) - 1)]"
+  examples: []
+  id: 466-03-13
+  notes:
+  - content: "En pratique cette courbe peut être le plus souvent assimilée à la parabole
+      d'équation:\r\nstem:[Y = frac(1)(2 rho) X^(2)]\n\nqui représente les deux premiers
+      termes du développement en série entière de l'équation de la chaînette."
+  - content: |-
+      La chaînette représente un câble de masse linéique constante le long de la courbe, tandis que la parabole représente un câble de masse constante par unité de longueur projetée sur un axe horizontal.
+
+      La flèche calculée par la formule de la parabole est plus faible que dans le cas de la chaînette. Lorsque la portée est suffisamment longue ou fortement dénivelée, l'approximation de la parabole peut introduire des erreurs inacceptables.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: chaînette
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-466-03
+  language_code: fra
+  entry_status: valid
+  review_date: '1990-10-01T00:00:00+00:00'
+  review_decision_date: '1990-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1990-10-01T00:00:00+00:00'
+id: fe48b36d-563b-5753-b0e3-e1281adf2991

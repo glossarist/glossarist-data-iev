@@ -1,0 +1,34 @@
+---
+data:
+  definition:
+  - content: configuration de la {{cellule élémentaire, urn:iec:std:iec:60050-485-05-02}}
+      ou de la {{pile à combustible, urn:iec:std:iec:60050-485-06-01}}, caractérisée
+      par le manque d'orifice de sortie pour le combustible, l'oxydant ou les deux
+  examples: []
+  id: 485-06-20
+  notes:
+  - content: Dans un fonctionnement en impasse, pratiquement 100 % du réactif alimentant
+      la cellule élémentaire ou la pile à combustible est consommé. Une petite fraction
+      de réactifs peut être ventilée en dehors des {{systèmes à pile à combustible,
+      urn:iec:std:iec:60050-485-09-01}} ce qui nécessite une purge périodique du (des)
+      compartiment(s) d'{{électrode, urn:iec:std:iec:60050-485-02-01}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: flux en impasse
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-485-06
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 4a4685b9-ceee-5999-92df-52c6dbdb583b

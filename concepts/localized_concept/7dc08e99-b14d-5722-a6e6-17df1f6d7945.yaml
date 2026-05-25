@@ -1,0 +1,48 @@
+---
+data:
+  dates:
+  - date: '2017-12-15T00:00:00+00:00'
+    type: accepted
+  - date: '2017-12-15T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: number of interruptions of supply to individual customers during a given
+      time interval, divided by the product of the total number of customers and the
+      duration of that time interval
+  examples: []
+  id: 692-08-01
+  notes:
+  - content: "If the power supply to customer stem:[j] is interrupted stem:[n]~stem:[j]~
+      times during a time interval of duration stem:[T], and the total number of customers
+      served is stem:[N]~S~, then interruption frequency per customer served is given
+      by\r\nstem:[f_(\"CS\") = frac(sum_(j) n_(j))(N_(\"S\") T)]"
+  - content: Usually, only {{sustained interruptions, urn:iec:std:iec:60050-692-07-02}}
+      are considered.
+  - content: The term "customer" represents the end user and not some intermediate
+      distribution system or company.
+  - content: Interruption frequency per customer served can be used to describe past
+      performance or to estimate expected future performance.
+  - content: This entry was numbered 191-27-01 in IEC 60050-191:1990.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: interruption frequency per customer served
+  - type: expression
+    normative_status: preferred
+    geographical_area: US
+    designation: system average interruption frequency index
+  - type: expression
+    normative_status: admitted
+    designation: SAIFI
+  - type: symbol
+    designation: stem:[f]~CS~
+    international: true
+  domain: section-692-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-12-15T00:00:00+00:00'
+  review_decision_date: '2017-12-15T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-12-15T00:00:00+00:00'
+id: 7dc08e99-b14d-5722-a6e6-17df1f6d7945
+classification: preferred

@@ -1,0 +1,37 @@
+---
+data:
+  definition:
+  - content: plan contenant l'{{ellipse de polarisation, urn:iec:std:iec:60050-705-01-21}},
+      ou le {{cercle, urn:iec:std:iec:60050-102-04-28}} de polarisation
+  examples: []
+  id: 705-01-22
+  notes:
+  - content: En polarisation rectiligne, l'ellipse de polarisation se réduit à un
+      segment de droite et le plan de polarisation ainsi défini n'est pas unique;
+      pour une onde plane dans un milieu {{isotrope, urn:iec:std:iec:60050-113-02-03}},
+      on le choisit alors normal à la {{direction de propagation, urn:iec:std:iec:60050-103-10-05}}.
+      Cela est un changement par rapport à la pratique antérieure dans laquelle le
+      plan de polarisation était choisi comme étant le plan contenant la direction
+      de propagation et un vecteur de champ, généralement le vecteur {{induction électrique,
+      urn:iec:std:iec:60050-121-11-40}} en radioélectricité et le vecteur {{champ
+      magnétique, urn:iec:std:iec:60050-121-11-56}} en optique.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: plan de polarisation
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-705-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 8be3f153-9048-5748-a630-1199c545f196

@@ -1,0 +1,56 @@
+---
+data:
+  definition:
+  - content: 'pour un bipôle linéaire passif, élémentaire ou non, de bornes A et B,
+      en régime sinusoïdal, quotient du phaseur stem:[underline(I)] représentant le
+      courant électrique dans le bipôle par le phaseur stem:[underline(U)_("A" "B")]
+      représentant la tension électrique ({{131-11-56, urn:iec:std:iec:60050-131-11-56}})
+      entre les bornes stem:[underline(Y) = frac(underline(I))(underline(U)_("A" "B"))]
+      où le courant sinusoïdal représenté par le phaseur stem:[underline(I)] est positif
+      si son sens est de A vers B et négatif si son sens est de B vers A et où la
+      tension sinusoïdale stem:[u_(rm(AB)) = v_("A") - v_("B")] représentée par le
+      phaseur stem:[underline(U)_("A" "B")] est la différence des potentiels électriques
+      stem:[v_("A")] en A et stem:[v_("B")] en BNote 1 à l’article: L’admittance d''un
+      bipôle est l’inverse de son impédance. Elle est égale à stem:[underline(Y) =
+      G + rm(j) B = Y rm(e)^(- rm(j) phi)], où stem:[G] est la conductance en courant
+      alternatif, stem:[B] est la susceptance, stem:[Y] est l’admittance apparente
+      et stem:[φ] est le déphasage tension-courant. Note 2 à l’article: L’unité SI
+      cohérente d’admittance est le siemens, S.'
+  examples: []
+  id: 131-12-51
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: admittance
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: admittance complexe
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-131-12
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 3a7314ee-365d-52db-aa0e-fa26dbeb5c17
+classification: preferred

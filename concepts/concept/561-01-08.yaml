@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 561-01-08
+  localized_concepts:
+    ara: '02571887-ebcd-53d1-9dda-2e1027b9e8d4'
+    deu: 4c7a0425-f26f-58a3-96cb-28bc34b34376
+    eng: 4bb93083-b3e5-518f-ab30-4721f64d5420
+    spa: 9deab791-3927-5936-8d2d-972e76ec6708
+    fra: 1de90036-c7b1-5ae5-885d-ab4411c0f824
+    ita: 263c2a51-08d3-58c8-8a84-91685d37c20e
+    jpn: 5cef463c-8e04-5070-8e30-6882048be041
+    kor: c240cd96-61b9-5e3a-a3dc-6ba70626b568
+    pol: acbce092-af5f-57e9-b1b3-d1bb6b39f528
+    por: 206250f7-a561-5545-8246-67e66a49321c
+    zho: 7a86d54c-5d89-50a1-ac44-0004659d585a
+  domains:
+  - concept_id: area-561
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-561-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-561-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-561-01
+status: valid
+schema_version: '3'
+id: 561-01-08

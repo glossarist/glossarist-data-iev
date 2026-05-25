@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: detectivity, stem:[D], normalized to take into account two important
+      parameters of the detection system, the sensitive area, stem:[A], of the detector
+      and the measurement bandwidth, Δstem:[f]stem:[D * = D (A " " "Delta" f)^(1 /
+      2) = Phi_("m")^(- 1) (A " " "Delta" f)^(1 / 2)]where stem:[Φ]~m~ is noise equivalent
+      power
+  examples: []
+  id: 845-25-073
+  notes:
+  - content: The concept "normalized detectivity" is realistic only if the responsivity
+      and noise output of the detector are {{frequency, urn:iec:std:iec:60050-103-06-02}}
+      independent throughout the frequency range under consideration and if the noise
+      equivalent input varies as the square root of the detector area; this is not
+      always the case.
+  - content: The normalized detectivity is expressed in metre hertz to the power one
+      half per watt (m·Hz^1/2^·W^−1^).
+  - content: This entry was numbered 845-05-66 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: normalized detectivity
+    usage_info: of a detector
+  - type: symbol
+    designation: stem:[D]^*^
+    international: true
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: e60e3df9-6ee6-5842-ad0f-5a560f4019ee

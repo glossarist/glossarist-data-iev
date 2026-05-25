@@ -1,0 +1,56 @@
+---
+data:
+  dates:
+  - date: '1998-08-01T00:00:00+00:00'
+    type: accepted
+  - date: '1998-08-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "scalar constant stem:[ε]~0~ linking the electric quantities and the
+      mechanical quantities, obtained from the relation\r\nstem:[F = frac(1)(4 pi
+      epsilon_(0)) * frac(|Q_(1) Q_(2)|)(r^(2))]\n\nbased on Coulomb's law in vacuum,
+      where stem:[F]  is the magnitude of the force between two particles with electric
+      charges stem:[Q]~1~  and stem:[Q]~2~ respectively, placed at a distance stem:[r]
+      apart"
+  examples: []
+  id: 121-11-03
+  notes:
+  - content: |-
+      In vacuum, the product of the electric constant and the electric field strength *stem:[E]*  is equal to the electric flux density *stem:[D]*:
+
+      *stem:[D]* = stem:[ε]~0~*stem:[E]*
+  - content: |-
+      The electric constant is related to the magnetic constant stem:[μ]~0~ and to the speed of light in vacuum stem:[c]~0~ by the relation
+
+      stem:[ε]~0~stem:[μ]~0~stem:[c]~0~^2^ = 1
+  - content: "The value of the electric constant is exactly equal to\r\nstem:[frac(10^(7))(4
+      pi xx 299 \" \" 792   \" \" 458^(2)) \"m\"^(- \" \" 3) \"kg\"^(- \" \" 1) \"s\"^(4)
+      \"A\"^(2) = 8 , 854 \" \" 187 \" \" 817 ... \" \" \"pF\" / \"m\"]"
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 705-03-01
+      original: 705-03-01 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electric constant
+  - type: expression
+    normative_status: preferred
+    designation: permittivity of vacuum
+  - type: symbol
+    designation: stem:[ε]~0~
+    international: true
+  domain: section-121-11
+  language_code: eng
+  entry_status: valid
+  review_date: '1998-08-01T00:00:00+00:00'
+  review_decision_date: '1998-08-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1998-08-01T00:00:00+00:00'
+id: 2927e25a-64fb-58cb-9524-f92e6cc5f9ff
+classification: preferred

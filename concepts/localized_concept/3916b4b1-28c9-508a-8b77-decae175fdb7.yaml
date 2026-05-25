@@ -1,0 +1,46 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: mean per {{character, urn:iec:std:iec:60050-702-05-10}} of the {{mean
+      transinformation content, urn:iec:std:iec:60050-171-07-27}} for all possible
+      messages from a {{stationary message source, urn:iec:std:iec:60050-171-07-09}}
+      stem:[T^(prime) = underset(m vec oo)(lim) frac(T_(m))(m)] where stem:[T~m~]
+      is the mean transinformation content for all pairs of corresponding input and
+      output sequences of stem:[m] characters each
+  examples: []
+  id: 171-07-30
+  notes:
+  - content: The character mean transinformation content can be expressed in a unit
+      such as the shannon per character.
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-39
+      original: IEC 80000-13:2008, 13-39, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: character mean transinformation content
+  - type: symbol
+    designation: stem:[T]^′^
+    international: true
+  domain: area-171
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 3916b4b1-28c9-508a-8b77-decae175fdb7

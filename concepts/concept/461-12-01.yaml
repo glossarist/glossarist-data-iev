@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 461-12-01
+  localized_concepts:
+    ara: 7ed2f63f-e798-587a-8df9-470fdacb2f0d
+    deu: dfe6f104-15b5-5e54-b708-02152e4edc17
+    eng: ea465f7d-e18d-578f-82e4-81400f1bbcab
+    spa: cb09cc98-e259-5fa4-bd45-ec2dc5448d8c
+    fin: be2db7ea-3568-5766-a0de-6f29deeb278a
+    fra: 041a5c2d-f95c-59a9-a1bc-959076e106e4
+    ita: 13253fcc-f37b-5b2b-ae85-e740411c3817
+    jpn: 04a64421-ff46-57e6-b24a-28f9ec453d20
+    kor: d33705ec-ded3-553b-b6d4-a655634b97b5
+    mon: 4ebdd3b0-8383-589e-a9f9-e9f42ed2986f
+    nob: acee3a2f-09a7-5d0b-8855-c4fe718f949a
+    nno: c3d7e524-8fb9-5d1b-81d2-86132a4be367
+    pol: 808450b6-066f-5b83-b025-009a27814839
+    por: 11d0f989-3d01-5ad9-9b60-4dc424f23322
+    rus: de14be72-9782-5c75-a2d6-21acc0947cd7
+    slv: c6d333b7-fc32-5f9f-bb46-0c6a70ad37b0
+    srp: dd6c43d6-4aac-5dd3-87c3-eda84c322853
+    swe: ad79e3f0-b82f-5a5f-a04f-2f388e321957
+    zho: f1bf3b16-e90c-5754-a1ec-4624768f20f1
+  domains:
+  - concept_id: area-461
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-461-12
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-461-12
+  type: broader
+  ref:
+    source: IEV
+    id: section-461-12
+status: valid
+schema_version: '3'
+id: 461-12-01

@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2001-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2001-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: qualifie le fonctionnement d'un dispositif ou d'un circuit électrique
+      lorsqu'il ne fournit pas de puissance ou, par extension, une grandeur associée
+      à ce dispositif ou circuit
+  examples: []
+  id: 151-15-21
+  notes:
+  - content: Lorsque la puissance de sortie est électrique, il s’agit de puissance
+      apparente.
+  - content: Un dispositif peut être hors charge sans être isolé.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 151-15-37
+      original: 151-15-37
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: hors charge
+  - type: expression
+    designation: à vide
+  domain: section-151-15
+  language_code: fra
+  entry_status: valid
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2001-07-01T00:00:00+00:00'
+id: 69ac0f75-f43e-5861-9d7e-d1b71dec389f

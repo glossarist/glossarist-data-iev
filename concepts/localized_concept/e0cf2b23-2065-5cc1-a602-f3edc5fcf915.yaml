@@ -1,0 +1,32 @@
+---
+data:
+  definition:
+  - content: durée cumulée des intervalles de temps pendant lesquels un {{système
+      à pile à combustible, urn:iec:std:iec:60050-485-09-01}} génère de la puissance
+      électrique
+  examples: []
+  id: 485-20-01
+  notes:
+  - content: Le temps de génération inclut à la fois le temps que le système de puissance
+      fournit de l'électricité au réseau et le temps que la puissance générée est
+      consommée par la {{charge parasite, urn:iec:std:iec:60050-485-09-08}} uniquement.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: temps de génération
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-485-20
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: e0cf2b23-2065-5cc1-a602-f3edc5fcf915

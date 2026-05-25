@@ -1,0 +1,62 @@
+---
+data:
+  dates:
+  - date: '1995-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '1995-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: intervalle de temps entre l'apparition d'un défaut et son élimination
+  examples: []
+  id: 448-13-15
+  notes:
+  - content: "Cette durée est la plus longue durée avant interruption du courant de
+      défaut par le ou les disjoncteurs concernés par l'élimination du courant de
+      défaut dans l'ouvrage en défaut.\r\nSe reporter à la figure 448-11.\n\nimage::/assets/images/parts/448/[]"
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 604-02-29
+      original: 604-02-29 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: durée d'élimination d'un défaut
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: temps d'élimination d'un défaut
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-448-13
+  language_code: fra
+  entry_status: valid
+  review_date: '1995-12-01T00:00:00+00:00'
+  review_decision_date: '1995-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1995-12-01T00:00:00+00:00'
+id: 22e68fe1-805c-5927-94f1-eb0f99362ffa
+classification: preferred

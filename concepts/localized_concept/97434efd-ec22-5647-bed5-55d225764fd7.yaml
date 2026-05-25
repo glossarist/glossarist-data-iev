@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2019-10-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-10-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: exchangeable noise {{power spectral density, urn:iec:std:iec:60050-702-04-50}}
+      at a given {{frequency, urn:iec:std:iec:60050-103-06-02}} of a {{one-port, urn:iec:std:iec:60050-131-12-64}}
+      divided by Boltzmann’s constant
+  examples: []
+  id: 702-08-54
+  notes:
+  - content: This definition assumes that quantum effects are negligible.
+  - content: The spot noise temperature has the sign of the real part of the one-port
+      {{impedance, urn:iec:std:iec:60050-131-12-43}}. When the real part is positive,
+      the {{exchangeable power, urn:iec:std:iec:60050-702-07-11}} becomes the {{available
+      power, urn:iec:std:iec:60050-702-07-10}}.
+  - content: If the one-port has an impedance with a positive real part, its spot
+      noise temperature at a given frequency equals the {{thermodynamic temperature,
+      urn:iec:std:iec:60050-113-04-14}} to which a {{resistor, urn:iec:std:iec:60050-151-13-19}}
+      equal in value to the real part of the impedance should be brought in order
+      to obtain an available power of {{thermal noise, urn:iec:std:iec:60050-702-08-45}}
+      equal to the available noise power of the one-port at the same frequency.
+  - content: A receiving antenna can be regarded as a one-port when viewed from its
+      {{output port, urn:iec:std:iec:60050-131-12-62}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spot noise temperature
+    usage_info: of a one-port
+  domain: section-702-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-10-01T00:00:00+00:00'
+  review_decision_date: '2019-10-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-10-01T00:00:00+00:00'
+id: 97434efd-ec22-5647-bed5-55d225764fd7

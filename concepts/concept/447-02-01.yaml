@@ -1,0 +1,29 @@
+---
+data:
+  identifier: 447-02-01
+  localized_concepts:
+    ara: '0146952f-69ca-5e8f-94fc-93fffa433db1'
+    deu: 568b50b5-2075-5c7a-b6a3-984a78a7a539
+    eng: db7f9ed3-e69a-56d5-879f-6a681a6117ba
+    fra: dfdaf11e-ce2c-5335-841e-2e5767a00a48
+    jpn: 96702be1-6ec4-520b-ab68-f93f16d130db
+    kor: 106a0766-a3fa-5de4-9d9e-db08e63df0d5
+    pol: 4dd0510c-fd3d-564d-89e0-3d542d70469d
+    por: 8a6a6e37-f29a-5412-ba08-df4bbe06d5c8
+    zho: '04818385-58bd-5a3b-a551-1101c4445fb3'
+  domains:
+  - concept_id: area-447
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-447-02
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-447-02
+  type: broader
+  ref:
+    source: IEV
+    id: section-447-02
+status: valid
+schema_version: '3'
+id: 447-02-01

@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 461-01-02
+  localized_concepts:
+    ara: 2917103d-093e-5977-aeab-1a12f5c80f58
+    deu: d53b837a-3675-5cf1-8e7b-f829456d5eec
+    eng: '09c602f0-87cc-5c62-b3e4-bdc51011dd8d'
+    spa: 6ae4be05-6b48-5c8a-8ed9-e153700cbe38
+    fin: 309425f4-396d-5179-961e-3233450e3231
+    fra: 527c8ee4-bbbb-5622-bc74-8a468fffa321
+    ita: 7186b1cb-79ce-5785-b130-78d07fbcb804
+    jpn: 2d6af751-c58a-563d-9eb5-7d6dc90a47d2
+    kor: f5e7e3fe-7bab-5daf-a1c1-c8165182ec07
+    mon: dc5ef14d-138c-5d77-b22f-b983f8909e7a
+    nob: 92ec315c-b144-5dc9-8b79-3a89fb15dc4c
+    nno: 30897b17-7cd5-5630-a8c9-872abdeb41b3
+    pol: 9a1c82cb-be3f-5d79-827e-0f532e62e10f
+    por: 15614a31-e234-51de-804b-67ef1c23c3c9
+    rus: 9503cd20-2423-5f84-b9b0-da958b006d08
+    slv: ae7bf4f9-4edf-5132-bef6-8729573b24a8
+    srp: a470f6a1-4b65-517e-96e0-b88dfd286edc
+    swe: 0b134fff-aa09-5676-8c84-cd9fc3529b7c
+    zho: a1b2c285-6920-52d1-afda-feccfb1a6975
+  domains:
+  - concept_id: area-461
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-461-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-461-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-461-01
+status: valid
+schema_version: '3'
+id: 461-01-02

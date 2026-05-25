@@ -1,0 +1,57 @@
+---
+data:
+  dates:
+  - date: '1996-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '1996-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: technique d'acheminement de messages dans un réseau de télécommunication
+      où les messages sont préalablement découpés en paquets munis d'une adresse;
+      dans les noeuds du réseau, ces paquets sont reçus, mis en mémoire et retransmis
+      sur la ou les voies de transmission appropriées; à l'arrivée, le message est
+      reconstitué à partir des paquets reçus
+  examples: []
+  id: 715-11-01
+  notes:
+  - content: Un paquet n'occupe une voie que pendant sa durée de transmission, la
+      voie étant ensuite disponible pour la transmission d'autres paquets appartenant
+      soit au même message, soit à d'autres messages.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: commutation de paquets
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: commutation par paquets
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-715-11
+  language_code: fra
+  entry_status: valid
+  review_date: '1996-12-01T00:00:00+00:00'
+  review_decision_date: '1996-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1996-12-01T00:00:00+00:00'
+id: b9fcdc34-182c-5e76-b01b-b8d5912ec0de
+classification: preferred

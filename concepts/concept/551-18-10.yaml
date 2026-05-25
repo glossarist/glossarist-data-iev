@@ -1,0 +1,34 @@
+---
+data:
+  identifier: 551-18-10
+  localized_concepts:
+    ara: 1ea03cd1-fb27-52a8-854a-120ad66b9e87
+    deu: d4918bcb-3914-5423-b7ec-f579e1c1e727
+    eng: 9344bbeb-111f-5ee8-9e57-5930de7cc3e2
+    spa: 8ccd1b1b-a365-5414-8526-342a86bba8d9
+    fin: 0c7efd0a-f7c7-5e60-aaaa-5a9fbd0c8c34
+    fra: b0ffe8b5-0053-538b-b4f6-6e6fa63e83a1
+    ita: d7db0e3a-eaf7-5c24-9ae4-bfb41b0bdb56
+    jpn: 7cfd1da2-a074-56a5-9d0a-0e404af80a81
+    kor: 963c8e1f-cde2-5e0f-8668-9c1a24515868
+    pol: 4e630c02-0416-5cfb-85d2-49fe89c49c9a
+    por: 3f7b9ded-6b02-5daf-bf6c-30134972d0fe
+    rus: 14f7c9ca-5bec-5a5e-b08f-84fa7466a753
+    srp: 01d38f00-7c6c-5089-9b7c-0cf6a961ef38
+    swe: 0643ff02-8ad6-5803-a755-8446b6a44b18
+  domains:
+  - concept_id: area-551
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-551-18
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-551-18
+  type: broader
+  ref:
+    source: IEV
+    id: section-551-18
+status: valid
+schema_version: '3'
+id: 551-18-10

@@ -1,0 +1,48 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: maximum possible {{average transinformation rate, urn:iec:std:iec:60050-171-07-31}},
+      which can be achieved with an arbitrary small {{error probability, urn:iec:std:iec:60050-171-06-08}}
+      by use of an appropriate {{code, urn:iec:std:iec:60050-171-01-15}}
+  examples: []
+  id: 171-07-33
+  notes:
+  - content: The channel time capacity is one way to express quantitatively the ability
+      of a given channel subject to specific constraints to transmit messages from
+      a specified message source.
+  - content: The channel time capacity can be expressed in a unit such as the shannon
+      per second (Sh/s).
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-42
+      original: IEC 80000-13:2008, 13-42, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: channel time capacity
+  - type: expression
+    designation: channel capacity
+  - type: symbol
+    designation: stem:[C]^*^
+    international: true
+  domain: area-171
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: fe8b688c-bb31-58b5-b122-e9b9518156f8

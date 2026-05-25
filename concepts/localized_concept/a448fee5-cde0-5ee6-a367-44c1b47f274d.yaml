@@ -1,0 +1,45 @@
+---
+data:
+  dates:
+  - date: '1995-09-01T00:00:00+00:00'
+    type: accepted
+  - date: '1995-09-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: canal d'accès destiné au transfert des informations d'usager au moyen
+      de signaux numériques normalisés de débit numérique spécifié supérieur à 64
+      kbit/s
+  examples: []
+  id: 716-04-03
+  notes:
+  - content: |-
+      Un canal H se caractérise habituellement par un ou par deux indices:
+
+      - le premier indique le débit numérique; ainsi un canal H~0~ a un débit numérique de 384 kbit/s;
+
+      - le second, s'il existe, désigne la hiérarchie numérique; ainsi un canal H~11~ a un débit numérique de 1536 kbit/s, et un canal H~12~ a un débit numérique de 1920 kbit/s.
+  - content: Un canal H donné peut se subdiviser en canaux de débit numérique inférieur,
+      de type canal H, canal B ou canal D.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: canal H
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-716-04
+  language_code: fra
+  entry_status: valid
+  review_date: '1995-09-01T00:00:00+00:00'
+  review_decision_date: '1995-09-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1995-09-01T00:00:00+00:00'
+id: a448fee5-cde0-5ee6-a367-44c1b47f274d

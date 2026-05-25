@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 482-03-14
+  localized_concepts:
+    ara: 52a31b9d-f10d-5e27-bcae-a3316192fb2b
+    deu: b8efac11-670f-5461-b220-b08ebaa43522
+    eng: 9d24e297-1822-57bd-b535-67002b40a61e
+    spa: 052cf4ec-3e8d-5f08-bfcc-8c83cac896b0
+    fin: d6f91b2e-17d0-5518-be55-c5bc4661561d
+    fra: 44fb0047-0a8a-55cd-a01e-29ed55c25b28
+    ita: ad78878d-c3c5-536a-852b-a567a3c02bb4
+    jpn: 2e247ac2-d918-529f-8bde-2b7b39aa8d7a
+    kor: 6801dc76-4504-5120-9150-79151ea5adcb
+    pol: 694ffaeb-1906-5b37-b34b-a1512f581b82
+    por: 71747112-18b4-5571-ab0c-498b4c955a48
+    srp: 9f68191b-b521-5d04-a598-a8ef23729413
+    swe: 20578d8e-9d9a-5342-a68c-cc50fc150a40
+    zho: 7d92bea2-4ea1-5a0e-9a88-8828f871bfbd
+  domains:
+  - concept_id: area-482
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-482-03
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-482-03
+  type: broader
+  ref:
+    source: IEV
+    id: section-482-03
+- type: supersedes
+  ref:
+    source: IEV
+    id: 482-03-14
+    version: 2004-04
+status: valid
+schema_version: '3'
+id: 482-03-14

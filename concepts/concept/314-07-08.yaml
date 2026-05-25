@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 314-07-08
+  localized_concepts:
+    ara: 7479fa7c-d902-5c09-bf60-758e59e932ee
+    deu: 943f0786-a559-5011-bcb8-defbfd1c5ae5
+    eng: 0fc94776-92ed-5ae1-9034-5107e831f17e
+    spa: 7cf300f0-f08e-523e-8260-6ea788e9ec5f
+    fin: 71262b55-8040-56a6-9738-474ab12275c4
+    fra: c7252a29-d9ef-5a82-a425-e63a11252e9b
+    ita: 4a44b587-1c81-5b41-958f-7aa79520aee6
+    jpn: 2f7f6797-8f53-5215-a108-f05aa5579c0c
+    kor: 475a150a-91df-5589-af60-d39d3e9ffc77
+    pol: 1e191142-fe60-5192-86e9-c0100388396d
+    por: f8af97c1-4c91-5920-9a5d-4df0383a0fa4
+    rus: ae67d363-2ec7-50d6-91a3-6e024dfe46e1
+    srp: 85576e18-a627-58af-a40f-d52923969cd8
+    swe: 36e15d93-eb2f-5900-9259-c3640fea19fc
+    zho: 46178dec-2c31-59ea-acd9-12e4f81ab833
+  domains:
+  - concept_id: area-314
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-314-07
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-314-07
+  type: broader
+  ref:
+    source: IEV
+    id: section-314-07
+status: valid
+schema_version: '3'
+id: 314-07-08

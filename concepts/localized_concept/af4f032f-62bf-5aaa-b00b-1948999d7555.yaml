@@ -1,0 +1,39 @@
+---
+data:
+  definition:
+  - content: "{{relais électrique, urn:iec:std:iec:60050-151-13-31}} qui sert à commander
+      des équipements"
+  examples: []
+  id: 447-01-15
+  notes:
+  - content: 'à l''article: Un relais de commande peut être un simple relais qui traduit
+      une commande externe en un signal de commande [par exemple, commande de fermeture
+      d''un {{disjoncteur, urn:iec:std:iec:60050-441-14-20}}], ou un {{dispositif,
+      urn:iec:std:iec:60050-151-11-20}} plus complexe qui traduit une commande externe
+      en une suite de signaux de commande [par exemple, fermeture et ouverture de
+      {{sectionneurs, urn:iec:std:iec:60050-441-14-05}} et de {{disjoncteurs, urn:iec:std:iec:60050-441-14-20}}
+      pour basculer un circuit d''un tronçon de jeu de barres à un autre]. Un relais
+      de commande peut également servir à surveiller une {{grandeur caractéristique,
+      urn:iec:std:iec:60050-447-07-01}} (par exemple, tension, fréquence) et à produire
+      un signal de commande qui dépend de sa conception fonctionnelle spécifique (par
+      exemple, relais de délestage à baisse de fréquence).'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: relais de commande
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-447-01
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: af4f032f-62bf-5aaa-b00b-1948999d7555

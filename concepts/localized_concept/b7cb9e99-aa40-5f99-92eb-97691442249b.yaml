@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2017-12-15T00:00:00+00:00'
+    type: accepted
+  - date: '2017-12-15T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: sum of durations of all {{supply interruptions, urn:iec:std:iec:60050-692-07-01}}
+      to individual customers during a time interval, divided by the product of the
+      number of customers affected and the duration of that time interval
+  examples: []
+  id: 692-08-04
+  notes:
+  - content: If stem:[t]~stem:[ij]~ is the duration of the stem:[i]th interruption
+      of supply to customer stem:[j] during a time interval of duration stem:[T],
+      and stem:[N]~NS~ the number of customers affected, then the service unavailability
+      per customer interrupted is given bystem:[U_("CI") = frac(sum_(i) sum_(j) t_(i
+      j))(N_("NS") T)]
+  - content: Only {{sustained interruptions, urn:iec:std:iec:60050-692-07-02}} are
+      considered.
+  - content: The term "customer" represents the end user and not some intermediate
+      distribution system or company.
+  - content: Service unavailability per customer interrupted can be used to describe
+      past performance or to estimate expected future performance.
+  - content: This entry was numbered 191-27-04 in IEC 60050-191:1990.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: service unavailability per customer interrupted
+  - type: symbol
+    designation: stem:[U]~CI~
+    international: true
+  domain: section-692-08
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-12-15T00:00:00+00:00'
+  review_decision_date: '2017-12-15T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-12-15T00:00:00+00:00'
+id: b7cb9e99-aa40-5f99-92eb-97691442249b

@@ -1,0 +1,40 @@
+---
+data:
+  identifier: section-692-07
+  localized_concepts:
+    eng: a21d2c23-6e64-5c10-be07-e8aa7990c311
+  domains:
+  - concept_id: area-692
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-692-07
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-692
+  type: broader
+  ref:
+    source: IEV
+    id: area-692
+- content: 692-07-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 692-07-01
+- content: 692-07-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 692-07-02
+- content: 692-07-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 692-07-03
+- content: 692-07-04
+  type: narrower
+  ref:
+    source: IEV
+    id: 692-07-04
+schema_version: '3'
+id: section-692-07

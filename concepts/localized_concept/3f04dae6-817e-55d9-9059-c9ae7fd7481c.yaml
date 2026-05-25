@@ -1,0 +1,41 @@
+---
+data:
+  dates:
+  - date: '2002-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2002-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: circuit consisting of {{electric circuit elements, urn:iec:std:iec:60050-131-11-04}}
+      only
+  examples: []
+  id: 131-11-07
+  notes:
+  - content: In IEC 60050-151, the terms "electric circuit" and "electric network"
+      have other meanings relative to devices and media.
+  - content: The term "network" without qualifier is used in network topology.
+  sources:
+  - origin:
+      ref: IEV
+      locality:
+        type: clause
+        reference_from: 131-13-03
+      original: see 131-13-03
+    status: related
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: electric circuit
+  - type: expression
+    normative_status: preferred
+    designation: electric network
+  domain: section-131-11
+  language_code: eng
+  entry_status: valid
+  review_date: '2002-06-01T00:00:00+00:00'
+  review_decision_date: '2002-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2002-06-01T00:00:00+00:00'
+id: 3f04dae6-817e-55d9-9059-c9ae7fd7481c
+classification: preferred

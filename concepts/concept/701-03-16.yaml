@@ -1,0 +1,39 @@
+---
+data:
+  identifier: 701-03-16
+  localized_concepts:
+    ara: 03be7f24-1bdd-567b-ab8b-6356422e04af
+    deu: 5e334c48-9a55-5c88-8264-b52dafd4cbd4
+    eng: 38e804bb-b009-5e9a-94e8-e7af715e045d
+    spa: 4ba2eb84-c925-5113-8d7f-b86bf5c1e6db
+    fin: db0fa421-e764-58d7-bcdf-e44175a1e383
+    fra: 3944cfac-4238-54a1-a9a4-62d6223a0847
+    ita: d8a254c1-b0fc-506a-b668-a84b6b241255
+    jpn: 784229c8-651f-5695-ad47-f5c9185b7b28
+    kor: 154ace2c-daae-5a89-9004-43fc08721891
+    pol: f2d14b49-8cf7-5a9b-9a9c-0ca68be95052
+    por: ad74ab63-f889-5b8d-aa4c-249c2e9d0939
+    srp: 7a319d35-e83a-582e-a68c-426f7f9e50a0
+    swe: 72a1cfa9-5147-555d-ad74-3429d374834d
+    zho: 6690bef3-e172-5c8a-b640-f4acba5bf552
+  domains:
+  - concept_id: area-701
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-701-03
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-701-03
+  type: broader
+  ref:
+    source: IEV
+    id: section-701-03
+- type: supersedes
+  ref:
+    source: IEV
+    id: 701-03-16
+    version: '1988'
+status: valid
+schema_version: '3'
+id: 701-03-16

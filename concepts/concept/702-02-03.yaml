@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 702-02-03
+  localized_concepts:
+    ara: 8e4bccab-29f7-5a3e-a9d6-0f2a25d15ce4
+    deu: bcbd8887-70dc-542b-809a-acba99ff577b
+    eng: 3d609df0-2d87-5c2e-8a72-9a490b4976c1
+    spa: 0e24b8e2-ffff-569f-812f-b9fe9be91418
+    fra: ccbcd513-6a67-5122-b60a-634a22279b78
+    ita: c5a38fea-4f08-5ef2-8ed9-73ce5552e3ab
+    jpn: 77075f81-58e8-5010-8a19-f6eb074565e8
+    kor: 3f208e4b-d6d3-55af-85bc-dee67452725a
+    pol: 06b1f6c5-5f21-5560-99a4-91fb80b9b74a
+    por: c88fdad9-d2b2-5947-990f-3fc7603287bc
+    swe: 2ef7e855-dd61-51a6-a671-c2d44e3f76f2
+    zho: 8b4570e1-75e7-536c-b31b-8cff669c0443
+  domains:
+  - concept_id: area-702
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-702-02
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-702-02
+  type: broader
+  ref:
+    source: IEV
+    id: section-702-02
+- type: supersedes
+  ref:
+    source: IEV
+    id: 702-02-03
+    version: 2014-11
+status: valid
+schema_version: '3'
+id: 702-02-03

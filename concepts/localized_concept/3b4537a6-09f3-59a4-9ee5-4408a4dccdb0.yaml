@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2017-11-17T00:00:00+00:00'
+    type: accepted
+  - date: '2017-11-17T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: frame containing all information necessary to forward it to its final
+      destination, without knowledge of the previous frame's contents
+  examples: []
+  id: 811-37-26
+  notes:
+  - content: Datagrams do not use a previous connection establishment and they are
+      not acknowledged at the link layer.
+  sources:
+  - origin:
+      ref: IEC 61375-2-1:2012
+      locality:
+        type: clause
+        reference_from: 3.1.38
+      original: IEC 61375-2-1:2012, 3.1.38
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: datagram
+  domain: area-811
+  language_code: eng
+  entry_status: valid
+  review_date: '2017-11-17T00:00:00+00:00'
+  review_decision_date: '2017-11-17T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2017-11-17T00:00:00+00:00'
+id: 3b4537a6-09f3-59a4-9ee5-4408a4dccdb0

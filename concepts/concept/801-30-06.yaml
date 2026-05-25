@@ -1,0 +1,32 @@
+---
+data:
+  identifier: 801-30-06
+  localized_concepts:
+    ara: 7a3ebb0b-b31e-5dcd-b8ab-d95d08fc4ec5
+    deu: 67641867-67e5-5a93-b590-eb22435c84b5
+    eng: 7f76c1e4-5169-5dae-8121-df10d49c5814
+    spa: 2299bd3e-a6b1-5591-bae3-3411a2e57526
+    fin: 36d99aff-0265-5184-8257-38f06cf8c8fc
+    fra: 788b4be2-f071-51f2-bfb2-d3cbef3129ea
+    ita: 9eb2d674-554f-5678-8937-5df0b2b9d41a
+    jpn: 98b34e56-a035-5f56-aa13-32f7cfc5be20
+    kor: 8c5d82db-bdcb-575c-93d4-18a36ece9e15
+    pol: fa6596ce-36c1-5a8d-871b-9563331c1be9
+    por: 074bd061-a423-545e-9503-d5549363e633
+    swe: fae195c1-300c-5ce8-af57-d387c28bfe99
+  domains:
+  - concept_id: area-801
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-801-30
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-801-30
+  type: broader
+  ref:
+    source: IEV
+    id: section-801-30
+status: valid
+schema_version: '3'
+id: 801-30-06

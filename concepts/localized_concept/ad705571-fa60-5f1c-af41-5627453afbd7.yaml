@@ -1,0 +1,40 @@
+---
+data:
+  dates:
+  - date: '2018-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2018-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: integrated MEMS {{device, urn:iec:std:iec:60050-151-11-20}}, in which
+      complementary metal-oxide-semiconductor (CMOS) signal-processing circuits and
+      MEMS elements are formed on the same silicon {{substrate, urn:iec:std:iec:60050-521-05-28}}
+  examples: []
+  id: 523-04-25
+  notes:
+  - content: CMOS MEMS is one form of the MEMS device that integrates CMOS signal-processing
+      circuits and MEMS elements. Usually, the CMOS MEMS is fabricated by performing
+      a MEMS process on the CMOS preformed {{wafer, urn:iec:std:iec:60050-521-05-29}},
+      and therefore it is necessary that the MEMS process does not damage the CMOS
+      circuit.
+  sources:
+  - origin:
+      ref: IEC 62047-1:2016
+      locality:
+        type: clause
+        reference_from: 2.4.26
+      original: IEC 62047-1:2016, 2.4.26
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CMOS MEMS
+  domain: section-523-04
+  language_code: eng
+  entry_status: valid
+  review_date: '2018-12-01T00:00:00+00:00'
+  review_decision_date: '2018-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2018-12-01T00:00:00+00:00'
+id: ad705571-fa60-5f1c-af41-5627453afbd7

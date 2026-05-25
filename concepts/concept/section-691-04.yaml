@@ -1,0 +1,35 @@
+---
+data:
+  identifier: section-691-04
+  localized_concepts:
+    eng: d205c026-ac11-57fc-b340-574d6c058ac7
+  domains:
+  - concept_id: area-691
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-691-04
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-691
+  type: broader
+  ref:
+    source: IEV
+    id: area-691
+- content: 691-04-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 691-04-01
+- content: 691-04-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 691-04-02
+- content: 691-04-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 691-04-03
+schema_version: '3'
+id: section-691-04

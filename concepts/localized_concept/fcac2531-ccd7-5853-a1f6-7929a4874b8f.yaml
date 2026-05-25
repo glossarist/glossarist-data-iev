@@ -1,0 +1,60 @@
+---
+data:
+  definition:
+  - content: "{{grandeur, urn:iec:std:iec:60050-112-01-01}} qui peut être représentée
+      comme le produit d'un {{vecteur, urn:iec:std:iec:60050-102-03-04}} par une {{grandeur
+      scalaire, urn:iec:std:iec:60050-102-02-19}}"
+  examples: []
+  id: 102-03-21
+  notes:
+  - content: Le vecteur qui définit la grandeur vectorielle est généralement un vecteur
+      unitaire dans l'espace géométrique usuel à deux ou trois dimensions. Une grandeur
+      vectorielle est alors représentable par un segment orienté caractérisé par son
+      point d'application, sa direction et sa longueur, où la longueur est le produit
+      d'un nombre positif ou nul par une unité de mesure. Chaque composante est aussi
+      le produit d'une valeur numérique et de l'unité. Des exemples de grandeurs vectorielles
+      sont la vitesse, la force, le champ électrique.
+  - content: Une grandeur vectorielle peut être considérée, soit comme ayant un point
+      d'application fixe (vecteur lié), soit comme ayant un point d'application quelconque
+      sur une droite qui lui est parallèle (vecteur glissant), soit comme ayant un
+      point d'application quelconque dans l'espace (vecteur libre).
+  - content: Les opérations définies pour les vecteurs s'appliquent aux grandeurs
+      vectorielles. Par exemple, le produit d'une grandeur scalaire stem:[p] et de
+      la grandeur vectorielle stem:[Q = q e] est la grandeur vectorielle stem:[p Q
+      = p q e], où *stem:[e]* est un vecteur unitaire.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: grandeur vectorielle
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: vecteur
+    usage_info: grandeur
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-03
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: fcac2531-ccd7-5853-a1f6-7929a4874b8f
+classification: preferred

@@ -1,0 +1,49 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quantity that determines the maximum geometric throughput of radiation
+      transmitted, received or emitted in a single-pass, passive optical arrangement
+  examples: []
+  id: 845-21-047
+  notes:
+  - content: "Defining a ray as the confined radiation exchange between two subtended
+      surface area elements dstem:[A] and dstem:[A]′ at distance stem:[l], with normal
+      vectors stem:[n_(A)] and stem:[n^(prime)_(A)] and orientation angles stem:[θ]
+      and stem:[θ]′ with respect to a common optical axis, the geometric extent is
+      equal to the action of all possible rays between both surface areas stem:[A]
+      and stem:[A]′. This is expressed by the integral over the product of all projected
+      area elements dstem:[A] cos stem:[θ] and dstem:[A]′ cos stem:[θ]′ weighted by
+      the distance squared to account for the apparent size of the subtending surfaces
+      areas:stem:[G = frac(1)(l^(2)) int_(A) int_(A^(prime)) \"d\" A costheta * \"d\"
+      A^(prime) costheta^(prime) = int \"d\" G]\r\nwith\r\nstem:[\"d\" G \" \" = frac(\"d\"
+      A costheta * \"d\" A^(prime) costheta^(prime))(l^(2)) = \"d\" A cos Theta *
+      \"d\" Omega = \"d\" A^(prime) cos theta^(prime) * \"d\" Omega^(prime) = \"d\"
+      G^(prime)]where dstem:[Ω] and dstem:[Ω]′ are the solid angle elements defining
+      the angular extent of dstem:[A]′ from dstem:[A] and dstem:[A] from dstem:[A]′
+      respectively."
+  - content: '"Single-pass" means that the term applies only for radiation transfer
+      in a single defined direction. It does not apply to devices such as Fabry–Pérot
+      cavities.'
+  - content: See also "{{optical extent, urn:iec:std:iec:60050-845-21-048}}".
+  - content: The geometric extent is expressed in square metre times steradian (m^2^·sr).
+  - content: This entry was numbered 845-01-33 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geometric extent
+  - type: symbol
+    designation: "*stem:[G]*"
+    international: true
+  domain: section-845-21
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 98825bf2-691d-5cf7-bb62-6145190a71f2

@@ -1,0 +1,37 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: effective radiant exposure with the spectral radiant exposure, stem:[H~λ~],
+      spectrally weighted with the blue light hazard spectral weighting function,
+      stem:[B](stem:[λ])
+  examples: []
+  id: 845-26-059
+  notes:
+  - content: The wavelength range for the blue light hazard radiant exposure is specified
+      in ICNIRP-recommendations as stem:[λ] = 300 nm to stem:[λ] = 700 nm.
+  - content: This definition is based on the assumption that an action spectrum is
+      adopted for the actinic effect considered, and that its maximum value is 1.
+  - content: It is essential to specify which actinic action spectrum is used, as
+      the unit is the same for any action spectrum.
+  - content: The blue light hazard radiant exposure is expressed in joule per square
+      metre (J·m^−2^).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: blue light hazard radiant exposure
+  - type: symbol
+    designation: stem:[H]~B~
+    international: true
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 3d41c464-402c-55f9-b07d-cf87dc442c8a

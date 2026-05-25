@@ -1,0 +1,56 @@
+---
+data:
+  dates:
+  - date: '2001-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2001-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: rapport de la valeur efficace du résidu harmonique à la valeur efficace
+      de la composante fondamentale ou de la composante fondamentale de référence
+      d'une grandeur alternative
+  examples: []
+  id: 551-20-13
+  notes:
+  - content: Le rapport harmonique total THD dépend du choix de la composante fondamentale.
+      En cas d'ambiguïté dans le contexte on indique de quelle composante il s'agit.
+  - content: Le rapport harmonique total THD peut faire l'objet d'une approximation
+      à un certain rang. Les conditions de l'approximation sont alors indiquées.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: rapport harmonique total
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: taux de distorsion harmonique total
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    designation: THD
+  domain: area-551
+  language_code: fra
+  entry_status: valid
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2001-07-01T00:00:00+00:00'
+id: 56227a61-d5d3-520c-8eaa-40b5d036f2d5

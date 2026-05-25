@@ -1,0 +1,78 @@
+---
+data:
+  definition:
+  - content: 'excès de la {{quantité d''information, urn:iec:std:iec:60050-171-07-14}}
+      stem:[I](stem:[x]) apportée par la réalisation d''un événement stem:[x] sur
+      la quantité d''information conditionnelle stem:[I (x | y)] liée à cette réalisation
+      lorsque l''on connaît la réalisation d''un autre événement stem:[y] stem:[T
+      ( x , y ) = I ( x ) - I ( x | y )]Note 1 à l’article: Les deux événements sont
+      en particulier un message émis par la source de messages d''un canal et un message
+      reçu par le collecteur de messages du canal. Note 2 à l’article: La transinformation
+      peut aussi être exprimée par: stem:[T ( x , y ) = I (x) + I (y) - I (x , y)]
+      où stem:[I](stem:[y]) est la quantité d''information de l''événement stem:[y].
+      Il en résulte qu''elle est symétrique en stem:[x] et stem:[y]: stem:[T ( x ,
+      y ) = T ( y , x )].'
+  examples: []
+  id: 171-07-26
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-35
+      original: IEC 80000-13:2008, 13-35, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+    status: modified
+    type: authoritative
+    modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+      aux règles de l’IEV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transinformation
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: quantité d'information mutuelle
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: admitted
+    designation: information mutuelle
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-171
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 94b7d990-cb6a-544b-b456-ae9e1777ba85
+classification: preferred

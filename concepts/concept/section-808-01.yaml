@@ -1,0 +1,30 @@
+---
+data:
+  identifier: section-808-01
+  localized_concepts:
+    eng: 1980dbd3-163d-5920-8854-d163dc3c0fb2
+  domains:
+  - concept_id: area-808
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-808-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-808
+  type: broader
+  ref:
+    source: IEV
+    id: area-808
+- content: 808-01-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 808-01-01
+- content: 808-01-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 808-01-02
+schema_version: '3'
+id: section-808-01

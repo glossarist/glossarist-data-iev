@@ -1,0 +1,35 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of absorbed radiant flux, stem:[Φ]~a~, and incident radiant
+      flux, stem:[Φ]~m~stem:[alpha = frac(Phi_("a"))(Phi_("m"))]
+  examples: []
+  id: 845-24-082
+  notes:
+  - content: The absorptance is also defined spectrally in terms of wavelength, in
+      which case, "spectral" is added before the quantity name.
+  - content: Due to energy conservation, stem:[α] + stem:[ρ] + stem:[τ] = 1 except
+      when {{polarized radiation, urn:iec:std:iec:60050-845-21-017}} is observed,
+      where stem:[ρ] is reflectance and stem:[τ] is transmittance.
+  - content: The absorptance has unit one.
+  - content: This entry was numbered 845-04-75 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: absorptance
+  - type: symbol
+    designation: stem:[α]
+    international: true
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 8c35cf60-645a-5179-a2df-14403ae74367

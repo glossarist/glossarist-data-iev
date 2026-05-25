@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 714-17-01
+  localized_concepts:
+    ara: 2241384c-a2b2-5af0-be66-31dda483856a
+    deu: 5d213595-f653-52d9-99a5-7b1e5b003868
+    eng: b4d6753f-e239-5481-b11c-aba89e5ee287
+    spa: 42a5b5ba-1de8-5f01-a11e-2e2fa343c002
+    fra: a776e8f7-f5d6-532c-84e8-99894baf9b4d
+    ita: 15e341dd-ed33-575a-bc0b-b54a3aeee202
+    jpn: c94331ce-cc84-5106-9d45-2cad06070ec8
+    kor: c7b4300b-56b7-5838-882e-7da3d8ac7330
+    pol: 9779e6d9-53fb-5475-8c60-5aa0346c67c4
+    por: 6f37174c-defd-5036-9a44-fb59550d0349
+    swe: 5e0e4733-9e37-5fc8-a669-b25cd60ae888
+    zho: ecd2a9ae-31f1-592b-beae-c1af4ee5d978
+  domains:
+  - concept_id: area-714
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-714-17
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-714-17
+  type: broader
+  ref:
+    source: IEV
+    id: section-714-17
+- type: supersedes
+  ref:
+    source: IEV
+    id: 714-17-01
+    version: 1992-04
+status: valid
+schema_version: '3'
+id: 714-17-01

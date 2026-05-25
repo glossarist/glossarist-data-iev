@@ -1,0 +1,48 @@
+---
+data:
+  dates:
+  - date: '2019-03-29T00:00:00+00:00'
+    type: accepted
+  - date: '2019-03-29T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: number of specified {{data elements, urn:iec:std:iec:60050-171-02-01}}
+      that are or can be contained in a given storage device or that are or can be
+      transferred in a given time interval
+  examples: []
+  id: 171-02-09
+  notes:
+  - content: The specified data elements are, for example, {{binary digits, urn:iec:std:iec:60050-171-02-10}},
+      {{bytes, urn:iec:std:iec:60050-171-02-12}}, {{words, urn:iec:std:iec:60050-171-02-27}}
+      of a given number of bits, {{blocks, urn:iec:std:iec:60050-721-03-11}}.
+  - content: For {{storage devices, urn:iec:std:iec:60050-171-04-14}}, the terms "storage
+      capacity" and "storage size" (see {{IEV 171-04-16, urn:iec:std:iec:60050-171-04-16}})
+      are used with the same meaning. For {{registers, urn:iec:std:iec:60050-171-04-19}},
+      the term "register length" is used with the same meaning.
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-9
+      original: IEC 80000-13:2008, 13-9, modified – Addition of information useful
+        for the context of the IEV, and adaptation to the IEV rules
+    status: modified
+    type: authoritative
+    modification: Addition of information useful for the context of the IEV, and adaptation
+      to the IEV rules
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: amount of data
+  - type: symbol
+    designation: stem:[M]
+    international: true
+  domain: section-171-02
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-03-29T00:00:00+00:00'
+  review_decision_date: '2019-03-29T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-03-29T00:00:00+00:00'
+id: 2e1963e4-aa48-5a0a-857f-32ca1f252362

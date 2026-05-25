@@ -1,0 +1,30 @@
+---
+data:
+  identifier: 903-01-15
+  localized_concepts:
+    deu: 592a83a1-32c3-5828-8c57-fa1e92f0d242
+    eng: 3dfacddc-ec4a-53cd-8a79-19646453fef7
+    spa: 9aae928f-9067-5b0b-aacf-d6b8021375e2
+    fra: 2aa2e510-d334-5650-be2b-ac0b3bf687a5
+    jpn: 25245506-d05a-5dad-bb21-1822624e9708
+    kor: e432422d-1ca0-50b9-b6d5-8ae69fa10231
+    pol: 5c22e2ac-bfae-5746-a20a-94e1850fc411
+    por: cea85f9d-086f-5ae3-a8fd-7e0289471f9b
+    srp: a1f47ed8-2b94-55a3-ac52-8298bcff0fc7
+    zho: 800aeab3-f25c-5abc-bce7-4fad93e024cb
+  domains:
+  - concept_id: area-903
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-903-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-903-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-903-01
+status: valid
+schema_version: '3'
+id: 903-01-15

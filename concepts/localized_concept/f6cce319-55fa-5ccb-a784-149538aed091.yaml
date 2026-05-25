@@ -1,0 +1,46 @@
+---
+data:
+  definition:
+  - content: 'moyenne par {{caractère, urn:iec:std:iec:60050-702-05-10}} de la {{transinformation
+      moyenne, urn:iec:std:iec:60050-171-07-27}}, étendue à tous les messages issus
+      d''une {{source de messages stationnaire, urn:iec:std:iec:60050-171-07-09}}
+      stem:[T^(prime) = underset(m vec oo)(lim) frac(T_(m))(m)] où stem:[T~m~] est
+      la transinformation moyenne de toutes les paires de suites correspondantes émises
+      et reçues, de stem:[m] caractères chacuneNote 1 à l’article: La transinformation
+      moyenne par caractère peut être exprimée à l''aide d''une unité telle que le
+      shannon par caractère.'
+  examples: []
+  id: 171-07-30
+  notes: []
+  sources:
+  - origin:
+      ref: IEC 80000-13:2008
+      locality:
+        type: clause
+        reference_from: 13-39
+      original: IEC 80000-13:2008, 13-39, modifié – Ajout d’informations utiles pour
+        le contexte de l’IEV, et adaptation aux règles de l’IEV
+    status: modified
+    type: authoritative
+    modification: Ajout d’informations utiles pour le contexte de l’IEV, et adaptation
+      aux règles de l’IEV
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: transinformation moyenne par caractère
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-171
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: f6cce319-55fa-5ccb-a784-149538aed091

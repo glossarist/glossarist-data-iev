@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '1992-03-01T00:00:00+00:00'
+    type: accepted
+  - date: '1992-03-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: the distribution as a function of frequency of the power per unit bandwidth
+      of the spectral components of a signal or a noise having a continuous spectrum
+      and a finite mean power
+  examples: []
+  id: 702-04-50
+  notes:
+  - content: The instantaneous power of a signal or a noise is by convention equal
+      to the square of its instantaneous value. This square is proportional to a physical
+      power if the characteristic quantity is a field quantity.
+  - content: The power spectral density is the Fourier transform of the autocorrelation
+      function of the signal or noise. The autocorrelation function of a deterministic
+      signal exists if the signal has a finite mean power. The autocorrelation function
+      of a random signal or random noise exists if it is represented by a second order
+      random stationary function.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: power spectral density
+  - type: expression
+    designation: power spectrum density
+  domain: section-702-04
+  language_code: eng
+  entry_status: valid
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '1992-03-01T00:00:00+00:00'
+id: f287f554-d668-581d-95dc-2ff8e02b860c

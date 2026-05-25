@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "three-dimensional, approximately uniform colour space produced by plotting
+      in rectangular coordinates stem:[U]*, stem:[V]*, stem:[W]*, quantities defined
+      by the equations:\r\n*\n\nW\r\n*\n\n=25\r\nY\n\n1/3\n\n−17\n\nU\r\n*\n\n=13\r\nW\r\n*\n\n(u−\r\nu\r\nn\n\n)\n\nV\r\n*\n\n=13\r\nW\r\n*\n\n(v−\r\nv\r\nn\n\n)\n\nMathType@MTEF@5@5@+=\n\nfeaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn\n\nhiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr\n\n4rNCHbGeaGqipu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq=Jc9\n\nvqaqpepm0xbba9pwe9Q8fs0=yqaqpepae9pg0FirpepeKkFr0xfr=x\n\nfr=xb9adbaqaaeGacaGaaiaabmqaamaabaabaaGcbaqbaeaabmqaaa\n\nqaaabaaaaaaaaapeGaam4vamaaCaaaleqabaGaaiOkaaaakiabg2da\n\n9iaaikdacaaI1aGaamywamaaCaaaleqabaGaaGymaiaac+cacaaIZa\n\naaaOGaeyOeI0IaaGymaiaaiEdaa8aabaWdbiaadwfapaWaaWbaaSqa\n\nbeaapeGaaiOkaaaakiabg2da9iaaigdacaaIZaGaam4vamaaCaaale\n\nqabaGaaiOkaaaak8aacaGGOaWdbiaadwhacqGHsislcaWG1bWdamaa\n\nBaaaleaapeGaaeOBaaWdaeqaaOGaaiykaaqaa8qacaWGwbWdamaaCa\n\naaleqabaWdbiaacQcaaaGccqGH9aqpcaaIXaGaaG4maiaadEfadaah\n\naaWcbeqaaiaacQcaaaGcpaGaaiika8qacaWG2bGaeyOeI0IaamODa8\n\naadaWgaaWcbaWdbiaab6gaa8aabeaakiaacMcaaaaaaa@57B7@"
+  examples: []
+  id: 845-23-078
+  notes:
+  - content: "stem:[Y], stem:[u], stem:[v] describe the colour stimulus considered,
+      and stem:[u]~n~, stem:[v]~n~ describe a specified white achromatic stimulus,
+      where stem:[u = u^(prime)], stem:[v = frac(2)(3) v^(prime)]; stem:[u_(\"n\")^(=)
+      u_(\"n\")^(')], stem:[v_(\"n\") = frac(2)(3) v_(\"n\")^(')].\r\nSee also \"{{CIE
+      1976 uniform-chromaticity-scale diagram, urn:iec:std:iec:60050-845-23-073}}\"."
+  - content: "The difference between two stimuli, Δstem:[E]*, is defined as the Euclidean
+      distance between the points representing them in stem:[U]*stem:[V]*stem:[W]*
+      space and calculated as:\r\n*\n\nΔ\r\nE\n\n*\n\n=\n\n&lsqb;\n\n(\n\nΔ\r\nU\n\n*\n\n)\r\n2\n\n+\n\n(\n\nΔ\r\nV\n\n*\n\n)\r\n2\n\n+\n\n(\n\nΔ\r\nW\n\n*\n\n)\r\n2\n\n&rsqb;\n\n1/2\n\n."
+  - content: The CIE 1964 uniform colour space is obsolete (except that it is still
+      used in the calculation of the colour rendering index). The currently recommended
+      object colour spaces are the {{CIE 1976 L*a*b* colour space, urn:iec:std:iec:60050-845-23-076}}
+      and the {{CIE 1976 L*u*v* colour space, urn:iec:std:iec:60050-845-23-074}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CIE 1964 uniform colour space
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: a6f648ca-ec90-5620-a4f3-9ce5ccfe70e3

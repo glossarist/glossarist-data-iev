@@ -1,0 +1,55 @@
+---
+data:
+  dates:
+  - date: '2001-07-01T00:00:00+00:00'
+    type: accepted
+  - date: '2001-07-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: paramètre, associé à un résultat de mesure, qui caractérise la dispersion
+      des valeurs qui pourraient être raisonnablement attribuées au mesurande
+  examples: []
+  id: 311-01-02
+  notes:
+  - content: Ce terme est utilisé dans l’approche "incertitude".
+  - content: Le paramètre peut être, par exemple, un écart-type (ou un multiple de
+      celui-ci) ou la demi-largeur d’un intervalle de niveau de confiance déterminé.
+      Diverses manières d'obtenir l'incertitude sont définies dans le GUM.
+  - content: L’incertitude de mesure comprend, en général, plusieurs composantes.
+      Certaines de ces composantes peuvent être évaluées à partir de la distribution
+      statistique des résultats de séries de mesures et peuvent être caractérisées
+      par des écarts-types expérimentaux. Les autres composantes, qui peuvent aussi
+      être caractérisées par les écarts-types, sont évaluées en admettant des distributions
+      de probabilité, d’après l’expérience acquise ou d’après d’autres informations.
+  sources:
+  - origin:
+      ref: JCGM VIM
+      locality:
+        type: clause
+        reference_from: '3.9'
+      original: VIM 3.9
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: incertitude (de mesure)
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-311-01
+  language_code: fra
+  entry_status: valid
+  review_date: '2001-07-01T00:00:00+00:00'
+  review_decision_date: '2001-07-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2001-07-01T00:00:00+00:00'
+id: f54cbc71-53a0-5598-8b97-e374cc9b3768

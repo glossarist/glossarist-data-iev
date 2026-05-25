@@ -1,0 +1,36 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: linear time-invariant transfer element created by the additive combination
+      of a proportional element and a derivative element
+  examples: []
+  id: 351-50-16
+  notes:
+  - content: "The transfer function of an ideal proportional plus derivative element
+      is given bystem:[frac(V (s))(U (s)) = K_(\"Ρ\") * (1 + T_(\"d\") * s)]where<table>\r\n<tr>\n<td>\nstem:[T]~d~\n</td>\n<td>is
+      the rate time;</td>\n</tr>\r\n<tr>\n<td>stem:[s]</td>\n<td>is the complex variable
+      of the Laplace transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[U](stem:[s])</td>\n<td>is
+      the input transform;</td>\n</tr>\r\n<tr>\n<td>\nstem:[V](stem:[s])</td>\n<td>is
+      the output transform.</td>\n</tr>\r\n</table>"
+  - content: This entry was numbered 351-28-27 in IEC 60050-351:2006.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: proportional plus derivative element
+  - type: expression
+    normative_status: preferred
+    designation: PD element
+  domain: area-351
+  language_code: eng
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: bc93f048-cc4d-5271-a96b-aaa309e46133
+classification: preferred

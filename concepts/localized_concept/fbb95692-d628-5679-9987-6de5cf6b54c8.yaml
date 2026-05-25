@@ -1,0 +1,37 @@
+---
+data:
+  definition:
+  - content: 'valeur positive unique, si elle existe, associée à un domaine tridimensionnel,
+      avec les propriétés suivantes: * pour un parallélépipède rectangle, la valeur
+      est le produit des longueurs des côtés, * pour une union disjointe de domaines,
+      la valeur est la somme des valeurs qui leur sont associées, * pour des domaines
+      plus compliqués, la valeur peut être approchée par des sommes et donnée par
+      une intégrale'
+  examples: []
+  id: 102-04-40
+  notes:
+  - content: Le volume stem:[V] du domaine tridimensionnel D est déterminé par l'intégrale
+      de volume stem:["P{iiint}"_("D") rm(d) V], où dstem:[V] est l'élément de volume
+      ({{IEV 102-05-10, urn:iec:std:iec:60050-102-05-10}}).
+  - content: Dans l'espace géométrique usuel, le volume est une grandeur ayant la
+      dimension du cube d'une longueur.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: volume
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-04
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: fbb95692-d628-5679-9987-6de5cf6b54c8

@@ -1,0 +1,71 @@
+---
+data:
+  dates:
+  - date: '2013-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2013-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "distribution, définie comme la limite d'une fonction positive, égale
+      à zéro en dehors d’un petit intervalle contenant l’origine, dont l’intégrale
+      reste égale à un lorsque cet intervalle tend vers zéro\r\nstem:[delta ( t )
+      = { [[0], [oo], [0]] [[\" \" \"pour\" \" \" t lt 0], [\" \" \"pour\" \" \" t
+      = 0], [\" \" \"pour\" \" \" t gt 0]] \" \" \"avec\" int_(- oo)^(+ oo) delta
+      ( t ) \" \" rm(d) t = 1]\r\nVOIR: Figure 4a) et CEI 60027-6.Note 1 à l’article:
+      Une distribution assigne un nombre à une fonction stem:[f](stem:[t]), suffisamment
+      lisse pour stem:[t] = stem:[t]~0~ [voir CEI 60050-103:2009, 103-03-05].L’impulsion
+      de Dirac effectue ceci conformément à l’équation suivantestem:[f (t_(0)) = int_(-
+      oo)^(oo) delta (t - t_(0)) f (t) \"d\" t].Note 2 à l’article: Une forme quelconque
+      avec la zone 1 peut être utilisée pour la définition de δ(t), ex.: une impulsion
+      rectangulaire avec largeur stem:[τ] et hauteur stem:[τ]^–1^, ou une impulsion
+      triangulaire, comme indiqué dans la Figure 4a), ainsi qu’une fonction gaussienne.stem:[frac(1)(tau
+      * sqrt(pi)) * e^(- \" \" frac(t^(2))(tau^(2)))].Note 3 à l’article: Les formes
+      mentionnées dans la Note 2 à l’article avec stem:[τ] plus petit que la constante
+      de temps la plus petite en fonctionnement dans le système étudié peuvent être
+      utilisées pour une approximation technique de l’impulsion de Dirac."
+  examples: []
+  id: 351-45-20
+  notes:
+  - content: Dans la technologie de commande, la fonction de Dirac est principalement
+      importante pour la définition des impulsions et est exclusivement utilisée comme
+      fonction de temps. Par conséquent, le terme d’impulsion de Dirac est utilisé
+      et la définition est adaptée en conséquence.image::/assets/images/parts/351/351-fig4.png[Figure
+      4 - Unit test functions; Fonctions du test unités - ]
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: impulsion unité
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: impulsion de Dirac
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-351-45
+  language_code: fra
+  entry_status: valid
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2013-11-01T00:00:00+00:00'
+id: 1637b5ed-8a6f-5130-b8c1-11763d4cb622
+classification: preferred

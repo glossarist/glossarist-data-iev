@@ -1,0 +1,38 @@
+---
+data:
+  identifier: 726-04-18
+  localized_concepts:
+    ara: a521a78a-7a5a-5801-85e6-b202054d6bf3
+    deu: 689eedbd-dff6-5e07-b532-5feb2d066ef4
+    eng: be82eb83-8fe4-5817-8e1a-e7156e7b46cd
+    spa: db5f93a0-3962-5b4a-8439-80f035c43bbb
+    fin: e81b8884-be75-5d59-b378-b1ffa031fa6a
+    fra: 741bdb75-f469-579c-9178-094a02dbd31c
+    ita: 82af467c-f6f0-55cd-8f44-f351403760a9
+    jpn: 696943e2-e85a-58bc-ba55-e042f6d399e2
+    kor: ce4b8d38-697d-5377-ae0e-5fafec843054
+    pol: 7d59c626-3fef-5591-8535-9d3e14dd99b1
+    por: c08e1a3d-db47-5e41-b841-0a0d73cb43c9
+    swe: 4334e1c8-d6bd-52c3-9842-6fa2c74e4514
+    zho: e0d4b8fb-5b73-5350-882a-51d6165e340f
+  domains:
+  - concept_id: area-726
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-726-04
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-726-04
+  type: broader
+  ref:
+    source: IEV
+    id: section-726-04
+- type: supersedes
+  ref:
+    source: IEV
+    id: 726-04-18
+    version: '1982'
+status: valid
+schema_version: '3'
+id: 726-04-18

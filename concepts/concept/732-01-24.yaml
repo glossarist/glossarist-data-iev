@@ -1,0 +1,33 @@
+---
+data:
+  identifier: 732-01-24
+  localized_concepts:
+    ara: a7162c0b-b1dc-54c1-9335-623a5b9d0018
+    deu: 6e15406b-8914-5366-91f1-d61a568ad9ba
+    eng: 62240dc6-abc8-5deb-a34d-e117bc71cb58
+    spa: 80d49016-b4c6-5af5-bc96-15daa95bd048
+    fin: 46dbee6c-6ec3-54cb-9fd0-2d9598b5793e
+    fra: 9369db5a-3561-5e91-8745-263df675ef21
+    jpn: '07561580-b2fe-539c-9edd-add3f88cad5d'
+    kor: f018b24b-13af-5bff-9486-88676323008b
+    pol: 1910bf10-abb9-5a02-a222-ea6462f4faa3
+    por: 5bbf1215-d15c-547d-92c9-4ccd3c07f867
+    srp: bc3cf27a-5f2b-5afa-85ba-c2c297c530dc
+    swe: b9e85b94-4758-5bb0-8c2c-eced850d0357
+    zho: 6022d383-8786-5d76-b684-432c0f3af672
+  domains:
+  - concept_id: area-732
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-732-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-732-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-732-01
+status: valid
+schema_version: '3'
+id: 732-01-24

@@ -1,0 +1,45 @@
+---
+data:
+  dates:
+  - date: '2019-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: qualifies or supplements a {{quantity name, urn:iec:std:iec:60050-112-01-02}}
+      to indicate the quotient of that quantity by the wavelength or the frequency
+  examples: []
+  id: 112-03-16
+  notes:
+  - content: 'The wavelength is used mainly in optics, and the frequency in radioelectricity,
+      acoustics, and signal theory. Examples: {{power spectral density, urn:iec:std:iec:60050-103-09-05}},
+      {{spectral irradiance, urn:iec:std:iec:60050-731-01-30}}.'
+  - content: The adjective “spectral” is also used to designate quantities which are
+      functions of wavelength or frequency, but which are not spectral concentrations,
+      for example spectral emissivity. See {{IEV 845-01-16, urn:iec:std:iec:60050-845-01-16}}.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spectral
+    grammar_info:
+    - participle: false
+      adj: true
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: spectral density of ...
+  - type: expression
+    normative_status: preferred
+    designation: spectral concentration of ...
+  domain: section-112-03
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-01-01T00:00:00+00:00'
+  review_decision_date: '2019-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-01-01T00:00:00+00:00'
+id: 399318c5-54bc-592f-b80c-a49507b4bd0e
+classification: preferred

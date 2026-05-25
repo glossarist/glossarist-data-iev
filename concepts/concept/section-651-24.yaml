@@ -1,0 +1,35 @@
+---
+data:
+  identifier: section-651-24
+  localized_concepts:
+    eng: 0bbbae75-6037-5622-93a1-1298c1b6909b
+  domains:
+  - concept_id: area-651
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-651-24
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-651
+  type: broader
+  ref:
+    source: IEV
+    id: area-651
+- content: 651-24-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 651-24-01
+- content: 651-24-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 651-24-02
+- content: 651-24-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 651-24-03
+schema_version: '3'
+id: section-651-24

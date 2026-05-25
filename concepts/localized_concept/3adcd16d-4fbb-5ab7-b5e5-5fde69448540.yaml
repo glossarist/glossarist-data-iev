@@ -1,0 +1,58 @@
+---
+data:
+  dates:
+  - date: '2011-04-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-04-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: grandeur sans dimension caractérisant le transfert de chaleur par convection
+      forcée dans un fluide, définie par stem:[S t = frac(K)(rho " " v " " " " c_(p))],
+      où stem:[K] est le coefficient de transmission thermique, stem:[ρ] est la masse
+      volumique, stem:[v] est la vitesse du fluide et stem:[c]~stem:[p]~ est la capacité
+      thermique massique à pression constante,
+  examples: []
+  id: 113-04-44
+  notes:
+  - content: 'Le nombre de Stanton est le rapport du nombre de Nusselt stem:[Nu] au
+      nombre de Péclet stem:[Pe], soit: stem:[St] = stem:[Nu]/stem:[Pe]. Il est combiné
+      avec le nombre de Prandtl dans le facteur de transfert de chaleur ({{113-04-55,
+      urn:iec:std:iec:60050-113-04-55}}).'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nombre de Stanton
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: nombre de Margoulis
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-113-04
+  language_code: fra
+  entry_status: valid
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-04-01T00:00:00+00:00'
+id: 3adcd16d-4fbb-5ab7-b5e5-5fde69448540
+classification: preferred

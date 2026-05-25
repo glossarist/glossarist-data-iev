@@ -1,0 +1,33 @@
+---
+data:
+  definition:
+  - content: "{{protection contre les erreurs, urn:iec:std:iec:60050-702-07-40}} destinée
+      à corriger certains types de messages reconnus comme erronés"
+  examples: []
+  id: 702-07-42
+  notes:
+  - content: La correction d'erreurs utilise soit un {{code correcteur d'erreurs,
+      urn:iec:std:iec:60050-702-05-20}}, soit un {{code détecteur d'erreurs, urn:iec:std:iec:60050-702-05-19}},
+      soit un {{collationnement automatique, urn:iec:std:iec:60050-721-08-18}} avec,
+      dans ces deux derniers cas, répétition automatique des signaux reconnus comme
+      erronés.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: correction d'erreurs
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-702-07
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: d646f737-d89b-5562-a709-9bc2eb3172c8

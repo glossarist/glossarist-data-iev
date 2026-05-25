@@ -1,0 +1,38 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "limit, if it exists, of the quotient of the mean number of failures
+      of a repairable item within time interval (stem:[t], stem:[t] + Δstem:[t]),
+      by Δstem:[t], when Δstem:[t] tends to zero \r\nstem:[z ( t ) = underset(\"Delta\"
+      t vec 0 +)(\"lim\") frac(E &amp;lsqb; N ( t + \"Delta\" t ) - N ( t ) &amp;rsqb;)(\"Delta\"
+      t)]\r\nwhere stem:[N](stem:[t]) is the number of failures in the time interval
+      (0, stem:[t]), where stem:[E] denotes the expectation."
+  examples: []
+  id: 192-05-08
+  notes:
+  - content: Other terms used for failure intensity are “rate of occurrence of failures”,
+      and “failure frequency”.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: instantaneous failure intensity
+  - type: expression
+    normative_status: preferred
+    designation: failure intensity
+  - type: symbol
+    designation: stem:[z](stem:[t])
+    international: true
+  domain: section-192-05
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: 8ae3cf10-2ceb-547c-9c6e-ceb23c325467
+classification: preferred

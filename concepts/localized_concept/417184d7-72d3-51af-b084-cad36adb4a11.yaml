@@ -1,0 +1,47 @@
+---
+data:
+  dates:
+  - date: '2010-06-01T00:00:00+00:00'
+    type: accepted
+  - date: '2010-06-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: standardized character string used for locating and accessing an Internet
+      resource
+  examples: []
+  id: 732-07-07
+  notes:
+  - content: "The general form of an URL (see RFC 1738) is as follows:\r\n<scheme>://<user>:<password>@<host>:<port>/<url-path>\r\nIn
+      some cases, certain parts may be omitted.\r\n<scheme> is the access protocol,
+      e.g. http, ftp, or news.\r\n<user>, <password> and <port> are optional, and
+      the separators “:” (colon) and “@” are omitted when unnecessary.\r\n<host> is
+      an IP address or a fully qualified host name, and is omitted for local Internet
+      resources.\r\n<port> is an address for protocols on the TCP layer and has a
+      default which depends on the protocol.\r\n<url-path> indicates the access to
+      a resource inside the host. If it is omitted, a default resource is accessed.\r\nExamples
+      of URLs identifying a Web site, a file, or a service:\r\n“http://www.iec.ch”
+      is the URL of the site of the  International Electrotechnical Commission. In
+      this URL, “ch” is the top-level domain name. It should be noted that besides
+      <scheme> this URL contains only the part <host>.\r\n“http://www.iec.ch/about/mission-e.htm”
+      is the URL of a page giving in English the IEC mission and objectives.  This
+      file is accessible by the HTTP protocol.\r\n“news:comp.os.unix” is the URL of
+      a forum whose name is “comp.os.unix” and “news:XYZ123@news.iso.org” might be
+      the URL of an article, the identifier of which is “XYZ123”, stored on the host
+      “news.iso.org”."
+  - content: URL is an acronym of the full term "uniform resource locator".
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: uniform resource locator
+  - type: expression
+    normative_status: preferred
+    designation: URL
+  domain: section-732-07
+  language_code: eng
+  entry_status: valid
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2010-06-01T00:00:00+00:00'
+id: 417184d7-72d3-51af-b084-cad36adb4a11
+classification: preferred

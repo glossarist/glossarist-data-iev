@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 721-18-43
+  localized_concepts:
+    ara: 1baba62d-d956-51d1-a705-a114843c98cb
+    deu: 6fd0e772-bb4b-55dc-b055-fd5aaf6e5b05
+    eng: 8484637a-dd32-564f-ae05-be258508e2f9
+    spa: 476865db-789a-54ab-ac7b-0531e12ffb36
+    fra: baa65201-ef75-59b5-868f-0311963de022
+    ita: b616bca0-4409-5f79-95f7-ee19f5f15ba8
+    jpn: a235e5fb-8033-5580-a827-21b9d1ca913a
+    kor: d3d02be7-7a10-5bcc-b973-1bb4642db330
+    pol: 955f687f-7ac8-51e6-bdcd-bbfcb141186c
+    por: 87f59db2-57c2-5823-84d1-0d0ff16b59a4
+    swe: 77b691bf-0b91-5c71-acad-2887d6e445d2
+  domains:
+  - concept_id: area-721
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-721-18
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-721-18
+  type: broader
+  ref:
+    source: IEV
+    id: section-721-18
+status: valid
+schema_version: '3'
+id: 721-18-43

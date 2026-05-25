@@ -1,0 +1,37 @@
+---
+data:
+  identifier: 723-01-35
+  localized_concepts:
+    ara: 6dce9e64-0b02-5d30-9ddd-a425d1685ab7
+    deu: 643764a4-cc7e-5df2-844d-a1eef498f43e
+    eng: c685bbe9-9a4f-5401-a8a6-00231f298950
+    spa: dd912279-3345-5a4f-bb0f-4a378cb93d8d
+    fra: 3cc399c2-6b3f-5fd3-8c79-ea6e08cef0a8
+    ita: 13fcf2db-a05f-5675-ad87-792f5381c6af
+    jpn: 60370a22-1755-59a3-9cf1-d559abc895df
+    kor: cc24415e-f9a1-5038-85e5-009db3556211
+    pol: 455d1067-2cc8-59e4-a301-2a76ba8f4c7d
+    por: '028eee26-4fe1-52fc-b1b5-5ac5b2de20c2'
+    swe: e4ebde8e-1791-5334-b03a-cc987b98ffe6
+    zho: f6c6fef5-4172-56bc-9f27-1c335ffc88e9
+  domains:
+  - concept_id: area-723
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-723-01
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-723-01
+  type: broader
+  ref:
+    source: IEV
+    id: section-723-01
+- type: supersedes
+  ref:
+    source: IEV
+    id: 723-01-35
+    version: 1997-03
+status: valid
+schema_version: '3'
+id: 723-01-35

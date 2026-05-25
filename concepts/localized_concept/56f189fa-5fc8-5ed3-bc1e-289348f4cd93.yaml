@@ -1,0 +1,31 @@
+---
+data:
+  dates:
+  - date: '2015-02-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-02-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: duration of maintenance, including active maintenance time, and technical
+      and logistic delays incurred, for a given maintenance action image::/assets/images/parts/192/60050-192-F1en.png[Figure
+      1 - Times related to operation and maintenance]image::/assets/images/parts/192/60050-192-F2en.png[Figure
+      2 - Maintenance times]
+  examples: []
+  id: 192-07-02
+  notes:
+  - content: In some cases, maintenance may be designed to be carried out while the
+      item is functioning.
+  - content: Maintenance time excludes fault detection time ({{192-07-11, urn:iec:std:iec:60050-192-07-11}})
+      and administrative delay ({{192-07-12, urn:iec:std:iec:60050-192-07-12}}).
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: maintenance time
+  domain: section-192-07
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-02-01T00:00:00+00:00'
+id: 56f189fa-5fc8-5ed3-bc1e-289348f4cd93

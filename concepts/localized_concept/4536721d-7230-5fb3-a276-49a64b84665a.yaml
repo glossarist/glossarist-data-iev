@@ -1,0 +1,90 @@
+---
+data:
+  dates:
+  - date: '2019-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: expression of the dependence of a quantity on the {{base quantities,
+      urn:iec:std:iec:60050-112-01-08}} of a system of quantities as a product of
+      powers of factors corresponding to the base quantities, omitting any numerical
+      factor
+  examples: []
+  id: 112-01-11
+  notes:
+  - content: A power of a factor is the factor raised to an exponent. Each factor
+      is the dimension of a base quantity.
+  - content: The conventional symbolic representation of the dimension of a base quantity
+      is a single upper case letter in roman (upright) sans-serif type. The conventional
+      symbolic representation of the dimension of a derived quantity is the product
+      of powers of the dimensions of the base quantities according to the definition
+      of the derived quantity. The dimension of a quantity stem:[Q] is denoted by
+      dim stem:[Q].
+  - content: In deriving the dimension of a quantity, no account is taken of its scalar,
+      vector or tensor character.
+  - content: "In a given system of quantities,\r\n* quantities of the same kind (see
+      IEV 112-01-04) have the same dimension,* quantities of different dimensions
+      are always of different kinds, and* quantities having the same dimension are
+      not necessarily of the same kind. For example, in the International System of
+      Quantities (ISQ), pressure and energy density (volumic energy) have the same
+      dimension L–1MT–2. See also note 5."
+  - content: "In the International System of Quantities (ISQ), the symbols representing
+      the dimensions of the base quantities are:\n\n<table cellpadding=\"2\" border=\"solid\">\r\n<tbody>\r\n<tr>\r\n<td
+      width=\"198\">\n\nBase quantity\r\n</td>\r\n<td width=\"159\">\n\nSymbol for
+      dimension\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\nlength\r\n</td>\r\n<td
+      width=\"159\">\n\n`L`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\nmass\r\n</td>\r\n<td
+      width=\"159\">\n\n`M`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\ntime\r\n</td>\r\n<td
+      width=\"159\">\n\n`T`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\n\nelectric
+      current\r\n</td>\r\n<td width=\"159\">\n\n`I`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      width=\"198\">\n\nthermodynamic temperature\r\n</td>\r\n<td width=\"159\">\n\n`Θ`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      width=\"198\">\n\namount of substance\r\n</td>\r\n<td width=\"159\">\n\n`N`\r\n</td>\r\n</tr>\r\n<tr>\r\n<td
+      width=\"198\">\n\nluminous intensity\r\n</td>\r\n<td width=\"159\">\n\n`J`\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nThus,
+      the dimension of a quantity stem:[Q] is denoted by dim stem:[Q] = `L`stem:[^α^]`M`stem:[^β^]`T`stem:[^γ^]`I`stem:[^δ^]`Θ`stem:[^ε^]`N`stem:[^ζ^]`J`stem:[^η^],
+      where the exponents, named dimensional exponents, are positive, negative, or
+      zero. Factors with exponent 0 are usually omitted. When all exponents are zero,
+      the symbol `1`, printed in sans-serif type, is used to represent the dimension.
+      Examples are:\r\n* The dimension of force is dim F = LMT–2.* Mass concentration
+      of a given component and mass density (volumic mass) have the same dimension
+      ML–3.* Electric current and scalar magnetic potential have the same dimension
+      I1 = I, although they are not quantities of the same kind."
+  - content: "An exponent can be fractional.\r\nThe period stem:[T] of a pendulum
+      of length stem:[l] at a place with the local acceleration of free fall stem:[g]
+      is:\r\nstem:[T = 2 pi sqrt(frac(1)(g))] or stem:[T = C ( g ) sqrt(l)] where\n\nstem:[C
+      ( g ) = frac(2 pi)(sqrt(g))]\r\nHence dim stem:[C](stem:[g]) = `T`· `L`^−1/2^."
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 99:2007
+      locality:
+        type: clause
+        reference_from: '1.7'
+      original: ISO/IEC Guide 99:2007, 1.7, modified – "dimension of a quantity" is
+        specified as the preferred term and "quantity dimension" as a preferred synonym,
+        addition of a cross-reference in the definition and note 4, transfer of examples
+        1 and 2 to Note 5 to entry and addition of a new example, transfer of example
+        3 to a new Note 6 to entry"
+    status: modified
+    type: authoritative
+    modification: '"dimension of a quantity" is specified as the preferred term and
+      "quantity dimension" as a preferred synonym, addition of a cross-reference in
+      the definition and note 4, transfer of examples 1 and 2 to Note 5 to entry and
+      addition of a new example, transfer of example 3 to a new Note 6 to entry"'
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: dimension of a quantity
+  - type: expression
+    normative_status: preferred
+    designation: quantity dimension
+  - type: expression
+    normative_status: preferred
+    designation: dimension
+  domain: section-112-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-01-01T00:00:00+00:00'
+  review_decision_date: '2019-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-01-01T00:00:00+00:00'
+id: 4536721d-7230-5fb3-a276-49a64b84665a
+classification: preferred

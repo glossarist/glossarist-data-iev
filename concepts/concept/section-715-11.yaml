@@ -1,0 +1,30 @@
+---
+data:
+  identifier: section-715-11
+  localized_concepts:
+    eng: 75b3488f-4278-52dc-add7-b6c8c43e0509
+  domains:
+  - concept_id: area-715
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-715-11
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-715
+  type: broader
+  ref:
+    source: IEV
+    id: area-715
+- content: 715-11-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 715-11-01
+- content: 715-11-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 715-11-02
+schema_version: '3'
+id: section-715-11

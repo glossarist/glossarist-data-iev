@@ -1,0 +1,65 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: "{{fundamental physical constant, urn:iec:std:iec:60050-112-03-09}} determining
+      the general properties of {{space-time, urn:iec:std:iec:60050-113-01-01}} and
+      affecting all particles and fields, whose value is set to 299 792 458 {{m, urn:iec:std:iec:60050-112-02-05}}/{{s,
+      urn:iec:std:iec:60050-112-02-04}}"
+  examples: []
+  id: 113-01-34
+  notes:
+  - content: Any electromagnetic wave or gravitational wave propagates in vacuum with
+      the speed of light in vacuum. The speed of light in vacuum is also the upper
+      limit of speed for any transfer of matter, energy, or information.
+  - content: The speed of light in vacuum is used in the {{SI, urn:iec:std:iec:60050-112-02-02}}
+      to define the {{metre, urn:iec:std:iec:60050-112-02-05}}.
+  - content: "The term “luminal speed\" is used in relativity theory. Related concepts
+      are \"{{subluminal speed, urn:iec:std:iec:60050-113-01-37}}\" and \"{{superluminal
+      speed, urn:iec:std:iec:60050-113-01-36}}\".\r\nThe term \"speed of light\" shall
+      be used only when the context indicates without ambiguity that the full term
+      “speed of light in vacuum” is meant, because \"speed of light\" is also observed
+      in matter where its value is always less than that in vacuum. \r\nThe term “light
+      speed” is deprecated because it is not a short form of the preferred term."
+  sources:
+  - origin:
+      ref: BBIPM SI Brochure TEMP DISABLED DUE TO RELATON
+      locality:
+        type: clause
+        reference_from: '2.2'
+      original: SI Brochure, 9th edition, 2019, 2.2, modified – The information provided
+        in the SI Brochure has been drafted as a definition to comply with the IEV
+        rules.
+    status: modified
+    type: authoritative
+    modification: The information provided in the SI Brochure has been drafted as
+      a definition to comply with the IEV rules.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: speed of light in vacuum
+  - type: expression
+    normative_status: admitted
+    designation: luminal speed
+  - type: expression
+    normative_status: admitted
+    designation: speed of light
+  - type: expression
+    normative_status: deprecated
+    designation: light speed
+  - type: symbol
+    designation: stem:[c]~0~
+    international: true
+  domain: section-113-01
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: fe80b895-b283-5a43-9167-c69b4ad03eef
+classification: admitted

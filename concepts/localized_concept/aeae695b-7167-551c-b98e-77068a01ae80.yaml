@@ -1,0 +1,63 @@
+---
+data:
+  dates:
+  - date: '2011-01-01T00:00:00+00:00'
+    type: accepted
+  - date: '2011-01-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: maximum de la valeur absolue des parties négatives de la forme d’onde
+      de la pression acoustique instantanée dans un champ acoustique ou dans un plan
+      spécifié pendant une période acoustique de répétition des impulsions
+  examples: []
+  id: 802-01-25
+  notes:
+  - content: La pression acoustique de raréfaction de crête est exprimée en valeur
+      numérique positive.
+  sources:
+  - origin:
+      ref: IEC 62127-1
+      locality:
+        type: clause
+        reference_from: '3.44'
+      original: définition 3.44 de la CEI 62127-1 MOD
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: pression acoustique de raréfaction de crête
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  - type: expression
+    normative_status: preferred
+    designation: pression acoustique négative de crête
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-802-01
+  language_code: fra
+  entry_status: valid
+  review_date: '2011-01-01T00:00:00+00:00'
+  review_decision_date: '2011-01-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2011-01-01T00:00:00+00:00'
+id: aeae695b-7167-551c-b98e-77068a01ae80
+classification: preferred

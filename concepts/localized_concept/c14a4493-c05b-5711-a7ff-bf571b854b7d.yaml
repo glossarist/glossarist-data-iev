@@ -1,0 +1,51 @@
+---
+data:
+  definition:
+  - content: grandeur qui détermine la puissance géométrique maximale de rayonnement
+      transmis, reçu ou émis selon une configuration optique passive monopasse
+  examples: []
+  id: 845-21-047
+  notes:
+  - content: "Définissant un rayon comme l'échange de rayonnements confinés entre
+      deux éléments de surface sous-tendus dstem:[A] et dstem:[A]′ à une distance
+      stem:[l], avec les vecteurs normaux stem:[n_(A)] et stem:[n^(prime)_(A)] et
+      les angles d'orientation stem:[θ] et stem:[θ]′ par rapport à un axe optique
+      commun, l'étendue géométrique est égale à l'action de tous les rayons possibles
+      entre les deux surfaces stem:[A] et stem:[A]′. Ce phénomène est exprimé par
+      l'intégrale étendue au produit de tous les éléments de surface projetée dstem:[A] cos stem:[θ]
+      et dstem:[A]′ cos stem:[θ] ′ pondérés par la distance au carré afin de tenir
+      compte de la dimension apparente des surfaces correspondantes:stem:[G = frac(1)(l^(2))
+      int_(A) int_(A^(prime)) \"d\" A costheta * \"d\" A^(prime) costheta^(prime)
+      = int \"d\" G]\r\navec\r\nstem:[\"d\" G \" \" = frac(\"d\" A costheta * \"d\"
+      A^(prime) costheta^(prime))(l^(2)) = \"d\" A cos Theta * \"d\" Omega = \"d\"
+      A^(prime) cos theta^(prime) * \"d\" Omega^(prime) = \"d\" G^(prime)]où dstem:[Ω]
+      et dstem:[Ω]′ sont les éléments des angles solides qui définissent l'étendue
+      angulaire de dstem:[A]′ à partir de dstem:[A] et de dstem:[A] à partir de dstem:[A]′
+      respectivement."
+  - content: '"Monopasse" signifie que le terme s''applique uniquement au transfert
+      de rayonnement dans une direction définie unique. Il ne s''applique pas à des
+      dispositifs tels que les cavités Fabry–Pérot.'
+  - content: Voir aussi "{{étendue optique, urn:iec:std:iec:60050-845-21-048}}".
+  - content: L'étendue géométrique est exprimée en mètre carré multipliée par le stéradian
+      (m^2^·sr).
+  - content: Cet article était numéroté 845-01-33 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: étendue géométrique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-845-21
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: c14a4493-c05b-5711-a7ff-bf571b854b7d

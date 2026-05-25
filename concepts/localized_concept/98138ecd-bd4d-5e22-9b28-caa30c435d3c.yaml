@@ -1,0 +1,44 @@
+---
+data:
+  dates:
+  - date: '2019-05-01T00:00:00+00:00'
+    type: accepted
+  - date: '2019-05-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: pole without an overcurrent release, but otherwise generally capable
+      of the same performance as a protected pole of the same residual current operated
+      circuit-breaker with integral overcurrent protection
+  examples: []
+  id: 442-05-41
+  notes:
+  - content: The unprotected pole can be of the same construction as the protected
+      pole(s), or of a particular construction.
+  - content: If the short-circuit making and breaking capacity of the unprotected
+      pole is different from that of the protected pole(s), this should be indicated
+      by the manufacturer.
+  sources:
+  - origin:
+      ref: IEC 62873-2:2016
+      locality:
+        type: clause
+        reference_from: 3.3.21.2
+      original: IEC 62873-2:2016, 3.3.21.2
+    status: identical
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: overcurrent unprotected pole
+  - type: expression
+    normative_status: preferred
+    designation: unprotected pole
+  domain: section-442-05
+  language_code: eng
+  entry_status: valid
+  review_date: '2019-05-01T00:00:00+00:00'
+  review_decision_date: '2019-05-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2019-05-01T00:00:00+00:00'
+id: 98138ecd-bd4d-5e22-9b28-caa30c435d3c
+classification: preferred

@@ -1,0 +1,43 @@
+---
+data:
+  definition:
+  - content: quotient de la moyenne des luminances lumineuses mesurées sous des angles
+      de 20° et 70° (0,35 rad et 1,22 rad), par la luminance mesurée sous un angle
+      de 5° (0,09 rad) par rapport à la perpendiculaire, la surface prise en considération
+      étant éclairée en incidence normalestem:[sigma = frac(L ( 20 "P{degree}" ) +
+      L ( 70 "P{degree}" ))(2 " " L ( 5 "P{degree}" ))]
+  examples: []
+  id: 845-24-096
+  notes:
+  - content: Le facteur de diffusion sert à fournir une indication sur la répartition
+      spatiale du flux diffusé. Il est égal à 1 pour chaque diffuseur isotrope, quelle
+      que soit la valeur du facteur de réflexion ou de transmission diffuse.
+  - content: Cette façon de définir le facteur de diffusion ne peut être appliquée
+      qu'aux matériaux dont l'indicatrice de diffusion ne diffère guère de celle des
+      verres opales usuels.
+  - content: Pour caractériser l'indicatrice de diffusion, il est recommandé d'utiliser
+      le facteur de diffusion stem:[σ], pour des matériaux fortement diffusants, et
+      l'angle de demi-valeur, stem:[γ], pour les matériaux faiblement diffusants.
+  - content: L'unité de facteur de diffusion est un.
+  - content: Cet article était numéroté 845-04-89 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de diffusion
+    usage_info: d'une surface diffusante, par réflexion ou par transmission
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 179bc58b-686c-5c17-9d91-adf6e1941152

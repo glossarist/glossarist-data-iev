@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 691-11-12
+  localized_concepts:
+    ara: 8c159d32-92fc-51d1-8597-9d386920fba8
+    eng: 7db85756-2363-56be-a20d-454fcbdb4b81
+    spa: 056c646f-57ba-54c0-9037-4bbae7d9f5a3
+    fra: 55f5e1e0-5b73-5e98-a413-733699ec2065
+    ita: '0896eb55-b946-5966-a37a-8fa545cd2377'
+    jpn: 42974ca8-f865-585d-9414-945ce29c0517
+    kor: 80f25845-578d-5883-a625-91edfde4899f
+    mon: 272f04b3-9cc8-5450-a1ef-71f0f273bbe5
+    pol: 05ee5c40-8a38-5ed3-926d-21ffaa851d9c
+    por: 55870b96-d528-502f-902c-fe48a78d9bd1
+    swe: ac26a102-4118-50fa-85f2-3f1a7855668e
+  domains:
+  - concept_id: area-691
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-691-11
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-691-11
+  type: broader
+  ref:
+    source: IEV
+    id: section-691-11
+status: valid
+schema_version: '3'
+id: 691-11-12

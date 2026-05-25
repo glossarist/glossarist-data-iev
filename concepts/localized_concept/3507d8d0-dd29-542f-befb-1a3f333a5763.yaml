@@ -1,0 +1,50 @@
+---
+data:
+  dates:
+  - date: '2020-12-01T00:00:00+00:00'
+    type: accepted
+  - date: '2020-12-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: quotient of the radiance of a surface element in a specified direction,
+      stem:[L]~e,n~, and the radiance of the perfect reflecting diffuser or perfect
+      transmitting diffuser identically irradiated and viewed, stem:[L]~e,d~stem:[beta_("e")
+      = frac(L_("e" ",n"))(L_("e" ",d"))]
+  examples: []
+  id: 845-24-075
+  notes:
+  - content: The definition holds for a surface element of a non-self-radiating medium,
+      in a specified direction and under specified conditions of irradiation.
+  - content: Radiance factor is equivalent to reflectance factor or luminance factor
+      when the cone angle is infinitely small, and is equivalent to reflectance when
+      the cone angle is 2π sr. These quantities are also defined spectrally and called
+      spectral radiance factor, stem:[β](stem:[λ]), and spectral reflectance factor,
+      stem:[R](stem:[λ]).
+  - content: The ideal isotropic (Lambertian) diffuser with reflectance or transmittance
+      equal to 1 is called a "perfect diffuser".
+  - content: 'For photoluminescent media, the radiance factor contains two components,
+      the reflected radiance factor, stem:[β]~R~, and the luminescent radiance factor,
+      stem:[β]~L.~ The sum of reflected radiance factor and luminescent radiance factor
+      is the total radiance factor, stem:[β]~T~: stem:[β]~T~ = stem:[β]~R~ + stem:[β]~L~.The
+      subscript R is used here for the reflected radiance factor because it is more
+      intuitive than the traditional S and avoids confusion with the use of S to denote
+      a state of polarization.'
+  - content: The radiance factor has unit one.
+  - content: This entry was numbered 845-04-68 in IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: radiance factor
+  - type: symbol
+    designation: |-
+      stem:[β]~e~
+      stem:[β]
+    international: true
+  domain: area-845
+  language_code: eng
+  entry_status: valid
+  review_date: '2020-12-01T00:00:00+00:00'
+  review_decision_date: '2020-12-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2020-12-01T00:00:00+00:00'
+id: 3507d8d0-dd29-542f-befb-1a3f333a5763

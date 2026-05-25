@@ -1,0 +1,35 @@
+---
+data:
+  identifier: 603-02-19
+  localized_concepts:
+    ara: eb45c9b2-dd58-5a9a-8374-9f66406fa26e
+    deu: 65fe83c8-2841-5a27-90d0-0e68fc3aa10d
+    eng: 01b0c6fd-07ed-5964-b598-8dd2b52f236b
+    spa: 403258d3-4d65-5463-b99b-5275d73adab5
+    fin: 17c91ffa-58ea-5749-9497-71c283edfcbc
+    fra: d4b1e70c-8bbf-5706-99db-56b61920637f
+    ita: 143d560a-276f-5404-ac76-bd81844771c6
+    jpn: db478cae-0366-58cf-9780-6be625b73b50
+    kor: c02c8bf4-ba27-5db9-8c34-d8328700d1c5
+    mon: 6a6eeb0b-c15b-53f2-aebc-c3c2a096f340
+    pol: d3e23183-68ba-5750-b65d-d4729c98d011
+    por: 9171589e-68e2-5d7a-8d63-edad05a74fb6
+    slv: a405c0fc-f28f-53e3-862a-73efdfe1671f
+    srp: 94655ca1-8edb-58e9-9d78-c370b54cc21c
+    swe: 96581b46-93c8-566b-9b97-7a55025680f2
+  domains:
+  - concept_id: area-603
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-603-02
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-603-02
+  type: broader
+  ref:
+    source: IEV
+    id: section-603-02
+status: valid
+schema_version: '3'
+id: 603-02-19

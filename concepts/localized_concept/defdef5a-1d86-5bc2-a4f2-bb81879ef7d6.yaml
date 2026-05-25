@@ -1,0 +1,42 @@
+---
+data:
+  definition:
+  - content: température de l'air ou d'un autre milieu, dans l'environnement rapproché
+      du matériel ou du composant
+  examples: []
+  id: 426-04-09
+  notes:
+  - content: Cela ne se réfère pas à la température de tout milieu d'un procédé, à
+      moins que le matériel ou composant ne soit totalement immergé dans le milieu
+      du procédé.
+  - content: Si un {{Matériel Ex, urn:iec:std:iec:60050-426-01-14}} ou un {{Composant
+      Ex, urn:iec:std:iec:60050-426-01-13}} se situe à l'intérieur d'une autre pièce
+      du matériel ou est adjacente à celle-ci, la "température ambiante" est la température
+      de l'air ou d'un autre milieu environnant du Matériel Ex ou du Composant Ex
+      et peut être supérieure à la température de l'air ambiant aux alentours du matériel
+      complet en raison de la chaleur dissipée supplémentaire à l'intérieur du matériel
+      complet.
+  - content: La température ambiante mentionnée dans la série IEC 60079 est uniquement
+      liée à la sécurité vis-à-vis du risque d'explosion et non aux performances du
+      Matériel Ex ou du Composant Ex.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: température ambiante
+    usage_info: atmospheres explosives
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-426-04
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: defdef5a-1d86-5bc2-a4f2-bb81879ef7d6

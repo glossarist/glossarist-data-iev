@@ -1,0 +1,51 @@
+---
+data:
+  definition:
+  - content: quotient de la luminance énergétique de l'élément de surface dans une
+      direction spécifiée, stem:[L]~e,n~, par celle d'un diffuseur parfait par réflexion
+      ou par transmission irradié et observé dans les mêmes conditions, stem:[L]~e,d~stem:[beta_("e")
+      = frac(L_("e" ",n"))(L_("e" ",d"))]
+  examples: []
+  id: 845-24-075
+  notes:
+  - content: La définition s'applique à un élément de surface d'un milieu non rayonnant
+      par lui-même, dans une direction spécifiée et dans les conditions d'irradiation
+      spécifiées.
+  - content: Le facteur de luminance énergétique est équivalent au facteur moyen de
+      luminance ou au facteur de luminance lorsque l'angle conique est infiniment
+      petit, et est équivalent au facteur de réflexion lorsque ce même angle est de
+      2π sr. Ces grandeurs sont également définies spectralement et appelées facteur
+      de luminance énergétique spectrale, stem:[β](stem:[λ]), et facteur moyen de
+      luminance spectrale, stem:[R](stem:[λ]).
+  - content: Le diffuseur (de Lambert) isotrope idéal avec un facteur de réflexion
+      ou de transmission égal à 1 est appelé "diffuseur parfait".
+  - content: 'Dans le cas de milieux photoluminescents, le facteur de luminance énergétique
+      contient deux composantes, le facteur de luminance énergétique par réflexion,
+      stem:[β]~R~, et le facteur de luminance énergétique par luminescence, stem:[β]~L.~
+      La somme de ces deux facteurs correspond au facteur total de luminance énergétique,
+      stem:[β]~T~: stem:[β]~T~ = stem:[β]~R~ + stem:[β]~L~.L''indice R est utilisé
+      ici pour le facteur de luminance énergétique par réflexion parce qu''il est
+      plus intuitif que l''indice S conventionnel et évite toute confusion de l''utilisation
+      de la lettre S pour désigner un état de polarisation.'
+  - content: L'unité de facteur de luminance énergétique est un.
+  - content: Cet article était numéroté 845-04-68 dans l'IEC 60050-845:1987.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: facteur de luminance énergétique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-845
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 916e95a1-8857-5801-982e-1bfbe675c71f

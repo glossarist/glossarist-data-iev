@@ -1,0 +1,67 @@
+---
+data:
+  definition:
+  - content: 'scalaire, noté stem:[U * V^(*)], attribué à tout couple de vecteurs
+      *stem:[U]* et *stem:[V]* d''un espace vectoriel complexe par une fonction donnée,
+      avec les propriétés suivantes: *     V⋅ U *  =  (U⋅ V *  ) *   MathType@MTEF@5@5@+=
+      feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe
+      aGqipG0dh9qqWrVepG0dbbL8F4rqqrVepeea0xe9LqFf0xc9q8qqaq Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe
+      WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahAfacqGHflY1ca WHvbWaaWbaaSqabeaacaGGQaaaaOGaeyypa0JaaiikaiaahwfacqGH
+      flY1caWHwbWaaWbaaSqabeaacaGGQaaaaOGaaiykamaaCaaaleqaba GaaiOkaaaaaaa@4261@   ,*     (α U)⋅
+      V *  =α (U⋅ V *  ) MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqipG0dh9qqWrVepG0dbbL8F4rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaacIcacqaHXoqyca
+      aMc8UaaCyvaiaacMcacqGHflY1caWHwbWaaWbaaSqabeaacaGGQaaa aOGaeyypa0JaeqySdeMaaGPaVlaacIcacaWHvbGaeyyXICTaaCOvam
+      aaCaaaleqabaGaaiOkaaaakiaacMcaaaa@4933@    et    U⋅  (βV) *  = β *  (U⋅ V *  )
+      MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqipG0dh9qqWrVepG0dbbL8F4rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahwfacqGHflY1ca
+      GGOaGaeqOSdiMaaCOvaiaacMcadaahaaWcbeqaaiaacQcaaaGccqGH 9aqpcqaHYoGydaahaaWcbeqaaiaacQcaaaGccaGGOaGaaCyvaiabgw
+      SixlaahAfadaahaaWcbeqaaiaacQcaaaGccaGGPaaaaa@4706@    où α et β sont des scalaires
+      complexes, *     (U+V)⋅ W *  =U⋅ W *  + V⋅ W *   MathType@MTEF@5@5@+= feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqipG0dh9qqWrVepG0dbbL8F4rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaacIcacaWHvbGaey
+      4kaSIaaCOvaiaacMcacqGHflY1caWHxbWaaWbaaSqabeaacaGGQaaa aOGaeyypa0JaaCyvaiabgwSixlaahEfadaahaaWcbeqaaiaacQcaaa
+      GccqGHRaWkcaaMe8UaaCOvaiabgwSixlaahEfadaahaaWcbeqaaiaa cQcaaaaaaa@4A9C@    pour
+      tout vecteur W du même espace vectoriel, *     U⋅ U *  &gt;0 MathType@MTEF@5@5@+=
+      feaagKart1ev2aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe
+      aGqipG0dh9qqWrVepG0dbbL8F4rqqrVepeea0xe9LqFf0xc9q8qqaq Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe
+      WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahwfacqGHflY1ca WHvbWaaWbaaSqabeaacaGGQaaaaOGaeyOpa4tcLbuacaaIWaaaaa@3CAB@    pour    U≠0
+      MathType@MTEF@5@5@+= feaagKart1ev2aqatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbbjxAHX
+      garuavP1wzZbItLDhis9wBH5garmWu51MyVXgarqqtubsr4rNCHbGe aGqk0di9Wr=fpeei0di9v8qiW7rqqrVepeea0xe9LqFf0xc9q8qqaq
+      Fn0lXdHiVcFbIOFHK8Feea0dXdar=Jb9hs0dXdHuk9fr=xfr=xfrpe WZqaaeaaciWacmGadaGadeaabaGaaqaaaOqaaiaahwfacqGHGjsUie
+      qajugqbiaa=bdaaaa@3CDC@   , où l''astérisque indique le vecteur conjugué'
+  examples: []
+  id: 102-03-18
+  notes:
+  - content: 'Dans un espace à stem:[n] dimensions muni de vecteurs de base orthonormés,
+      le produit hermitien de deux vecteurs *stem:[U]* et *stem:[V]* est la somme
+      des produits de chaque coordonnée stem:[U_(i)] du vecteur *stem:[U]* par le
+      conjugué de la coordonnée correspondante stem:[V_(i)] du vecteur *stem:[V]*:'
+  - content: Pour deux vecteurs complexes ou deux grandeurs vectorielles complexes
+      *stem:[U]* et *stem:[V]*, on peut selon l'application utiliser soit le produit
+      hermitien stem:[U * V^(*)], soit un produit hermitien conjugué stem:[U^(*) *
+      V]. Le produit hermitien stem:[U * U^(*)] ou stem:[U^(*) * U] est respectivement
+      un scalaire réel ou une grandeur scalaire réelle.
+  - content: Le produit hermitien est indiqué par un point à mi-hauteur (·) entre
+      les deux symboles représentant l'un des vecteurs et le conjugué de l'autre.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: produit hermitien
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-102-03
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 64a90e1d-c167-5a27-836d-6716c7414ee0

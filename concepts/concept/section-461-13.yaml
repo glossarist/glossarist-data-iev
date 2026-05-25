@@ -1,0 +1,35 @@
+---
+data:
+  identifier: section-461-13
+  localized_concepts:
+    eng: f685d9b5-a1f3-5d90-93fc-b7456fca604f
+  domains:
+  - concept_id: area-461
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-461-13
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: area-461
+  type: broader
+  ref:
+    source: IEV
+    id: area-461
+- content: 461-13-01
+  type: narrower
+  ref:
+    source: IEV
+    id: 461-13-01
+- content: 461-13-02
+  type: narrower
+  ref:
+    source: IEV
+    id: 461-13-02
+- content: 461-13-03
+  type: narrower
+  ref:
+    source: IEV
+    id: 461-13-03
+schema_version: '3'
+id: section-461-13

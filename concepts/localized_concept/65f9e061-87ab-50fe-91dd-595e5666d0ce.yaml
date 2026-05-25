@@ -1,0 +1,43 @@
+---
+data:
+  definition:
+  - content: document qui spécifie les {{exigence, urn:iec:std:iec:60050-901-05-05}}s
+      techniques que doit satisfaire un produit, un processus ou un service
+  examples: []
+  id: 901-02-08
+  notes:
+  - content: Il convient qu'une spécification technique indique, le cas échéant, le(s)
+      mode(s) opératoire(s) permettant de déterminer si les exigences données sont
+      satisfaites.
+  - content: Une spécification technique peut être une {{norme, urn:iec:std:iec:60050-901-02-02}},
+      une partie de norme ou être indépendante d'une norme.
+  sources:
+  - origin:
+      ref: ISO/IEC Guide 2:2004
+      locality:
+        type: clause
+        reference_from: '3.4'
+      original: Guide ISO/CEI 2:2004, 3.4, modifiée – Note 3 à l'article a été supprimé.
+    status: modified
+    type: authoritative
+    modification: Note 3 à l'article a été supprimé.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spécification technique
+    grammar_info:
+    - gender:
+      - f
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: section-901-02
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: 65f9e061-87ab-50fe-91dd-595e5666d0ce

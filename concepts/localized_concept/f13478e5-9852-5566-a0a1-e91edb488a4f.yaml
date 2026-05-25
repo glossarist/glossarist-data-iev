@@ -1,0 +1,33 @@
+---
+data:
+  dates:
+  - date: '2015-11-01T00:00:00+00:00'
+    type: accepted
+  - date: '2015-11-01T00:00:00+00:00'
+    type: amended
+  definition:
+  - content: critical current density obtained by a magnetization measurement using
+      a theoretical model (critical state model)
+  examples: []
+  id: 815-12-09
+  notes:
+  - content: If a material is non-uniform or anisotropic, stem:[J]~cm~ differs from
+      the transport critical current density, stem:[J]~ct~.
+  - content: stem:[J]~cm~ takes sometimes smaller values than stem:[J]~ct~ because
+      of the different electric field strength due to the flux creep especially for
+      high temperature superconductors.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: magnetization critical current density
+  - type: symbol
+    designation: stem:[J]~cm~
+    international: true
+  domain: area-815
+  language_code: eng
+  entry_status: valid
+  review_date: '2015-11-01T00:00:00+00:00'
+  review_decision_date: '2015-11-01T00:00:00+00:00'
+  review_decision_event: published
+date_accepted: '2015-11-01T00:00:00+00:00'
+id: f13478e5-9852-5566-a0a1-e91edb488a4f

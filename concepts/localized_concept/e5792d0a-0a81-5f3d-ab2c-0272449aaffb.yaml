@@ -1,0 +1,41 @@
+---
+data:
+  definition:
+  - content: enroulement qui, en service, reçoit du réseau d'alimentation la puissance
+      active
+  examples: []
+  id: 811-26-09
+  notes:
+  - content: En traction électrique, lorsque cette puissance est fournie par la ligne
+      de contact, cet enroulement est également appelé "enroulement haute-tension"
+      .
+  sources:
+  - origin:
+      ref: IEC 60050-421:1990
+      locality:
+        type: clause
+        reference_from: 421-03-06
+      original: IEC 60050-421:1990, 421-03-06, modifié
+    status: modified
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: enroulement primaire
+    usage_info: en traction électrique
+    grammar_info:
+    - gender:
+      - m
+      number:
+      - singular
+      participle: false
+      adj: false
+      verb: false
+      adverb: false
+      noun: false
+      preposition: false
+  domain: area-811
+  language_code: fra
+  entry_status: valid
+  review_decision_event: published
+id: e5792d0a-0a81-5f3d-ab2c-0272449aaffb

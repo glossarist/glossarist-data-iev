@@ -1,0 +1,31 @@
+---
+data:
+  identifier: 192-02-03
+  localized_concepts:
+    ara: d0d9490a-6ed8-5c9d-b1a0-0650b4586d59
+    ces: 043c8108-a328-52df-ad2e-424f594a0c13
+    deu: 8d48283e-b23a-5513-9cd3-41a1f786f70d
+    eng: a5d8aeab-d251-58ab-a1a8-2a401c6e44fa
+    spa: ba702717-a9a7-58ee-900b-b2b989d8df1e
+    fra: 18bf27da-a5e5-5b3c-8b40-f22988a65008
+    jpn: 5c48a4a9-806b-5652-8cca-fde780bfd658
+    kor: 4e5ee4dc-49a3-54b8-b242-c2918471e96b
+    pol: 28820760-0cab-522e-ab12-f60b19e194bd
+    por: 64bd2f65-edad-5d22-b4cf-097f2c2b4c6a
+    zho: 9088a558-676f-5a7a-892d-107d94970626
+  domains:
+  - concept_id: area-192
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+  - concept_id: section-192-02
+    source: urn:iec:std:iec:60050
+    ref_type: domain
+related:
+- content: section-192-02
+  type: broader
+  ref:
+    source: IEV
+    id: section-192-02
+status: valid
+schema_version: '3'
+id: 192-02-03
